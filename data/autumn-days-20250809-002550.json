@@ -1,0 +1,16 @@
+{
+  "title": "Autumn Days",
+  "text": "The days grow colder and the nights grow longer.\nLeaves change their colour — from green to gold, orange, and red.\nThe wind blows softly through the trees, making the branches sway.\nChildren play outside, kicking leaves high into the air.\nSometimes a cloud hides the pale sun, and rain begins to fall.\nIn the evening, families stay inside, drinking hot cocoa and telling stories by the fire.\nAutumn is a time of change — a bright and cosy season before the snow.",
+  "fontFamily": "'UnifrakturCook',serif",
+  "fontSize": 22,
+  "textColor": "#e9f2e3",
+  "titleColor": "#d3b936",
+  "highlightColor": "#d3b936",
+  "highlightOpacity": 1,
+  "highlightStyle": "text",
+  "bgColor": "#164628",
+  "bgOpacity": 0.85,
+  "border": "none",
+  "borderColor": "",
+  "borderRadius": 18
+}
