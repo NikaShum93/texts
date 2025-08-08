@@ -1,0 +1,16 @@
+{
+  "title": "Волшебная полынь",
+  "text": "В тиши мшистого леса шуршат страницы невидимой книги. С каждым вдохом воздух наполняется ароматом полыни, а буквы тянутся к свету — как светлячки к луне.",
+  "fontFamily": "system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif",
+  "fontSize": 28,
+  "textColor": "#e9f2e3",
+  "titleColor": "#34d399",
+  "highlightColor": "#34d399",
+  "highlightOpacity": 1,
+  "highlightStyle": "background",
+  "bgColor": "#0c1a14",
+  "bgOpacity": 0.25,
+  "border": "solid",
+  "borderColor": "#6ee7b7",
+  "borderRadius": 18
+}
