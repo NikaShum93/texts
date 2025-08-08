@@ -1,0 +1,16 @@
+{
+  "title": "Волшебная осень",
+  "text": "Осень — время волшебства и чудес. Листья меняют цвет, а воздух становится прозрачным и свежим. В этот период природа будто бы замирает в ожидании новых чудес.",
+  "fontFamily": "'Inter', system-ui, Arial, sans-serif",
+  "fontSize": 28,
+  "textColor": "#e9f2e3",
+  "titleColor": "#34d399",
+  "highlightColor": "#34d399",
+  "highlightOpacity": 1,
+  "highlightStyle": "background",
+  "bgColor": "#0c1a14",
+  "bgOpacity": 0.25,
+  "border": "none",
+  "borderColor": "",
+  "borderRadius": 18
+}
