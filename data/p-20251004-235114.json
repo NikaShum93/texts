@@ -1,0 +1,40 @@
+{
+  "language": "ru",
+  "font": "Neucha",
+  "fontSize": 40,
+  "textColor": "#342d2d",
+  "speed": 5,
+  "style": {
+    "shape": "rounded",
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://static.vecteezy.com/system/resources/previews/026/774/603/non_2x/cloud-with-ai-generated-free-png.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1
+  },
+  "cursor": "",
+  "randomLevels": false,
+  "levels": [
+    {
+      "target": "p",
+      "correct": [
+        "pin",
+        "pot",
+        "puppy",
+        "port",
+        "pull"
+      ],
+      "wrong": [
+        "dog",
+        "apple",
+        "ananas"
+      ],
+      "timer": 30
+    }
+  ]
+}
