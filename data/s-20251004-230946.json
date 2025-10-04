@@ -1,0 +1,43 @@
+{
+  "type": "falling",
+  "data": {
+    "language": "en",
+    "font": "Roboto",
+    "fontSize": 24,
+    "textColor": "#ffffff",
+    "speed": 5,
+    "style": {
+      "shape": "rect",
+      "bgMode": "color",
+      "bgColor": "#1a1a1a",
+      "bgImage": "",
+      "borderOn": true,
+      "borderColor": "#ffffff",
+      "borderWidth": 1,
+      "shadow": true,
+      "glow": false,
+      "glowColor": "#00f0ff",
+      "fx3d": false,
+      "opacity": 1
+    },
+    "cursor": "",
+    "randomLevels": false,
+    "levels": [
+      {
+        "target": "s",
+        "correct": [
+          "sun",
+          "some",
+          "see",
+          "saw"
+        ],
+        "wrong": [
+          "dog",
+          "cat",
+          "apple"
+        ],
+        "timer": 30
+      }
+    ]
+  }
+}
