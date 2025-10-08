@@ -1,0 +1,58 @@
+{
+  "language": "math",
+  "font": "Latin Modern Math",
+  "fontSize": 24,
+  "textColor": "#000000",
+  "speed": 5,
+  "style": {
+    "shape": "star",
+    "pad": 90,
+    "bgColor": "#b8b100",
+    "bgImage": "",
+    "borderOn": true,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": true,
+    "glow": true,
+    "glowColor": "#fbff00",
+    "fx3d": true,
+    "opacity": 1,
+    "uiColor": "#ff8800"
+  },
+  "cursor": "https://wallpapers.com/images/hd/witchcraft-wand-png-ppg42-nvnm3tnr0esdzoge.png",
+  "randomLevels": false,
+  "levels": [
+    {
+      "target": "\\frac{3}{4}",
+      "correct": [
+        "\\frac{3}{4}",
+        "\\frac{6}{8}",
+        "\\frac{12}{16}",
+        "\\frac{15}{20}"
+      ],
+      "wrong": [
+        "\\frac{1}{2}",
+        "\\frac{1}{3}",
+        "\\frac{3}{6}",
+        "\\frac{10}{15}"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "\\frac{1}{2}",
+      "correct": [
+        "\\frac{1}{2}",
+        "\\frac{1}{3}",
+        "\\frac{3}{6}",
+        "\\frac{10}{15}"
+      ],
+      "wrong": [
+        "\\frac{3}{4}",
+        "\\frac{6}{8}",
+        "\\frac{12}{16}",
+        "\\frac{15}{20}"
+      ],
+      "timer": 30
+    }
+  ]
+}
