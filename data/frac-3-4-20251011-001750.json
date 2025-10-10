@@ -1,0 +1,42 @@
+{
+  "language": "math",
+  "font": "PT Sans",
+  "fontSize": 35,
+  "textColor": "#000000",
+  "speed": 1,
+  "style": {
+    "shape": "rect",
+    "pad": 120,
+    "bgColor": "#ffae00",
+    "bgImage": "",
+    "borderOn": true,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": true,
+    "glow": true,
+    "glowColor": "#000000",
+    "fx3d": true,
+    "opacity": 1,
+    "uiColor": "#ff8800"
+  },
+  "cursor": "https://wallpapers.com/images/hd/witchcraft-wand-png-ppg42-nvnm3tnr0esdzoge.png",
+  "randomLevels": false,
+  "levels": [
+    {
+      "target": "\\frac{3}{4}",
+      "correct": [
+        "https://wallpapers.com/images/hd/witchcraft-wand-png-ppg42-nvnm3tnr0esdzoge.png",
+        "\\frac{6}{8}",
+        "\\frac{12}{16}",
+        "\\frac{15}{20}"
+      ],
+      "wrong": [
+        "\\frac{1}{2}",
+        "\\frac{1}{3}",
+        "\\frac{3}{6}",
+        "\\frac{10}{15}"
+      ],
+      "timer": 30
+    }
+  ]
+}
