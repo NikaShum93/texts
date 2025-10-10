@@ -16,7 +16,7 @@
     "glow": false,
     "glowColor": "#00f0ff",
     "fx3d": false,
-    "opacity": 0,
+    "opacity": 1,
     "uiColor": "#44ff00"
   },
   "cursor": "",
