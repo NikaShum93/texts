@@ -1,0 +1,44 @@
+{
+  "language": "en",
+  "font": "Special Elite",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "style": {
+    "shape": "circle",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://media.tenor.com/IEqPAO8twH0AAAAi/1123.gif",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1
+  },
+  "cursor": "",
+  "randomLevels": false,
+  "finalFeedback": "Well done! The code is 2233",
+  "levels": [
+    {
+      "target": "A",
+      "correct": [
+        "apple",
+        "angry",
+        "ant",
+        "arrow",
+        "at"
+      ],
+      "wrong": [
+        "dog",
+        "cat",
+        "see",
+        "saw",
+        "eat"
+      ],
+      "timer": 30
+    }
+  ]
+}
