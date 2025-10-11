@@ -1,0 +1,82 @@
+{
+  "language": "math",
+  "font": "Latin Modern Math",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 2,
+  "style": {
+    "shape": "rect",
+    "pad": 41,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://static.vecteezy.com/system/resources/previews/035/162/170/non_2x/ai-generated-leaves-autumn-mapple-free-png.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1
+  },
+  "cursor": "",
+  "randomLevels": false,
+  "finalFeedback": "Оу, а ты шаришь за дроби!",
+  "levels": [
+    {
+      "target": "\\frac{1}{2}",
+      "correct": [
+        "\\frac{1}{2}",
+        "\\frac{2}{4}",
+        "\\frac{3}{6}",
+        "\\frac{4}{8}",
+        "\\frac{5}{10}",
+        "\\frac{6}{12}",
+        "\\frac{7}{14}",
+        "\\frac{8}{16}",
+        "\\frac{9}{18}",
+        "\\frac{10}{20}"
+      ],
+      "wrong": [
+        "\\frac{2}{3}",
+        "\\frac{3}{4}",
+        "\\frac{3}{5}",
+        "\\frac{5}{8}",
+        "\\frac{7}{9}",
+        "\\frac{4}{7}",
+        "\\frac{6}{11}",
+        "\\frac{8}{15}",
+        "\\frac{9}{17}",
+        "\\frac{10}{19}"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "\\frac{3}{4}",
+      "correct": [
+        "\\frac{3}{4}",
+        "\\frac{6}{8}",
+        "\\frac{9}{12}",
+        "\\frac{12}{16}",
+        "\\frac{15}{20}",
+        "\\frac{18}{24}",
+        "\\frac{21}{28}",
+        "\\frac{24}{32}",
+        "\\frac{27}{36}",
+        "\\frac{30}{40}"
+      ],
+      "wrong": [
+        "\\frac{2}{3}",
+        "\\frac{4}{5}",
+        "\\frac{5}{6}",
+        "\\frac{7}{9}",
+        "\\frac{8}{11}",
+        "\\frac{10}{13}",
+        "\\frac{11}{15}",
+        "\\frac{13}{18}",
+        "\\frac{14}{19}",
+        "\\frac{17}{25}"
+      ],
+      "timer": 30
+    }
+  ]
+}
