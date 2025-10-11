@@ -1,0 +1,41 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "style": {
+    "shape": "rect",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1
+  },
+  "cursor": "",
+  "randomLevels": false,
+  "finalFeedback": "Wow! You know a lot!",
+  "levels": [
+    {
+      "target": "Animals",
+      "correct": [
+        "https://media.tenor.com/6B8Lk23oA7UAAAAi/rhino.gif",
+        "https://media.tenor.com/Mmj5n99nfy0AAAAi/llaa-llamajnehe.gif",
+        "https://media.tenor.com/uSp3nKEE8G0AAAAi/zebar.gif",
+        "https://media.tenor.com/f46vFpj8TL0AAAAi/sheep-run.gif"
+      ],
+      "wrong": [
+        "https://media.tenor.com/aZcWz_p82KIAAAAi/fruits.gif",
+        "https://media.tenor.com/4kIzNQgB0l8AAAAi/fruits.gif",
+        "https://media.tenor.com/ImlFLZ0ecgUAAAAi/grapes-food.gif"
+      ],
+      "timer": 30
+    }
+  ]
+}
