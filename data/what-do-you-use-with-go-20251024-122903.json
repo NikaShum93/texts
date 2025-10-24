@@ -1,0 +1,114 @@
+{
+  "language": "en",
+  "font": "Lobster",
+  "fontSize": 36,
+  "textColor": "#ffffff",
+  "speed": 1,
+  "style": {
+    "shape": "rect",
+    "pad": 32,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/64233afb55129a0017751c8e/441417f7-1f1c-4d91-a28a-59efb8f38db3.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "uiColor": "#ffd700"
+  },
+  "cursor": "",
+  "randomLevels": false,
+  "finalFeedback": "Wow! Are you the best English learner? Because I think you are!",
+  "levels": [
+    {
+      "target": "What do you use with \"go\"?",
+      "correct": [
+        "fishing",
+        "shopping",
+        "swimming",
+        "camping",
+        "running",
+        "skiing",
+        "dancing"
+      ],
+      "wrong": [
+        "a bike",
+        "a horse",
+        "a scooter",
+        "a game",
+        "a race",
+        "a competition",
+        "swim",
+        "read",
+        "write"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "What do you use with \"ride\"?",
+      "correct": [
+        "a bike",
+        "a horse",
+        "a scooter",
+        "a skateboard",
+        "a motorcycle",
+        "a bus"
+      ],
+      "wrong": [
+        "a game",
+        "a race",
+        "a competition",
+        "running",
+        "skiing",
+        "dancing"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "What do you use with \"win\"?",
+      "correct": [
+        "a game",
+        "a race",
+        "a competition",
+        "a prize",
+        "a medal",
+        "a match"
+      ],
+      "wrong": [
+        "swim",
+        "read",
+        "write",
+        "running",
+        "skiing",
+        "dancing"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "What do you use with \"learn to\"?",
+      "correct": [
+        "swim",
+        "read",
+        "write",
+        "sing",
+        "dance",
+        "cook",
+        "play the guitar",
+        "speak English"
+      ],
+      "wrong": [
+        "fishing",
+        "shopping",
+        "swimming",
+        "camping",
+        "running",
+        "skiing",
+        "dancing"
+      ],
+      "timer": 30
+    }
+  ]
+}
