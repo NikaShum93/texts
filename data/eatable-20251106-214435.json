@@ -1,0 +1,47 @@
+{
+  "language": "en",
+  "font": "Poppins",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 7,
+  "style": {
+    "shape": "rounded",
+    "pad": 100,
+    "bgColor": "#37160b",
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 5,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 0
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Eatable",
+    "btnText": "Start"
+  },
+  "direction": "down",
+  "finalFeedback": "Well done!",
+  "levels": [
+    {
+      "target": "Eatable",
+      "correct": [
+        "https://media.tenor.com/b8UOEVNSD1cAAAAi/sushi-aesthetic.gif",
+        "https://media.tenor.com/IUArLbjmacgAAAAi/french-fries-fries.gif",
+        "https://media.tenor.com/Xvvxd0NBtboAAAAi/foodpanda-food.gif",
+        "https://media.tenor.com/qso6kJ5J3Y4AAAAi/spinning-sussy-burger.gif",
+        "https://media.tenor.com/LtaH0AouMOsAAAAi/pizza.gif",
+        "https://media.tenor.com/zU7eLys4QSQAAAAi/leftovers-green-living.gif"
+      ],
+      "wrong": [
+        "https://media.tenor.com/6wlWMGRvytEAAAAi/socks-sock.gif",
+        "https://media.tenor.com/KwH4y0yi97wAAAAi/soccer-soccer-ball.gif",
+        "https://media.tenor.com/qvIV2Q1AG9AAAAAi/hi-poo.gif"
+      ],
+      "timer": 30
+    }
+  ]
+}
