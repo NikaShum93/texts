@@ -1,0 +1,49 @@
+{
+  "language": "en",
+  "font": "Poppins",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "style": {
+    "shape": "rounded",
+    "pad": 100,
+    "bgColor": "#37160b",
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 5,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 0
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Animals",
+    "btnText": "Start"
+  },
+  "direction": "down",
+  "finalFeedback": "Well done!",
+  "levels": [
+    {
+      "target": "animals",
+      "correct": [
+        "https://i.postimg.cc/Kj9JzWYY/12.png",
+        "https://i.postimg.cc/QxyfZvP6/13.png",
+        "https://i.postimg.cc/jdFMYB9g/14.png",
+        "https://i.postimg.cc/PrRSn0cS/15.png",
+        "https://i.postimg.cc/DyMx3RDB/16.png",
+        "https://i.postimg.cc/V6mRFwrz/17.png",
+        "https://i.postimg.cc/ZR4cLmBn/18.png",
+        "https://i.postimg.cc/j5tXhTwj/19.png",
+        "https://i.postimg.cc/zB8jkNbz/20.png",
+        "https://i.postimg.cc/zDdjT9qw/21.png",
+        "https://i.postimg.cc/66H0CDBM/22.png",
+        "https://i.postimg.cc/fWHKY6Mq/23.png"
+      ],
+      "wrong": [],
+      "timer": 30
+    }
+  ]
+}
