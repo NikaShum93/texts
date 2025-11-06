@@ -1,0 +1,64 @@
+{
+  "language": "ru",
+  "font": "Cormorant",
+  "fontSize": 45,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "style": {
+    "shape": "rounded",
+    "pad": 21,
+    "bgColor": "#2c6bc9",
+    "bgImage": "https://i.postimg.cc/CKD1gvCf/Chat-GPT-Image-6-noab-2025-g-12-59-31.png",
+    "borderOn": false,
+    "borderColor": "#bce2f6",
+    "borderWidth": 3,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#e9f1f2",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 170
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Математика",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Молодец!",
+  "levels": [
+    {
+      "target": "4",
+      "correct": [
+        "2+2",
+        "1+3",
+        "3+1",
+        "0+4",
+        "4+0"
+      ],
+      "wrong": [
+        "1+2",
+        "2+1",
+        "1+1"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "6",
+      "correct": [
+        "2+4",
+        "4+2",
+        "6+0",
+        "3+3"
+      ],
+      "wrong": [
+        "2+2",
+        "1+3",
+        "3+1",
+        "0+4",
+        "4+0"
+      ],
+      "timer": 30
+    }
+  ]
+}
