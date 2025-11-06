@@ -1,0 +1,40 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "style": {
+    "shape": "rounded",
+    "pad": 100,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/64233afb55129a0017751c8e/7fb0cdd3-4c34-4be5-86d5-0944380348b1.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "",
+    "btnText": ""
+  },
+  "direction": "down",
+  "finalFeedback": "",
+  "levels": [
+    {
+      "target": "Animals",
+      "correct": [
+        "https://media.tenor.com/b8UOEVNSD1cAAAAi/sushi-aesthetic.gif",
+        "https://media.tenor.com/IUArLbjmacgAAAAi/french-fries-fries.gif",
+        "https://media.tenor.com/Xvvxd0NBtboAAAAi/foodpanda-food.gif"
+      ],
+      "wrong": [],
+      "timer": 30
+    }
+  ]
+}
