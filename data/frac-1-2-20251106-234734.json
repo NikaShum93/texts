@@ -1,0 +1,46 @@
+{
+  "language": "math",
+  "font": "Latin Modern Math",
+  "fontSize": 48,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "style": {
+    "shape": "circle",
+    "pad": 50,
+    "bgColor": "#1a1a1a",
+    "bgImage": "",
+    "borderOn": true,
+    "borderColor": "#f4e0ff",
+    "borderWidth": 1,
+    "shadow": true,
+    "glow": true,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 220
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Дроби",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Киберуспех!",
+  "levels": [
+    {
+      "target": "\\frac{1}{2}",
+      "correct": [
+        "\\frac{2}{4}",
+        "\\frac{3}{6}",
+        "\\frac{4}{8}",
+        "\\frac{6}{12}"
+      ],
+      "wrong": [
+        "\\frac{3}{4}",
+        "\\frac{3}{7}",
+        "\\frac{2}{6}"
+      ],
+      "timer": 30
+    }
+  ]
+}
