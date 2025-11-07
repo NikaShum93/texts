@@ -1,0 +1,107 @@
+{
+  "language": "en",
+  "font": "Montserrat",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 6,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 0,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Transport",
+    "btnText": "Start"
+  },
+  "direction": "up",
+  "finalFeedback": "Good Job!",
+  "levels": [
+    {
+      "target": "the means of transport and name them",
+      "correct": [
+        "https://img.genially.com/664b12ba86e1f9001fcf45d6/a1163312-a56e-4216-876c-0616169435af.png",
+        "https://img.genially.com/664b12ba86e1f9001fcf45d6/e38bbd5b-aa35-43de-a6e4-27668157f197.png",
+        "https://img.genially.com/664b12ba86e1f9001fcf45d6/c964b7fa-265b-4d51-a636-93266ba0fe6a.png",
+        "https://img.genially.com/664b12ba86e1f9001fcf45d6/3da84174-f6d9-4b70-a8fb-e6deba9e3aaa.png",
+        "https://img.genially.com/664b12ba86e1f9001fcf45d6/277bfbbd-ad95-4910-8125-6bc4c9b72641.png",
+        "https://img.genially.com/664b12ba86e1f9001fcf45d6/28b92631-46c2-4fa1-b664-0bec4f9f306a.png",
+        "https://img.genially.com/664b12ba86e1f9001fcf45d6/77e62944-2410-4f23-a029-82377e60b257.png",
+        "https://img.genially.com/664b12ba86e1f9001fcf45d6/77484b79-08c4-49db-8249-8dd7e615c19e.png",
+        "https://img.genially.com/664b12ba86e1f9001fcf45d6/d9773e0c-5545-4d59-ac1f-922f93930703.png",
+        "https://img.genially.com/664b12ba86e1f9001fcf45d6/0e0c93ce-3288-4221-9ad7-659ce0059343.png"
+      ],
+      "wrong": [
+        "https://media.tenor.com/kTNV3dkUzTQAAAAi/alto.gif"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "the means of transport and name them",
+      "correct": [
+        "https://img.genially.com/664b12ba86e1f9001fcf45d6/a1163312-a56e-4216-876c-0616169435af.png",
+        "https://img.genially.com/664b12ba86e1f9001fcf45d6/e38bbd5b-aa35-43de-a6e4-27668157f197.png",
+        "https://img.genially.com/664b12ba86e1f9001fcf45d6/c964b7fa-265b-4d51-a636-93266ba0fe6a.png",
+        "https://img.genially.com/664b12ba86e1f9001fcf45d6/3da84174-f6d9-4b70-a8fb-e6deba9e3aaa.png",
+        "https://img.genially.com/664b12ba86e1f9001fcf45d6/277bfbbd-ad95-4910-8125-6bc4c9b72641.png",
+        "https://img.genially.com/664b12ba86e1f9001fcf45d6/28b92631-46c2-4fa1-b664-0bec4f9f306a.png",
+        "https://img.genially.com/664b12ba86e1f9001fcf45d6/77e62944-2410-4f23-a029-82377e60b257.png",
+        "https://img.genially.com/664b12ba86e1f9001fcf45d6/77484b79-08c4-49db-8249-8dd7e615c19e.png",
+        "https://img.genially.com/664b12ba86e1f9001fcf45d6/d9773e0c-5545-4d59-ac1f-922f93930703.png",
+        "https://img.genially.com/664b12ba86e1f9001fcf45d6/0e0c93ce-3288-4221-9ad7-659ce0059343.png"
+      ],
+      "wrong": [
+        "https://media.tenor.com/kTNV3dkUzTQAAAAi/alto.gif"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "the means of transport and name them",
+      "correct": [
+        "https://img.genially.com/664b12ba86e1f9001fcf45d6/a1163312-a56e-4216-876c-0616169435af.png",
+        "https://img.genially.com/664b12ba86e1f9001fcf45d6/e38bbd5b-aa35-43de-a6e4-27668157f197.png",
+        "https://img.genially.com/664b12ba86e1f9001fcf45d6/c964b7fa-265b-4d51-a636-93266ba0fe6a.png",
+        "https://img.genially.com/664b12ba86e1f9001fcf45d6/3da84174-f6d9-4b70-a8fb-e6deba9e3aaa.png",
+        "https://img.genially.com/664b12ba86e1f9001fcf45d6/277bfbbd-ad95-4910-8125-6bc4c9b72641.png",
+        "https://img.genially.com/664b12ba86e1f9001fcf45d6/28b92631-46c2-4fa1-b664-0bec4f9f306a.png",
+        "https://img.genially.com/664b12ba86e1f9001fcf45d6/77e62944-2410-4f23-a029-82377e60b257.png",
+        "https://img.genially.com/664b12ba86e1f9001fcf45d6/77484b79-08c4-49db-8249-8dd7e615c19e.png",
+        "https://img.genially.com/664b12ba86e1f9001fcf45d6/d9773e0c-5545-4d59-ac1f-922f93930703.png",
+        "https://img.genially.com/664b12ba86e1f9001fcf45d6/0e0c93ce-3288-4221-9ad7-659ce0059343.png"
+      ],
+      "wrong": [
+        "https://media.tenor.com/kTNV3dkUzTQAAAAi/alto.gif"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "the means of transport and name them",
+      "correct": [
+        "https://img.genially.com/664b12ba86e1f9001fcf45d6/a1163312-a56e-4216-876c-0616169435af.png",
+        "https://img.genially.com/664b12ba86e1f9001fcf45d6/e38bbd5b-aa35-43de-a6e4-27668157f197.png",
+        "https://img.genially.com/664b12ba86e1f9001fcf45d6/c964b7fa-265b-4d51-a636-93266ba0fe6a.png",
+        "https://img.genially.com/664b12ba86e1f9001fcf45d6/3da84174-f6d9-4b70-a8fb-e6deba9e3aaa.png",
+        "https://img.genially.com/664b12ba86e1f9001fcf45d6/277bfbbd-ad95-4910-8125-6bc4c9b72641.png",
+        "https://img.genially.com/664b12ba86e1f9001fcf45d6/28b92631-46c2-4fa1-b664-0bec4f9f306a.png",
+        "https://img.genially.com/664b12ba86e1f9001fcf45d6/77e62944-2410-4f23-a029-82377e60b257.png",
+        "https://img.genially.com/664b12ba86e1f9001fcf45d6/77484b79-08c4-49db-8249-8dd7e615c19e.png",
+        "https://img.genially.com/664b12ba86e1f9001fcf45d6/d9773e0c-5545-4d59-ac1f-922f93930703.png",
+        "https://img.genially.com/664b12ba86e1f9001fcf45d6/0e0c93ce-3288-4221-9ad7-659ce0059343.png"
+      ],
+      "wrong": [
+        "https://media.tenor.com/kTNV3dkUzTQAAAAi/alto.gif"
+      ],
+      "timer": 30
+    }
+  ]
+}
