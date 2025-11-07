@@ -1,0 +1,51 @@
+{
+  "language": "ru",
+  "font": "Cormorant",
+  "fontSize": 60,
+  "textColor": "#ffffff",
+  "speed": 4,
+  "style": {
+    "shape": "rounded",
+    "pad": 45,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/Kck9Cdgc/Dizajn-bez-nazvania-33.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Игра \"Поймай письмо\"",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Ты молодец!",
+  "levels": [
+    {
+      "target": "слоги с буквой о",
+      "correct": [
+        "мо",
+        "со",
+        "хо",
+        "ро",
+        "ло",
+        "шо"
+      ],
+      "wrong": [
+        "му",
+        "су",
+        "ху",
+        "ру",
+        "лу",
+        "шу"
+      ],
+      "timer": 30
+    }
+  ]
+}
