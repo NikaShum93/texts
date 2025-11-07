@@ -1,0 +1,46 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Пузыри",
+    "btnText": ""
+  },
+  "direction": "down",
+  "finalFeedback": "Молодец!",
+  "levels": [
+    {
+      "target": "Р",
+      "correct": [
+        "[url=https://postimg.cc/47Qmyfnf][img]https://i.postimg.cc/47Qmyfnf/Chat-GPT-Image-30-iul-2025-g-21-19-52.png[/img][/url]",
+        "[url=https://postimg.cc/mzytkLh2][img]https://i.postimg.cc/mzytkLh2/Chat-GPT-Image-30-iul-2025-g-21-19-54.png[/img][/url]",
+        "[url=https://postimg.cc/zbFVvz3D][img]https://i.postimg.cc/zbFVvz3D/Chat-GPT-Image-30-iul-2025-g-21-19-56.png[/img][/url]",
+        "[url=https://postimg.cc/9RYr0mzQ][img]https://i.postimg.cc/9RYr0mzQ/Chat-GPT-Image-30-iul-2025-g-21-19-59.png[/img][/url]",
+        "[url=https://postimg.cc/p5Vynwnh][img]https://i.postimg.cc/p5Vynwnh/Chat-GPT-Image-30-iul-2025-g-21-20-01.png[/img][/url]",
+        "[url=https://postimg.cc/m1ZhFvF7][img]https://i.postimg.cc/m1ZhFvF7/Chat-GPT-Image-30-iul-2025-g-21-20-03.png[/img][/url]"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/yxmJvPjw/Chat-GPT-Image-30-iul-2025-g-21-20-05.png"
+      ],
+      "timer": 30
+    }
+  ]
+}
