@@ -1,0 +1,43 @@
+{
+  "language": "en",
+  "font": "Indie Flower",
+  "fontSize": 33,
+  "textColor": "#585cd5",
+  "speed": 1,
+  "style": {
+    "shape": "rounded",
+    "pad": 15,
+    "bgColor": "#1a1a1a",
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 0,
+    "imgBox": 170
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "",
+    "btnText": ""
+  },
+  "direction": "down",
+  "finalFeedback": "",
+  "levels": [
+    {
+      "target": "Animals",
+      "correct": [
+        "zebra"
+      ],
+      "wrong": [
+        "tiger",
+        "lion",
+        "parrot"
+      ],
+      "timer": 15
+    }
+  ]
+}
