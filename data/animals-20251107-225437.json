@@ -1,0 +1,45 @@
+{
+  "language": "en",
+  "font": "Special Elite",
+  "fontSize": 40,
+  "textColor": "#0a0439",
+  "speed": 1,
+  "style": {
+    "shape": "rounded",
+    "pad": 15,
+    "bgColor": "#1a1a1a",
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 0,
+    "imgBox": 170
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "",
+    "btnText": ""
+  },
+  "direction": "down",
+  "finalFeedback": "",
+  "levels": [
+    {
+      "target": "Animals",
+      "correct": [
+        "[url=https://postimg.cc/V5D0T8rL][img]https://i.postimg.cc/V5D0T8rL/58.png[/img][/url]",
+        "[url=https://postimg.cc/c6XtjSgw][img]https://i.postimg.cc/c6XtjSgw/59.png[/img][/url]",
+        "[url=https://postimg.cc/V5D0T8rq][img]https://i.postimg.cc/V5D0T8rq/60.png[/img][/url]",
+        "[url=https://postimg.cc/pyq57HhD][img]https://i.postimg.cc/pyq57HhD/61.png[/img][/url]",
+        "[url=https://postimg.cc/4nBHMg7v][img]https://i.postimg.cc/4nBHMg7v/62.png[/img][/url]",
+        "[url=https://postimg.cc/mtk1W5C9][img]https://i.postimg.cc/mtk1W5C9/63.png[/img][/url]",
+        "[url=https://postimg.cc/2VyLNKhL][img]https://i.postimg.cc/2VyLNKhL/64.png[/img][/url]"
+      ],
+      "wrong": [],
+      "timer": 45
+    }
+  ]
+}
