@@ -1,0 +1,50 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 0,
+    "imgBox": 240
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Облака",
+    "btnText": ""
+  },
+  "direction": "down",
+  "finalFeedback": "Молодец!",
+  "levels": [
+    {
+      "target": "Р в середине слова",
+      "correct": [
+        "https://i.postimg.cc/Xv4s8Hgx/1.png",
+        "https://i.postimg.cc/0NPVfWCf/2.png",
+        "https://i.postimg.cc/wBgwVfkk/3.png",
+        "https://i.postimg.cc/vmb0zqvt/4.png",
+        "https://i.postimg.cc/25r0wcwp/5.png",
+        "https://i.postimg.cc/vmb0zqvC/6.png",
+        "https://i.postimg.cc/Xv4s8H86/7.png",
+        "https://i.postimg.cc/RhhP5W60/8.png",
+        "https://i.postimg.cc/FsfPTJXV/9.png",
+        "https://i.postimg.cc/VNwDsGrh/10.png"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/hjbz0spL/15.png"
+      ],
+      "timer": 28
+    }
+  ]
+}
