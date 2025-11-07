@@ -1,0 +1,54 @@
+{
+  "language": "en",
+  "font": "Special Elite",
+  "fontSize": 28,
+  "textColor": "#ffffff",
+  "speed": 4,
+  "style": {
+    "shape": "rounded",
+    "pad": 80,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/64233afb55129a0017751c8e/42596f3d-9007-4200-bdec-8a9b2f6c00ff.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Reading Past Participle",
+    "btnText": "Start"
+  },
+  "direction": "down",
+  "finalFeedback": "Reading Master!",
+  "levels": [
+    {
+      "target": "Read",
+      "correct": [
+        "done",
+        "gone",
+        "been",
+        "bought",
+        "brought",
+        "thought",
+        "caught",
+        "taught",
+        "fought",
+        "sought",
+        "made",
+        "taken",
+        "written",
+        "driven",
+        "eaten",
+        "known"
+      ],
+      "wrong": [],
+      "timer": 30
+    }
+  ]
+}
