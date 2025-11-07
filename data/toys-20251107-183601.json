@@ -1,0 +1,83 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 30,
+  "textColor": "#0b1da2",
+  "speed": 5,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#58e4ee",
+    "bgImage": "",
+    "borderOn": true,
+    "borderColor": "#0a1285",
+    "borderWidth": 6,
+    "shadow": true,
+    "glow": true,
+    "glowColor": "#42fcff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Find the right word",
+    "btnText": "Go!"
+  },
+  "direction": "down",
+  "finalFeedback": "Good job!",
+  "levels": [
+    {
+      "target": "Toys",
+      "correct": [
+        "doll",
+        "ball",
+        "car",
+        "robot",
+        "rocket",
+        "train",
+        "plane",
+        "teddy",
+        "tractor",
+        "blocks"
+      ],
+      "wrong": [
+        "pen",
+        "pencil",
+        "ruler",
+        "rubber",
+        "book",
+        "notebook",
+        "scissors",
+        "sharpener"
+      ],
+      "timer": 60
+    },
+    {
+      "target": "School",
+      "correct": [
+        "pen",
+        "pencil",
+        "ruler",
+        "rubber",
+        "book",
+        "notebook",
+        "scissors",
+        "sharpener"
+      ],
+      "wrong": [
+        "doll",
+        "ball",
+        "car",
+        "robot",
+        "rocket",
+        "train",
+        "plane",
+        "teddy",
+        "tractor",
+        "blocks"
+      ],
+      "timer": 60
+    }
+  ]
+}
