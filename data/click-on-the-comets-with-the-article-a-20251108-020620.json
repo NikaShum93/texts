@@ -1,0 +1,52 @@
+{
+  "language": "en",
+  "font": "Indie Flower",
+  "fontSize": 33,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 18,
+    "bgColor": "#1a1a1a",
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 0,
+    "imgBox": 250
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "",
+    "btnText": ""
+  },
+  "direction": "down",
+  "finalFeedback": "Well done!",
+  "levels": [
+    {
+      "target": "Click on the comets with the article \"A\"",
+      "correct": [
+        "https://img.genially.com/657cce16f9179c001f2be1bb/e6c527a2-69a8-49a2-82d8-f4a21befadea.gif",
+        "https://img.genially.com/657cce16f9179c001f2be1bb/768c2d55-d52e-46fd-b7f4-1ec3355b4af9.gif",
+        "https://img.genially.com/657cce16f9179c001f2be1bb/effb71b3-c8a1-46d2-aaad-6e0081324c87.gif",
+        "https://img.genially.com/657cce16f9179c001f2be1bb/e1ad90a7-8edf-4ef8-98cb-db7141d23c6c.gif",
+        "https://img.genially.com/657cce16f9179c001f2be1bb/75b2eb50-7bc1-489f-9313-0090b3b92579.gif",
+        "https://img.genially.com/657cce16f9179c001f2be1bb/87672a98-6536-47fa-b766-912cad764afa.gif"
+      ],
+      "wrong": [
+        "https://img.genially.com/657cce16f9179c001f2be1bb/7c63f18b-6d75-4dc3-82ae-6b45b42afdb0.gif",
+        "https://img.genially.com/657cce16f9179c001f2be1bb/a5d08342-ac6e-424e-a1df-e4617cab0c51.gif",
+        "https://img.genially.com/657cce16f9179c001f2be1bb/10a11ffd-df50-4c34-838b-3416c4d44804.gif",
+        "https://img.genially.com/657cce16f9179c001f2be1bb/a5d08342-ac6e-424e-a1df-e4617cab0c51.gif",
+        "https://img.genially.com/657cce16f9179c001f2be1bb/b5d74eb1-e1c7-4804-9c0c-410bfb241ae6.gif",
+        "https://img.genially.com/657cce16f9179c001f2be1bb/8582bcd7-20d7-41f9-b58a-d68ee06dab9e.gif",
+        "https://img.genially.com/657cce16f9179c001f2be1bb/c2a63bc5-6126-439f-9893-7bbb4961e555.gif"
+      ],
+      "timer": 45
+    }
+  ]
+}
