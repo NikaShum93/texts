@@ -1,0 +1,45 @@
+{
+  "language": "en",
+  "font": "Inter",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 0,
+    "imgBox": 90
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "",
+    "btnText": ""
+  },
+  "direction": "down",
+  "finalFeedback": "",
+  "levels": [
+    {
+      "target": "Animals",
+      "correct": [
+        "https://i.postimg.cc/zBh6nBW9/65.png",
+        "https://i.postimg.cc/DfdYFRgn/66.png",
+        "https://i.postimg.cc/SxXrXPcB/67.png",
+        "https://i.postimg.cc/V6wBVL26/68.png",
+        "https://i.postimg.cc/dt3RXfNL/69.png",
+        "https://i.postimg.cc/0ymS11Y5/70.png",
+        "https://i.postimg.cc/TY5LnvHH/71.png"
+      ],
+      "wrong": [],
+      "timer": 30
+    }
+  ]
+}
