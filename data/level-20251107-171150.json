@@ -1,0 +1,112 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 35,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 55,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/V6b1YhPw/Snezinka.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 130
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "",
+    "btnText": ""
+  },
+  "direction": "down",
+  "finalFeedback": "Молодец!",
+  "levels": [
+    {
+      "target": "Чтение открытых слогов",
+      "correct": [
+        "ак",
+        "он",
+        "ив",
+        "ош",
+        "уф",
+        "ар",
+        "ел",
+        "ит",
+        "ол",
+        "ам",
+        "он",
+        "ус",
+        "ок",
+        "аг",
+        "ов",
+        "ид",
+        "иш",
+        "оч",
+        "иб",
+        "ар"
+      ],
+      "wrong": [],
+      "timer": 60
+    },
+    {
+      "target": "Чтение закрытых слогов",
+      "correct": [
+        "па",
+        "ки",
+        "ло",
+        "ве",
+        "ши",
+        "ду",
+        "вы",
+        "ле",
+        "мы",
+        "да",
+        "пе",
+        "но",
+        "ко",
+        "би",
+        "ва",
+        "ча",
+        "ре",
+        "сы",
+        "ми",
+        "ку"
+      ],
+      "wrong": [],
+      "timer": 60
+    },
+    {
+      "target": "Чтение простых слов",
+      "correct": [
+        "сон",
+        "дом",
+        "кот",
+        "мох",
+        "мир",
+        "час",
+        "пол",
+        "мак",
+        "рак",
+        "сом",
+        "нос",
+        "кот",
+        "лес",
+        "бык",
+        "зуб",
+        "лук",
+        "сад",
+        "шар",
+        "щит",
+        "зал"
+      ],
+      "wrong": [],
+      "timer": 90
+    }
+  ]
+}
