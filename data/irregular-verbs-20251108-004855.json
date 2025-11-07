@@ -1,0 +1,53 @@
+{
+  "language": "en",
+  "font": "Special Elite",
+  "fontSize": 28,
+  "textColor": "#1e3371",
+  "speed": 1,
+  "style": {
+    "shape": "rounded",
+    "pad": 15,
+    "bgColor": "#1a1a1a",
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 0,
+    "imgBox": 170
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "",
+    "btnText": ""
+  },
+  "direction": "down",
+  "finalFeedback": "",
+  "levels": [
+    {
+      "target": "irregular verbs",
+      "correct": [
+        "steal",
+        "catch",
+        "speak",
+        "say",
+        "mean",
+        "wear",
+        "teach",
+        "ring"
+      ],
+      "wrong": [
+        "talk",
+        "hurry",
+        "visit",
+        "need",
+        "want",
+        "translate"
+      ],
+      "timer": 45
+    }
+  ]
+}
