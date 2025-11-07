@@ -1,0 +1,49 @@
+{
+  "language": "ru",
+  "font": "Marck Script",
+  "fontSize": 40,
+  "textColor": "#ffffff",
+  "speed": 4,
+  "style": {
+    "shape": "rounded",
+    "pad": 50,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/BQHCQLDY/Chat-GPT-Image-7-noab-2025-g-23-03-23-1.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 190
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Игра \"Вставь пропущенную букву\"",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Супер!!!",
+  "levels": [
+    {
+      "target": "слова с пропущенной буквой О",
+      "correct": [
+        "сл_варь",
+        "тр_ллейбус",
+        "пр_фессор",
+        "к_рабль",
+        "м_локо"
+      ],
+      "wrong": [
+        "з_яц",
+        "тр_ва",
+        "в_да",
+        "з_мок",
+        "м_лина"
+      ],
+      "timer": 30
+    }
+  ]
+}
