@@ -1,0 +1,89 @@
+{
+  "language": "ru",
+  "font": "Lobster",
+  "fontSize": 33,
+  "textColor": "#0d0c0d",
+  "speed": 5,
+  "style": {
+    "shape": "rounded",
+    "pad": 114,
+    "bgColor": "#fdfcfc",
+    "bgImage": "https://i.postimg.cc/90w1m3fc/Chat-GPT-Image-8-noab-2025-g-12-29-38.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 180
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Орфограмма ЖИ-ШИ, ЧА-ЩА, ЧУ-ЩУ",
+    "btnText": "Кликай"
+  },
+  "direction": "down",
+  "finalFeedback": "Вау, отличная работа!",
+  "levels": [
+    {
+      "target": "слова с орфограммой ЖИ–ШИ среди данных слов.",
+      "correct": [
+        "Ж_раф",
+        "Ш_на",
+        "Ж_ть",
+        "Ш_петь",
+        "Ж_знь",
+        "Ш_пка",
+        "Ж_рный",
+        "Ш_рокий",
+        "Ж_вот"
+      ],
+      "wrong": [
+        "д_м",
+        "окн_",
+        "л_с",
+        "кош_ка",
+        "со_нц",
+        "вет_р"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "слова с орфограммой ЧА–ЩА среди данных слов.",
+      "correct": [
+        "ч_шка",
+        "щ_вель",
+        "ч_ща",
+        "зад_ча",
+        "пло_дь"
+      ],
+      "wrong": [
+        "м_ло",
+        "р_сточек",
+        "т_йник",
+        "руч_ка"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "слова с орфограммой ЧУ–ЩУ среди данных слов.",
+      "correct": [
+        "ч_дак",
+        "ч_до",
+        "ч_лок",
+        "щ_пать",
+        "щ_риться",
+        "щ_плый",
+        "щ_вель"
+      ],
+      "wrong": [
+        "р_ща",
+        "щ_тка",
+        "ч_стушки"
+      ],
+      "timer": 30
+    }
+  ]
+}
