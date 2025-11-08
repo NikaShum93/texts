@@ -1,0 +1,113 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 30,
+  "textColor": "#2517e8",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 40,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/FKCyvx26/i-Photoroom.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 130
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Find the right word.",
+    "btnText": "Go!"
+  },
+  "direction": "down",
+  "finalFeedback": "Good job!",
+  "levels": [
+    {
+      "target": "Toys",
+      "correct": [
+        "doll",
+        "ball",
+        "car",
+        "robot",
+        "rocket",
+        "train",
+        "plane",
+        "teddy",
+        "tractor",
+        "block"
+      ],
+      "wrong": [
+        "pen",
+        "pencil",
+        "ruler",
+        "rubber",
+        "book",
+        "notebook",
+        "scissors",
+        "sharpener"
+      ],
+      "timer": 60
+    },
+    {
+      "target": "Correct Spelling",
+      "correct": [
+        "doll",
+        "ball",
+        "car",
+        "robot",
+        "rocket",
+        "train",
+        "plane",
+        "teddy",
+        "tractor",
+        "block"
+      ],
+      "wrong": [
+        "dall",
+        "boll",
+        "ca",
+        "robbot",
+        "roket",
+        "trein",
+        "pleine",
+        "tedy",
+        "traktor",
+        "bloc"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "Guess the toy",
+      "correct": [
+        "dll",
+        "bll",
+        "cr",
+        "rbt",
+        "rckt",
+        "trn",
+        "pln",
+        "tdd",
+        "trctr",
+        "blck"
+      ],
+      "wrong": [
+        "dl",
+        "bl",
+        "crl",
+        "rbdt",
+        "rkt",
+        "trnt",
+        "plln",
+        "tdd",
+        "trctrr",
+        "bllck"
+      ],
+      "timer": 30
+    }
+  ]
+}
