@@ -1,0 +1,58 @@
+{
+  "language": "ru",
+  "font": "Lobster",
+  "fontSize": 36,
+  "textColor": "#ffffff",
+  "speed": 2,
+  "style": {
+    "shape": "rounded",
+    "pad": 28,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/658035f5a6ff05001fd83772/d85b9602-c38a-49c0-8592-60f59416b841.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "делим на 3",
+    "btnText": ""
+  },
+  "direction": "down",
+  "finalFeedback": "Отлично! Спасибо! Все разделили поровну!",
+  "levels": [
+    {
+      "target": "что делится на 3",
+      "correct": [
+        "9",
+        "42",
+        "6",
+        "36",
+        "72",
+        "87",
+        "57",
+        "198",
+        "114",
+        "642",
+        "324",
+        "552"
+      ],
+      "wrong": [
+        "5",
+        "31",
+        "67",
+        "83",
+        "97",
+        "203",
+        "746"
+      ],
+      "timer": 60
+    }
+  ]
+}
