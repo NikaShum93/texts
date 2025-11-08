@@ -1,0 +1,55 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#181616",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 65,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/QNY6KHX7/Dizajn-bez-nazvania-1.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Устный счет",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Супер!",
+  "levels": [
+    {
+      "target": "верные",
+      "correct": [
+        "45 + 27 = 72",
+        "90 − 36 = 54",
+        "8 × 7 = 56",
+        "64 ÷ 8 = 8",
+        "120 − 45 = 75",
+        "14 × 3 = 42",
+        "250 + 150 = 400",
+        "81 ÷ 9 = 9",
+        "300 − 125 = 175",
+        "6 × 12 = 72"
+      ],
+      "wrong": [
+        "45 + 18 = 80",
+        "72 − 39 = 25",
+        "9 × 5 = 50",
+        "100 ÷ 4 = 30",
+        "13 × 4 = 60",
+        "200 − 75 = 150"
+      ],
+      "timer": 30
+    }
+  ]
+}
