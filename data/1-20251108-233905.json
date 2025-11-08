@@ -1,0 +1,84 @@
+{
+  "language": "ru",
+  "font": "Cormorant",
+  "fontSize": 40,
+  "textColor": "#e70d0d",
+  "speed": 3,
+  "style": {
+    "shape": "circle",
+    "pad": 34,
+    "bgColor": "#2d0632",
+    "bgImage": "https://i.postimg.cc/3x2Sw6jT/Risunok1.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": true,
+    "glowColor": "#d4ff00",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 170
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "тропы",
+    "btnText": "начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Отличная работа!",
+  "levels": [
+    {
+      "target": "ударение на 1 слоге",
+      "correct": [
+        "выжжет",
+        "бежевый",
+        "было",
+        "выздороветь",
+        "жили",
+        "начал",
+        "свёкла",
+        "свитер",
+        "тезис",
+        "теннис",
+        "термин",
+        "торты",
+        "создал",
+        "сливовый",
+        "торты"
+      ],
+      "wrong": [
+        "алфавит",
+        "звонит",
+        "дефис",
+        "каучук",
+        "квартал",
+        "партер",
+        "портфель",
+        "цемент"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "ударение на 2 слоге",
+      "correct": [
+        "была",
+        "ворота",
+        "дала",
+        "дефис",
+        "звонит",
+        "партер",
+        "портфель",
+        "фарфор",
+        "щавель"
+      ],
+      "wrong": [
+        "магазин",
+        "облегчит",
+        "торты",
+        "углубит",
+        "поняла"
+      ],
+      "timer": 30
+    }
+  ]
+}
