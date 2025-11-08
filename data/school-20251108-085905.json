@@ -1,0 +1,110 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 30,
+  "textColor": "#2517e8",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 40,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/2jT3q5HZ/63-631352-us-nickel-coin-stock-illustration-cartoon-clipart-gold-coin-transparent-background-Photoro.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 130
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Find the right word.",
+    "btnText": "Go!"
+  },
+  "direction": "down",
+  "finalFeedback": "Good job!",
+  "levels": [
+    {
+      "target": "School",
+      "correct": [
+        "pen",
+        "pencil",
+        "ruler",
+        "rubber",
+        "book",
+        "notebook",
+        "scissors",
+        "sharpener",
+        "schoolbag"
+      ],
+      "wrong": [
+        "doll",
+        "ball",
+        "car",
+        "robot",
+        "rocket",
+        "train",
+        "plane",
+        "teddy",
+        "tractor",
+        "blocks"
+      ],
+      "timer": 60
+    },
+    {
+      "target": "Correct Spelling",
+      "correct": [
+        "pen",
+        "pencil",
+        "ruler",
+        "rubber",
+        "book",
+        "notebook",
+        "scissors",
+        "sharpener",
+        "schoolbag"
+      ],
+      "wrong": [
+        "pan",
+        "pansil",
+        "rylar",
+        "raber",
+        "buk",
+        "noutbuk",
+        "sizors",
+        "sapene",
+        "skoolbeg"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "Guess the word",
+      "correct": [
+        "pn",
+        "pncl",
+        "rlr",
+        "rbbr",
+        "bk",
+        "ntbk",
+        "scssrs",
+        "shrpnr",
+        "schlbg"
+      ],
+      "wrong": [
+        "np",
+        "npcl",
+        "lrr",
+        "brbr",
+        "kb",
+        "tnbk",
+        "scsrss",
+        "srhprn",
+        "sclhgb"
+      ],
+      "timer": 30
+    }
+  ]
+}
