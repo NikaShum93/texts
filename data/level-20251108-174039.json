@@ -1,0 +1,41 @@
+{
+  "language": "math",
+  "font": "Rubik",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 72,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/rs3G3dVH/Plusevaa-snezinka.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Свойства степеней",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Отличная работа!",
+  "levels": [
+    {
+      "target": "Выберете верные равенства",
+      "correct": [
+        "(0{,}2)^3 \\cdot (0{,}2)^2 = (0{,}2)^5"
+      ],
+      "wrong": [
+        "(0{,}3)^2 + (0{,}3)^3 = (0{,}3)^5"
+      ],
+      "timer": 30
+    }
+  ]
+}
