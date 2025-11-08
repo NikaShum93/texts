@@ -1,0 +1,88 @@
+{
+  "language": "en",
+  "font": "Open Sans",
+  "fontSize": 25,
+  "textColor": "#1b1818",
+  "speed": 5,
+  "style": {
+    "shape": "rounded",
+    "pad": 6,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/q7n1HHzh/3.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 150
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Catch irregular verbs",
+    "btnText": "Start"
+  },
+  "direction": "up",
+  "finalFeedback": "Well done!",
+  "levels": [
+    {
+      "target": "Irregular verbs",
+      "correct": [
+        "come",
+        "find",
+        "buy",
+        "bring",
+        "see",
+        "give",
+        "take",
+        "have",
+        "swim",
+        "say"
+      ],
+      "wrong": [
+        "help",
+        "skip",
+        "watch",
+        "jump",
+        "clean",
+        "carry"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "Regular verbs",
+      "correct": [
+        "play",
+        "walk",
+        "watch",
+        "talk",
+        "clean",
+        "open",
+        "close",
+        "cook",
+        "dance",
+        "jump",
+        "wash",
+        "start",
+        "finish",
+        "look",
+        "visit"
+      ],
+      "wrong": [
+        "go",
+        "see",
+        "eat",
+        "drink",
+        "take",
+        "give",
+        "find",
+        "make",
+        "come",
+        "have"
+      ],
+      "timer": 30
+    }
+  ]
+}
