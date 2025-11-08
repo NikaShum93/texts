@@ -1,0 +1,71 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 80,
+  "textColor": "#950404",
+  "speed": 5,
+  "style": {
+    "shape": "rounded",
+    "pad": 59,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/6842db59bd7da9001fac1f33/12313e9c-61a6-4990-9b2a-0520117f0cb1.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Листопад слов",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Отлично!",
+  "levels": [
+    {
+      "target": "1 слог",
+      "correct": [
+        "рак",
+        "мак",
+        "слон",
+        "лист",
+        "кот",
+        "мост",
+        "кит",
+        "трон",
+        "крот"
+      ],
+      "wrong": [
+        "прт",
+        "кут",
+        "лсон",
+        "стит"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "2 слога",
+      "correct": [
+        "река",
+        "солнце",
+        "осень",
+        "туча",
+        "привет",
+        "лужа",
+        "ветер"
+      ],
+      "wrong": [
+        "нцесол",
+        "чату",
+        "жалу",
+        "терве"
+      ],
+      "timer": 30
+    }
+  ]
+}
