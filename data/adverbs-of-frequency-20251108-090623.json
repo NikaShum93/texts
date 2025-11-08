@@ -1,0 +1,49 @@
+{
+  "language": "en",
+  "font": "Rubik",
+  "fontSize": 21,
+  "textColor": "#20079d",
+  "speed": 4,
+  "style": {
+    "shape": "rounded",
+    "pad": 48,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/cLr31WTt/Dizajn-bez-nazvania-4.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 0,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": true,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "",
+    "btnText": "start"
+  },
+  "direction": "up",
+  "finalFeedback": "Good job!",
+  "levels": [
+    {
+      "target": "Adverbs of frequency",
+      "correct": [
+        "always",
+        "sometimes",
+        "never",
+        "usually",
+        "often",
+        "seldom"
+      ],
+      "wrong": [
+        "do",
+        "does",
+        "good",
+        "bad"
+      ],
+      "timer": 30
+    }
+  ]
+}
