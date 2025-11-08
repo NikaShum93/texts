@@ -1,0 +1,53 @@
+{
+  "language": "math",
+  "font": "Latin Modern Math",
+  "fontSize": 20,
+  "textColor": "#131111",
+  "speed": 5,
+  "style": {
+    "shape": "rounded",
+    "pad": 27,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/Jzqjf2YT/Snezinka.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 260
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Арифметический квадратный корень",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Супер!",
+  "levels": [
+    {
+      "target": "верные",
+      "correct": [
+        "\\sqrt{49} = 7",
+        "\\sqrt{16} = 4",
+        "\\sqrt{121} = 11",
+        "\\sqrt{0} = 0",
+        "\\sqrt{81} = 9",
+        "\\sqrt{25} = 5",
+        "\\sqrt{36} = 6",
+        "\\sqrt{100} = 10",
+        "\\sqrt{144} = 12"
+      ],
+      "wrong": [
+        "\\sqrt{25} = 6",
+        "\\sqrt{-36} = -6",
+        "-\\sqrt{81} = 9",
+        "\\sqrt{100} = 8",
+        "\\sqrt{121} = 10"
+      ],
+      "timer": 30
+    }
+  ]
+}
