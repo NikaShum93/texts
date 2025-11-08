@@ -1,0 +1,113 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 75,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "style": {
+    "shape": "rounded",
+    "pad": 80,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/6842db59bd7da9001fac1f33/a3ee7bae-ab07-4c88-a595-18c99a5c0cac.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Состав чисел 10-13",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Как здорово!",
+  "levels": [
+    {
+      "target": "10",
+      "correct": [
+        "5+5",
+        "3+7",
+        "8+2",
+        "9+1",
+        "7+3",
+        "4+6",
+        "2+8",
+        "6+4",
+        "1+9"
+      ],
+      "wrong": [
+        "7+4",
+        "5+7",
+        "6+6"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "11",
+      "correct": [
+        "1+10",
+        "2+9",
+        "3+8",
+        "4+7",
+        "5+6",
+        "6+5",
+        "7+4",
+        "8+3",
+        "9+2"
+      ],
+      "wrong": [
+        "6+4",
+        "5+5",
+        "3+9",
+        "8+4"
+      ],
+      "timer": 40
+    },
+    {
+      "target": "12",
+      "correct": [
+        "1+11",
+        "2+10",
+        "3+9",
+        "4+8",
+        "5+7",
+        "6+8",
+        "7+5",
+        "8+4",
+        "9+3"
+      ],
+      "wrong": [
+        "7+7",
+        "6+3",
+        "8+2",
+        "9+2"
+      ],
+      "timer": 40
+    },
+    {
+      "target": "13",
+      "correct": [
+        "3+10",
+        "4+9",
+        "5+8",
+        "6+9",
+        "7+8",
+        "6+9",
+        "5+8",
+        "4+9"
+      ],
+      "wrong": [
+        "10+1",
+        "8+8",
+        "6+4",
+        "3+7"
+      ],
+      "timer": 40
+    }
+  ]
+}
