@@ -1,0 +1,51 @@
+{
+  "language": "ru",
+  "font": "Lobster",
+  "fontSize": 36,
+  "textColor": "#ffffff",
+  "speed": 2,
+  "style": {
+    "shape": "rounded",
+    "pad": 26,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/T1Yf7Q1r/pngwing-com-18.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 180
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Дели на 2",
+    "btnText": ""
+  },
+  "direction": "down",
+  "finalFeedback": "Отлично! Спасибо! Все разделили поровну!",
+  "levels": [
+    {
+      "target": "делим на 2",
+      "correct": [
+        "8",
+        "42",
+        "6",
+        "34",
+        "70",
+        "56",
+        "98"
+      ],
+      "wrong": [
+        "5",
+        "33",
+        "67",
+        "81",
+        "97"
+      ],
+      "timer": 60
+    }
+  ]
+}
