@@ -1,0 +1,52 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 10,
+  "style": {
+    "shape": "circle",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/Dwv44WsF/9bfa8560-4bed-4d83-9541-18c31ab6abe7-1.png",
+    "borderOn": true,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": true,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Поиграем в снежки",
+    "btnText": "Лови!"
+  },
+  "direction": "down",
+  "finalFeedback": "Ух, нарезвились!",
+  "levels": [
+    {
+      "target": "Зима",
+      "correct": [
+        "лыжи",
+        "санки",
+        "ёлка",
+        "лёд",
+        "каток",
+        "шуба",
+        "шапка",
+        "снег"
+      ],
+      "wrong": [
+        "ягода",
+        "жара",
+        "трава",
+        "плоды",
+        "гроза"
+      ],
+      "timer": 90
+    }
+  ]
+}
