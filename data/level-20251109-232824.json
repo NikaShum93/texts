@@ -1,0 +1,55 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 1,
+  "style": {
+    "shape": "rounded",
+    "pad": 27,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/SK8VtVLV/Plusevaa-snezinka.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 120
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Игра \" Снегопад\".",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Отлично!",
+  "levels": [
+    {
+      "target": "Кликни на снежинки с картинками со звуком ЛЬ.",
+      "correct": [
+        "https://i.postimg.cc/2jd3GWPM/33.png",
+        "https://i.postimg.cc/G3P9KDWn/34.png",
+        "https://i.postimg.cc/PfbNyDgk/35.png",
+        "https://i.postimg.cc/G3P9KDWw/36.png",
+        "https://i.postimg.cc/Kc74fT6b/37.png",
+        "https://i.postimg.cc/7P1b9zFw/39.png",
+        "https://i.postimg.cc/bY0dgn7Y/40.png",
+        "https://i.postimg.cc/jq6Ccfps/41.png",
+        "https://i.postimg.cc/QNgVm72j/42.png",
+        "https://i.postimg.cc/HW0jzMqs/43.png",
+        "https://i.postimg.cc/7YxhW64v/44.png"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/L6C9Q3vN/46.png",
+        "https://i.postimg.cc/RVsSpLGL/47.png",
+        "https://i.postimg.cc/Pr3XVQKM/48.png",
+        "https://i.postimg.cc/J46rY5KT/49.png",
+        "https://i.postimg.cc/Qx48YJSY/50.png"
+      ],
+      "timer": 100
+    }
+  ]
+}
