@@ -1,0 +1,43 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 51,
+  "textColor": "#ffffff",
+  "speed": 4,
+  "style": {
+    "shape": "rounded",
+    "pad": 23,
+    "bgColor": "#1a1a1a",
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 0,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "игра",
+    "btnText": ""
+  },
+  "direction": "up",
+  "finalFeedback": "",
+  "levels": [
+    {
+      "target": "1",
+      "correct": [
+        "https://i.postimg.cc/zB8FBg6K/1.png",
+        "https://i.postimg.cc/25FnP5y5/8.png",
+        "https://i.postimg.cc/gj5hvXS6/12.png"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/MZsm6XDT/4.png"
+      ],
+      "timer": 30
+    }
+  ]
+}
