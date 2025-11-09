@@ -1,0 +1,74 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 28,
+  "textColor": "#5f07ca",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 9,
+    "bgColor": "#fafafa",
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": true,
+    "glow": true,
+    "glowColor": "#dcb5e3",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Зима",
+    "btnText": ""
+  },
+  "direction": "down",
+  "finalFeedback": "Спасибо за работу!",
+  "levels": [
+    {
+      "target": "зимние слова",
+      "correct": [
+        "Снег",
+        "Мороз",
+        "Лёд",
+        "Санки",
+        "Шарф",
+        "Зима",
+        "Шапка",
+        "Каток",
+        "Иней",
+        "Метель",
+        "Холод",
+        "Снежок",
+        "Лыжи",
+        "Коньки",
+        "Пурга"
+      ],
+      "wrong": [
+        "Лето",
+        "Осень",
+        "Дождь"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "словарные зимние слова с буквой О",
+      "correct": [
+        "Мороз",
+        "Снегопад",
+        "Коньки",
+        "Горка",
+        "Сосулька",
+        "Гололёд"
+      ],
+      "wrong": [
+        "Метель",
+        "Санки",
+        "Варежки"
+      ],
+      "timer": 30
+    }
+  ]
+}
