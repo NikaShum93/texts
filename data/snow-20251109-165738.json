@@ -1,0 +1,49 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "style": {
+    "shape": "circle",
+    "pad": 29,
+    "bgColor": "#e74040",
+    "bgImage": "https://downloader.disk.yandex.ru/preview/d922be6f88647edc64a87feaaa6017d53667ee72e0b74e79e25067536aafdfa2/6910d440/UB6mzRq69pmFR5BtjBWzxlEY_AtAayXMXxSP0v0m8wq88Xdk6k5F-1QKL6Vlh8kMG-2MiVptlUCmJ1k-lC03xA%3D%3D?uid=0&filename=Снежинка.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&size=748x609",
+    "borderOn": true,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": true,
+    "glowColor": "#ff00ea",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "",
+    "btnText": "https://downloader.disk.yandex.ru/preview/d922be6f88647edc64a87feaaa6017d53667ee72e0b74e79e25067536aafdfa2/6910d440/UB6mzRq69pmFR5BtjBWzxlEY_AtAayXMXxSP0v0m8wq88Xdk6k5F-1QKL6Vlh8kMG-2MiVptlUCmJ1k-lC03xA%3D%3D?uid=0&filename=Снежинка.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&size=748x609"
+  },
+  "direction": "down",
+  "finalFeedback": "",
+  "levels": [
+    {
+      "target": "snow",
+      "correct": [
+        "snow",
+        "snowball",
+        "snowman",
+        "snowflake",
+        "snowhite"
+      ],
+      "wrong": [
+        "dog",
+        "apple",
+        "cake",
+        "frog",
+        "camel"
+      ],
+      "timer": 30
+    }
+  ]
+}
