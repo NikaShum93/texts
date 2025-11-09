@@ -1,0 +1,49 @@
+{
+  "language": "ru",
+  "font": "Montserrat",
+  "fontSize": 24,
+  "textColor": "#dae1db",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 68,
+    "bgColor": "#ffffff",
+    "bgImage": "https://i.postimg.cc/rm6X5XD8/2.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#829a7e",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 100
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Правописание Н и НН в разных частях речи",
+    "btnText": "Начать"
+  },
+  "direction": "up",
+  "finalFeedback": "Ты молодец! Так держать!",
+  "levels": [
+    {
+      "target": "Найди слова с НН",
+      "correct": [
+        "изыска_ый",
+        "негада_ый",
+        "озарё_ый",
+        "выглаже_ый",
+        "утеплё_ый",
+        "удивлё_ый"
+      ],
+      "wrong": [
+        "волося_ой",
+        "земля_ой",
+        "багря_ый",
+        "тёса_ый"
+      ],
+      "timer": 60
+    }
+  ]
+}
