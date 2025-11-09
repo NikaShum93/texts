@@ -1,0 +1,54 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 4,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#ffffff",
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 0,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 0,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Правописание Н и НН в разных частях речи",
+    "btnText": "Начать"
+  },
+  "direction": "up",
+  "finalFeedback": "Ты молодец! Так держать!",
+  "levels": [
+    {
+      "target": "Найди слова с одной буквой Н",
+      "correct": [
+        "https://i.postimg.cc/hPCyctGp/1.png",
+        "https://i.postimg.cc/MG1mM6zs/2.png",
+        "https://i.postimg.cc/j5dnxtCV/5.png",
+        "https://i.postimg.cc/k57BsqQ4/6.png",
+        "https://i.postimg.cc/ryDCxNy7/7.png",
+        "https://i.postimg.cc/QMNctpn7/8.png",
+        "https://i.postimg.cc/MpqQP7w3/11.png",
+        "https://i.postimg.cc/852FhWwb/12.png",
+        "https://i.postimg.cc/Njd5dZpG/13.png",
+        "https://i.postimg.cc/Wzc3DV1j/14.png"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/MKxHqzL5/3.png",
+        "https://i.postimg.cc/HkvkwXk0/4.png",
+        "https://i.postimg.cc/Fzx97J6G/9.png",
+        "https://i.postimg.cc/7ZRqG4Kc/10.png",
+        "https://i.postimg.cc/fTTs8yFS/15.png"
+      ],
+      "timer": 30
+    }
+  ]
+}
