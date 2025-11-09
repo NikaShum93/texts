@@ -1,0 +1,51 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 30,
+  "textColor": "#ffffff",
+  "speed": 10,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/1z9xQQLj/5224235667687149428.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Поиграем в снежки?",
+    "btnText": "Лови!"
+  },
+  "direction": "down",
+  "finalFeedback": "УУУХ, нарезвились!!!",
+  "levels": [
+    {
+      "target": "Зима",
+      "correct": [
+        "снег",
+        "лыжи",
+        "лёд",
+        "мороз",
+        "сани",
+        "холод",
+        "стужа"
+      ],
+      "wrong": [
+        "град",
+        "гроза",
+        "лето",
+        "жара",
+        "зной"
+      ],
+      "timer": 60
+    }
+  ]
+}
