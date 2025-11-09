@@ -1,0 +1,52 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 30,
+  "textColor": "#f3eff0",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/T1vT8Ts8/Remove-bg-ai-1749836731683.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Давай ловить бабочек",
+    "btnText": "Лови!"
+  },
+  "direction": "down",
+  "finalFeedback": "Красота!!!",
+  "levels": [
+    {
+      "target": "Лето",
+      "correct": [
+        "гроза",
+        "лето",
+        "жара",
+        "зной",
+        "ягоды",
+        "малина",
+        "комары",
+        "тепло"
+      ],
+      "wrong": [
+        "снег",
+        "стужа",
+        "мороз",
+        "зима",
+        "капель"
+      ],
+      "timer": 60
+    }
+  ]
+}
