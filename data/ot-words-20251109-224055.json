@@ -1,0 +1,71 @@
+{
+  "language": "en",
+  "font": "Indie Flower",
+  "fontSize": 34,
+  "textColor": "#e32400",
+  "speed": 3,
+  "style": {
+    "shape": "circle",
+    "pad": 21,
+    "bgColor": "#ffffff",
+    "bgImage": "https://i.postimg.cc/RhPbqSvb/81.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 260
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "OT words",
+    "btnText": "Start"
+  },
+  "direction": "down",
+  "finalFeedback": "Well Done!",
+  "levels": [
+    {
+      "target": "ot words",
+      "correct": [
+        "hot",
+        "lot",
+        "bot",
+        "pot",
+        "not",
+        "jot",
+        "got",
+        "dot",
+        "rot",
+        "hot"
+      ],
+      "wrong": [
+        "jam",
+        "bag",
+        "ham",
+        "man",
+        "map",
+        "cap",
+        "lap",
+        "tap",
+        "wag",
+        "dad",
+        "had",
+        "cat",
+        "mat",
+        "rat",
+        "fat",
+        "sat",
+        "ram",
+        "bam",
+        "bad",
+        "mad",
+        "sad",
+        "fan"
+      ],
+      "timer": 60
+    }
+  ]
+}
