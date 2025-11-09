@@ -1,0 +1,107 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 28,
+  "textColor": "#10084e",
+  "speed": 2,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/cCsL0mJF/Konvert-dla-zagruzki.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Знайка рекомендует",
+    "btnText": ""
+  },
+  "direction": "down",
+  "finalFeedback": "Спасибо за работу!",
+  "levels": [
+    {
+      "target": "новогодние книги: \"Ночь перед Рождеством\"",
+      "correct": [
+        "Вакула",
+        "Оксана",
+        "Солоха",
+        "Чёрт",
+        "Поп",
+        "Чуб",
+        "Дьячок"
+      ],
+      "wrong": [
+        "Вий",
+        "Хома",
+        "Панночка"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "Главные герои \"Ночи перед Рождеством\"",
+      "correct": [
+        "Вакула",
+        "Оксана",
+        "Чуб"
+      ],
+      "wrong": [
+        "Чёрт",
+        "Поп",
+        "Дьячок",
+        "Солоха"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "\"Снежна королева\"",
+      "correct": [
+        "Герда",
+        "Кай",
+        "Бабушка",
+        "Олень"
+      ],
+      "wrong": [
+        "Медведь",
+        "Волк",
+        "Оксана"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "\"Щелкунчик и Мышиный король\"",
+      "correct": [
+        "Мари",
+        "Щелкунчик",
+        "Фриц",
+        "Мышиный король"
+      ],
+      "wrong": [
+        "Ева",
+        "Иван"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "Упомянутые авторы",
+      "correct": [
+        "Гоголь",
+        "Гофман",
+        "Андерсен"
+      ],
+      "wrong": [
+        "Пушкин",
+        "Гауф",
+        "Некрасов"
+      ],
+      "timer": 30
+    }
+  ]
+}
