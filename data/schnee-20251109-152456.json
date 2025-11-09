@@ -1,0 +1,50 @@
+{
+  "language": "de",
+  "font": "Montserrat",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 6,
+  "style": {
+    "shape": "rect",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/NM12z67t/oskolki-1.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 0,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 190
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "\"Glaskörner vom Zauberspiegel\"",
+    "btnText": "LOS!"
+  },
+  "direction": "down",
+  "finalFeedback": "Fertig!",
+  "levels": [
+    {
+      "target": "Schnee",
+      "correct": [
+        "Flocke",
+        "Mann",
+        "Ball",
+        "Fall",
+        "Sturm",
+        "Landschaft",
+        "Pflug",
+        "Schaufel",
+        "Hase",
+        "Königin"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/cCxCkVLm/oskolki-2.png"
+      ],
+      "timer": 30
+    }
+  ]
+}
