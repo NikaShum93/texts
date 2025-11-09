@@ -1,0 +1,107 @@
+{
+  "language": "en",
+  "font": "Montserrat",
+  "fontSize": 25,
+  "textColor": "#181616",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 38,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/g271j89H/acetone-2025119-142533-848.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Irregular verbs",
+    "btnText": "Start"
+  },
+  "direction": "up",
+  "finalFeedback": "Well done!",
+  "levels": [
+    {
+      "target": "Irregular verbs",
+      "correct": [
+        "go",
+        "see",
+        "eat",
+        "drink",
+        "take",
+        "give",
+        "find",
+        "make",
+        "come",
+        "have",
+        "get",
+        "say",
+        "buy",
+        "think",
+        "run"
+      ],
+      "wrong": [
+        "play",
+        "walk",
+        "watch",
+        "talk",
+        "clean",
+        "open",
+        "close",
+        "cook",
+        "dance",
+        "jump",
+        "wash",
+        "start",
+        "finish",
+        "look",
+        "visit"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "Regular verbs",
+      "correct": [
+        "play",
+        "walk",
+        "watch",
+        "talk",
+        "clean",
+        "open",
+        "close",
+        "cook",
+        "dance",
+        "jump",
+        "wash",
+        "start",
+        "finish",
+        "look",
+        "visit"
+      ],
+      "wrong": [
+        "go",
+        "see",
+        "eat",
+        "drink",
+        "take",
+        "give",
+        "find",
+        "make",
+        "come",
+        "have",
+        "get",
+        "say",
+        "buy",
+        "think",
+        "run"
+      ],
+      "timer": 30
+    }
+  ]
+}
