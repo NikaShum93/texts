@@ -1,0 +1,50 @@
+{
+  "language": "ru",
+  "font": "Montserrat",
+  "fontSize": 24,
+  "textColor": "#dae1db",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 65,
+    "bgColor": "#ffffff",
+    "bgImage": "https://i.postimg.cc/nLkrXgQM/2.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#829a7e",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 100
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Правописание Н и НН в разных частях речи",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Ты молодец! Так держать!",
+  "levels": [
+    {
+      "target": "Найди слова с одной буквой Н",
+      "correct": [
+        "кожа_ый",
+        "ветре_ый",
+        "льня_ой",
+        "беше_ый",
+        "кова_ый",
+        "костя_ой",
+        "ю_ый"
+      ],
+      "wrong": [
+        "стекля_ый",
+        "дли_ый",
+        "оловя_ый",
+        "медле_ый"
+      ],
+      "timer": 30
+    }
+  ]
+}
