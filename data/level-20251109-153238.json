@@ -1,0 +1,57 @@
+{
+  "language": "ru",
+  "font": "Montserrat",
+  "fontSize": 24,
+  "textColor": "#490279",
+  "speed": 5,
+  "style": {
+    "shape": "circle",
+    "pad": 10,
+    "bgColor": "#ffffff",
+    "bgImage": "",
+    "borderOn": true,
+    "borderColor": "#ffffff",
+    "borderWidth": 3,
+    "shadow": false,
+    "glow": true,
+    "glowColor": "#c5a0da",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 150
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Зима",
+    "btnText": "Старт"
+  },
+  "direction": "up",
+  "finalFeedback": "Отличная работа!",
+  "levels": [
+    {
+      "target": "зимние слова",
+      "correct": [
+        "Снег",
+        "Мороз",
+        "Лёд",
+        "Санки",
+        "Шарф",
+        "Зима",
+        "Шапка",
+        "Каток",
+        "Иней",
+        "Метель",
+        "Холод",
+        "Снежок",
+        "Лыжи",
+        "Коньки",
+        "Пурга"
+      ],
+      "wrong": [
+        "Весна",
+        "Лето",
+        "Жара"
+      ],
+      "timer": 30
+    }
+  ]
+}
