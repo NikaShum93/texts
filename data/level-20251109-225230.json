@@ -1,0 +1,57 @@
+{
+  "language": "ru",
+  "font": "Montserrat",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "style": {
+    "shape": "rounded",
+    "pad": 50,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/FRW3HLNV/Plusevaa-snezinka.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Игра \" Снегопад \".",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Отличная работа!",
+  "levels": [
+    {
+      "target": "Кликни на снежинки с  картинками на звук ЛЬ.",
+      "correct": [
+        "[url=https://postimg.cc/HjxpsrW9][img]https://i.postimg.cc/HjxpsrW9/33.png[/img][/url]",
+        "[url=https://postimg.cc/t7TXCsRB][img]https://i.postimg.cc/t7TXCsRB/34.png[/img][/url]",
+        "[url=https://postimg.cc/V56YLJs7][img]https://i.postimg.cc/V56YLJs7/35.png[/img][/url]",
+        "[url=https://postimg.cc/LhXH6J4N][img]https://i.postimg.cc/LhXH6J4N/36.png[/img][/url]",
+        "[url=https://postimg.cc/Yj9pqv2D][img]https://i.postimg.cc/Yj9pqv2D/37.png[/img][/url]",
+        "[url=https://postimg.cc/rzm8FDyP][img]https://i.postimg.cc/rzm8FDyP/39.png[/img][/url]",
+        "[url=https://postimg.cc/fkLwTVW1][img]https://i.postimg.cc/fkLwTVW1/40.png[/img][/url]",
+        "[url=https://postimg.cc/grJYkxc5][img]https://i.postimg.cc/grJYkxc5/41.png[/img][/url]",
+        "[url=https://postimg.cc/qgRkMNBF][img]https://i.postimg.cc/qgRkMNBF/42.png[/img][/url]",
+        "[url=https://postimg.cc/QVtXxFNR][img]https://i.postimg.cc/QVtXxFNR/43.png[/img][/url]",
+        "[url=https://postimg.cc/Yjst4tj8][img]https://i.postimg.cc/Yjst4tj8/44.png[/img][/url]"
+      ],
+      "wrong": [
+        "[url=https://postimg.cc/SJ9bJ8Bj][img]https://i.postimg.cc/SJ9bJ8Bj/45.png[/img][/url]",
+        "[url=https://postimg.cc/8jvgjW26][img]https://i.postimg.cc/8jvgjW26/46.png[/img][/url]",
+        "[url=https://postimg.cc/hfmRfxkX][img]https://i.postimg.cc/hfmRfxkX/47.png[/img][/url]",
+        "[url=https://postimg.cc/dLCcLdb7][img]https://i.postimg.cc/dLCcLdb7/48.png[/img][/url]",
+        "[url=https://postimg.cc/QH7ZH525][img]https://i.postimg.cc/QH7ZH525/49.png[/img][/url]",
+        "[url=https://postimg.cc/4mcRmtDp][img]https://i.postimg.cc/4mcRmtDp/50.png[/img][/url]",
+        "[url=https://postimg.cc/ykRCk9MX][img]https://i.postimg.cc/ykRCk9MX/98.png[/img][/url]"
+      ],
+      "timer": 149
+    }
+  ]
+}
