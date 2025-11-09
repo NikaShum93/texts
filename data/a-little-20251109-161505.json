@@ -1,0 +1,79 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 25,
+    "bgColor": "#1a1a1a",
+    "bgImage": "",
+    "borderOn": true,
+    "borderColor": "#ffffff",
+    "borderWidth": 0,
+    "shadow": true,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 0,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "A little\\ A few",
+    "btnText": "Start"
+  },
+  "direction": "down",
+  "finalFeedback": "Well done!",
+  "levels": [
+    {
+      "target": "A little",
+      "correct": [
+        "https://i.postimg.cc/dtmf2pzf/10.png",
+        "https://i.postimg.cc/X7cPfmTT/12.png",
+        "https://i.postimg.cc/YqfP6Z5c/13.png",
+        "https://i.postimg.cc/3JCqXVPs/14.png",
+        "https://i.postimg.cc/c4MzR2py/16.png",
+        "https://i.postimg.cc/fTjPcp6g/6.png",
+        "https://i.postimg.cc/02d4YFLX/8.png",
+        "https://i.postimg.cc/7YMR3dpW/9.png"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/3JBL4pvq/1.png",
+        "https://i.postimg.cc/9FpxRT9V/11.png",
+        "https://i.postimg.cc/SNrZ289S/15.png",
+        "https://i.postimg.cc/Yq3XGgWZ/2.png",
+        "https://i.postimg.cc/jdX8wN79/3.png",
+        "https://i.postimg.cc/vHzPg9VC/4.png",
+        "https://i.postimg.cc/5N3PYvCh/5.png",
+        "https://i.postimg.cc/vHzPg9ny/7.png"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "A few",
+      "correct": [
+        "https://i.postimg.cc/3JBL4pvq/1.png",
+        "https://i.postimg.cc/9FpxRT9V/11.png",
+        "https://i.postimg.cc/SNrZ289S/15.png",
+        "https://i.postimg.cc/Yq3XGgWZ/2.png",
+        "https://i.postimg.cc/jdX8wN79/3.png",
+        "https://i.postimg.cc/vHzPg9VC/4.png",
+        "https://i.postimg.cc/5N3PYvCh/5.png",
+        "https://i.postimg.cc/vHzPg9ny/7.png"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/dtmf2pzf/10.png",
+        "https://i.postimg.cc/X7cPfmTT/12.png",
+        "https://i.postimg.cc/YqfP6Z5c/13.png",
+        "https://i.postimg.cc/3JCqXVPs/14.png",
+        "https://i.postimg.cc/c4MzR2py/16.png",
+        "https://i.postimg.cc/fTjPcp6g/6.png",
+        "https://i.postimg.cc/02d4YFLX/8.png",
+        "https://i.postimg.cc/7YMR3dpW/9.png"
+      ],
+      "timer": 30
+    }
+  ]
+}
