@@ -1,0 +1,62 @@
+{
+  "language": "en",
+  "font": "Poppins",
+  "fontSize": 24,
+  "textColor": "#000000",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 56,
+    "bgColor": "#1a1a1a",
+    "bgImage": "<img data-cy=\"imageItemImg\" src=\"https://img.genially.com/65ca81292d14b0001ebfb2fe/6faa114a-f4b2-486e-8a22-cc1361e837b1.png\" alt=\"\" style=\"position: relative; width: 100%; height: 100%; transform: rotate(0deg);\">",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": true,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Collect the eggs!",
+    "btnText": "Start!"
+  },
+  "direction": "down",
+  "finalFeedback": "Well done, sweetheart!",
+  "levels": [
+    {
+      "target": "the right words",
+      "correct": [
+        "playing",
+        "doing",
+        "running",
+        "sleeping",
+        "cooking",
+        "making",
+        "painting",
+        "dancing",
+        "watering",
+        "cutting"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/6TsSkdNT/1.png",
+        "https://i.postimg.cc/15w5fBXr/2.png",
+        "https://i.postimg.cc/YSqpDw3X/3.png",
+        "cuting",
+        "standding",
+        "emptyying",
+        "cleanning",
+        "gooing",
+        "makeing",
+        "bakeing",
+        "cookking",
+        "singging",
+        "feedding"
+      ],
+      "timer": 30
+    }
+  ]
+}
