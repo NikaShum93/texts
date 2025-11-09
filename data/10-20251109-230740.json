@@ -1,0 +1,63 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 40,
+  "textColor": "#ffffff",
+  "speed": 2,
+  "style": {
+    "shape": "rounded",
+    "pad": 50,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/FHySJqhj/Multasnyj-list.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#ffea00",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 210
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Счёт",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Молодец!",
+  "levels": [
+    {
+      "target": "Поймай примеры, с ответом 10",
+      "correct": [
+        "6+4",
+        "7+3",
+        "2+8",
+        "4+6",
+        "3+7",
+        "8+2",
+        "6+4",
+        "5+5",
+        "1+9",
+        "6+4",
+        "7+3",
+        "2+8",
+        "4+6",
+        "3+7",
+        "8+2",
+        "6+4",
+        "5+5",
+        "1+9"
+      ],
+      "wrong": [
+        "3+6",
+        "7+2",
+        "3+5",
+        "3+4",
+        "5+4",
+        "5+3"
+      ],
+      "timer": 30
+    }
+  ]
+}
