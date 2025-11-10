@@ -1,0 +1,59 @@
+{
+  "language": "math",
+  "font": "Rubik",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 4,
+  "style": {
+    "shape": "rounded",
+    "pad": 120,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/N05HbFx8/Plusevyj-list-1.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Арифметический квадратный корень",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Отличная работа!",
+  "levels": [
+    {
+      "target": "Верные",
+      "correct": [
+        "\\sqrt{49} = 7",
+        "\\sqrt{16} = 4",
+        "\\sqrt{121} = 11",
+        "\\sqrt{0} = 0",
+        "\\sqrt{81} = 9",
+        "\\sqrt{25} = 5",
+        "\\sqrt{36} = 6",
+        "\\sqrt{4} = 2",
+        "\\sqrt{100} = 10",
+        "\\sqrt{144} = 12"
+      ],
+      "wrong": [
+        "\\sqrt{25} = 6",
+        "\\sqrt{36} = 9",
+        "\\sqrt{49} = 8",
+        "\\sqrt{64} = 5",
+        "\\sqrt{81} = 6",
+        "\\sqrt{100} = 8",
+        "\\sqrt{121} = 10",
+        "\\sqrt{4} = 3",
+        "\\sqrt{16} = 2",
+        "\\sqrt{144} = 13"
+      ],
+      "timer": 20
+    }
+  ]
+}
