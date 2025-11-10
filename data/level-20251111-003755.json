@@ -1,0 +1,52 @@
+{
+  "language": "ru",
+  "font": "Lobster",
+  "fontSize": 30,
+  "textColor": "#1a1919",
+  "speed": 2,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/9F9xJ99S/IMG-20241013-105536-751.pnghttps://i.postimg.cc/WbZ9XZZY/IMG-20241013-105532-706.png",
+    "borderOn": false,
+    "borderColor": "#121212",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Привидения",
+    "btnText": "Бооо...."
+  },
+  "direction": "up",
+  "finalFeedback": "Боооо....",
+  "levels": [
+    {
+      "target": "нас",
+      "correct": [
+        "4х3",
+        "5х4",
+        "4х8",
+        "7х4",
+        "4х6",
+        "6х4",
+        "9х4",
+        "4х9",
+        "4х4",
+        "3Х4",
+        "8х4",
+        "9х4",
+        "7х4",
+        "4х7"
+      ],
+      "wrong": [],
+      "timer": 40
+    }
+  ]
+}
