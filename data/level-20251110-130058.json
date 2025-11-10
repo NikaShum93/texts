@@ -1,0 +1,70 @@
+{
+  "language": "ru",
+  "font": "Open Sans",
+  "fontSize": 35,
+  "textColor": "#d92626",
+  "speed": 4,
+  "style": {
+    "shape": "rounded",
+    "pad": 60,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/X7hZwY0j/1.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 180
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Игра \"Весенние цветы\"",
+    "btnText": "Старт"
+  },
+  "direction": "down",
+  "finalFeedback": "Отлично!",
+  "levels": [
+    {
+      "target": "слова с разделительным ь",
+      "correct": [
+        "вьюга",
+        "пью",
+        "друзья",
+        "соловьи",
+        "семья",
+        "колье"
+      ],
+      "wrong": [
+        "съем",
+        "объём",
+        "подъезд",
+        "разъём",
+        "въезд"
+      ],
+      "timer": 40
+    },
+    {
+      "target": "разделительный ъ",
+      "correct": [
+        "съем",
+        "объём",
+        "подъезд",
+        "разъём",
+        "въезд",
+        "подъём"
+      ],
+      "wrong": [
+        "вьюга",
+        "пью",
+        "друзья",
+        "соловьи",
+        "семья",
+        "колье"
+      ],
+      "timer": 40
+    }
+  ]
+}
