@@ -1,0 +1,52 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 40,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 30,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/FHySJqhj/Multasnyj-list.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "",
+    "btnText": ""
+  },
+  "direction": "down",
+  "finalFeedback": "Молодец!",
+  "levels": [
+    {
+      "target": "примеры",
+      "correct": [
+        "7+5",
+        "4+8",
+        "5+7",
+        "6+8",
+        "8+9",
+        "6+7",
+        "5+6",
+        "4+9",
+        "5+9",
+        "8+5",
+        "6+8",
+        "3+9",
+        "7+4",
+        "8+7"
+      ],
+      "wrong": [],
+      "timer": 40
+    }
+  ]
+}
