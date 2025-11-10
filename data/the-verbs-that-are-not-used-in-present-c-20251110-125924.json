@@ -1,0 +1,56 @@
+{
+  "language": "en",
+  "font": "Poppins",
+  "fontSize": 24,
+  "textColor": "#444444",
+  "speed": 4,
+  "style": {
+    "shape": "rounded",
+    "pad": 80,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/63HgyS44/1.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 0,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Stative verbs",
+    "btnText": "Start!"
+  },
+  "direction": "down",
+  "finalFeedback": "Well done!",
+  "levels": [
+    {
+      "target": "the verbs that are not used in Present Continuous",
+      "correct": [
+        "like",
+        "love",
+        "hate",
+        "know",
+        "understand",
+        "need",
+        "want"
+      ],
+      "wrong": [
+        "clean",
+        "wash",
+        "sweep",
+        "vacuum",
+        "dust",
+        "enjoy",
+        "cook",
+        "iron",
+        "make",
+        "load"
+      ],
+      "timer": 60
+    }
+  ]
+}
