@@ -1,0 +1,83 @@
+{
+  "language": "en",
+  "font": "Indie Flower",
+  "fontSize": 23,
+  "textColor": "#3b248f",
+  "speed": 4,
+  "style": {
+    "shape": "rounded",
+    "pad": 78,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/2yWLSRMP/Dizajn-bez-nazvania-6.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 210
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Present Simple & Present Continuous",
+    "btnText": "Start"
+  },
+  "direction": "up",
+  "finalFeedback": "Well done!",
+  "levels": [
+    {
+      "target": "Present Simple",
+      "correct": [
+        "plays",
+        "chases",
+        "tries",
+        "speak",
+        "appears",
+        "have",
+        "laughs",
+        "do",
+        "does"
+      ],
+      "wrong": [
+        "are painting",
+        "am looking for",
+        "is falling",
+        "am walking",
+        "are watching",
+        "is running",
+        "is",
+        "are",
+        "am"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "Present Continuous",
+      "correct": [
+        "are painting",
+        "am looking for",
+        "is falling",
+        "am walking",
+        "are watching",
+        "is running",
+        "is",
+        "are",
+        "am"
+      ],
+      "wrong": [
+        "plays",
+        "chases",
+        "tries",
+        "speak",
+        "appears",
+        "have",
+        "laughs",
+        "do",
+        "does"
+      ],
+      "timer": 30
+    }
+  ]
+}
