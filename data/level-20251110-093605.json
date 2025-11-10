@@ -1,0 +1,50 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 2,
+  "style": {
+    "shape": "rounded",
+    "pad": 49,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/QN6fd9nb/22.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 150
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Игра \" Дождь\".",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Молодец!",
+  "levels": [
+    {
+      "target": "капли и назови картинки, выделяя голосом звук Ж.",
+      "correct": [
+        "https://i.postimg.cc/RVg8nppn/31.png",
+        "https://i.postimg.cc/QxfPWYYp/32.png",
+        "https://i.postimg.cc/mghn33Kt/33.png",
+        "https://i.postimg.cc/4xn0vvjn/34.png",
+        "https://i.postimg.cc/Gm9fPP64/35.png",
+        "https://i.postimg.cc/fRkP7719/36.png",
+        "https://i.postimg.cc/JztF33SH/37.png",
+        "https://i.postimg.cc/g2r7yy1X/38.png",
+        "https://i.postimg.cc/Bntz55R1/39.png",
+        "https://i.postimg.cc/DwmNQQR1/40.png",
+        "https://i.postimg.cc/0yr4GGhY/41.png",
+        "https://i.postimg.cc/mghn33K3/42.png"
+      ],
+      "wrong": [],
+      "timer": 62
+    }
+  ]
+}
