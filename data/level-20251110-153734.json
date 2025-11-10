@@ -1,0 +1,54 @@
+{
+  "language": "math",
+  "font": "",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 4,
+  "style": {
+    "shape": "rounded",
+    "pad": 68,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/bJg1q9nD/Chat-GPT-Image-7-noab-2025-g-23-03-23-1.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 180
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Игра \"Арифметический квадратный корень\"",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Отличная работа!!!",
+  "levels": [
+    {
+      "target": "верные \\ равенства",
+      "correct": [
+        "\\sqrt{169} = 13",
+        "\\sqrt{0,36} = 0,6",
+        "\\sqrt{1,44} = 1,2",
+        "\\sqrt{0,0025} = 0,05",
+        "\\sqrt{\\tfrac{81}{121}} = \\tfrac{9}{11}",
+        "\\sqrt{\\tfrac{1}{289}} = \\tfrac{1}{17}",
+        "\\sqrt{49} = 7",
+        "\\sqrt{0,25} = 0,5",
+        "\\sqrt{0,81} = 0,9",
+        "\\sqrt{0,64} = 0,8"
+      ],
+      "wrong": [
+        "\\sqrt{0,144} = 0,12",
+        "\\sqrt{\\tfrac{81}{121}} = -\\tfrac{9}{11}",
+        "\\sqrt{0,36} = 0,06",
+        "\\sqrt{0,64} = 0,08",
+        "\\sqrt{0,25} = - 0,5"
+      ],
+      "timer": 40
+    }
+  ]
+}
