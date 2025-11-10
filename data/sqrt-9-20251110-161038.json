@@ -1,0 +1,41 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/64233afb55129a0017751c8e/1632ce60-eecb-451e-be96-379a81c1be4c.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Листопад",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "",
+  "levels": [
+    {
+      "target": "\\sqrt{9}",
+      "correct": [
+        "\\sqrt{9}",
+        "\\sqrt{5}",
+        "\\sqrt{3}"
+      ],
+      "wrong": [],
+      "timer": 30
+    }
+  ]
+}
