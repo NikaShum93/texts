@@ -1,0 +1,86 @@
+{
+  "language": "ru",
+  "font": "Rubik",
+  "fontSize": 58,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "style": {
+    "shape": "rect",
+    "pad": 29,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/tC5Y14vP/image-no-bg-preview-carve-photos-2025-11-10T120730-845.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 180
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Город Умножения",
+    "btnText": "Начать"
+  },
+  "direction": "up",
+  "finalFeedback": "Отличная работа!",
+  "levels": [
+    {
+      "target": "умножение на 2",
+      "correct": [
+        "1 × 2",
+        "2 × 3",
+        "3 × 2",
+        "4 × 2",
+        "5 × 2",
+        "6 × 2",
+        "7 × 2",
+        "8 × 2",
+        "9 × 2",
+        "10 × 2"
+      ],
+      "wrong": [
+        "3 × 4",
+        "5 × 3",
+        "9 × 6",
+        "7 × 5",
+        "4 × 8",
+        "6 × 9",
+        "3 × 7",
+        "8 × 4",
+        "9 × 5",
+        "7 × 3"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "деление на 2",
+      "correct": [
+        "4 ÷ 2",
+        "6 ÷ 3",
+        "8 ÷ 4",
+        "10 ÷ 5",
+        "12 ÷ 6",
+        "14 ÷ 7",
+        "16 ÷ 8",
+        "18 ÷ 9",
+        "20 ÷ 10"
+      ],
+      "wrong": [
+        "9 ÷ 3",
+        "12 ÷ 4",
+        "15 ÷ 3",
+        "18 ÷ 6",
+        "25 ÷ 5",
+        "21 ÷ 7",
+        "24 ÷ 8",
+        "30 ÷ 6",
+        "27 ÷ 3",
+        "70 ÷ 10"
+      ],
+      "timer": 30
+    }
+  ]
+}
