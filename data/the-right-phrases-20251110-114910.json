@@ -1,0 +1,60 @@
+{
+  "language": "en",
+  "font": "Poppins",
+  "fontSize": 24,
+  "textColor": "#000000",
+  "speed": 5,
+  "style": {
+    "shape": "rounded",
+    "pad": 70,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/nzNk7zC5/10.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 0,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 200
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Phrases with 'time'",
+    "btnText": "Start!"
+  },
+  "direction": "up",
+  "finalFeedback": "Well done!",
+  "levels": [
+    {
+      "target": "the right phrases",
+      "correct": [
+        "ahead of time",
+        "all the time",
+        "at the best of times",
+        "at the same time",
+        "at one time",
+        "before my time",
+        "behind the times",
+        "for the time being",
+        "from time to time",
+        "in next to no time",
+        "in the course of time",
+        "in the nick of time"
+      ],
+      "wrong": [
+        "after my time",
+        "before of time",
+        "for the time",
+        "in the call of time",
+        "in one time",
+        "since time to time",
+        "at same time",
+        "whole the time",
+        "in the nik of time"
+      ],
+      "timer": 60
+    }
+  ]
+}
