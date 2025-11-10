@@ -1,0 +1,68 @@
+{
+  "language": "ru",
+  "font": "Open Sans",
+  "fontSize": 50,
+  "textColor": "#f03c00",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 60,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/kgM5fJSq/1.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 180
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Буквы а или я",
+    "btnText": ""
+  },
+  "direction": "down",
+  "finalFeedback": "Отличная работа!",
+  "levels": [
+    {
+      "target": "А",
+      "correct": [],
+      "wrong": [
+        "р_бчик",
+        "зар_дка",
+        "пл_ж",
+        "гор_чий",
+        "гр_зный",
+        "пор_док",
+        "хр_щики"
+      ],
+      "timer": 40
+    },
+    {
+      "target": "Я",
+      "correct": [
+        "р_бчик",
+        "зар_дка",
+        "пл_ж",
+        "гор_чий",
+        "гр_зный",
+        "пор_док",
+        "хр_щики"
+      ],
+      "wrong": [
+        "поч_ток",
+        "курч_вый",
+        "ч_сики",
+        "рощ_",
+        "щ_вель",
+        "площ_дка",
+        "крич_ть",
+        "ворч_ть"
+      ],
+      "timer": 40
+    }
+  ]
+}
