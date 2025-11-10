@@ -1,0 +1,42 @@
+{
+  "language": "ru",
+  "font": "Marck Script",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 4,
+  "style": {
+    "shape": "rounded",
+    "pad": 37,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/bJg1q9nD/Chat-GPT-Image-7-noab-2025-g-23-03-23-1.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 170
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Игра \"Арифметический квадратный корень\"",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Отличная работа!!!",
+  "levels": [
+    {
+      "target": "верные равенства",
+      "correct": [
+        "\\sqrt{169} = 13",
+        "\\sqrt{144} = 14"
+      ],
+      "wrong": [
+        "2"
+      ],
+      "timer": 40
+    }
+  ]
+}
