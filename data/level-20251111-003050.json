@@ -1,0 +1,51 @@
+{
+  "language": "ru",
+  "font": "Rubik",
+  "fontSize": 50,
+  "textColor": "#101665",
+  "speed": 2,
+  "style": {
+    "shape": "rounded",
+    "pad": 66,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/zvVT6C66/8.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 180
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Существительные Р. п., ед.ч.",
+    "btnText": ""
+  },
+  "direction": "down",
+  "finalFeedback": "Отличная работа!",
+  "levels": [
+    {
+      "target": "Р.п.",
+      "correct": [
+        "от берега",
+        "до машины",
+        "у дерева",
+        "из дома",
+        "для мамы",
+        "около осины",
+        "без зонтика",
+        "возле школы"
+      ],
+      "wrong": [
+        "через поле",
+        "на столе",
+        "в школе",
+        "в лесу"
+      ],
+      "timer": 30
+    }
+  ]
+}
