@@ -1,0 +1,77 @@
+{
+  "language": "ru",
+  "font": "Open Sans",
+  "fontSize": 24,
+  "textColor": "#1142d4",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/6pvxwFnV/Snezinka.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 0,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Буквы и или ы",
+    "btnText": ""
+  },
+  "direction": "down",
+  "finalFeedback": "Отличная работа!",
+  "levels": [
+    {
+      "target": "Буква И",
+      "correct": [
+        "пруж_на",
+        "м_рный",
+        "сл_ток",
+        "держ_",
+        "заж_м",
+        "ж_тель",
+        "спеш_л",
+        "ош_бка",
+        "тур_ст"
+      ],
+      "wrong": [
+        "коп_то",
+        "м_льница",
+        "с_рок",
+        "детён_ш",
+        "пр_галки",
+        "кр_ша"
+      ],
+      "timer": 40
+    },
+    {
+      "target": "Буква Ы",
+      "correct": [
+        "коп_то",
+        "м_льница",
+        "с_рок",
+        "детён_ш",
+        "пр_галки",
+        "кр_ша"
+      ],
+      "wrong": [
+        "пруж_на",
+        "м_рный",
+        "сл_ток",
+        "держ_",
+        "заж_м",
+        "ж_тель",
+        "спеш_л",
+        "ош_бка",
+        "тур_ст"
+      ],
+      "timer": 39
+    }
+  ]
+}
