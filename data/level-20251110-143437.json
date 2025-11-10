@@ -1,0 +1,67 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 40,
+  "textColor": "#ffffff",
+  "speed": 2,
+  "style": {
+    "shape": "rounded",
+    "pad": 30,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/FHySJqhj/Multasnyj-list.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "",
+    "btnText": ""
+  },
+  "direction": "down",
+  "finalFeedback": "Молодец!",
+  "levels": [
+    {
+      "target": "СЛОГИ С Е",
+      "correct": [
+        "МЕ",
+        "СЕ",
+        "ВЕ",
+        "ПЕ",
+        "КЕ",
+        "ТЕ",
+        "ПЕ",
+        "ВЕ",
+        "ЛЕ",
+        "ДЕ",
+        "ГЕ",
+        "ЗЕ",
+        "НЕ",
+        "ТЕ",
+        "ФЕ"
+      ],
+      "wrong": [
+        "СО",
+        "ВУ",
+        "ПУ",
+        "КО",
+        "ТО",
+        "ПЫ",
+        "ВЫ",
+        "ДА",
+        "ДО",
+        "ГО",
+        "ГУ",
+        "НУ",
+        "НО"
+      ],
+      "timer": 40
+    }
+  ]
+}
