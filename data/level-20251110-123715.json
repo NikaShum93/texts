@@ -1,0 +1,55 @@
+{
+  "language": "ru",
+  "font": "Marck Script",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 4,
+  "style": {
+    "shape": "rounded",
+    "pad": 39,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/bJg1q9nD/Chat-GPT-Image-7-noab-2025-g-23-03-23-1.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 150
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Игра \"Вставь пропущенную букву\"",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Отличная работа!!!",
+  "levels": [
+    {
+      "target": "слова с ПРЕ-",
+      "correct": [
+        "пр_рогатива",
+        "пр_амбула",
+        "пр_поны",
+        "пр_дел",
+        "пр_тензия",
+        "пр_цедент",
+        "пр_мьера",
+        "пр_грешения",
+        "пр_стиж",
+        "пр_зидиум"
+      ],
+      "wrong": [
+        "пр_оритет",
+        "пр_вилегия",
+        "пр_баутка",
+        "пр_рода",
+        "пр_мер",
+        "пр_ятный"
+      ],
+      "timer": 30
+    }
+  ]
+}
