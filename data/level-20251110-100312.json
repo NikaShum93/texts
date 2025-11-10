@@ -1,0 +1,54 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 2,
+  "style": {
+    "shape": "rounded",
+    "pad": 46,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/JnDxGmYT/9.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 130
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Листопад",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Хорошо!",
+  "levels": [
+    {
+      "target": "листочки и называй слова, выделяя голосом звук Ш.",
+      "correct": [
+        "https://i.postimg.cc/C5vxXTSY/43.png",
+        "https://i.postimg.cc/hvCt6Wcc/44.png",
+        "https://i.postimg.cc/RCGhNffN/45.png",
+        "https://i.postimg.cc/Kj98wSxm/46.png",
+        "https://i.postimg.cc/sfKxvSS1/47.png",
+        "https://i.postimg.cc/zDpvVWWb/48.png",
+        "https://i.postimg.cc/FFGz7ccL/49.png",
+        "https://i.postimg.cc/3r9NdppD/50.png",
+        "https://i.postimg.cc/zDpvVWWh/51.png",
+        "https://i.postimg.cc/xjg8cHHH/52.png",
+        "https://i.postimg.cc/MZtHvRRy/53.png",
+        "https://i.postimg.cc/QNSCH55Q/54.png",
+        "https://i.postimg.cc/bYLrsbbR/55.png",
+        "https://i.postimg.cc/fW5yJXXK/56.png",
+        "https://i.postimg.cc/3r9Ndppt/57.png",
+        "https://i.postimg.cc/pVkrp88q/58.png"
+      ],
+      "wrong": [],
+      "timer": 60
+    }
+  ]
+}
