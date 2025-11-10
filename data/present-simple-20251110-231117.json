@@ -1,0 +1,53 @@
+{
+  "language": "en",
+  "font": "Anton",
+  "fontSize": 26,
+  "textColor": "#ffffff",
+  "speed": 4,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/DzwjNBbV/Dizajn-bez-nazvania-5.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 0,
+    "imgBox": 180
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Present Simple & Present Continuous",
+    "btnText": "Start"
+  },
+  "direction": "up",
+  "finalFeedback": "Well done!",
+  "levels": [
+    {
+      "target": "Present Simple",
+      "correct": [
+        "plays",
+        "chases",
+        "tries",
+        "speak",
+        "appears",
+        "have",
+        "laughs"
+      ],
+      "wrong": [
+        "are painting",
+        "am looking for",
+        "is falling",
+        "am walking",
+        "is humming",
+        "are watching",
+        "is running"
+      ],
+      "timer": 30
+    }
+  ]
+}
