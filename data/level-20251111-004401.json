@@ -1,0 +1,48 @@
+{
+  "language": "ru",
+  "font": "Open Sans",
+  "fontSize": 70,
+  "textColor": "#2d0b0b",
+  "speed": 2,
+  "style": {
+    "shape": "rounded",
+    "pad": 70,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/qqy5h6xR/9.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 180
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Существительные Д. п., ед.ч.",
+    "btnText": ""
+  },
+  "direction": "down",
+  "finalFeedback": "Отличная работа!",
+  "levels": [
+    {
+      "target": "Д. п.",
+      "correct": [
+        "к самолёту",
+        "по тропинке",
+        "к брату",
+        "по линейке",
+        "по лыжне"
+      ],
+      "wrong": [
+        "в бинокль",
+        "про собаку",
+        "над крышей",
+        "между гор"
+      ],
+      "timer": 30
+    }
+  ]
+}
