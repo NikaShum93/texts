@@ -1,0 +1,80 @@
+{
+  "language": "en",
+  "font": "Poppins",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/tTjx0yd0/Baloo.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 200
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Reading U",
+    "btnText": "Start"
+  },
+  "direction": "down",
+  "finalFeedback": "Great job!",
+  "levels": [
+    {
+      "target": "Close",
+      "correct": [
+        "cup",
+        "bus",
+        "sun",
+        "run",
+        "fun",
+        "cut",
+        "mud",
+        "gum",
+        "hug",
+        "pot"
+      ],
+      "wrong": [],
+      "timer": 30
+    },
+    {
+      "target": "Open",
+      "correct": [
+        "use",
+        "cute",
+        "cube",
+        "huge",
+        "mule",
+        "tube",
+        "muse",
+        "fuse"
+      ],
+      "wrong": [],
+      "timer": 30
+    },
+    {
+      "target": "Reading U",
+      "correct": [
+        "cube",
+        "sun",
+        "mule",
+        "fun",
+        "tube",
+        "hug",
+        "cute",
+        "run",
+        "fuse",
+        "mud"
+      ],
+      "wrong": [],
+      "timer": 30
+    }
+  ]
+}
