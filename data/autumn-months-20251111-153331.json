@@ -1,0 +1,135 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 29,
+  "textColor": "#0c17b0",
+  "speed": 2,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#67bbd0",
+    "bgImage": "https://i.postimg.cc/7h7n2Kmz/Bez-nazvania-Publikacia-v-Facebook-2.png",
+    "borderOn": false,
+    "borderColor": "#0bfafe",
+    "borderWidth": 0,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#66ff00",
+    "fx3d": false,
+    "opacity": 0,
+    "imgBox": 210
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Months",
+    "btnText": "Start"
+  },
+  "direction": "down",
+  "finalFeedback": "Well Done!",
+  "levels": [
+    {
+      "target": "Autumn Months",
+      "correct": [
+        "September",
+        "October",
+        "November",
+        "September",
+        "October",
+        "November",
+        "September",
+        "October",
+        "November"
+      ],
+      "wrong": [
+        "February",
+        "July",
+        "March",
+        "April",
+        "December",
+        "June",
+        "May",
+        "January",
+        "August"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "Summer Months",
+      "correct": [
+        "June",
+        "July",
+        "August",
+        "June",
+        "July",
+        "August",
+        "June",
+        "July",
+        "August"
+      ],
+      "wrong": [
+        "February",
+        "October",
+        "December",
+        "May",
+        "January",
+        "March",
+        "April",
+        "November",
+        "September"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "Winter months",
+      "correct": [
+        "December",
+        "January",
+        "February",
+        "December",
+        "January",
+        "February",
+        "December",
+        "January",
+        "February"
+      ],
+      "wrong": [
+        "April",
+        "August",
+        "October",
+        "July",
+        "May",
+        "March",
+        "November",
+        "June",
+        "September"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "Spring months",
+      "correct": [
+        "March",
+        "April",
+        "May",
+        "March",
+        "April",
+        "May",
+        "March",
+        "April",
+        "May"
+      ],
+      "wrong": [
+        "August",
+        "November",
+        "September",
+        "January",
+        "October",
+        "December",
+        "February",
+        "June",
+        "July"
+      ],
+      "timer": 30
+    }
+  ]
+}
