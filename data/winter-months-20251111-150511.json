@@ -1,0 +1,43 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 29,
+  "textColor": "#ffffff",
+  "speed": 2,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/Ls48rhPc/4.png",
+    "borderOn": true,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": true,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 210
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Months",
+    "btnText": "Start"
+  },
+  "direction": "down",
+  "finalFeedback": "Well Done!",
+  "levels": [
+    {
+      "target": "Winter Months",
+      "correct": [
+        "September",
+        "October",
+        "November"
+      ],
+      "wrong": [
+        "February, July, March, April, December, June, May, January, August"
+      ],
+      "timer": 30
+    }
+  ]
+}
