@@ -1,0 +1,53 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 2,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/Ls48rhPc/4.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 0,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 0,
+    "imgBox": 190
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Autumn Months",
+    "btnText": "Start"
+  },
+  "direction": "down",
+  "finalFeedback": "Well Done!",
+  "levels": [
+    {
+      "target": "Autumn months",
+      "correct": [
+        "September",
+        "October",
+        "November",
+        "September",
+        "October",
+        "November"
+      ],
+      "wrong": [
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August"
+      ],
+      "timer": 30
+    }
+  ]
+}
