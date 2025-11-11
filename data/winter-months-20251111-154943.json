@@ -1,0 +1,123 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 24,
+  "textColor": "#808b74",
+  "speed": 2,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/ZqdQcx7x/Untitled-design-8.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 0,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Months",
+    "btnText": "Start"
+  },
+  "direction": "down",
+  "finalFeedback": "Well Done!",
+  "levels": [
+    {
+      "target": "Winter months",
+      "correct": [
+        "December",
+        "January",
+        "February",
+        "December",
+        "January",
+        "February"
+      ],
+      "wrong": [
+        "April",
+        "August",
+        "October",
+        "July",
+        "May",
+        "March",
+        "November",
+        "June",
+        "September"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "Spring months",
+      "correct": [
+        "March",
+        "April",
+        "May",
+        "March",
+        "April",
+        "May"
+      ],
+      "wrong": [
+        "August",
+        "November",
+        "September",
+        "January",
+        "October",
+        "December",
+        "February",
+        "June",
+        "July"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "Summer months",
+      "correct": [
+        "June",
+        "July",
+        "August",
+        "June",
+        "July",
+        "August"
+      ],
+      "wrong": [
+        "February",
+        "October",
+        "December",
+        "May",
+        "January",
+        "March",
+        "April",
+        "November",
+        "September"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "Autumn months",
+      "correct": [
+        "September",
+        "October",
+        "November",
+        "September",
+        "October",
+        "November"
+      ],
+      "wrong": [
+        "February",
+        "July",
+        "March",
+        "April",
+        "December",
+        "June",
+        "May",
+        "January",
+        "August"
+      ],
+      "timer": 30
+    }
+  ]
+}
