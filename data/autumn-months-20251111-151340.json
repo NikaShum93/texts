@@ -1,0 +1,111 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 29,
+  "textColor": "#5541e6",
+  "speed": 2,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/SQLCFYYm/6.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 0,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 210
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Months",
+    "btnText": "Start"
+  },
+  "direction": "down",
+  "finalFeedback": "Well Done!",
+  "levels": [
+    {
+      "target": "Autumn Months",
+      "correct": [
+        "September",
+        "October",
+        "November"
+      ],
+      "wrong": [
+        "February",
+        "July",
+        "March",
+        "April",
+        "December",
+        "June",
+        "May",
+        "January",
+        "August"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "Summer Months",
+      "correct": [
+        "June",
+        "July",
+        "August"
+      ],
+      "wrong": [
+        "February",
+        "October",
+        "December",
+        "May",
+        "January",
+        "March",
+        "April",
+        "November",
+        "September"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "Winter months",
+      "correct": [
+        "December",
+        "January",
+        "February"
+      ],
+      "wrong": [
+        "April",
+        "August",
+        "October",
+        "July",
+        "May",
+        "March",
+        "November",
+        "June",
+        "September"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "Spring months",
+      "correct": [
+        "March",
+        "April",
+        "May"
+      ],
+      "wrong": [
+        "August",
+        "November",
+        "September",
+        "January",
+        "October",
+        "December",
+        "February",
+        "June",
+        "July"
+      ],
+      "timer": 30
+    }
+  ]
+}
