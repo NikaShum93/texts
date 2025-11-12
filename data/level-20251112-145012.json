@@ -1,0 +1,50 @@
+{
+  "language": "ru",
+  "font": "Montserrat",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 4,
+  "style": {
+    "shape": "rounded",
+    "pad": 70,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/8Cky0jRz/Chat-GPT-Image-12-noab-2025-g-14-45-25.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 200
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Однокоренные слова",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Отличная работа!",
+  "levels": [
+    {
+      "target": "Лови тучки, на которых написаны родственные слова к слову \"голубь\"",
+      "correct": [
+        "голубиный",
+        "голубятня",
+        "голубятник",
+        "голубушка",
+        "голубок",
+        "голубёнок"
+      ],
+      "wrong": [
+        "голубеть",
+        "голубизна",
+        "голубоватый",
+        "голубенький",
+        "голубой"
+      ],
+      "timer": 40
+    }
+  ]
+}
