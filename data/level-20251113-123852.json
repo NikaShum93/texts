@@ -1,0 +1,60 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 70,
+  "textColor": "#0f0000",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 60,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/vDF8vgdn/Chat-GPT-Image-13-noab-2025-g-12-36-48.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 180
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Слоги",
+    "btnText": ""
+  },
+  "direction": "up",
+  "finalFeedback": "Супер!⭐",
+  "levels": [
+    {
+      "target": "слоги с буквой З",
+      "correct": [
+        "ЗА",
+        "ЗО",
+        "ЗУ",
+        "ЗЫ",
+        "ЗЕ",
+        "ЗИ",
+        "АЗ",
+        "ОЗ",
+        "УЗ",
+        "ЫЗ",
+        "ИЗ"
+      ],
+      "wrong": [
+        "ПА",
+        "ВО",
+        "СУ",
+        "РИ",
+        "МЕ",
+        "ЛУ",
+        "ТЫ"
+      ],
+      "timer": 60
+    }
+  ]
+}
