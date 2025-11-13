@@ -1,0 +1,51 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "style": {
+    "shape": "rounded",
+    "pad": 50,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://media.tenor.com/vNt9uh2QMDIAAAAi/entrepreneur-startup.gif",
+      "https://media.tenor.com/Atle_ETw8H0AAAAi/kstr-kochstrasse.gif"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 250
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "",
+    "btnText": ""
+  },
+  "direction": "down",
+  "finalFeedback": "",
+  "levels": [
+    {
+      "target": "s",
+      "correct": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "wrong": [
+        "vxsb",
+        "sgb",
+        "svvgs"
+      ],
+      "timer": 30
+    }
+  ]
+}
