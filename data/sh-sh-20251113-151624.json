@@ -1,0 +1,59 @@
+{
+  "language": "en",
+  "font": "Playfair Display",
+  "fontSize": 28,
+  "textColor": "#000000",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/RhWtpbbs/Untitled-design-9.png",
+      "https://i.postimg.cc/hGRHSkLh/Untitled-design-10.png"
+    ],
+    "bgImage": "",
+    "borderOn": true,
+    "borderColor": "#ffffff",
+    "borderWidth": 0,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 0,
+    "imgBox": 260
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Glowworm",
+    "btnText": "Start"
+  },
+  "direction": "up",
+  "finalFeedback": "Well Done!",
+  "levels": [
+    {
+      "target": "SH, sh",
+      "correct": [
+        "sh",
+        "SH"
+      ],
+      "wrong": [
+        "ch",
+        "CH"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "CH, ch",
+      "correct": [
+        "CH",
+        "ch"
+      ],
+      "wrong": [
+        "SH",
+        "sh"
+      ],
+      "timer": 30
+    }
+  ]
+}
