@@ -1,0 +1,53 @@
+{
+  "language": "en",
+  "font": "Poppins",
+  "fontSize": 24,
+  "textColor": "#444444",
+  "speed": 5,
+  "style": {
+    "shape": "rounded",
+    "pad": 80,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/HkGnHNR3/1.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 0,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Food",
+    "btnText": "Start!"
+  },
+  "direction": "down",
+  "finalFeedback": "Well done!",
+  "levels": [
+    {
+      "target": "click on all the fruit",
+      "correct": [
+        "apple",
+        "orange",
+        "banana",
+        "grapefruit",
+        "pear",
+        "lemon",
+        "grapes"
+      ],
+      "wrong": [
+        "potatoes",
+        "tomatoes",
+        "cucumber",
+        "ham",
+        "salad",
+        "tuna",
+        "bread"
+      ],
+      "timer": 60
+    }
+  ]
+}
