@@ -1,0 +1,14 @@
+{
+  "listA": [
+    "cat",
+    "dog",
+    "see",
+    "wow",
+    "good"
+  ],
+  "listB": [],
+  "freeMode": false,
+  "feedback": "Wow!",
+  "language": "en",
+  "mathMode": false
+}
