@@ -1,0 +1,56 @@
+{
+  "language": "ru",
+  "font": "Rubik",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 23,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/52JYpYf0/Risunok3.png",
+      "https://i.postimg.cc/qMjC7B8P/Risunok5.png",
+      "https://i.postimg.cc/kGdq9S1d/Risunok4.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#fafafa",
+    "borderWidth": 0,
+    "shadow": true,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 190
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Пой все слова с буквой Ч",
+    "btnText": "Старт"
+  },
+  "direction": "down",
+  "finalFeedback": "Отличная работа!",
+  "levels": [
+    {
+      "target": "буква Ч",
+      "correct": [
+        "час",
+        "дочь",
+        "дача",
+        "ранчо",
+        "куча",
+        "луч"
+      ],
+      "wrong": [
+        "кот",
+        "дом",
+        "мода",
+        "парк",
+        "сок",
+        "перо"
+      ],
+      "timer": 60
+    }
+  ]
+}
