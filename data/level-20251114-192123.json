@@ -1,0 +1,55 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 40,
+  "textColor": "#2d2506",
+  "speed": 2,
+  "style": {
+    "shape": "rounded",
+    "pad": 51,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/j5C4K835/Risunok7.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#fafafa",
+    "borderWidth": 0,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 130
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "БУКВА \"Ч\"",
+    "btnText": "Старт"
+  },
+  "direction": "down",
+  "finalFeedback": "Отличная работа!",
+  "levels": [
+    {
+      "target": "слова с буквой Ч",
+      "correct": [
+        "час",
+        "дочь",
+        "дача",
+        "ранчо",
+        "куча",
+        "луч",
+        "чисто"
+      ],
+      "wrong": [
+        "кот",
+        "дом",
+        "мода",
+        "парк",
+        "сок",
+        "перо"
+      ],
+      "timer": 50
+    }
+  ]
+}
