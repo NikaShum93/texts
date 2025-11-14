@@ -1,0 +1,50 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 1,
+  "style": {
+    "shape": "rounded",
+    "pad": 120,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/1XRyn74L/7836ba1035f5fc11d6597b3a68db540c-no-bg-preview-carve-photos.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 180
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Animals + like",
+    "btnText": "Start"
+  },
+  "direction": "down",
+  "finalFeedback": "Well done!",
+  "levels": [
+    {
+      "target": "Make a sentence",
+      "correct": [
+        "https://i.postimg.cc/vH1pqdRN/1.png",
+        "https://i.postimg.cc/y8c2KX8g/2.png",
+        "https://i.postimg.cc/pLz3vYLC/3.png",
+        "https://i.postimg.cc/3xmzhCxg/4.png",
+        "https://i.postimg.cc/L8LGSB8t/5.png",
+        "https://i.postimg.cc/fbspRtVv/6.png",
+        "https://i.postimg.cc/Zqm25BWV/7.png",
+        "https://i.postimg.cc/6QKgp281/8.png",
+        "https://i.postimg.cc/DzhHwJWV/9.png"
+      ],
+      "wrong": [],
+      "timer": 300
+    }
+  ]
+}
