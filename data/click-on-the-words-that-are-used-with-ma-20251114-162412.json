@@ -1,0 +1,85 @@
+{
+  "language": "en",
+  "font": "Poppins",
+  "fontSize": 24,
+  "textColor": "#444444",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 65,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/HkGnHNR3/1.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 0,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 110
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "make or do",
+    "btnText": "Start!"
+  },
+  "direction": "down",
+  "finalFeedback": "You are doing great!",
+  "levels": [
+    {
+      "target": "click on the words that are used with make",
+      "correct": [
+        "effort",
+        "money",
+        "friends",
+        "noise",
+        "a decision",
+        "a fool of",
+        "a difference",
+        "fun",
+        "sense",
+        "your bed",
+        "up one's mind"
+      ],
+      "wrong": [
+        "homework",
+        "experiment",
+        "duty",
+        "favour",
+        "job",
+        "well",
+        "duty",
+        "badly"
+      ],
+      "timer": 45
+    },
+    {
+      "target": "choose words that are used with do",
+      "correct": [
+        "homework",
+        "experiment",
+        "duty",
+        "favour",
+        "job",
+        "well",
+        "duty",
+        "badly"
+      ],
+      "wrong": [
+        "effort",
+        "money",
+        "friends",
+        "noise",
+        "a decision",
+        "a fool of",
+        "a difference",
+        "fun",
+        "sense",
+        "your bed",
+        "up one's mind"
+      ],
+      "timer": 45
+    }
+  ]
+}
