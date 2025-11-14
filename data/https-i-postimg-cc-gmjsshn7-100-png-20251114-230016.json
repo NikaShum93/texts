@@ -1,0 +1,35 @@
+{
+  "listA": [
+    "https://i.postimg.cc/GmJsSHn7/100.png",
+    "https://i.postimg.cc/L8BZ0nFQ/101.png",
+    "https://i.postimg.cc/L8BZ0nF0/102.png",
+    "https://i.postimg.cc/jSQJkLYB/103.png",
+    "https://i.postimg.cc/P5z8FPng/105.png",
+    "https://i.postimg.cc/cJx8q0dD/106.png",
+    "https://i.postimg.cc/GmJsSH10/107.png",
+    "https://i.postimg.cc/kgFthBPQ/94.png",
+    "https://i.postimg.cc/T3qWHpvJ/95.png",
+    "https://i.postimg.cc/XYcyDp68/96.png",
+    "https://i.postimg.cc/sg9Z0vCT/97.png",
+    "https://i.postimg.cc/9QtqNrH1/98.png",
+    "https://i.postimg.cc/y8XSrkCf/99.png"
+  ],
+  "listB": [
+    "открытка",
+    "эльф",
+    "пряник",
+    "шар",
+    "карусель",
+    "свитер",
+    "Дед Мороз",
+    "подарок",
+    "звезда",
+    "коробка",
+    "мандарин",
+    "гирлянда"
+  ],
+  "freeMode": true,
+  "feedback": "Поздравляем!",
+  "language": "ru",
+  "mathMode": false
+}
