@@ -1,0 +1,55 @@
+{
+  "language": "en",
+  "font": "Special Elite",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/5NHV1q8b/Dizajn-bez-nazvania-(67).png",
+      "https://i.postimg.cc/SRPbCJbm/Dizajn-bez-nazvania-(68).png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": true,
+    "opacity": 1,
+    "imgBox": 170
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "",
+    "btnText": ""
+  },
+  "direction": "down",
+  "finalFeedback": "",
+  "levels": [
+    {
+      "target": "irregular verbs",
+      "correct": [
+        "teach",
+        "steal",
+        "catch",
+        "tell",
+        "pay",
+        "wear",
+        "bring"
+      ],
+      "wrong": [
+        "hurry",
+        "want",
+        "need",
+        "carry",
+        "change"
+      ],
+      "timer": 30
+    }
+  ]
+}
