@@ -1,0 +1,36 @@
+{
+  "listA": [
+    "Family 👨‍👩‍👧‍👦",
+    "The Kitchen 🧑‍🍳",
+    "Small town 🏡",
+    "Turkey 🦃",
+    "Cranberry Sauce 🔴🥫",
+    "Pumpkin Pie 🥧",
+    "Autumn leaves 🍂🍁",
+    "Secret recipe 🤫📜",
+    "Pecan Pie🌰🥧",
+    "Whipped Cream☁️🥛",
+    "Sweet Potatoes🍠🍯",
+    "Grateful 🙏"
+  ],
+  "listB": [
+    "A great starting point for any Thanksgiving tale.",
+    "Where all the magic happens!",
+    "Sets a cozy",
+    "familiar atmosphere.",
+    "The main star!",
+    "A classic",
+    "sometimes polarizing",
+    "dish",
+    "The beloved dessert.",
+    "Describe the beautiful fall weather.",
+    "A mystery to solve or discover",
+    "Put on a pie.",
+    "Tasty and sweet.",
+    "The core emotion of the day."
+  ],
+  "freeMode": true,
+  "feedback": "Good job! Thank you!",
+  "language": "en",
+  "mathMode": false
+}
