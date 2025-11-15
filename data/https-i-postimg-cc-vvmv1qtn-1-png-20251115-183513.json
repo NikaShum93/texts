@@ -1,0 +1,38 @@
+{
+  "listA": [
+    "https://i.postimg.cc/Vvmv1qtn/1.png",
+    "https://i.postimg.cc/sf41mLFV/10.png",
+    "https://i.postimg.cc/c1B6hzq1/11.png",
+    "https://i.postimg.cc/Wpwt8yR3/12.png",
+    "https://i.postimg.cc/xj3q5Zrq/13.png",
+    "https://i.postimg.cc/Bb4bsTFF/14.png",
+    "https://i.postimg.cc/90C0Vd9G/2.png",
+    "https://i.postimg.cc/7hwhD3zS/3.png",
+    "https://i.postimg.cc/2yG651dW/4.png",
+    "https://i.postimg.cc/4yPd3Yvz/5.png",
+    "https://i.postimg.cc/D06ZzSQC/6.png",
+    "https://i.postimg.cc/fyCLbV72/7.png",
+    "https://i.postimg.cc/Wz834dmx/8.png",
+    "https://i.postimg.cc/d3610hRb/9.png"
+  ],
+  "listB": [
+    "too",
+    "enough",
+    "enough",
+    "too",
+    "enough",
+    "enough",
+    "enough",
+    "too",
+    "too",
+    "too",
+    "too",
+    "too",
+    "too",
+    "enough"
+  ],
+  "freeMode": true,
+  "feedback": "Great! You are the best!",
+  "language": "en",
+  "mathMode": false
+}
