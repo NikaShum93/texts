@@ -1,0 +1,52 @@
+{
+  "language": "en",
+  "font": "Marck Script",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 0,
+    "imgBox": 260
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Crack the code",
+    "btnText": "START"
+  },
+  "direction": "down",
+  "finalFeedback": "Great!",
+  "levels": [
+    {
+      "target": "irregular verbs",
+      "correct": [
+        "https://i.postimg.cc/Jn51bmRR/58.png",
+        "https://i.postimg.cc/nzpxV5q8/59.png",
+        "https://i.postimg.cc/RVNB0wJK/60.png",
+        "https://i.postimg.cc/TPXMQS77/61.png",
+        "https://i.postimg.cc/3xmzy18k/62.png",
+        "https://i.postimg.cc/63jPs10g/63.png",
+        "https://i.postimg.cc/3xhQFVb8/67.png"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/W1LHPZGj/64.png",
+        "https://i.postimg.cc/3w9Spbzz/65.png",
+        "https://i.postimg.cc/PJv2gfNH/66.png",
+        "https://i.postimg.cc/QCP1rcwP/Dizajn-bez-nazvania-(69).png",
+        "https://i.postimg.cc/QCP1rcwP/Dizajn-bez-nazvania-(69).png"
+      ],
+      "timer": 30
+    }
+  ]
+}
