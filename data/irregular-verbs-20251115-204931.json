@@ -1,0 +1,65 @@
+{
+  "language": "en",
+  "font": "Marck Script",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 15,
+    "bgColor": "#1a1a1a",
+    "bgImages": [],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 0,
+    "imgBox": 260
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Crack the code",
+    "btnText": "START"
+  },
+  "direction": "down",
+  "finalFeedback": "Great!",
+  "levels": [
+    {
+      "target": "irregular verbs",
+      "correct": [
+        "https://i.postimg.cc/gJHhf5b1/58.png",
+        "https://i.postimg.cc/rmN4vbL6/59.png",
+        "https://i.postimg.cc/hj1mHwRH/60.png",
+        "https://i.postimg.cc/hj1mHwqg/61.png",
+        "https://i.postimg.cc/9MY9vSjC/62.png",
+        "https://i.postimg.cc/hj1mHwqD/63.png",
+        "https://i.postimg.cc/tTN6LfHX/64.png",
+        "https://i.postimg.cc/BbZFsgqG/65.png",
+        "https://i.postimg.cc/hv4mgrSS/66.png",
+        "https://i.postimg.cc/wMxNHV6g/67.png",
+        "https://i.postimg.cc/5y9z13x4/68.png",
+        "https://i.postimg.cc/3NrG7BKr/69.png",
+        "https://i.postimg.cc/sX4Wt8Cn/70.png",
+        "https://i.postimg.cc/Hx9MfK1q/71.png"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/3R0GwRp8/72.png",
+        "https://i.postimg.cc/NFhH2c7G/73.png",
+        "https://i.postimg.cc/brXtShHz/74.png",
+        "https://i.postimg.cc/5ycCQVq4/75.png",
+        "https://i.postimg.cc/SR0MYh7N/76.png",
+        "https://i.postimg.cc/XqMCBbcC/77.png",
+        "https://i.postimg.cc/d3MyZYmT/78.png",
+        "https://i.postimg.cc/3NMv0TCX/79.png",
+        "https://i.postimg.cc/02ZX1W0T/77.png",
+        "https://i.postimg.cc/Hs3v1ZtY/78.png",
+        "https://i.postimg.cc/ncTSfR1h/79.png"
+      ],
+      "timer": 45
+    }
+  ]
+}
