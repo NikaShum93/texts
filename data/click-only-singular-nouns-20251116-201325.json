@@ -1,0 +1,74 @@
+{
+  "language": "en",
+  "font": "Special Elite",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "style": {
+    "shape": "rect",
+    "pad": 40,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://img.genially.com/6194d67ad409c300134ac8b2/75b868f7-806d-4b6a-a82b-23b3af3890da.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 200
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "PLURALS",
+    "btnText": "START"
+  },
+  "direction": "down",
+  "finalFeedback": "GREAT JOB!",
+  "levels": [
+    {
+      "target": "Click only singular nouns!",
+      "correct": [
+        "cat",
+        "dog",
+        "pen",
+        "banana",
+        "burger",
+        "pencil"
+      ],
+      "wrong": [
+        "cats",
+        "dogs",
+        "pens",
+        "bananas",
+        "burgers",
+        "pencils"
+      ],
+      "timer": 40
+    },
+    {
+      "target": "Click only singular nouns!",
+      "correct": [
+        "cats",
+        "dogs",
+        "pens",
+        "bananas",
+        "burgers",
+        "pencils"
+      ],
+      "wrong": [
+        "cat",
+        "dog",
+        "pen",
+        "banana",
+        "burger",
+        "pencil"
+      ],
+      "timer": 40
+    }
+  ]
+}
