@@ -1,0 +1,30 @@
+{
+  "listA": [
+    "I ... at school. I am a teacher.",
+    "She ... in a hospital. She is a doctor.",
+    "He ... on his computer right now.",
+    "My brother ... me with English every day.",
+    "She ... her teacher now.",
+    "We ... to wash the classroom right now.",
+    "He ... us many times.",
+    "They ... me find my bag yesterday.",
+    "I ... you with your homework tomorrow.",
+    "I ... my parents in the garden every day."
+  ],
+  "listB": [
+    "work",
+    "works",
+    "is working",
+    "helps",
+    "is helping",
+    "are helping",
+    "has helped",
+    "helped",
+    "will help",
+    "help"
+  ],
+  "freeMode": true,
+  "feedback": "Well done! The ghost has disappeared.",
+  "language": "en",
+  "mathMode": false
+}
