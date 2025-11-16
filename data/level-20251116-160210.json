@@ -1,0 +1,62 @@
+{
+  "language": "ru",
+  "font": "Marck Script",
+  "fontSize": 36,
+  "textColor": "#ffe5e5",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 80,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/PJ00nQcP/20251116-1546-Festive-Burlap-Bag-simple-compose-01ka6b4z48ehp8ghntcrs0pdb5.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 140
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Игра Падежи",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Отличная работа!",
+  "levels": [
+    {
+      "target": "Родительный падеж",
+      "correct": [
+        "без снега",
+        "у леса",
+        "у домика",
+        "без ветра",
+        "без мороза",
+        "у тропинки",
+        "без снежинки",
+        "без следов",
+        "без звезды",
+        "без тепла"
+      ],
+      "wrong": [
+        "к снегу",
+        "по лесу",
+        "под домиком",
+        "в ветер",
+        "о морозе",
+        "со снежинкой",
+        "в тропинку",
+        "к теплу",
+        "со звёздами",
+        "про следы"
+      ],
+      "timer": 30
+    }
+  ]
+}
