@@ -1,0 +1,57 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 20,
+  "textColor": "#36a8d9",
+  "speed": 2,
+  "style": {
+    "shape": "rounded",
+    "pad": 65,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/tJYG7ZR5/Chat-GPT-Image-16-noab-2025-g-21-42-09.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 0,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 180
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Snowballs",
+    "btnText": "Start"
+  },
+  "direction": "up",
+  "finalFeedback": "S",
+  "levels": [
+    {
+      "target": "winter activity",
+      "correct": [
+        "make a snowman",
+        "play snowballs",
+        "skate",
+        "ski",
+        "snowboard",
+        "sledge",
+        "make snow castle",
+        "play hockey"
+      ],
+      "wrong": [
+        "play football",
+        "swim in the sea",
+        "eat ice cream",
+        "fly a kite",
+        "skateboard",
+        "go to school",
+        "sing songs"
+      ],
+      "timer": 30
+    }
+  ]
+}
