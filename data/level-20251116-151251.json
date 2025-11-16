@@ -1,0 +1,44 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "style": {
+    "shape": "rounded",
+    "pad": 71,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/nLy5Nrfk/Chat-GPT-Image-16-noab-2025-g-15-11-06.png"
+    ],
+    "bgImage": "",
+    "borderOn": true,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": true,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "",
+    "btnText": ""
+  },
+  "direction": "down",
+  "finalFeedback": "",
+  "levels": [
+    {
+      "target": "при",
+      "correct": [
+        "платить"
+      ],
+      "wrong": [
+        "тутуту"
+      ],
+      "timer": 30
+    }
+  ]
+}
