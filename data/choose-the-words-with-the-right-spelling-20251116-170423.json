@@ -1,0 +1,97 @@
+{
+  "language": "en",
+  "font": "Poppins",
+  "fontSize": 24,
+  "textColor": "#444444",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 65,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/mgyrSmtM/seedream-4-0-A-single-large-snowflake-designed-in-a-plush-soft-toy-style-Fluffy-fabric-textu-0.jpg",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 0,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 110
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Present Simple: -s ending",
+    "btnText": "Start!"
+  },
+  "direction": "down",
+  "finalFeedback": "You are doing great!",
+  "levels": [
+    {
+      "target": "choose the words with the right spelling",
+      "correct": [
+        "does",
+        "goes",
+        "watches",
+        "fixes",
+        "studies",
+        "flies",
+        "stays",
+        "goes",
+        "walks",
+        "sleeps",
+        "loses",
+        "learns",
+        "cooks",
+        "meets",
+        "wakes up",
+        "lives",
+        "likes"
+      ],
+      "wrong": [
+        "staies",
+        "losees",
+        "wake ups",
+        "flys",
+        "studys",
+        "fixs",
+        "watchs",
+        "dos",
+        "gos",
+        "livs",
+        "meetts",
+        "get ups",
+        "cookes"
+      ],
+      "timer": 60
+    },
+    {
+      "target": "choose right collocations",
+      "correct": [
+        "I walk",
+        "She fixes",
+        "Mum does",
+        "We go",
+        "They study",
+        "Alice cooks",
+        "We meet",
+        "She stays",
+        "I watch",
+        "He walks",
+        "My friend learns",
+        "My friends learn"
+      ],
+      "wrong": [
+        "She do",
+        "She dos",
+        "She and her mum cooks",
+        "We lives",
+        "They goes",
+        "She like",
+        "He drink",
+        "Ann play"
+      ],
+      "timer": 60
+    }
+  ]
+}
