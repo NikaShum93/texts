@@ -1,0 +1,54 @@
+{
+  "language": "en",
+  "font": "Open Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "style": {
+    "shape": "rect",
+    "pad": 22,
+    "bgColor": "#f5f4f4",
+    "bgImages": [
+      "https://i.postimg.cc/fTFnXmwj/Dizajn-bez-nazvania-(5).png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 180
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "PLURALS",
+    "btnText": "START"
+  },
+  "direction": "down",
+  "finalFeedback": "Great job!",
+  "levels": [
+    {
+      "target": "Click only singular nouns!",
+      "correct": [
+        "pen",
+        "cat",
+        "dog",
+        "book",
+        "banana",
+        "apple"
+      ],
+      "wrong": [
+        "dogs",
+        "cats",
+        "apples",
+        "bananas",
+        "pens",
+        "pencils"
+      ],
+      "timer": 40
+    }
+  ]
+}
