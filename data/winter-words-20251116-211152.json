@@ -1,0 +1,58 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 15,
+  "textColor": "#ffffff",
+  "speed": 2,
+  "style": {
+    "shape": "rounded",
+    "pad": 65,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/GppmC2w9/Chat-GPT-Image-16-noab-2025-g-20-59-55.png"
+    ],
+    "bgImage": "",
+    "borderOn": true,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": true,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 180
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Snowfall",
+    "btnText": "Start"
+  },
+  "direction": "down",
+  "finalFeedback": "P",
+  "levels": [
+    {
+      "target": "winter words",
+      "correct": [
+        "snow",
+        "snowman",
+        "snowflake",
+        "snowball",
+        "snow white",
+        "snow maid",
+        "winter",
+        "grandfather Frost"
+      ],
+      "wrong": [
+        "summer",
+        "flower",
+        "pencil case",
+        "school",
+        "science",
+        "sister",
+        "rubber",
+        "teacher"
+      ],
+      "timer": 30
+    }
+  ]
+}
