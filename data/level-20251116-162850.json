@@ -1,0 +1,62 @@
+{
+  "language": "ru",
+  "font": "Marck Script",
+  "fontSize": 32,
+  "textColor": "#ffe5e5",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 86,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/xd6SXHhQ/7.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 140
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Игра Падежи",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Отличная работа!",
+  "levels": [
+    {
+      "target": "Родительный падеж",
+      "correct": [
+        "без снега",
+        "у леса",
+        "у домика",
+        "без ветра",
+        "без мороза",
+        "у тропинки",
+        "без снежинки",
+        "без следов",
+        "без звезды",
+        "без тепла"
+      ],
+      "wrong": [
+        "к снегу",
+        "по лесу",
+        "под домиком",
+        "в ветер",
+        "о морозе",
+        "со снежинкой",
+        "в тропинку",
+        "к теплу",
+        "со звёздами",
+        "про следы"
+      ],
+      "timer": 30
+    }
+  ]
+}
