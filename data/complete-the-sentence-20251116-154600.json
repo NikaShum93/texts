@@ -1,0 +1,68 @@
+{
+  "language": "en",
+  "font": "Poppins",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 1,
+  "style": {
+    "shape": "rect",
+    "pad": 6,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/PrdcGNPs/pngtree-empty-plate-top-view-isolated-with-clipping-path-png-image-11475594.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 0,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 240
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "The cafe",
+    "btnText": "Start"
+  },
+  "direction": "down",
+  "finalFeedback": "Good job!",
+  "levels": [
+    {
+      "target": "Complete the sentence",
+      "correct": [
+        "___ we order pizza for dinner?",
+        "How ___ some ice cream after lunch?",
+        "Shall ___ make a fruit salad?",
+        "How about go___ to the café?",
+        "___ we try that new sushi place?",
+        "How ___ a cup of tea?",
+        "___ we cook pasta together?",
+        "How about hav___ breakfast on the balcony?",
+        "Shall ___ buy some fresh bread?",
+        "How about invit___ friends for a barbecue?"
+      ],
+      "wrong": [],
+      "timer": 150
+    },
+    {
+      "target": "Complete the sentence",
+      "correct": [
+        "___ there ___ butter in the fridge?",
+        "There ___ ___ apple on the desk.",
+        "There ___ ___ carrots in the soup.❌",
+        "___ there ___ rice in the pot?",
+        "There ___ ___ orange juice in the glass.",
+        "There ___ ___ egg in the box. It's empty. ❌",
+        "___ there ___ sandwiches left?",
+        "There ___ ___ banana in my bag.",
+        "There ___ ___ cake on the table. We ate it all. ❌",
+        "___ there ___ onion in the salad?"
+      ],
+      "wrong": [],
+      "timer": 150
+    }
+  ]
+}
