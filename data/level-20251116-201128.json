@@ -1,0 +1,62 @@
+{
+  "language": "ru",
+  "font": "Marck Script",
+  "fontSize": 36,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 96,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://img.genially.com/684ea2da1b51060014c50e97/445d5054-4230-40da-8941-601ec6e626b6.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 260
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Игра \"Падежи\"",
+    "btnText": ""
+  },
+  "direction": "down",
+  "finalFeedback": "Отличная работа!",
+  "levels": [
+    {
+      "target": "Винительный падеж",
+      "correct": [
+        "про снеговика",
+        "про пингвина",
+        "про лисёнка",
+        "про снежинку",
+        "на тропинку",
+        "сквозь воздух",
+        "про домик",
+        "свозь ветер",
+        "на лёд",
+        "про единорога"
+      ],
+      "wrong": [
+        "у снеговика",
+        "к домику",
+        "со снежинкой",
+        "о пингвине",
+        "без ветра",
+        "для лисёнка",
+        "под деревом",
+        "к морозу",
+        "о лесе",
+        "со звёздами"
+      ],
+      "timer": 30
+    }
+  ]
+}
