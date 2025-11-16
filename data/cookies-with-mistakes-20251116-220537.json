@@ -1,0 +1,49 @@
+{
+  "language": "en",
+  "font": "Montserrat",
+  "fontSize": 20,
+  "textColor": "#ffffff",
+  "speed": 2,
+  "style": {
+    "shape": "circle",
+    "pad": 5,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://img.genially.com/6573f8946d6d76001fe95399/32357cf1-f07d-4553-9e27-36f91df45ab8.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 260
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Click on the cookies with mistakes!",
+    "btnText": "Start"
+  },
+  "direction": "down",
+  "finalFeedback": "Good job!!",
+  "levels": [
+    {
+      "target": "cookies with mistakes",
+      "correct": [
+        "How much milk do you drink?",
+        "How many apples are on the table?",
+        "There is some bread in the kitchen.",
+        "There aren’t any bananas left.",
+        "She eats a lot of pasta.",
+        "How many eggs do we need?",
+        "How much sugar is in this cake?",
+        "We have some orange juice."
+      ],
+      "wrong": [],
+      "timer": 30
+    }
+  ]
+}
