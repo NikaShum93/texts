@@ -1,0 +1,46 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "style": {
+    "shape": "rounded",
+    "pad": 26,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://img.genially.com/64233afb55129a0017751c8e/aef65e40-bec8-4485-b3d6-4a3db840b700.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 190
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Ууу",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "вау",
+  "levels": [
+    {
+      "target": "1",
+      "correct": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "wrong": [],
+      "timer": 30
+    }
+  ]
+}
