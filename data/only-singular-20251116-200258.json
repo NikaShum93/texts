@@ -1,0 +1,52 @@
+{
+  "language": "en",
+  "font": "Open Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "style": {
+    "shape": "rect",
+    "pad": 120,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://img.genially.com/6194d67ad409c300134ac8b2/75b868f7-806d-4b6a-a82b-23b3af3890da.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 200
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "PLURALS",
+    "btnText": "START"
+  },
+  "direction": "down",
+  "finalFeedback": "GREAT JOB!",
+  "levels": [
+    {
+      "target": "ONLY SINGULAR",
+      "correct": [
+        "cat",
+        "dog",
+        "pen",
+        "banana",
+        "burger"
+      ],
+      "wrong": [
+        "cats",
+        "dogs",
+        "pens",
+        "bananas",
+        "burgers"
+      ],
+      "timer": 30
+    }
+  ]
+}
