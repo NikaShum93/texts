@@ -1,0 +1,83 @@
+{
+  "language": "en",
+  "font": "Montserrat",
+  "fontSize": 18,
+  "textColor": "#ffffff",
+  "speed": 1,
+  "style": {
+    "shape": "circle",
+    "pad": 5,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://img.genially.com/6573f8946d6d76001fe95399/32357cf1-f07d-4553-9e27-36f91df45ab8.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 150
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Quantifiers",
+    "btnText": "Start"
+  },
+  "direction": "down",
+  "finalFeedback": "Good job!!",
+  "levels": [
+    {
+      "target": "cookies with mistakes (how much / how many)",
+      "correct": [
+        "How much bananas are there?",
+        "How many cheese is in the fridge?",
+        "How many tea do you drink?",
+        "How much tomatoes are there?",
+        "How much plates do we have?",
+        "How many flour does he have?",
+        "How many meat would you like?",
+        "How much cupcakes do you need?"
+      ],
+      "wrong": [
+        "How much milk do you drink?",
+        "How many apples are on the table?",
+        "How many eggs do we need?",
+        "How much sugar is in this cake?",
+        "How much bread do we have?",
+        "How many oranges are there?",
+        "How much salt do I need?",
+        "How many cups are there in the cupboard?"
+      ],
+      "timer": 151
+    },
+    {
+      "target": "cookies with mistakes (some / any / a lot of)",
+      "correct": [
+        "I don't have some cheese.",
+        "We need any milk.",
+        "He has some apple.",
+        "I don't have some bread.",
+        "We need a lot of drink.",
+        "There aren't some ice-cream.",
+        "There are any fish.",
+        "Can I have any water?"
+      ],
+      "wrong": [
+        "We have some orange juice.",
+        "I don’t want any soup.",
+        "He buys a lot of vegetables.",
+        "They need some cheese.",
+        "We don’t have any rice.",
+        "She drinks a lot of coffee.",
+        "Can I have some tea?",
+        "There aren’t any tomatoes.",
+        "We made a lot of salad."
+      ],
+      "timer": 150
+    }
+  ]
+}
