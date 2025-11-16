@@ -1,0 +1,44 @@
+{
+  "language": "ru",
+  "font": "Marck Script",
+  "fontSize": 42,
+  "textColor": "#142966",
+  "speed": 3,
+  "style": {
+    "shape": "rect",
+    "pad": 118,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/NFBsTYbj/20251116-1517-Magical-Snowflake-Compass-simple-compose-01ka69g6zxevdtynajd3a5zgda.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 170
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Игра \"Падежи\"",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Отличная работа!",
+  "levels": [
+    {
+      "target": "при",
+      "correct": [
+        "платить"
+      ],
+      "wrong": [
+        "тутуту"
+      ],
+      "timer": 30
+    }
+  ]
+}
