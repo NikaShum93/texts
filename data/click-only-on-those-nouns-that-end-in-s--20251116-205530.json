@@ -1,0 +1,88 @@
+{
+  "language": "en",
+  "font": "Special Elite",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "style": {
+    "shape": "rect",
+    "pad": 40,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://img.genially.com/6194d67ad409c300134ac8b2/c323621b-9b5b-41bd-8d25-6db0161d2ffe.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 200
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "PLURALS ENDINGS",
+    "btnText": "START"
+  },
+  "direction": "down",
+  "finalFeedback": "GREAT JOB!",
+  "levels": [
+    {
+      "target": "Click only on those nouns that end in -s in the plural!",
+      "correct": [
+        "cat",
+        "dog",
+        "pen",
+        "banana",
+        "burger",
+        "pencil",
+        "cake",
+        "chair",
+        "chick",
+        "egg",
+        "rabbit",
+        "tree",
+        "ant"
+      ],
+      "wrong": [
+        "box",
+        "glass",
+        "sandwich",
+        "fox",
+        "beach",
+        "dish"
+      ],
+      "timer": 40
+    },
+    {
+      "target": "Click only on those nouns that end in -es in the plural!",
+      "correct": [
+        "box",
+        "glass",
+        "sandwich",
+        "fox",
+        "beach",
+        "dish"
+      ],
+      "wrong": [
+        "cat",
+        "dog",
+        "pen",
+        "banana",
+        "burger",
+        "pencil",
+        "cake",
+        "chair",
+        "chick",
+        "egg",
+        "rabbit",
+        "tree",
+        "ant"
+      ],
+      "timer": 30
+    }
+  ]
+}
