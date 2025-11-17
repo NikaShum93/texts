@@ -1,0 +1,50 @@
+{
+  "language": "ru",
+  "font": "Lobster",
+  "fontSize": 45,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 59,
+    "bgColor": "#ffd894",
+    "bgImages": [
+      "https://i.postimg.cc/L8h8jPGn/fresh-pumpkin-white-b.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 4,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#fefac8",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Листопад",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Молодец!",
+  "levels": [
+    {
+      "target": "6",
+      "correct": [
+        "3+3",
+        "5+1",
+        "4+2",
+        "6+0"
+      ],
+      "wrong": [
+        "2+2",
+        "1+4",
+        "2+8",
+        "8+1"
+      ],
+      "timer": 30
+    }
+  ]
+}
