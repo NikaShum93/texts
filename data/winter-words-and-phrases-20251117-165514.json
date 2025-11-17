@@ -1,0 +1,69 @@
+{
+  "language": "en",
+  "font": "Indie Flower",
+  "fontSize": 24,
+  "textColor": "#00bfc2",
+  "speed": 5,
+  "style": {
+    "shape": "rounded",
+    "pad": 32,
+    "bgColor": "#ffffff",
+    "bgImages": [
+      "https://img.genially.com/64233afb55129a0017751c8e/a7076efa-cb0e-4c4b-994b-0a56bae82f1d.gif"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#00ffe1",
+    "borderWidth": 3,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Winter",
+    "btnText": "Start"
+  },
+  "direction": "down",
+  "finalFeedback": "You really know everything about winter!",
+  "levels": [
+    {
+      "target": "winter words and phrases",
+      "correct": [
+        "go skiing 🎿",
+        "go snowboarding 🏂",
+        "build a snowman ⛄",
+        "have a snowball fight ❄️",
+        "make snow angels 👼",
+        "stay inside and play board games 🎲",
+        "go ice skating ⛸️",
+        "sit by the fireplace 🔥",
+        "decorate a Christmas tree 🎄",
+        "wear warm clothes 🧣",
+        "drink hot cocoa ☕",
+        "December",
+        "January",
+        "Febrary"
+      ],
+      "wrong": [
+        "May",
+        "November",
+        "June",
+        "March",
+        "April",
+        "September",
+        "October",
+        "go swimming 🏊‍♀️",
+        "go to the beach 🏖️",
+        "build sandcastles 🏰",
+        "collect colourful leaves 🍁",
+        "plant flowers 🌷",
+        "fly a kite 🪁"
+      ],
+      "timer": 60
+    }
+  ]
+}
