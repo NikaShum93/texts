@@ -1,0 +1,142 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 24,
+  "textColor": "#1f4903",
+  "speed": 5,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://img.genially.com/67961b32a116fb001568a75e/6d2166b2-8353-449e-af9b-2b5adcc5eab8.png",
+      "https://img.genially.com/67961b32a116fb001568a75e/d010054e-f4a5-4d46-b3b7-0a3333efaafc.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 200
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Gather the corn",
+    "btnText": "START"
+  },
+  "direction": "down",
+  "finalFeedback": "Great harvest!",
+  "levels": [
+    {
+      "target": "Thanksgiving vocabulary-1",
+      "correct": [
+        "Thanksgiving",
+        "Pilgrims",
+        "Harvest",
+        "Feast",
+        "Corn",
+        "Turkey",
+        "Pumpkin",
+        "Cornbread",
+        "Family",
+        "Dinner",
+        "Celebrate",
+        "Thankful",
+        "Autumn",
+        "Meal",
+        "Tradition",
+        "Help",
+        "Table",
+        "Together"
+      ],
+      "wrong": [
+        "Rainbow",
+        "Mountain",
+        "Robot",
+        "Window",
+        "Backpack",
+        "Ocean",
+        "Clock",
+        "Airplane"
+      ],
+      "timer": 20
+    },
+    {
+      "target": "Thanksgiving vocabulary-2",
+      "correct": [
+        "Thanksgiving",
+        "Pilgrims",
+        "Harvest",
+        "Pumpkin pie",
+        "Feast",
+        "Corn",
+        "Turkey",
+        "Pumpkin",
+        "Cornbread",
+        "Family",
+        "Dinner",
+        "Celebrate",
+        "Thankful",
+        "Autumn",
+        "Meal",
+        "Tradition",
+        "Help",
+        "Table",
+        "Together"
+      ],
+      "wrong": [
+        "Butterfly",
+        "Pencil",
+        "Bridge",
+        "Forest",
+        "Camera",
+        "Rocket",
+        "Pillow",
+        "Train"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "Thanksgiving vocabulary-3",
+      "correct": [
+        "Thanksgiving",
+        "Pilgrims",
+        "Harvest",
+        "Feast",
+        "Corn",
+        "Turkey",
+        "Pumpkin",
+        "Cornbread",
+        "Family",
+        "Dinner",
+        "Celebrate",
+        "Thankful",
+        "Autumn",
+        "Meal",
+        "Tradition",
+        "Help",
+        "Table",
+        "Together",
+        "Pumpkin pie",
+        "Cranberries",
+        "Sharing",
+        "Invite"
+      ],
+      "wrong": [
+        "Cloud",
+        "Bicycle",
+        "Garden",
+        "Moon",
+        "Sandwich",
+        "Island",
+        "Glasses",
+        "Lighthouse"
+      ],
+      "timer": 40
+    }
+  ]
+}
