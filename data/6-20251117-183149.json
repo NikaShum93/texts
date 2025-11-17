@@ -1,0 +1,48 @@
+{
+  "language": "ru",
+  "font": "Cormorant",
+  "fontSize": 58,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 45,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/L8h8jPGn/fresh-pumpkin-white-b.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Примеры",
+    "btnText": "начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Молодец!",
+  "levels": [
+    {
+      "target": "6",
+      "correct": [
+        "3+3",
+        "5+1",
+        "6+0"
+      ],
+      "wrong": [
+        "4+4",
+        "5-2",
+        "9-3"
+      ],
+      "timer": 30
+    }
+  ]
+}
