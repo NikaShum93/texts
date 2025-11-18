@@ -1,0 +1,45 @@
+{
+  "language": "en",
+  "font": "Marck Script",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 2,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 0,
+    "imgBox": 140
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Crack the code",
+    "btnText": "START"
+  },
+  "direction": "down",
+  "finalFeedback": "Great!",
+  "levels": [
+    {
+      "target": "irregular verbs",
+      "correct": [
+        "https://img.genially.com/6728e881ebc5420015e1f3ec/97b8cf17-073d-4774-81a6-92c983f29cc0.gif",
+        "https://img.genially.com/6728e881ebc5420015e1f3ec/50df0d04-babe-4803-8d4c-57903a855f2e.gif"
+      ],
+      "wrong": [
+        "https://img.genially.com/6728e881ebc5420015e1f3ec/557a987a-792c-4c2a-b937-b6d3d10d7c6a.gif",
+        "https://img.genially.com/6728e881ebc5420015e1f3ec/7396005b-34b9-49b7-b06d-8facd0c6ceda.gif",
+        "https://img.genially.com/6728e881ebc5420015e1f3ec/17f0d34c-60e5-4a22-8a82-5562f61da92a.gif"
+      ],
+      "timer": 45
+    }
+  ]
+}
