@@ -1,0 +1,41 @@
+{
+  "language": "en",
+  "font": "Marck Script",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 1,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 0,
+    "imgBox": 230
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Crack the code",
+    "btnText": "START"
+  },
+  "direction": "down",
+  "finalFeedback": "Ok! Your first number is 7",
+  "levels": [
+    {
+      "target": "irregular verbs",
+      "correct": [
+        "https://img.genially.com/6728e881ebc5420015e1f3ec/7a45fb1b-cd70-42a7-9eea-c930b8e983e5.gif",
+        "https://img.genially.com/6728e881ebc5420015e1f3ec/14fe0805-af1f-4bce-a7e7-73f03fac5a8d.gif"
+      ],
+      "wrong": [],
+      "timer": 45
+    }
+  ]
+}
