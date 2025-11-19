@@ -1,0 +1,57 @@
+{
+  "language": "en",
+  "font": "Poppins",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 4,
+  "style": {
+    "shape": "rounded",
+    "pad": 24,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://img.genially.com/6194d67ad409c300134ac8b2/918a0a66-f944-47d4-b19a-989fe136a320.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 170
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "VERBS",
+    "btnText": "START"
+  },
+  "direction": "down",
+  "finalFeedback": "GOOD JOB!",
+  "levels": [
+    {
+      "target": "CLICK ONLY VERBS",
+      "correct": [
+        "to swim",
+        "to jump",
+        "to sing",
+        "to dance",
+        "to run",
+        "to climb",
+        "to fly",
+        "to swing",
+        "to play"
+      ],
+      "wrong": [
+        "fish",
+        "chimp",
+        "bird",
+        "rabbit",
+        "frog",
+        "horse"
+      ],
+      "timer": 30
+    }
+  ]
+}
