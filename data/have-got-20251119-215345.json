@@ -1,0 +1,70 @@
+{
+  "language": "ru",
+  "font": "Rubik",
+  "fontSize": 25,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 32,
+    "bgColor": "#ffffff",
+    "bgImages": [
+      "https://i.postimg.cc/NMcxWRZw/1.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 2,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#ff9500",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "HAVE GOT",
+    "btnText": "НАЧАТЬ"
+  },
+  "direction": "down",
+  "finalFeedback": "WELL DONE!!!",
+  "levels": [
+    {
+      "target": "Have got",
+      "correct": [
+        "I ___ a pen",
+        "They ___ a bike",
+        "We ___ a book",
+        "They ___ a cat",
+        "I ___ a pen",
+        "They ___ a box"
+      ],
+      "wrong": [
+        "He ___ a pencil",
+        "She ___ a sister",
+        "It ___ a vest",
+        "He ___ a frog",
+        "He ___ a cow"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "Has got",
+      "correct": [
+        "Tom ___ a sister",
+        "It ___ a car",
+        "Bob ___ a teddy bear",
+        "He ___ a bird"
+      ],
+      "wrong": [
+        "I ___ a bed",
+        "They ___ a desk",
+        "We ___ a radio",
+        "They ___ a cat",
+        "I ___ a pen"
+      ],
+      "timer": 30
+    }
+  ]
+}
