@@ -1,0 +1,83 @@
+{
+  "language": "en",
+  "font": "Poppins",
+  "fontSize": 24,
+  "textColor": "#444444",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 65,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/CKDpN1vm/snow.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 0,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 110
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Present Simple: -s ending",
+    "btnText": "Start!"
+  },
+  "direction": "down",
+  "finalFeedback": "You are doing great!",
+  "levels": [
+    {
+      "target": "choose collocations with do",
+      "correct": [
+        "one's best",
+        "experiment",
+        "harm",
+        "damage",
+        "a favour",
+        "wonders",
+        "wrong",
+        "an exercise"
+      ],
+      "wrong": [
+        "a complaint",
+        "a decision",
+        "a suggestion",
+        "noise",
+        "a mistake",
+        "fun of",
+        "a difference",
+        "bed",
+        "a phone call"
+      ],
+      "timer": 45
+    },
+    {
+      "target": "choose collocations with make",
+      "correct": [
+        "noise",
+        "a mistake",
+        "fun of",
+        "a difference",
+        "business",
+        "research",
+        "household chores",
+        "bed",
+        "a phone call"
+      ],
+      "wrong": [
+        "a risk",
+        "a course",
+        "one's best",
+        "experiment",
+        "harm",
+        "damage",
+        "a favour",
+        "wonders",
+        "wrong",
+        "an exercise"
+      ],
+      "timer": 45
+    }
+  ]
+}
