@@ -1,0 +1,56 @@
+{
+  "language": "ru",
+  "font": "Rubik",
+  "fontSize": 22,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 85,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/NMcxWRZw/1.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "HAVE GOT",
+    "btnText": "НАЧАТЬ"
+  },
+  "direction": "down",
+  "finalFeedback": "Well done!!!",
+  "levels": [
+    {
+      "target": "HAVE GOT",
+      "correct": [
+        "I __ a book",
+        "Boys __ a frog",
+        "I __ a bed",
+        "We __ a chair",
+        "They __ a radio",
+        "Girls __ a lamp",
+        "Cats __ a ball"
+      ],
+      "wrong": [
+        "He __ a pen",
+        "She __ a cow",
+        "It __ a sister",
+        "Tom __ a brother",
+        "Kate __ a box",
+        "He __ a picture",
+        "She __ a bird"
+      ],
+      "timer": 30
+    }
+  ]
+}
