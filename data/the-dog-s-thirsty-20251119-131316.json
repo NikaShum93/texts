@@ -1,0 +1,34 @@
+{
+  "listA": [
+    "The dog’s thirsty",
+    "I’m very hungry",
+    "He’s got a temperature",
+    "When’s Dad coming?",
+    "The room is very messy",
+    "I can’t find my homework",
+    "The baby is crying",
+    "We don’t have any bread",
+    "I’m cold",
+    "The cat is hungry",
+    "It’s dark here",
+    "I lost my pencil"
+  ],
+  "listB": [
+    "give him some water",
+    "make you a snack",
+    "call the doctor",
+    "text him",
+    "tidy it up",
+    "help you look for it",
+    "pick her up",
+    "go and buy some",
+    "close the window",
+    "feed her",
+    "turn on the light",
+    "lend you one"
+  ],
+  "freeMode": false,
+  "feedback": "Wow! You're so helpful!",
+  "language": "en",
+  "mathMode": false
+}
