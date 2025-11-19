@@ -1,0 +1,45 @@
+{
+  "language": "en",
+  "font": "Marck Script",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 1,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 0,
+    "imgBox": 230
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Crack the code",
+    "btnText": "START"
+  },
+  "direction": "down",
+  "finalFeedback": "Ok! Your first number is 7",
+  "levels": [
+    {
+      "target": "irregular verbs",
+      "correct": [
+        "https://img.genially.com/6728e881ebc5420015e1f3ec/7a45fb1b-cd70-42a7-9eea-c930b8e983e5.gif",
+        "https://img.genially.com/6728e881ebc5420015e1f3ec/14fe0805-af1f-4bce-a7e7-73f03fac5a8d.gif"
+      ],
+      "wrong": [
+        "https://img.genially.com/6728e881ebc5420015e1f3ec/64a4eef5-58ce-4125-9b2c-a8990c6db84f.gif",
+        "https://img.genially.com/6728e881ebc5420015e1f3ec/e66e5e01-362f-40f7-b0c0-80da2fcb934c.gif",
+        "https://img.genially.com/6728e881ebc5420015e1f3ec/d4fc25cc-7470-4024-b5c5-6e4b50fb308e.gif"
+      ],
+      "timer": 45
+    }
+  ]
+}
