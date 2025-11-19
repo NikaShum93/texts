@@ -1,0 +1,45 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 36,
+  "textColor": "#ffffff",
+  "speed": 2,
+  "style": {
+    "shape": "rounded",
+    "pad": 40,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/5yZxCpFD/Geniali.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 220
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Предсказание",
+    "btnText": ""
+  },
+  "direction": "down",
+  "finalFeedback": "Твое предсказание: ЕГЭ на 100!",
+  "levels": [
+    {
+      "target": "Н",
+      "correct": [
+        "тюле...й",
+        "златотка...ый"
+      ],
+      "wrong": [
+        "Первозва...ый"
+      ],
+      "timer": 30
+    }
+  ]
+}
