@@ -1,0 +1,74 @@
+{
+  "language": "en",
+  "font": "Rubik",
+  "fontSize": 15,
+  "textColor": "#220b75",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 120,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/wjdtywQw/2.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#d2c532",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Find irregular verbs",
+    "btnText": "Start"
+  },
+  "direction": "up",
+  "finalFeedback": "Good job! Thank you!",
+  "levels": [
+    {
+      "target": "Find irregular verbs",
+      "correct": [
+        "do",
+        "think",
+        "go",
+        "eat",
+        "built",
+        "find",
+        "begin"
+      ],
+      "wrong": [
+        "play",
+        "want",
+        "cook",
+        "like",
+        "bake"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "Find irregular verbs",
+      "correct": [
+        "make",
+        "take",
+        "see",
+        "teach",
+        "fly",
+        "win",
+        "have",
+        "put"
+      ],
+      "wrong": [
+        "love",
+        "prefer",
+        "agree",
+        "need"
+      ],
+      "timer": 30
+    }
+  ]
+}
