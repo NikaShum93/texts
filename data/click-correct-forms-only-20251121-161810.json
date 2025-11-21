@@ -1,0 +1,99 @@
+{
+  "language": "en",
+  "font": "Poppins",
+  "fontSize": 24,
+  "textColor": "#444444",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 65,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/CKDpN1vm/snow.png",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 0,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 110
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "present simple and present continuous",
+    "btnText": "Start!"
+  },
+  "direction": "down",
+  "finalFeedback": "You are doing great!",
+  "levels": [
+    {
+      "target": "Click correct forms only",
+      "correct": [
+        "She swims",
+        "I enjoy",
+        "She dresses",
+        "We are watching",
+        "She tidies",
+        "They are flying",
+        "She is listening",
+        "I listen"
+      ],
+      "wrong": [
+        "I playing",
+        "She dancing",
+        "They are vacuum",
+        "He tidyes",
+        "He tidying",
+        "He is download",
+        "He swimming"
+      ],
+      "timer": 45
+    },
+    {
+      "target": "Click present simple markers",
+      "correct": [
+        "always",
+        "never",
+        "usually",
+        "often",
+        "sometimes",
+        "every day",
+        "once a week"
+      ],
+      "wrong": [
+        "now",
+        "at the moment",
+        "right now",
+        "today",
+        "this week",
+        "yesterday",
+        "tomorrow"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "Which verbs are not used in Continuous?",
+      "correct": [
+        "like",
+        "love",
+        "hate",
+        "know",
+        "need",
+        "understand",
+        "want"
+      ],
+      "wrong": [
+        "fly",
+        "feel",
+        "learn",
+        "sing",
+        "choose",
+        "make",
+        "do",
+        "dream"
+      ],
+      "timer": 30
+    }
+  ]
+}
