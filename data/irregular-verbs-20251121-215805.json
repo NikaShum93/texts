@@ -1,0 +1,73 @@
+{
+  "language": "en",
+  "font": "Poppins",
+  "fontSize": 18,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://img.genially.com/60965f29ebc4800fbe1c0f74/5c6b3bc7-7069-4fa8-bc59-9c185de4a73a.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 260
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Irregular verbs",
+    "btnText": ""
+  },
+  "direction": "down",
+  "finalFeedback": "Well done!",
+  "levels": [
+    {
+      "target": "irregular verbs",
+      "correct": [
+        "be",
+        "begin",
+        "break",
+        "bring",
+        "buy",
+        "build",
+        "choose",
+        "come",
+        "cost",
+        "cut",
+        "do",
+        "draw",
+        "drive",
+        "eat",
+        "feel",
+        "find",
+        "get",
+        "give",
+        "go",
+        "have",
+        "hear",
+        "hold",
+        "keep",
+        "know"
+      ],
+      "wrong": [
+        "watched",
+        "played",
+        "danced",
+        "warked",
+        "jumped",
+        "climbed",
+        "hopped"
+      ],
+      "timer": 30
+    }
+  ]
+}
