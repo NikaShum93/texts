@@ -1,0 +1,101 @@
+{
+  "language": "en",
+  "font": "Poppins",
+  "fontSize": 30,
+  "textColor": "#ffffff",
+  "speed": 1,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/R0S9XGxV/COIN.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 0,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 260
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Reading Ii",
+    "btnText": "Start"
+  },
+  "direction": "down",
+  "finalFeedback": "You rock!",
+  "levels": [
+    {
+      "target": "Close Ii",
+      "correct": [
+        "list",
+        "milk",
+        "film",
+        "fish",
+        "ring",
+        "wind",
+        "hill",
+        "pick",
+        "ship",
+        "gift"
+      ],
+      "wrong": [
+        "mat",
+        "bet",
+        "set",
+        "pet",
+        "net"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "Open Ii",
+      "correct": [
+        "time",
+        "bike",
+        "line",
+        "mile",
+        "rice",
+        "dine",
+        "hide",
+        "fine",
+        "site"
+      ],
+      "wrong": [
+        "me",
+        "he",
+        "she",
+        "we",
+        "be"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "Reading Ii",
+      "correct": [
+        "pink",
+        "five",
+        "chip",
+        "ride",
+        "trip",
+        "kite",
+        "hill",
+        "mine",
+        "fill",
+        "like",
+        "ship",
+        "shine",
+        "list",
+        "time",
+        "pick"
+      ],
+      "wrong": [],
+      "timer": 30
+    }
+  ]
+}
