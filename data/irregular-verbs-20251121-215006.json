@@ -1,0 +1,67 @@
+{
+  "language": "en",
+  "font": "Poppins",
+  "fontSize": 18,
+  "textColor": "#ffffff",
+  "speed": 2,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://img.genially.com/60965f29ebc4800fbe1c0f74/b6b55c64-0dd6-4dc3-bb8b-3cf196f02b9d.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 0.8,
+    "imgBox": 260
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Irrregular verbs",
+    "btnText": "Start"
+  },
+  "direction": "down",
+  "finalFeedback": "Well done!",
+  "levels": [
+    {
+      "target": "irregular verbs",
+      "correct": [
+        "did",
+        "swam",
+        "brought",
+        "thought",
+        "tought",
+        "went",
+        "ate",
+        "knew",
+        "came",
+        "drew",
+        "drove",
+        "felt",
+        "got",
+        "found",
+        "held",
+        "heard"
+      ],
+      "wrong": [
+        "started",
+        "painted",
+        "danced",
+        "watched",
+        "clapped",
+        "jumped",
+        "climbed",
+        "worked",
+        "laughed"
+      ],
+      "timer": 60
+    }
+  ]
+}
