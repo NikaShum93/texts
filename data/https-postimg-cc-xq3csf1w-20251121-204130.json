@@ -1,0 +1,30 @@
+{
+  "listA": [
+    "https://postimg.cc/xq3cSF1w",
+    "https://postimg.cc/1fz67ZrJ",
+    "https://postimg.cc/ZC0BFxJM",
+    "https://postimg.cc/KRdz7Xqy",
+    "https://postimg.cc/5jyNZ9Dv",
+    "https://postimg.cc/HV5HgrzY",
+    "https://postimg.cc/JDyv5FYd",
+    "https://postimg.cc/R3nVNgQc",
+    "https://postimg.cc/pmrfr5GK",
+    "https://postimg.cc/zbb2gPxb"
+  ],
+  "listB": [
+    "ball",
+    "plane",
+    "rocking horse",
+    "doll",
+    "tea set",
+    "elephant",
+    "musical box",
+    "present",
+    "teddy",
+    "train"
+  ],
+  "freeMode": false,
+  "feedback": "Great job!",
+  "language": "en",
+  "mathMode": false
+}
