@@ -1,0 +1,24 @@
+{
+  "listA": [
+    "11 \\cdot 5\\dfrac{3}{22} \\\\",
+    "3\\dfrac{6}{7} \\cdot 42 \\\\",
+    "24 \\cdot 1\\dfrac{5}{96} \\\\",
+    "13 \\cdot 1\\dfrac{7}{65} \\\\",
+    "41\\dfrac{3}{5} \\cdot 9"
+  ],
+  "listB": [
+    "56",
+    "5",
+    "162",
+    "25",
+    "25",
+    "14",
+    "4",
+    "374",
+    "4"
+  ],
+  "freeMode": true,
+  "feedback": "Поздравляем!",
+  "language": "ru",
+  "mathMode": true
+}
