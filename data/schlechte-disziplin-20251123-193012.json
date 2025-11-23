@@ -1,0 +1,55 @@
+{
+  "language": "de",
+  "font": "Montserrat",
+  "fontSize": 27,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "style": {
+    "shape": "rect",
+    "pad": 32,
+    "bgColor": "#1a1a1a",
+    "bgImages": [],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 0,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": true,
+    "opacity": 1,
+    "imgBox": 230
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Schlechte Disziplin",
+    "btnText": "LOS!"
+  },
+  "direction": "down",
+  "finalFeedback": "Fertig!",
+  "levels": [
+    {
+      "target": "Schlechte Disziplin",
+      "correct": [
+        "quatschen",
+        "schlafen",
+        "essen",
+        "telefonieren",
+        "grob sein",
+        "SMS schreiben",
+        "toben",
+        "das Handy nicht abschalten",
+        "die anderen stören",
+        "frech sein",
+        "ins Fenster sehen",
+        "ignorieren"
+      ],
+      "wrong": [
+        "aufmerksam zuhören",
+        "still sein",
+        "sich konzentrieren"
+      ],
+      "timer": 30
+    }
+  ]
+}
