@@ -1,0 +1,57 @@
+{
+  "language": "de",
+  "font": "Montserrat",
+  "fontSize": 16,
+  "textColor": "#ffffff",
+  "speed": 4,
+  "style": {
+    "shape": "rect",
+    "pad": 63,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/1tH6Pdgc/Snezinka.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 0,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 260
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Schlechte Disziplin",
+    "btnText": "LOS!"
+  },
+  "direction": "down",
+  "finalFeedback": "Fertig!",
+  "levels": [
+    {
+      "target": "Schlechte Disziplin",
+      "correct": [
+        "quatschen",
+        "schlafen",
+        "essen",
+        "telefonieren",
+        "grob sein",
+        "SMS schreiben",
+        "toben",
+        "das Handy nicht abschalten",
+        "die anderen stören",
+        "frech sein",
+        "ins Fenster sehen",
+        "ignorieren"
+      ],
+      "wrong": [
+        "still sein",
+        "aufmerksam zuhören",
+        "sich konzentrieren"
+      ],
+      "timer": 35
+    }
+  ]
+}
