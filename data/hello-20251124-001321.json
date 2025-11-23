@@ -1,0 +1,36 @@
+{
+  "language": "en",
+  "font": "Montserrat",
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3"
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/64233afb55129a0017751c8e/f51b1573-0ec9-484b-b490-1158be35c922.png",
+    "task": {
+      "bgColor": "#310c0c",
+      "borderColor": "#6a9da0",
+      "opacity": 1,
+      "fontSize": 36,
+      "neon": false
+    },
+    "feedback": {
+      "borderColor": "#000000",
+      "textColor": "#ffffff",
+      "neon": true
+    }
+  },
+  "finalFeedback": "Wow!",
+  "feedbackImage": "https://img.genially.com/64233afb55129a0017751c8e/f51b1573-0ec9-484b-b490-1158be35c922.png",
+  "tasks": [
+    {
+      "prompt": "Hello"
+    },
+    {
+      "prompt": "Wow"
+    },
+    {
+      "prompt": "Hey"
+    }
+  ]
+}
