@@ -1,0 +1,64 @@
+{
+  "language": "de",
+  "font": "Montserrat",
+  "fontSize": 16,
+  "textColor": "#030d16",
+  "speed": 4,
+  "style": {
+    "shape": "rect",
+    "pad": 63,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/1tH6Pdgc/Snezinka.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 0,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 260
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Fertig?",
+    "btnText": "LOS!"
+  },
+  "direction": "down",
+  "finalFeedback": "Fertig!",
+  "levels": [
+    {
+      "target": "Imperativ!",
+      "correct": [
+        "Fahr!",
+        "Gehe!",
+        "Mach!",
+        "Schlaf!",
+        "Arbeite!",
+        "Lern!",
+        "Sieh!",
+        "Spiel!",
+        "Spring!",
+        "Sammle!",
+        "Lies!"
+      ],
+      "wrong": [
+        "springen",
+        "sehen",
+        "fahren",
+        "spielen",
+        "sammeln",
+        "machen",
+        "gehen",
+        "lesen",
+        "schlafen",
+        "lernen",
+        "arbeiten"
+      ],
+      "timer": 35
+    }
+  ]
+}
