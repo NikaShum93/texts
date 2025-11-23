@@ -1,0 +1,56 @@
+{
+  "language": "en",
+  "font": "Marck Script",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 1,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 0,
+    "imgBox": 230
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Crack the code",
+    "btnText": "START"
+  },
+  "direction": "down",
+  "finalFeedback": "You win! Your last number is 7",
+  "levels": [
+    {
+      "target": "NO change verbs",
+      "correct": [
+        "https://img.genially.com/6728e881ebc5420015e1f3ec/17c08f7b-dc7a-4a1d-9bb7-b23376e009a5.gif",
+        "https://img.genially.com/6728e881ebc5420015e1f3ec/16082ce0-211b-43eb-aee5-14e6bc5d3e1a.gif",
+        "https://img.genially.com/6728e881ebc5420015e1f3ec/d361c37c-b199-4240-817f-bb24d97f85be.gif",
+        "https://img.genially.com/6728e881ebc5420015e1f3ec/69d87cfc-0f7e-4e77-ae74-5e6c625a9ab1.gif",
+        "https://img.genially.com/6728e881ebc5420015e1f3ec/0cd2b574-11db-43c2-95ed-12891d18567f.gif",
+        "https://img.genially.com/6728e881ebc5420015e1f3ec/f206a927-73a5-4d43-a661-5790ab51c3ae.gif",
+        "https://img.genially.com/6728e881ebc5420015e1f3ec/a260cc8c-0641-4e2f-8545-5f52007c5213.gif"
+      ],
+      "wrong": [
+        "https://img.genially.com/6728e881ebc5420015e1f3ec/c113e9d4-a76c-4516-bd44-96fc109422ab.gif",
+        "https://img.genially.com/6728e881ebc5420015e1f3ec/405f4afd-edb2-4840-a287-a18cc37b022e.gif",
+        "https://img.genially.com/6728e881ebc5420015e1f3ec/96541a26-af74-4ae1-9dce-acf2fff453cb.gif",
+        "https://img.genially.com/6728e881ebc5420015e1f3ec/62074cc1-9d2b-4151-9484-e0c6ad79e519.gif",
+        "https://img.genially.com/6728e881ebc5420015e1f3ec/071f7fc0-0784-4a36-8fa9-bbf3aad56c68.gif",
+        "https://img.genially.com/6728e881ebc5420015e1f3ec/bcf8e3f3-603b-4142-8e6c-cf90de3db228.gif",
+        "https://img.genially.com/6728e881ebc5420015e1f3ec/e2811e23-6771-40a5-8808-5795369191f9.gif",
+        "https://img.genially.com/6728e881ebc5420015e1f3ec/a8d750c8-a566-4329-942f-982f482536d4.gif",
+        "https://img.genially.com/6728e881ebc5420015e1f3ec/94c8bce5-fbe0-46fa-b1ac-c63458024d95.gif"
+      ],
+      "timer": 60
+    }
+  ]
+}
