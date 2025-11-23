@@ -1,0 +1,42 @@
+{
+  "listA": [
+    "There is",
+    "There are",
+    "There is",
+    "There are",
+    "There is",
+    "There are",
+    "There is",
+    "There are",
+    "There is",
+    "There are",
+    "There is",
+    "There are",
+    "There is",
+    "There are",
+    "There is",
+    "There are"
+  ],
+  "listB": [
+    "a candy cane on the tree",
+    "three shiny baubles",
+    "a present under the tree",
+    "two elves playing",
+    "a domino tile on the floor",
+    "many fairy lights",
+    "a star at the top",
+    "four red bows",
+    "a baby reindeer",
+    "six Christmas cookies",
+    "a stocking by the window",
+    "two candy canes",
+    "a snow globe",
+    "five shiny bells",
+    "a cup of hot chocolate",
+    "lots of presents"
+  ],
+  "freeMode": true,
+  "feedback": "Well done!",
+  "language": "ru",
+  "mathMode": false
+}
