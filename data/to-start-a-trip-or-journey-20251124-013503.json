@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "font": "Special Elite",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "questionFont": "Poppins",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 45,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/64233afb55129a0017751c8e/f51b1573-0ec9-484b-b490-1158be35c922.png",
+    "bgImages": [
+      "https://img.genially.com/64233afb55129a0017751c8e/f51b1573-0ec9-484b-b490-1158be35c922.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Dementors' Attack",
+    "btnText": "Expecto Patronum"
+  },
+  "direction": "random",
+  "finalFeedback": "You have discovered a new spell!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "to start a trip or journey",
+      "correct": [
+        "set off"
+      ],
+      "wrong": [
+        "break out",
+        "figure out",
+        "come across"
+      ]
+    },
+    {
+      "target": "to find something by accident, without looking for it",
+      "correct": [
+        "come across"
+      ],
+      "wrong": [
+        "take over",
+        "break out",
+        "pass out"
+      ]
+    },
+    {
+      "target": "to meet someone by chance",
+      "correct": [
+        "run into"
+      ],
+      "wrong": [
+        "pass out",
+        "take over",
+        "carry on"
+      ]
+    },
+    {
+      "target": "to enter a place by force, usually when you should not",
+      "correct": [
+        "break in"
+      ],
+      "wrong": [
+        "carry on",
+        "take over",
+        "set off"
+      ]
+    },
+    {
+      "target": "to start suddenly",
+      "correct": [
+        "break out"
+      ],
+      "wrong": [
+        "figure out",
+        "carry on",
+        "run into"
+      ]
+    },
+    {
+      "target": "to take control of something",
+      "correct": [
+        "take over"
+      ],
+      "wrong": [
+        "break in",
+        "set off",
+        "carry on"
+      ]
+    },
+    {
+      "target": "to suddenly become unconscious",
+      "correct": [
+        "pass out"
+      ],
+      "wrong": [
+        "get over",
+        "break out",
+        "break in"
+      ]
+    },
+    {
+      "target": "to feel better after something difficult",
+      "correct": [
+        "get over"
+      ],
+      "wrong": [
+        "set off",
+        "come across",
+        "run into"
+      ]
+    },
+    {
+      "target": "to invent something (a story, an excuse)",
+      "correct": [
+        "make up"
+      ],
+      "wrong": [
+        "set off",
+        "come across",
+        "run into"
+      ]
+    },
+    {
+      "target": "to arrive or appear, often unexpectedly",
+      "correct": [
+        "turn up"
+      ],
+      "wrong": [
+        "carry on",
+        "get over",
+        "take over"
+      ]
+    },
+    {
+      "target": "to continue doing something",
+      "correct": [
+        "carry on"
+      ],
+      "wrong": [
+        "set off",
+        "take over",
+        "turn up"
+      ]
+    },
+    {
+      "target": "to understand something or find the answer",
+      "correct": [
+        "figure out"
+      ],
+      "wrong": [
+        "turn up",
+        "set off",
+        "carry on"
+      ]
+    }
+  ]
+}
