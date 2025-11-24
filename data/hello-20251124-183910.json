@@ -1,0 +1,32 @@
+{
+  "listA": [
+    "hello",
+    "buy",
+    "why",
+    "where",
+    "who",
+    "when",
+    "we",
+    "you",
+    "they",
+    "wow",
+    "hohoho"
+  ],
+  "listB": [
+    "hello",
+    "buy",
+    "why",
+    "where",
+    "who",
+    "when",
+    "we",
+    "you",
+    "they",
+    "wow",
+    "hohoho"
+  ],
+  "freeMode": true,
+  "feedback": "yay!",
+  "language": "en",
+  "mathMode": false
+}
