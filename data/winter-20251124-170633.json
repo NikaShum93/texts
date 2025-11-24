@@ -1,0 +1,49 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 20,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "style": {
+    "shape": "rounded",
+    "pad": 46,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/GtHm0wcc/Plusevaa-snezinka.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Winter",
+    "btnText": "Start"
+  },
+  "direction": "down",
+  "finalFeedback": "Well done!",
+  "levels": [
+    {
+      "target": "Winter",
+      "correct": [
+        "snow",
+        "cold",
+        "ice",
+        "sled"
+      ],
+      "wrong": [
+        "rain",
+        "flower",
+        "bike"
+      ],
+      "timer": 30
+    }
+  ]
+}
