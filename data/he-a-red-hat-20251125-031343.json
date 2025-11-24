@@ -1,0 +1,262 @@
+{
+  "language": "en",
+  "font": "Lobster",
+  "fontSize": 36,
+  "textColor": "#ffffff",
+  "speed": 4,
+  "questionFont": "PT Sans",
+  "questionFontSize": 36,
+  "style": {
+    "shape": "rounded",
+    "pad": 20,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/Kv4jxkYt/1.png\nhttps://i.postimg.cc/bNdrpDvg/2.png\nhttps://i.postimg.cc/SNjRk2KG/3.png\nhttps://i.postimg.cc/154Xsnzv/4.png\nhttps://i.postimg.cc/xTq8nJdR/5.png\nhttps://i.postimg.cc/qMgq4h7Y/6.png",
+    "bgImages": [
+      "https://i.postimg.cc/Kv4jxkYt/1.png",
+      "https://i.postimg.cc/bNdrpDvg/2.png",
+      "https://i.postimg.cc/SNjRk2KG/3.png",
+      "https://i.postimg.cc/154Xsnzv/4.png",
+      "https://i.postimg.cc/xTq8nJdR/5.png",
+      "https://i.postimg.cc/qMgq4h7Y/6.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 140
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Roblox Quiz",
+    "btnText": "Start"
+  },
+  "direction": "random",
+  "finalFeedback": "You have discovered a new spell!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "He ___ a red hat.",
+      "correct": [
+        "has got"
+      ],
+      "wrong": [
+        "have got",
+        "is",
+        "can"
+      ]
+    },
+    {
+      "target": "I ___ a blue pen.",
+      "correct": [
+        "have got"
+      ],
+      "wrong": [
+        "has got",
+        "am",
+        "are"
+      ]
+    },
+    {
+      "target": "She ___ a cat.",
+      "correct": [
+        "has got"
+      ],
+      "wrong": [
+        "have got",
+        "is",
+        "can"
+      ]
+    },
+    {
+      "target": "We ___ a big ball.",
+      "correct": [
+        "have got"
+      ],
+      "wrong": [
+        "has got",
+        "are",
+        "can"
+      ]
+    },
+    {
+      "target": "They ___ a green book.",
+      "correct": [
+        "have got"
+      ],
+      "wrong": [
+        "has got",
+        "is",
+        "can"
+      ]
+    },
+    {
+      "target": "I ___ cold.",
+      "correct": [
+        "am"
+      ],
+      "wrong": [
+        "is",
+        "are",
+        "can"
+      ]
+    },
+    {
+      "target": "He ___ my friend.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "am",
+        "are",
+        "can"
+      ]
+    },
+    {
+      "target": "We ___ in class.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "am",
+        "is",
+        "can"
+      ]
+    },
+    {
+      "target": "She ___ happy.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "am",
+        "are",
+        "can"
+      ]
+    },
+    {
+      "target": "They ___ funny.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "am",
+        "is",
+        "can"
+      ]
+    },
+    {
+      "target": "I ___ a doll.",
+      "correct": [
+        "have got"
+      ],
+      "wrong": [
+        "has got",
+        "is",
+        "can"
+      ]
+    },
+    {
+      "target": "He ___ a dog.",
+      "correct": [
+        "has got"
+      ],
+      "wrong": [
+        "have got",
+        "is",
+        "can"
+      ]
+    },
+    {
+      "target": "She ___ jump.",
+      "correct": [
+        "can"
+      ],
+      "wrong": [
+        "is",
+        "are",
+        "have got"
+      ]
+    },
+    {
+      "target": "We ___ run.",
+      "correct": [
+        "can"
+      ],
+      "wrong": [
+        "is",
+        "are",
+        "have got"
+      ]
+    },
+    {
+      "target": "They ___ play.",
+      "correct": [
+        "can"
+      ],
+      "wrong": [
+        "is",
+        "are",
+        "have got"
+      ]
+    },
+    {
+      "target": "I ___ ready.",
+      "correct": [
+        "am"
+      ],
+      "wrong": [
+        "is",
+        "are",
+        "can"
+      ]
+    },
+    {
+      "target": "He ___ a bag.",
+      "correct": [
+        "has got"
+      ],
+      "wrong": [
+        "have got",
+        "is",
+        "am"
+      ]
+    },
+    {
+      "target": "We ___ friends.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "have got",
+        "am",
+        "can"
+      ]
+    },
+    {
+      "target": "She ___ a small car.",
+      "correct": [
+        "has got"
+      ],
+      "wrong": [
+        "have got",
+        "is",
+        "can"
+      ]
+    },
+    {
+      "target": "They ___ a snow dog.",
+      "correct": [
+        "have got"
+      ],
+      "wrong": [
+        "has got",
+        "is",
+        "can"
+      ]
+    }
+  ]
+}
