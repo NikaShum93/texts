@@ -1,0 +1,250 @@
+{
+  "language": "en",
+  "font": "Poppins",
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/win.mp3",
+    "wrong": "https://nikashum93.github.io/utki/no-meme.mp3"
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/Kv4jxkYt/1.png",
+    "task": {
+      "bgColor": "#ffffff",
+      "borderColor": "#a3fffd",
+      "textColor": "#071e3b",
+      "opacity": 1,
+      "fontSize": 30,
+      "neon": true
+    },
+    "feedback": {
+      "borderColor": "#ffee00",
+      "textColor": "#ffffff",
+      "neon": true
+    }
+  },
+  "finalFeedback": "Wow!",
+  "feedbackImage": "https://media.tenor.com/XUSy5IBAFoMAAAAi/schwartzj-hustle.gif",
+  "autoDistractors": false,
+  "tasks": [
+    {
+      "question": "He ___ a red hat.",
+      "correct": [
+        "has got"
+      ],
+      "wrong": [
+        "have got",
+        "is",
+        "can"
+      ]
+    },
+    {
+      "question": "I ___ a blue pen.",
+      "correct": [
+        "have got"
+      ],
+      "wrong": [
+        "has got",
+        "am",
+        "are"
+      ]
+    },
+    {
+      "question": "She ___ a cat.",
+      "correct": [
+        "has got"
+      ],
+      "wrong": [
+        "have got",
+        "is",
+        "can"
+      ]
+    },
+    {
+      "question": "We ___ a big ball.",
+      "correct": [
+        "have got"
+      ],
+      "wrong": [
+        "has got",
+        "are",
+        "can"
+      ]
+    },
+    {
+      "question": "They ___ a green book.",
+      "correct": [
+        "have got"
+      ],
+      "wrong": [
+        "has got",
+        "is",
+        "can"
+      ]
+    },
+    {
+      "question": "I ___ cold.",
+      "correct": [
+        "am"
+      ],
+      "wrong": [
+        "is",
+        "are",
+        "can"
+      ]
+    },
+    {
+      "question": "He ___ my friend.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "am",
+        "are",
+        "can"
+      ]
+    },
+    {
+      "question": "We ___ in class.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "am",
+        "is",
+        "can"
+      ]
+    },
+    {
+      "question": "She ___ happy.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "am",
+        "are",
+        "can"
+      ]
+    },
+    {
+      "question": "They ___ funny.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "am",
+        "is",
+        "can"
+      ]
+    },
+    {
+      "question": "I ___ a doll.",
+      "correct": [
+        "have got"
+      ],
+      "wrong": [
+        "has got",
+        "is",
+        "can"
+      ]
+    },
+    {
+      "question": "He ___ a dog.",
+      "correct": [
+        "has got"
+      ],
+      "wrong": [
+        "have got",
+        "is",
+        "can"
+      ]
+    },
+    {
+      "question": "She ___ jump.",
+      "correct": [
+        "can"
+      ],
+      "wrong": [
+        "is",
+        "are",
+        "have got"
+      ]
+    },
+    {
+      "question": "We ___ run.",
+      "correct": [
+        "can"
+      ],
+      "wrong": [
+        "is",
+        "are",
+        "have got"
+      ]
+    },
+    {
+      "question": "They ___ play.",
+      "correct": [
+        "can"
+      ],
+      "wrong": [
+        "is",
+        "are",
+        "have got"
+      ]
+    },
+    {
+      "question": "I ___ ready.",
+      "correct": [
+        "am"
+      ],
+      "wrong": [
+        "is",
+        "are",
+        "can"
+      ]
+    },
+    {
+      "question": "He ___ a bag.",
+      "correct": [
+        "has got"
+      ],
+      "wrong": [
+        "have got",
+        "is",
+        "am"
+      ]
+    },
+    {
+      "question": "We ___ friends.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "have got",
+        "am",
+        "can"
+      ]
+    },
+    {
+      "question": "She ___ a small car.",
+      "correct": [
+        "has got"
+      ],
+      "wrong": [
+        "have got",
+        "is",
+        "can"
+      ]
+    },
+    {
+      "question": "They ___ a snow dog.",
+      "correct": [
+        "have got"
+      ],
+      "wrong": [
+        "has got",
+        "is",
+        "can"
+      ]
+    }
+  ]
+}
