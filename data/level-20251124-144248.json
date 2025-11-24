@@ -1,0 +1,54 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "style": {
+    "shape": "rounded",
+    "pad": 40,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/CLdNhSSC/pecen'e.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Печенье с предсказанием",
+    "btnText": ""
+  },
+  "direction": "down",
+  "finalFeedback": "Твое предсказание: сдашь ЕГЭ на 100!",
+  "levels": [
+    {
+      "target": "Сочинительные союзы",
+      "correct": [
+        "но",
+        "однако",
+        "а",
+        "или",
+        "либо",
+        "то...,то",
+        "зато",
+        "также"
+      ],
+      "wrong": [
+        "когда",
+        "что",
+        "как",
+        "чтобы"
+      ],
+      "timer": 30
+    }
+  ]
+}
