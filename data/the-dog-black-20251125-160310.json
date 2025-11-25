@@ -1,0 +1,82 @@
+{
+  "language": "en",
+  "font": "Poppins",
+  "fontSize": 25,
+  "textColor": "#ffffff",
+  "speed": 4,
+  "questionFont": "Poppins",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/pdYRkt2r/1.png\nhttps://i.postimg.cc/hvhnSzV4/2.png\nhttps://i.postimg.cc/Bbt3qL2S/3.png\nhttps://i.postimg.cc/brdPzD1Z/4.png\nhttps://i.postimg.cc/tJ7bXZFT/5.png\nhttps://i.postimg.cc/XND3sL09/6.png",
+    "bgImages": [
+      "https://i.postimg.cc/pdYRkt2r/1.png",
+      "https://i.postimg.cc/hvhnSzV4/2.png",
+      "https://i.postimg.cc/Bbt3qL2S/3.png",
+      "https://i.postimg.cc/brdPzD1Z/4.png",
+      "https://i.postimg.cc/tJ7bXZFT/5.png",
+      "https://i.postimg.cc/XND3sL09/6.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "",
+    "btnText": ""
+  },
+  "direction": "down",
+  "finalFeedback": "",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "The dog ____ black.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are",
+        "am"
+      ]
+    },
+    {
+      "target": "The cats ____ brown.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "is",
+        "am"
+      ]
+    },
+    {
+      "target": "The bird ____ yellow.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are",
+        "am"
+      ]
+    },
+    {
+      "target": "The pigs ____ pink.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "is",
+        "am"
+      ]
+    }
+  ]
+}
