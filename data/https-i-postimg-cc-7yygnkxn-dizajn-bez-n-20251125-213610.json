@@ -1,0 +1,47 @@
+{
+  "language": "en",
+  "font": "Marck Script",
+  "fontSize": 50,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "questionFont": "Marck Script",
+  "questionFontSize": 40,
+  "style": {
+    "shape": "rounded",
+    "pad": 50,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/7YygnkXn/Dizajn-bez-nazvania-2025-11-23T190515-834.png",
+    "bgImages": [
+      "https://i.postimg.cc/7YygnkXn/Dizajn-bez-nazvania-2025-11-23T190515-834.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "ROBLOX QUIZ",
+    "btnText": "START"
+  },
+  "direction": "random",
+  "finalFeedback": "YOU'RE AWESOME!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "https://i.postimg.cc/7YygnkXn/Dizajn-bez-nazvania-2025-11-23T190515-834.png",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are",
+        "am"
+      ]
+    }
+  ]
+}
