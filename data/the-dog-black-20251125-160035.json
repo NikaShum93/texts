@@ -1,0 +1,75 @@
+{
+  "language": "en",
+  "font": "Poppins",
+  "fontSize": 25,
+  "textColor": "#ffffff",
+  "speed": 4,
+  "questionFont": "Poppins",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "[url=https://postimg.cc/Jynf4vHC][img]https://i.postimg.cc/Jynf4vHC/1.png[/img][/url]\n[url=https://postimg.cc/WqRC849x][img]https://i.postimg.cc/WqRC849x/2.png[/img][/url]\n[url=https://postimg.cc/8f894Cy9][img]https://i.postimg.cc/8f894Cy9/3.png[/img][/url]\n[url=https://postimg.cc/n98g2LRx][img]https://i.postimg.cc/n98g2LRx/4.png[/img][/url]\n[url=https://postimg.cc/dZMp60HP][img]https://i.postimg.cc/dZMp60HP/5.png[/img][/url]\n[url=https://postimg.cc/xqHWCK8d][img]https://i.postimg.cc/xqHWCK8d/6.png[/img][/url]",
+    "bgImages": [],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "",
+    "btnText": ""
+  },
+  "direction": "down",
+  "finalFeedback": "",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "The dog ____ black.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are",
+        "am"
+      ]
+    },
+    {
+      "target": "The cats ____ brown.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "is",
+        "am"
+      ]
+    },
+    {
+      "target": "The bird ____ yellow.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are",
+        "am"
+      ]
+    },
+    {
+      "target": "The pigs ____ pink.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "is",
+        "am"
+      ]
+    }
+  ]
+}
