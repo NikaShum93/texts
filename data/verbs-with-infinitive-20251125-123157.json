@@ -1,0 +1,94 @@
+{
+  "language": "en",
+  "font": "Poppins",
+  "fontSize": 24,
+  "textColor": "#000000",
+  "speed": 4,
+  "style": {
+    "shape": "rounded",
+    "pad": 100,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/GmZQV5CJ/a7594412-de90-4057-bfab-2447bfeadafc-removalai-preview.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 180
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "gerund vs. infinitive",
+    "btnText": "Start"
+  },
+  "direction": "down",
+  "finalFeedback": "Well done!",
+  "levels": [
+    {
+      "target": "verbs with infinitive",
+      "correct": [
+        "agree",
+        "can’t afford",
+        "choose",
+        "decide",
+        "hope",
+        "manage",
+        "need",
+        "pretend",
+        "refuse",
+        "want,",
+        "’d like",
+        "’d prefer"
+      ],
+      "wrong": [
+        "avoid",
+        "can’t stand",
+        "consider",
+        "don’t mind",
+        "enjoy",
+        "hate",
+        "like",
+        "love",
+        "miss",
+        "prefer",
+        "spend time"
+      ],
+      "timer": 45
+    },
+    {
+      "target": "choose wrong phrases",
+      "correct": [
+        "agree helping",
+        "can't afford wait",
+        "choose studying",
+        "decide starting",
+        "manage winning",
+        "need resting",
+        "pretend being",
+        "refuse help",
+        "consider to change"
+      ],
+      "wrong": [
+        "want to go",
+        "'d like to meet",
+        "'d prefer to stay",
+        "manage to survive",
+        "need to stay",
+        "can't stand waiting",
+        "consider taking",
+        "enjoy playing",
+        "pretend to be",
+        "hate running",
+        "like cooking",
+        "prefer staying"
+      ],
+      "timer": 60
+    }
+  ]
+}
