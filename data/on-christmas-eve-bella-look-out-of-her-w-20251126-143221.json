@@ -1,0 +1,189 @@
+{
+  "language": "en",
+  "font": "Indie Flower",
+  "fontSize": 24,
+  "textColor": "#04431a",
+  "speed": 4,
+  "questionFont": "Indie Flower",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 50,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/s2TjR1cq/Dizajn-bez-nazvania-2025-11-26T142543-151.png\nhttps://i.postimg.cc/vm0YdDhG/Dizajn-bez-nazvania-2025-11-26T142556-033.png\nhttps://i.postimg.cc/g0gzPrsm/Dizajn-bez-nazvania-2025-11-26T142649-445.png",
+    "bgImages": [
+      "https://i.postimg.cc/s2TjR1cq/Dizajn-bez-nazvania-2025-11-26T142543-151.png",
+      "https://i.postimg.cc/vm0YdDhG/Dizajn-bez-nazvania-2025-11-26T142556-033.png",
+      "https://i.postimg.cc/g0gzPrsm/Dizajn-bez-nazvania-2025-11-26T142649-445.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Christmas in Twilight",
+    "btnText": "Start"
+  },
+  "direction": "random",
+  "finalFeedback": "The End",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "On Christmas Eve Bella ____ (look) out of her window and saw the snow in Forks.",
+      "correct": [
+        "looked"
+      ],
+      "wrong": [
+        "look",
+        "looking"
+      ]
+    },
+    {
+      "target": "She ____ (go) to the Cullens’ house, even though Jacob told her it was “cold and boring there”.",
+      "correct": [
+        "went"
+      ],
+      "wrong": [
+        "go",
+        "goes"
+      ]
+    },
+    {
+      "target": "When she walked in, Edward ____ (be) calm, but Jacob was already sitting on the sofa eating cookies.",
+      "correct": [
+        "was"
+      ],
+      "wrong": [
+        "were",
+        "is"
+      ]
+    },
+    {
+      "target": "Bella ____ (want) everyone to have a peaceful Christmas night.",
+      "correct": [
+        "wanted"
+      ],
+      "wrong": [
+        "want",
+        "wants"
+      ]
+    },
+    {
+      "target": "Edward ____ (give) her a small Christmas gift before Jacob could interrupt.",
+      "correct": [
+        "gave"
+      ],
+      "wrong": [
+        "give",
+        "gives"
+      ]
+    },
+    {
+      "target": "Then they all ____ (explore) the snowy forest together, even though Jacob complained about the cold every five minutes.",
+      "correct": [
+        "explored"
+      ],
+      "wrong": [
+        "explore",
+        "exploring"
+      ]
+    },
+    {
+      "target": "Suddenly they ____ (stop) when Jacob stepped on a branch and screamed louder than necessary.",
+      "correct": [
+        "stopped"
+      ],
+      "wrong": [
+        "stop",
+        "stopping"
+      ]
+    },
+    {
+      "target": "Bella ____ (need) to tell Jacob that vampires don’t attack people on Christmas.",
+      "correct": [
+        "needed"
+      ],
+      "wrong": [
+        "need",
+        "needs"
+      ]
+    },
+    {
+      "target": "A moment later they ____ (see) glowing red lights in the trees — Edward’s decoration idea.",
+      "correct": [
+        "saw"
+      ],
+      "wrong": [
+        "see",
+        "seeing"
+      ]
+    },
+    {
+      "target": "They ____ (go) closer, but Jacob shouted that it “looked suspicious”.",
+      "correct": [
+        "went"
+      ],
+      "wrong": [
+        "go",
+        "going"
+      ]
+    },
+    {
+      "target": "Next to a frozen lake they ____ (study) vampire Christmas traditions that Edward explained dramatically.",
+      "correct": [
+        "studied"
+      ],
+      "wrong": [
+        "study",
+        "studies"
+      ]
+    },
+    {
+      "target": "Jacob loudly ____ (eat) more cookies, saying they “helped him listen better”.",
+      "correct": [
+        "ate"
+      ],
+      "wrong": [
+        "eat",
+        "eating"
+      ]
+    },
+    {
+      "target": "Edward ____ (get) annoyed, but Bella gave him a look, and he stayed calm.",
+      "correct": [
+        "got"
+      ],
+      "wrong": [
+        "get",
+        "gets"
+      ]
+    },
+    {
+      "target": "Together they ____ (do) a small Christmas ritual with candles.",
+      "correct": [
+        "did"
+      ],
+      "wrong": [
+        "do",
+        "doing"
+      ]
+    },
+    {
+      "target": "At the end of the night they all ____ (be) tired, but they laughed and felt like a strange but real family.",
+      "correct": [
+        "were"
+      ],
+      "wrong": [
+        "was",
+        "be"
+      ]
+    }
+  ]
+}
