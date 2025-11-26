@@ -1,0 +1,102 @@
+{
+  "language": "en",
+  "font": "Indie Flower",
+  "fontSize": 24,
+  "textColor": "#04431a",
+  "speed": 4,
+  "questionFont": "Indie Flower",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 50,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/s2TjR1cq/Dizajn-bez-nazvania-2025-11-26T142543-151.png\nhttps://i.postimg.cc/vm0YdDhG/Dizajn-bez-nazvania-2025-11-26T142556-033.png\nhttps://i.postimg.cc/g0gzPrsm/Dizajn-bez-nazvania-2025-11-26T142649-445.png",
+    "bgImages": [
+      "https://i.postimg.cc/s2TjR1cq/Dizajn-bez-nazvania-2025-11-26T142543-151.png",
+      "https://i.postimg.cc/vm0YdDhG/Dizajn-bez-nazvania-2025-11-26T142556-033.png",
+      "https://i.postimg.cc/g0gzPrsm/Dizajn-bez-nazvania-2025-11-26T142649-445.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Christmas in Twilight",
+    "btnText": "Start"
+  },
+  "direction": "random",
+  "finalFeedback": "The End",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "\\frac{3}{4}",
+      "correct": [
+        "\\frac{3}{4}"
+      ],
+      "wrong": [
+        "\\frac{3}{4}"
+      ]
+    },
+    {
+      "target": "\\frac{3}{4}",
+      "correct": [
+        "\\frac{3}{4}"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/Kv4jxkYt/1.png"
+      ]
+    },
+    {
+      "target": "\\sqrt[3]{8}",
+      "correct": [
+        "\\sqrt[3]{8}"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/bNdrpDvg/2.png"
+      ]
+    },
+    {
+      "target": "\\log_{2}{8}",
+      "correct": [
+        "\\log_{2}{8}"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/SNjRk2KG/3.png"
+      ]
+    },
+    {
+      "target": "\\x^{2}",
+      "correct": [
+        "\\x^{2}"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/154Xsnzv/4.png"
+      ]
+    },
+    {
+      "target": "\\sum_{i=1}^{n} i",
+      "correct": [
+        "\\sum_{i=1}^{n} i"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/xTq8nJdR/5.png"
+      ]
+    },
+    {
+      "target": "\\int_{0}^{1} x^2 dx",
+      "correct": [
+        "\\int_{0}^{1} x^2 dx"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/qMgq4h7Y/6.png"
+      ]
+    }
+  ]
+}
