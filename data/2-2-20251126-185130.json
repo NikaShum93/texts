@@ -1,0 +1,73 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 20,
+  "textColor": "#080707",
+  "speed": 5,
+  "questionFont": "PT Sans",
+  "questionFontSize": 27,
+  "style": {
+    "shape": "rounded",
+    "pad": 17,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/fT2V0TQ3/1.png\nhttps://i.postimg.cc/7ZJZG3N7/2.png\nhttps://i.postimg.cc/BnPnLTCM/3.png\nhttps://i.postimg.cc/YCLCG6xW/4.png",
+    "bgImages": [
+      "https://i.postimg.cc/fT2V0TQ3/1.png",
+      "https://i.postimg.cc/7ZJZG3N7/2.png",
+      "https://i.postimg.cc/BnPnLTCM/3.png",
+      "https://i.postimg.cc/YCLCG6xW/4.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Вычисления!",
+    "btnText": "Начать"
+  },
+  "direction": "random",
+  "finalFeedback": "Молодец!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "2 + 2 =",
+      "correct": [
+        "4"
+      ],
+      "wrong": [
+        "5",
+        "6",
+        "8"
+      ]
+    },
+    {
+      "target": "3 + 5 =",
+      "correct": [
+        "8"
+      ],
+      "wrong": [
+        "9",
+        "7",
+        "2"
+      ]
+    },
+    {
+      "target": "3 + 3 =",
+      "correct": [
+        "6"
+      ],
+      "wrong": [
+        "8",
+        "9",
+        "7"
+      ]
+    }
+  ]
+}
