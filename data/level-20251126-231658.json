@@ -1,0 +1,71 @@
+{
+  "language": "ru",
+  "font": "Lobster",
+  "fontSize": 35,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "questionFont": "Lobster",
+  "questionFontSize": 30,
+  "style": {
+    "shape": "rounded",
+    "pad": 50,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/mkWsdymF/10.png\nhttps://i.postimg.cc/4d9GbSQK/6.png\nhttps://i.postimg.cc/sxCrn4TW/7.png\nhttps://i.postimg.cc/6qxXHfMR/8.png\nhttps://i.postimg.cc/0j1st0Vw/9.png",
+    "bgImages": [
+      "https://i.postimg.cc/mkWsdymF/10.png",
+      "https://i.postimg.cc/4d9GbSQK/6.png",
+      "https://i.postimg.cc/sxCrn4TW/7.png",
+      "https://i.postimg.cc/6qxXHfMR/8.png",
+      "https://i.postimg.cc/0j1st0Vw/9.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Викторина!",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Молодец!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "Где появилась традиция украшать новогоднюю ёлку свечами?",
+      "correct": [
+        "Германия"
+      ],
+      "wrong": [
+        "Англия",
+        "Россия"
+      ]
+    },
+    {
+      "target": "Какая птица считается одним из символов русской зимы?",
+      "correct": [
+        "Снегирь"
+      ],
+      "wrong": [
+        "Чайка",
+        "Ласточка"
+      ]
+    },
+    {
+      "target": "Какой классический балет чаще всего ставят в театрах в период новогодних праздников?",
+      "correct": [
+        "Щелкунчик"
+      ],
+      "wrong": [
+        "Жизель",
+        "Баядерка"
+      ]
+    }
+  ]
+}
