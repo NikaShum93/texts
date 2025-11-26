@@ -1,0 +1,67 @@
+{
+  "language": "ru",
+  "font": "Rubik",
+  "fontSize": 27,
+  "textColor": "#ffffff",
+  "speed": 2,
+  "questionFont": "Rubik",
+  "questionFontSize": 25,
+  "style": {
+    "shape": "rounded",
+    "pad": 70,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/q75YtFpx/Dizajn-bez-nazvania-2025-11-26T205239-044.png",
+    "bgImages": [
+      "https://i.postimg.cc/q75YtFpx/Dizajn-bez-nazvania-2025-11-26T205239-044.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Викторина!",
+    "btnText": "Начать"
+  },
+  "direction": "up",
+  "finalFeedback": "Молодец!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "Где появилась традиция украшать новогоднюю ёлку свечами?",
+      "correct": [
+        "Германия"
+      ],
+      "wrong": [
+        "Англия",
+        "Россия"
+      ]
+    },
+    {
+      "target": "Какая птица считается одним из символов русской зимы?",
+      "correct": [
+        "Щелкунчик"
+      ],
+      "wrong": [
+        "Жизель",
+        "Баядерка"
+      ]
+    },
+    {
+      "target": "Какой классический балет чаще всего ставят в театрах в период новогодних праздников?",
+      "correct": [
+        "Снегирь"
+      ],
+      "wrong": [
+        "Чайка",
+        "Лпсточка"
+      ]
+    }
+  ]
+}
