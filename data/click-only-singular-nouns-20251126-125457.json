@@ -1,0 +1,110 @@
+{
+  "language": "en",
+  "font": "Special Elite",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 4,
+  "style": {
+    "shape": "rounded",
+    "pad": 85,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://img.genially.com/6194d67ad409c300134ac8b2/985d2210-0a45-464b-93fe-1089987a28fd.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 170
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "LET'S PLAY!",
+    "btnText": "START!"
+  },
+  "direction": "down",
+  "finalFeedback": "GREAT JOB!",
+  "levels": [
+    {
+      "target": "Click only singular nouns!",
+      "correct": [
+        "cat",
+        "dog",
+        "house",
+        "school",
+        "friend",
+        "family",
+        "book",
+        "ball",
+        "toy",
+        "car",
+        "apple",
+        "berry",
+        "teacher",
+        "bag",
+        "baby"
+      ],
+      "wrong": [
+        "cats",
+        "dogs",
+        "houses",
+        "schools",
+        "friends",
+        "families",
+        "books",
+        "balls",
+        "toys",
+        "cars",
+        "apples",
+        "berries",
+        "teachers",
+        "bags",
+        "babies"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "Click only plural nouns!",
+      "correct": [
+        "cats",
+        "dogs",
+        "houses",
+        "schools",
+        "friends",
+        "families",
+        "books",
+        "balls",
+        "toys",
+        "cars",
+        "apples",
+        "berries",
+        "teachers",
+        "bags",
+        "babies"
+      ],
+      "wrong": [
+        "cat",
+        "dog",
+        "house",
+        "school",
+        "friend",
+        "family",
+        "book",
+        "ball",
+        "toy",
+        "car",
+        "apple",
+        "berry",
+        "teacher",
+        "bag",
+        "baby"
+      ],
+      "timer": 30
+    }
+  ]
+}
