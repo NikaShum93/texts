@@ -1,0 +1,70 @@
+{
+  "language": "en",
+  "font": "Poppins",
+  "fontSize": 17,
+  "textColor": "#080707",
+  "speed": 5,
+  "questionFont": "Poppins",
+  "questionFontSize": 27,
+  "style": {
+    "shape": "rounded",
+    "pad": 17,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/52TJ492F/Chat-GPT-Image-26-noab-2025-g-12-37-32.png",
+    "bgImages": [
+      "https://i.postimg.cc/52TJ492F/Chat-GPT-Image-26-noab-2025-g-12-37-32.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "SNOW FIGHT",
+    "btnText": "START"
+  },
+  "direction": "random",
+  "finalFeedback": "WELL DONE!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "They ___ a snowman last winter.",
+      "correct": [
+        "built"
+      ],
+      "wrong": [
+        "build",
+        "builds",
+        "builded"
+      ]
+    },
+    {
+      "target": "We ___ to New York last year.",
+      "correct": [
+        "went"
+      ],
+      "wrong": [
+        "go",
+        "goed",
+        "goes"
+      ]
+    },
+    {
+      "target": "I ___ a strange noise last night.",
+      "correct": [
+        "heard"
+      ],
+      "wrong": [
+        "hear",
+        "hearing",
+        "heared"
+      ]
+    }
+  ]
+}
