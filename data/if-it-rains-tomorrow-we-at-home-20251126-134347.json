@@ -1,0 +1,142 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 4,
+  "questionFont": "Roboto",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/Kv4jxkYt/1.png\nhttps://i.postimg.cc/bNdrpDvg/2.png\nhttps://i.postimg.cc/SNjRk2KG/3.png\nhttps://i.postimg.cc/154Xsnzv/4.png\nhttps://i.postimg.cc/xTq8nJdR/5.png\nhttps://i.postimg.cc/qMgq4h7Y/6.png",
+    "bgImages": [
+      "https://i.postimg.cc/Kv4jxkYt/1.png",
+      "https://i.postimg.cc/bNdrpDvg/2.png",
+      "https://i.postimg.cc/SNjRk2KG/3.png",
+      "https://i.postimg.cc/154Xsnzv/4.png",
+      "https://i.postimg.cc/xTq8nJdR/5.png",
+      "https://i.postimg.cc/qMgq4h7Y/6.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Ice-skating Conditionals",
+    "btnText": "Start"
+  },
+  "direction": "random",
+  "finalFeedback": "You're sooo clever!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "If it rains tomorrow, we ____ at home.",
+      "correct": [
+        "will stay"
+      ],
+      "wrong": [
+        "stay",
+        "stayed"
+      ]
+    },
+    {
+      "target": "If I had more money, I ____ a new laptop.",
+      "correct": [
+        "would buy"
+      ],
+      "wrong": [
+        "buy",
+        "buys"
+      ]
+    },
+    {
+      "target": "You will pass the exam if you ____ harder.",
+      "correct": [
+        "study"
+      ],
+      "wrong": [
+        "studies",
+        "studied"
+      ]
+    },
+    {
+      "target": "If she knew the truth, she ____ upset.",
+      "correct": [
+        "would be"
+      ],
+      "wrong": [
+        "is",
+        "was"
+      ]
+    },
+    {
+      "target": "They will cancel the event if the weather ____ worse.",
+      "correct": [
+        "gets"
+      ],
+      "wrong": [
+        "got",
+        "get"
+      ]
+    },
+    {
+      "target": "If he were older, he ____ travel alone.",
+      "correct": [
+        "would"
+      ],
+      "wrong": [
+        "travels",
+        "will travel"
+      ]
+    },
+    {
+      "target": "If you don’t hurry, you ____ the bus.",
+      "correct": [
+        "will miss"
+      ],
+      "wrong": [
+        "miss",
+        "missed"
+      ]
+    },
+    {
+      "target": "If I lived abroad, I ____ a new language.",
+      "correct": [
+        "would learn"
+      ],
+      "wrong": [
+        "learn",
+        "learning"
+      ]
+    },
+    {
+      "target": "She will help you if you ____ her.",
+      "correct": [
+        "ask"
+      ],
+      "wrong": [
+        "asks",
+        "asked"
+      ]
+    },
+    {
+      "target": "If we had a car, we ____ there faster.",
+      "correct": [
+        "would get"
+      ],
+      "wrong": [
+        "get",
+        "will get"
+      ]
+    }
+  ]
+}
