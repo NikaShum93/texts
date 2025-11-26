@@ -1,0 +1,71 @@
+{
+  "language": "ru",
+  "font": "Rubik",
+  "fontSize": 22,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "questionFont": "Rubik",
+  "questionFontSize": 30,
+  "style": {
+    "shape": "rounded",
+    "pad": 50,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/7YygnkXn/Dizajn-bez-nazvania-2025-11-23T190515-834.png",
+    "bgImages": [
+      "https://i.postimg.cc/7YygnkXn/Dizajn-bez-nazvania-2025-11-23T190515-834.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Квиз по Гарри Поттеру",
+    "btnText": ""
+  },
+  "direction": "down",
+  "finalFeedback": "",
+  "globalTimer": 60,
+  "levels": [
+    {
+      "target": "Как зовут сову Гарри Поттера?",
+      "correct": [
+        "Букля"
+      ],
+      "wrong": [
+        "Живоглот",
+        "Короста",
+        "Тревор"
+      ]
+    },
+    {
+      "target": "С какой платформы отправляется Хогвартс-экспресс?",
+      "correct": [
+        "Платформа 9¾"
+      ],
+      "wrong": [
+        "Платформа 8¾",
+        "Платформа 10½",
+        "Платформа 12"
+      ]
+    },
+    {
+      "target": "Кто друзья Гарри?",
+      "correct": [
+        "Рон",
+        "Гермиона"
+      ],
+      "wrong": [
+        "Волан-де-Морт",
+        "Драко",
+        "Люциус"
+      ]
+    }
+  ]
+}
