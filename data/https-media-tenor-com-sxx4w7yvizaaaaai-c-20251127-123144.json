@@ -1,0 +1,68 @@
+{
+  "language": "ru",
+  "font": "Marck Script",
+  "fontSize": 45,
+  "textColor": "#ffffff",
+  "speed": 4,
+  "questionFont": "PT Sans",
+  "questionFontSize": 50,
+  "style": {
+    "shape": "rounded",
+    "pad": 47,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/d1JH36jk/Dizajn-bez-nazvania-2025-11-27T121102-632.png",
+    "bgImages": [
+      "https://i.postimg.cc/d1JH36jk/Dizajn-bez-nazvania-2025-11-27T121102-632.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "CHRISTMAS",
+    "btnText": "START"
+  },
+  "direction": "random",
+  "finalFeedback": "Молодец!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "https://media.tenor.com/SxX4W7yvizAAAAAi/christmas-bells.gif",
+      "correct": [
+        "bauble"
+      ],
+      "wrong": [
+        "snowflake",
+        "angel",
+        "wreath"
+      ]
+    },
+    {
+      "target": "https://media.tenor.com/z3tL-TxlNQ8AAAAi/boldog-karácsonyt-snow.gif",
+      "correct": [
+        "snowflake"
+      ],
+      "wrong": [
+        "angel",
+        "wreath",
+        "lights"
+      ]
+    },
+    {
+      "target": "bauble",
+      "correct": [
+        "https://media.tenor.com/SxX4W7yvizAAAAAi/christmas-bells.gif"
+      ],
+      "wrong": [
+        "https://media.tenor.com/z3tL-TxlNQ8AAAAi/boldog-karácsonyt-snow.gif"
+      ]
+    }
+  ]
+}
