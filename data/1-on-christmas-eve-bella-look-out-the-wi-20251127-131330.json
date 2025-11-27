@@ -1,0 +1,189 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 24,
+  "textColor": "#04431a",
+  "speed": 4,
+  "questionFont": "Roboto",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 50,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/s2TjR1cq/Dizajn-bez-nazvania-2025-11-26T142543-151.png\nhttps://i.postimg.cc/vm0YdDhG/Dizajn-bez-nazvania-2025-11-26T142556-033.png\nhttps://i.postimg.cc/g0gzPrsm/Dizajn-bez-nazvania-2025-11-26T142649-445.png",
+    "bgImages": [
+      "https://i.postimg.cc/s2TjR1cq/Dizajn-bez-nazvania-2025-11-26T142543-151.png",
+      "https://i.postimg.cc/vm0YdDhG/Dizajn-bez-nazvania-2025-11-26T142556-033.png",
+      "https://i.postimg.cc/g0gzPrsm/Dizajn-bez-nazvania-2025-11-26T142649-445.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Christmas in Twilight",
+    "btnText": "Start"
+  },
+  "direction": "random",
+  "finalFeedback": "The End",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "1. On Christmas Eve Bella ____ (look) out the window while the snow was falling.",
+      "correct": [
+        "was looking"
+      ],
+      "wrong": [
+        "looked",
+        "were looking"
+      ]
+    },
+    {
+      "target": "2. She ____ (walk) to the house when someone suddenly called her name.",
+      "correct": [
+        "was walking"
+      ],
+      "wrong": [
+        "walked",
+        "was walk"
+      ]
+    },
+    {
+      "target": "3. Inside, one boy was eating cookies while the other ____ (sit) quietly in the corner.",
+      "correct": [
+        "was sitting"
+      ],
+      "wrong": [
+        "sat",
+        "were sitting"
+      ]
+    },
+    {
+      "target": "4. Bella ____ (ask) if everything was okay when she saw the mess on the table.",
+      "correct": [
+        "asked"
+      ],
+      "wrong": [
+        "was asking",
+        "did asked"
+      ]
+    },
+    {
+      "target": "5. They ____ (decorate) the tree together when the lights suddenly went out.",
+      "correct": [
+        "were decorating"
+      ],
+      "wrong": [
+        "decorated",
+        "was decorating"
+      ]
+    },
+    {
+      "target": "6. While one boy was searching for candles, the other ____ (make) dramatic comments about the darkness.",
+      "correct": [
+        "made"
+      ],
+      "wrong": [
+        "was making",
+        "maked"
+      ]
+    },
+    {
+      "target": "7. Bella ____ (laugh) when she saw them arguing over a broken decoration.",
+      "correct": [
+        "laughed"
+      ],
+      "wrong": [
+        "was laughing",
+        "laught"
+      ]
+    },
+    {
+      "target": "8. They ____ (walk) through the forest when a loud crack echoed behind them.",
+      "correct": [
+        "were walking"
+      ],
+      "wrong": [
+        "walked",
+        "was walking"
+      ]
+    },
+    {
+      "target": "9. While one boy was preparing a surprise, the other ____ (complain) loudly about the cold.",
+      "correct": [
+        "complained"
+      ],
+      "wrong": [
+        "was complaining",
+        "complaind"
+      ]
+    },
+    {
+      "target": "10. Bella ____ (notice) strange glowing lights near the lake.",
+      "correct": [
+        "noticed"
+      ],
+      "wrong": [
+        "was noticing",
+        "noticeed"
+      ]
+    },
+    {
+      "target": "11. They ____ (stand) by the water when something suddenly flashed in the trees.",
+      "correct": [
+        "were standing"
+      ],
+      "wrong": [
+        "stood",
+        "was standing"
+      ]
+    },
+    {
+      "target": "12. The quiet boy ____ (smile) when he saw her reaction to the lights.",
+      "correct": [
+        "smiled"
+      ],
+      "wrong": [
+        "was smiling",
+        "smilied"
+      ]
+    },
+    {
+      "target": "13. Meanwhile, the noisy one ____ (try) to warm his hands with a ridiculous dance.",
+      "correct": [
+        "was trying"
+      ],
+      "wrong": [
+        "tried",
+        "were trying"
+      ]
+    },
+    {
+      "target": "14. Bella ____ (hear) soft music coming from behind the trees.",
+      "correct": [
+        "heard"
+      ],
+      "wrong": [
+        "was hearing",
+        "heared"
+      ]
+    },
+    {
+      "target": "15. At the end of the night they ____ (laugh) together as the snow started to fall harder.",
+      "correct": [
+        "laughed"
+      ],
+      "wrong": [
+        "was laughing",
+        "laughted"
+      ]
+    }
+  ]
+}
