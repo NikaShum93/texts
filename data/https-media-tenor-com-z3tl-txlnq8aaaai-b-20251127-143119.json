@@ -1,0 +1,55 @@
+{
+  "language": "ru",
+  "font": "Lobster",
+  "fontSize": 25,
+  "textColor": "#fffafa",
+  "speed": 4,
+  "questionFont": "Lobster",
+  "questionFontSize": 35,
+  "style": {
+    "shape": "circle",
+    "pad": 30,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/d1JH36jk/Dizajn-bez-nazvania-2025-11-27T121102-632.png",
+    "bgImages": [
+      "https://i.postimg.cc/d1JH36jk/Dizajn-bez-nazvania-2025-11-27T121102-632.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "",
+    "btnText": "НАЧАТЬ"
+  },
+  "direction": "random",
+  "finalFeedback": "МОЛОДЕЦ!",
+  "globalTimer": 40,
+  "levels": [
+    {
+      "target": "https://media.tenor.com/z3tL-TxlNQ8AAAAi/boldog-karácsonyt-snow.gif",
+      "correct": [
+        "снежинка"
+      ],
+      "wrong": [
+        "шарик"
+      ]
+    },
+    {
+      "target": "https://media.tenor.com/SxX4W7yvizAAAAAi/christmas-bells.gif",
+      "correct": [
+        "шарик"
+      ],
+      "wrong": [
+        "снежинка"
+      ]
+    }
+  ]
+}
