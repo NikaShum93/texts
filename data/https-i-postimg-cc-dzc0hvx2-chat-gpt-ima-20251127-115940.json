@@ -1,0 +1,48 @@
+{
+  "language": "ru",
+  "font": "Marck Script",
+  "fontSize": 25,
+  "textColor": "#030113",
+  "speed": 4,
+  "questionFont": "PT Sans",
+  "questionFontSize": 25,
+  "style": {
+    "shape": "rounded",
+    "pad": 70,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/Zngf5Sqp/Chat-GPT-Image-27-noab-2025-g-11-52-25.png",
+    "bgImages": [
+      "https://i.postimg.cc/Zngf5Sqp/Chat-GPT-Image-27-noab-2025-g-11-52-25.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "CHRISTMAS",
+    "btnText": "START"
+  },
+  "direction": "down",
+  "finalFeedback": "Молодец!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "https://i.postimg.cc/DZc0hvx2/Chat-GPT-Image-27-noab-2025-g-11-43-03.png",
+      "correct": [
+        "bauble"
+      ],
+      "wrong": [
+        "bauble",
+        "angel",
+        "wreath"
+      ]
+    }
+  ]
+}
