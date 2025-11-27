@@ -1,0 +1,57 @@
+{
+  "language": "ru",
+  "font": "Lobster",
+  "fontSize": 25,
+  "textColor": "#0a0000",
+  "speed": 4,
+  "questionFont": "Lobster",
+  "questionFontSize": 35,
+  "style": {
+    "shape": "rounded",
+    "pad": 25,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/52TJ492F/Chat-GPT-Image-26-noab-2025-g-12-37-32.png",
+    "bgImages": [
+      "https://i.postimg.cc/52TJ492F/Chat-GPT-Image-26-noab-2025-g-12-37-32.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "ИГРА В СНЕЖКИ",
+    "btnText": "НАЧАТЬ"
+  },
+  "direction": "random",
+  "finalFeedback": "МОЛОДЕЦ!",
+  "globalTimer": 40,
+  "levels": [
+    {
+      "target": "Какая столица Франции?",
+      "correct": [
+        "Париж"
+      ],
+      "wrong": [
+        "Москва",
+        "Лондон"
+      ]
+    },
+    {
+      "target": "Какая столица России?",
+      "correct": [
+        "Москва"
+      ],
+      "wrong": [
+        "Париж",
+        "Лондон"
+      ]
+    }
+  ]
+}
