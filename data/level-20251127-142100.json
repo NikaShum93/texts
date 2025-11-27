@@ -1,0 +1,72 @@
+{
+  "language": "ru",
+  "font": "Lobster",
+  "fontSize": 25,
+  "textColor": "#fffafa",
+  "speed": 4,
+  "questionFont": "Lobster",
+  "questionFontSize": 35,
+  "style": {
+    "shape": "rounded",
+    "pad": 30,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/L6sp57dT/1.png\nhttps://i.postimg.cc/KvsyMNF0/2.png\nhttps://i.postimg.cc/tCmHx5yr/3.png\nhttps://i.postimg.cc/SNtpMrqV/4.png\nhttps://i.postimg.cc/rFYLrJcQ/5.png\nhttps://i.postimg.cc/yYrzZPsC/6.png",
+    "bgImages": [
+      "https://i.postimg.cc/L6sp57dT/1.png",
+      "https://i.postimg.cc/KvsyMNF0/2.png",
+      "https://i.postimg.cc/tCmHx5yr/3.png",
+      "https://i.postimg.cc/SNtpMrqV/4.png",
+      "https://i.postimg.cc/rFYLrJcQ/5.png",
+      "https://i.postimg.cc/yYrzZPsC/6.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "РОБЛОКС",
+    "btnText": "НАЧАТЬ"
+  },
+  "direction": "random",
+  "finalFeedback": "МОЛОДЕЦ!",
+  "globalTimer": 40,
+  "levels": [
+    {
+      "target": "Какая столица Франции?",
+      "correct": [
+        "Париж"
+      ],
+      "wrong": [
+        "Лондон",
+        "Москва"
+      ]
+    },
+    {
+      "target": "Какая столица России?",
+      "correct": [
+        "Москва"
+      ],
+      "wrong": [
+        "Париж",
+        "Лондон"
+      ]
+    },
+    {
+      "target": "Какая столица Англии?",
+      "correct": [
+        "Лондон"
+      ],
+      "wrong": [
+        "Париж",
+        "Москва"
+      ]
+    }
+  ]
+}
