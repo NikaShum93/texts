@@ -1,0 +1,153 @@
+{
+  "language": "en",
+  "font": "Inter",
+  "fontSize": 35,
+  "textColor": "#000000",
+  "speed": 2,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/J4V4Xfv4/1.png",
+      "https://i.postimg.cc/dQTVLsHQ/2.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 0,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "-s  -es  -ies",
+    "btnText": "Start"
+  },
+  "direction": "down",
+  "finalFeedback": "Smart choice! You think faster than feathers!",
+  "levels": [
+    {
+      "target": "words have -S with She He It",
+      "correct": [
+        "run",
+        "play",
+        "jump",
+        "read",
+        "drink",
+        "eat",
+        "sing",
+        "draw",
+        "make",
+        "ride",
+        "swim",
+        "clean",
+        "smile",
+        "walk",
+        "open"
+      ],
+      "wrong": [
+        "wash",
+        "brush",
+        "finish",
+        "watch",
+        "catch",
+        "mix",
+        "fix",
+        "dry",
+        "reply",
+        "worry",
+        "marry",
+        "bury",
+        "fry",
+        "spy"
+      ],
+      "timer": 55
+    },
+    {
+      "target": "words have -ES with She He It",
+      "correct": [
+        "wash",
+        "brush",
+        "finish",
+        "watch",
+        "catch",
+        "mix",
+        "fix",
+        "go",
+        "do",
+        "kiss",
+        "miss",
+        "dress",
+        "buzz",
+        "pass"
+      ],
+      "wrong": [
+        "eat",
+        "sing",
+        "draw",
+        "make",
+        "ride",
+        "swim",
+        "clean",
+        "smile",
+        "walk",
+        "open",
+        "cry",
+        "try",
+        "fly",
+        "study",
+        "carry",
+        "hurry",
+        "copy",
+        "tidy"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "words have -IES with She He It",
+      "correct": [
+        "cry",
+        "try",
+        "fly",
+        "study",
+        "carry",
+        "hurry",
+        "copy",
+        "tidy",
+        "dry",
+        "reply",
+        "worry",
+        "marry",
+        "bury",
+        "fry",
+        "spy"
+      ],
+      "wrong": [
+        "run",
+        "play",
+        "jump",
+        "read",
+        "drink",
+        "eat",
+        "sing",
+        "draw",
+        "make",
+        "ride",
+        "wash",
+        "brush",
+        "finish",
+        "watch",
+        "catch",
+        "mix",
+        "fix",
+        "box"
+      ],
+      "timer": 30
+    }
+  ]
+}
