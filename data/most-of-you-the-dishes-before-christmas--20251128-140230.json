@@ -1,0 +1,137 @@
+{
+  "language": "en",
+  "font": "Indie Flower",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 4,
+  "questionFont": "Indie Flower",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 30,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/xThM1yLw/Dizajn-bez-nazvania-2025-11-28T140034-833.png",
+    "bgImages": [
+      "https://i.postimg.cc/xThM1yLw/Dizajn-bez-nazvania-2025-11-28T140034-833.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Blah Blah is angry",
+    "btnText": "Calm him down"
+  },
+  "direction": "down",
+  "finalFeedback": "Blah Blah is still angry but a little bit less.",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "Most of you ___ the dishes before Christmas dinner. (wash)",
+      "correct": [
+        "wash"
+      ],
+      "wrong": [
+        "washes",
+        "washing"
+      ]
+    },
+    {
+      "target": "None of you ___ to listen when Blah Blah whispers about chores. (want)",
+      "correct": [
+        "want"
+      ],
+      "wrong": [
+        "wants",
+        "wanted"
+      ]
+    },
+    {
+      "target": "Each of you ___ your own room before guests arrive. (clean)",
+      "correct": [
+        "cleans"
+      ],
+      "wrong": [
+        "clean",
+        "cleaned"
+      ]
+    },
+    {
+      "target": "All of them ___ angry when Blah Blah says they are lazy. (get)",
+      "correct": [
+        "get"
+      ],
+      "wrong": [
+        "gets",
+        "getting"
+      ]
+    },
+    {
+      "target": "Only one of you ___ the garbage on time. (take out)",
+      "correct": [
+        "takes out"
+      ],
+      "wrong": [
+        "take out",
+        "taking out"
+      ]
+    },
+    {
+      "target": "Many ___ leave their socks on the floor, so Blah Blah complains. (child / children)",
+      "correct": [
+        "children"
+      ],
+      "wrong": [
+        "child",
+        "childs"
+      ]
+    },
+    {
+      "target": "Only one ___ actually enjoys Christmas chores. (teenager / teenagers)",
+      "correct": [
+        "teenager"
+      ],
+      "wrong": [
+        "teenagers",
+        "teenageres"
+      ]
+    },
+    {
+      "target": "All the ___ are sparkling clean after we listen to Blah Blah. (plate / plates)",
+      "correct": [
+        "plates"
+      ],
+      "wrong": [
+        "plate",
+        "platees"
+      ]
+    },
+    {
+      "target": "Each ___ has to bring a bag of garbage outside. (family member / family members)",
+      "correct": [
+        "family member"
+      ],
+      "wrong": [
+        "family members",
+        "family"
+      ]
+    },
+    {
+      "target": "Some ___ never hear Blah Blah because they wear headphones. (kid / kids)",
+      "correct": [
+        "kids"
+      ],
+      "wrong": [
+        "kid",
+        "kidss"
+      ]
+    }
+  ]
+}
