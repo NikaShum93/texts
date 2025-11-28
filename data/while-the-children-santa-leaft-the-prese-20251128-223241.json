@@ -1,0 +1,69 @@
+{
+  "language": "en",
+  "font": "Playfair Display",
+  "fontSize": 19,
+  "textColor": "#fffcfa",
+  "speed": 3,
+  "questionFont": "Special Elite",
+  "questionFontSize": 25,
+  "style": {
+    "shape": "rounded",
+    "pad": 40,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/NGkX2HvW/Gift-without-Horizontal-Ribbon.png\nhttps://i.postimg.cc/cCF69fsW/Plain-Red-Gift-with-Green-Bow.png\nhttps://i.postimg.cc/SR1N7qr6/Orange-Box-with-Red-Bow.png",
+    "bgImages": [
+      "https://i.postimg.cc/NGkX2HvW/Gift-without-Horizontal-Ribbon.png",
+      "https://i.postimg.cc/cCF69fsW/Plain-Red-Gift-with-Green-Bow.png",
+      "https://i.postimg.cc/SR1N7qr6/Orange-Box-with-Red-Bow.png"
+    ],
+    "borderOn": true,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 180
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Choose the correct answer",
+    "btnText": "Start"
+  },
+  "direction": "down",
+  "finalFeedback": "Well done!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "While the children     ----------, Santa leaft the presents under the tree.",
+      "correct": [
+        "were sleeping"
+      ],
+      "wrong": [
+        "were you doing",
+        "heard"
+      ]
+    },
+    {
+      "target": "I was lloking at my stocking when I --------  a bell on the roof.",
+      "correct": [
+        "heard"
+      ],
+      "wrong": [
+        "were you doing",
+        "were sleeping"
+      ]
+    },
+    {
+      "target": "What -------- when Santa came down the chimney?",
+      "correct": [
+        "were you doing"
+      ],
+      "wrong": [
+        "were sleeping",
+        "heard"
+      ]
+    }
+  ]
+}
