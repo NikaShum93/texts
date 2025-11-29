@@ -1,0 +1,147 @@
+{
+  "language": "ru",
+  "font": "Marck Script",
+  "fontSize": 24,
+  "textColor": "#08032b",
+  "speed": 2,
+  "questionFont": "PT Sans",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 20,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/ydGrM5xf/snezok.png",
+    "bgImages": [
+      "https://i.postimg.cc/ydGrM5xf/snezok.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 150
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "СНЕЖКИ",
+    "btnText": "Начать"
+  },
+  "direction": "random",
+  "finalFeedback": "МОЛОДЕЦ!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "Уменьшаемое 27, вычитаемое 8. Найди разность",
+      "correct": [
+        "19"
+      ],
+      "wrong": [
+        "35",
+        "3",
+        "18"
+      ]
+    },
+    {
+      "target": "Найди сумму чисел 37 и 6",
+      "correct": [
+        "43"
+      ],
+      "wrong": [
+        "31",
+        "6",
+        "42"
+      ]
+    },
+    {
+      "target": "Разность чисел 90 и 70 увеличьте на 4 десятка",
+      "correct": [
+        "60"
+      ],
+      "wrong": [
+        "200",
+        "120",
+        "5"
+      ]
+    },
+    {
+      "target": "Какое число на 9 больше, чем 53?",
+      "correct": [
+        "62"
+      ],
+      "wrong": [
+        "44",
+        "5",
+        "61"
+      ]
+    },
+    {
+      "target": "Во сколько раз 20 меньше 60?",
+      "correct": [
+        "3"
+      ],
+      "wrong": [
+        "40",
+        "80",
+        "30"
+      ]
+    },
+    {
+      "target": "Частное чисел 63 и 9 увеличить в 7 раз.",
+      "correct": [
+        "49"
+      ],
+      "wrong": [
+        "54",
+        "7",
+        "42"
+      ]
+    },
+    {
+      "target": "Какое число надо разделить на 12, чтобы получилось число 3?",
+      "correct": [
+        "4"
+      ],
+      "wrong": [
+        "3",
+        "6",
+        "2"
+      ]
+    },
+    {
+      "target": "Чему равен делитель, если делимое 28, а частное 7?",
+      "correct": [
+        "4"
+      ],
+      "wrong": [
+        "3",
+        "5",
+        "21"
+      ]
+    },
+    {
+      "target": "Найди периметр равностороннего треугольника со стороной 9мм.",
+      "correct": [
+        "27"
+      ],
+      "wrong": [
+        "25",
+        "3",
+        "30"
+      ]
+    },
+    {
+      "target": "Папа купил 7 кг свёклы и заплатил за неё 50 рублей. Сколько сдачи получит папа, если килограмм свёклы стоит 5 рублей?",
+      "correct": [
+        "15"
+      ],
+      "wrong": [
+        "25",
+        "43",
+        "38"
+      ]
+    }
+  ]
+}
