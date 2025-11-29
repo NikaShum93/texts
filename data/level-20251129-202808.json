@@ -1,0 +1,61 @@
+{
+  "language": "ru",
+  "font": "Montserrat",
+  "fontSize": 24,
+  "textColor": "#fdf7f7",
+  "speed": 4,
+  "questionFont": "Montserrat",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 26,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/QCMB9WYc/1.png",
+    "bgImages": [
+      "https://i.postimg.cc/QCMB9WYc/1.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Игра \"Правописание приставок\"",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Молодец!",
+  "globalTimer": 30,
+  "levels": [
+    {
+      "target": "Где буква \"Е\"?",
+      "correct": [
+        "пр_милый",
+        "пр_секать"
+      ],
+      "wrong": [
+        "пр_ручить",
+        "пр_сесть",
+        "пр_бавить"
+      ]
+    },
+    {
+      "target": "Где буква \"И\"?",
+      "correct": [
+        "пр_оритет",
+        "пр_творщик"
+      ],
+      "wrong": [
+        "пр_ступник",
+        "пр_фект",
+        "пр_цедент"
+      ]
+    }
+  ]
+}
