@@ -1,0 +1,52 @@
+{
+  "language": "ru",
+  "font": "Montserrat",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "questionFont": "PT Sans",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 120,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/QCMB9WYc/1.png",
+    "bgImages": [
+      "https://i.postimg.cc/QCMB9WYc/1.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 260
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Игра \"Правописание приставок\"",
+    "btnText": "Начать"
+  },
+  "direction": "random",
+  "finalFeedback": "Молодец!",
+  "globalTimer": 30,
+  "levels": [
+    {
+      "target": "Найдите слова, в которых пишется буква \"Е\"",
+      "correct": [
+        "пр_милый",
+        "пр_секать",
+        "пр_дельный",
+        "пр_подавать",
+        "пр_фект"
+      ],
+      "wrong": [
+        "пр_сесть",
+        "пр_ручить",
+        "пр_мыкать"
+      ]
+    }
+  ]
+}
