@@ -1,0 +1,71 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/FRdc1nFT/1.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "动物",
+    "btnText": "开始"
+  },
+  "direction": "up",
+  "finalFeedback": "",
+  "levels": [
+    {
+      "target": "动物",
+      "correct": [
+        "https://postimg.cc/YG7jsRWF][img]https://i.postimg.cc/YG7jsRWF/1.png[/img][/url]",
+        "https://postimg.cc/LhrGKWXM][img]https://i.postimg.cc/LhrGKWXM/10.png[/img][/url]",
+        "https://postimg.cc/bZPMd2kx][img]https://i.postimg.cc/bZPMd2kx/11.png[/img][/url]",
+        "https://postimg.cc/DWyMPkCQ][img]https://i.postimg.cc/DWyMPkCQ/12.png[/img][/url]",
+        "https://postimg.cc/d7HSWHXn][img]https://i.postimg.cc/d7HSWHXn/13.png[/img][/url]",
+        "https://postimg.cc/hzNZnJKQ][img]https://i.postimg.cc/hzNZnJKQ/14.png[/img][/url]",
+        "https://postimg.cc/V0MGkYNF][img]https://i.postimg.cc/V0MGkYNF/15.png[/img][/url]",
+        "https://postimg.cc/ThWH9ccn][img]https://i.postimg.cc/ThWH9ccn/16.png[/img][/url]",
+        "https://postimg.cc/DmbYgccx][img]https://i.postimg.cc/DmbYgccx/17.png[/img][/url]",
+        "https://postimg.cc/TpMNHW7P][img]https://i.postimg.cc/TpMNHW7P/18.png[/img][/url]",
+        "https://postimg.cc/87wy5XTK][img]https://i.postimg.cc/87wy5XTK/19.png[/img][/url]",
+        "https://postimg.cc/0rbqqm01][img]https://i.postimg.cc/0rbqqm01/2.png[/img][/url]",
+        "https://postimg.cc/JynpB3nt][img]https://i.postimg.cc/JynpB3nt/20.png[/img][/url]",
+        "https://postimg.cc/Nyzp8y91][img]https://i.postimg.cc/Nyzp8y91/21.png[/img][/url]",
+        "https://postimg.cc/Z9MVP9Bw][img]https://i.postimg.cc/Z9MVP9Bw/22.png[/img][/url]",
+        "https://postimg.cc/xk4tGkN9][img]https://i.postimg.cc/xk4tGkN9/23.png[/img][/url]",
+        "https://postimg.cc/5YQpsx82][img]https://i.postimg.cc/5YQpsx82/24.png[/img][/url]",
+        "https://postimg.cc/sQGKTV5S][img]https://i.postimg.cc/sQGKTV5S/25.png[/img][/url]",
+        "https://postimg.cc/QV505dX2][img]https://i.postimg.cc/QV505dX2/26.png[/img][/url]",
+        "https://postimg.cc/qNBL9c80][img]https://i.postimg.cc/qNBL9c80/27.png[/img][/url]",
+        "https://postimg.cc/DW8cz2jb][img]https://i.postimg.cc/DW8cz2jb/28.png[/img][/url]",
+        "https://postimg.cc/cK2BgVPL][img]https://i.postimg.cc/cK2BgVPL/29.png[/img][/url]",
+        "https://postimg.cc/8sjVVWmj][img]https://i.postimg.cc/8sjVVWmj/3.png[/img][/url]",
+        "https://postimg.cc/H8C03bp0][img]https://i.postimg.cc/H8C03bp0/30.png[/img][/url]",
+        "https://postimg.cc/bdWfYJmk][img]https://i.postimg.cc/bdWfYJmk/4.png[/img][/url]",
+        "https://postimg.cc/t7wGRTBh][img]https://i.postimg.cc/t7wGRTBh/5.png[/img][/url]",
+        "https://postimg.cc/k2dr8H37][img]https://i.postimg.cc/k2dr8H37/6.png[/img][/url]",
+        "https://postimg.cc/Fd68KWV0][img]https://i.postimg.cc/Fd68KWV0/7.png[/img][/url]",
+        "https://postimg.cc/14gbdSyg][img]https://i.postimg.cc/14gbdSyg/8.png[/img][/url]",
+        "https://postimg.cc/p5n75fsS][img]https://i.postimg.cc/p5n75fsS/9.png[/img][/url]"
+      ],
+      "wrong": [],
+      "timer": 30
+    }
+  ]
+}
