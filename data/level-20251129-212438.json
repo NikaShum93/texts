@@ -1,0 +1,71 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "style": {
+    "shape": "rounded",
+    "pad": 44,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/nrwh7ndX/Fashion-Show-Event-Announcement-Instagram-Post.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "动物",
+    "btnText": "开始"
+  },
+  "direction": "up",
+  "finalFeedback": "",
+  "levels": [
+    {
+      "target": "动物",
+      "correct": [
+        "https://i.postimg.cc/FRdc1nFT/1.png",
+        "https://i.postimg.cc/bNJPbcfd/10.png",
+        "https://i.postimg.cc/g2LPSV0T/11.png",
+        "https://i.postimg.cc/jjzYKRP1/12.png",
+        "https://i.postimg.cc/LX2K8GVd/13.png",
+        "https://i.postimg.cc/NFj31TVD/14.png",
+        "https://i.postimg.cc/5yKZpydD/15.png",
+        "https://i.postimg.cc/Y2XKtnGD/16.png",
+        "https://i.postimg.cc/T2kMT75v/17.png",
+        "https://i.postimg.cc/HsVGnwbb/18.png",
+        "https://i.postimg.cc/tgG8B8wj/19.png",
+        "https://i.postimg.cc/MZYZVmcH/2.png",
+        "https://i.postimg.cc/MG0NNdJ0/20.png",
+        "https://i.postimg.cc/j5smbPRk/21.png",
+        "https://i.postimg.cc/tTXwjWXG/22.png",
+        "https://i.postimg.cc/3RKVTmK0/23.png",
+        "https://i.postimg.cc/76mcYh60/24.png",
+        "https://i.postimg.cc/FRDqszRP/25.png",
+        "https://i.postimg.cc/7PtcF5jZ/26.png",
+        "https://i.postimg.cc/wjLGR0Mt/27.png",
+        "https://i.postimg.cc/YSxDb0Q8/28.png",
+        "https://i.postimg.cc/tTCSfb5W/29.png",
+        "https://i.postimg.cc/Wp7pgwD6/3.png",
+        "https://i.postimg.cc/0jztkCF4/30.png",
+        "https://i.postimg.cc/WbbNnqrW/4.png",
+        "https://i.postimg.cc/J44rqHJd/5.png",
+        "https://i.postimg.cc/cLvsqqFt/6.png",
+        "https://i.postimg.cc/FzF4DwfC/7.png",
+        "https://i.postimg.cc/xjgYcj7P/8.png",
+        "https://i.postimg.cc/wMWdPFL9/9.png"
+      ],
+      "wrong": [],
+      "timer": 610
+    }
+  ]
+}
