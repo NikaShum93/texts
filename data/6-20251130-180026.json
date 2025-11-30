@@ -1,0 +1,80 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 34,
+  "textColor": "#050505",
+  "speed": 1,
+  "style": {
+    "shape": "rounded",
+    "pad": 32,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://img.genially.com/658035f5a6ff05001fd83772/fc468591-5386-477d-990d-db467815028b.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 120
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Делим на 6",
+    "btnText": ""
+  },
+  "direction": "down",
+  "finalFeedback": "",
+  "levels": [
+    {
+      "target": "что делится на 6",
+      "correct": [
+        "18",
+        "36",
+        "54",
+        "60",
+        "120",
+        "366",
+        "126",
+        "480",
+        "672",
+        "252",
+        "1230",
+        "3042",
+        "198",
+        "1716",
+        "330",
+        "456",
+        "984",
+        "354",
+        "870",
+        "3504",
+        "42",
+        "84",
+        "108"
+      ],
+      "wrong": [
+        "303",
+        "363",
+        "422",
+        "225",
+        "333",
+        "664",
+        "1475",
+        "956",
+        "1541",
+        "75",
+        "400",
+        "754",
+        "117",
+        "523",
+        "147"
+      ],
+      "timer": 60
+    }
+  ]
+}
