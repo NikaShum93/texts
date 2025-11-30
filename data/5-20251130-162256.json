@@ -1,0 +1,77 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 34,
+  "textColor": "#fad900",
+  "speed": 2,
+  "style": {
+    "shape": "rounded",
+    "pad": 32,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://img.genially.com/658035f5a6ff05001fd83772/f3b6751b-f96e-47f0-89fd-9ed41e555621.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Делится на 5",
+    "btnText": ""
+  },
+  "direction": "down",
+  "finalFeedback": "",
+  "levels": [
+    {
+      "target": ", что делится на 5",
+      "correct": [
+        "5",
+        "10",
+        "15",
+        "100",
+        "105",
+        "60",
+        "840",
+        "965",
+        "320",
+        "365",
+        "485",
+        "770",
+        "1475",
+        "8520",
+        "6000",
+        "5485",
+        "375",
+        "655",
+        "1490"
+      ],
+      "wrong": [
+        "51",
+        "502",
+        "557",
+        "5556",
+        "328",
+        "146",
+        "543",
+        "352",
+        "984",
+        "793",
+        "2006",
+        "5007",
+        "7891",
+        "652",
+        "754",
+        "408"
+      ],
+      "timer": 60
+    }
+  ]
+}
