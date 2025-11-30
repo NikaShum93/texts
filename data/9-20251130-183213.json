@@ -1,0 +1,89 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 34,
+  "textColor": "#fafafa",
+  "speed": 1,
+  "style": {
+    "shape": "rounded",
+    "pad": 32,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://img.genially.com/658035f5a6ff05001fd83772/b211d3da-9d4b-46de-8a61-e35b38dd88c7.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 120
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Делим на 9",
+    "btnText": ""
+  },
+  "direction": "down",
+  "finalFeedback": "",
+  "levels": [
+    {
+      "target": "что делится на 9",
+      "correct": [
+        "18",
+        "27",
+        "36",
+        "72",
+        "63",
+        "108",
+        "99",
+        "126",
+        "540",
+        "603",
+        "801",
+        "522",
+        "414",
+        "963",
+        "2070",
+        "2952",
+        "531",
+        "657",
+        "423",
+        "117",
+        "2115",
+        "7101",
+        "45",
+        "81",
+        "96",
+        "162",
+        "288",
+        "315"
+      ],
+      "wrong": [
+        "19",
+        "28",
+        "71",
+        "64",
+        "107",
+        "998",
+        "29",
+        "332",
+        "439",
+        "957",
+        "813",
+        "339",
+        "989",
+        "119",
+        "125",
+        "548",
+        "98",
+        "19",
+        "458"
+      ],
+      "timer": 60
+    }
+  ]
+}
