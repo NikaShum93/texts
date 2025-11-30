@@ -1,0 +1,203 @@
+{
+  "language": "en",
+  "font": "Poppins",
+  "fontSize": 35,
+  "textColor": "#000000",
+  "speed": 3,
+  "questionFont": "Roboto",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 44,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/kMT480zT/1.png\nhttps://i.postimg.cc/C5rxg8kX/2.png",
+    "bgImages": [
+      "https://i.postimg.cc/kMT480zT/1.png",
+      "https://i.postimg.cc/C5rxg8kX/2.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "SheHeIt",
+    "btnText": "Start"
+  },
+  "direction": "random",
+  "finalFeedback": "Wow! SheHeIt is proud of you!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "She ___ tennis every day.",
+      "correct": [
+        "plays"
+      ],
+      "wrong": [
+        "playes",
+        "plaies",
+        "play"
+      ]
+    },
+    {
+      "target": "Tom ___ to school by bus.",
+      "correct": [
+        "goes"
+      ],
+      "wrong": [
+        "gos",
+        "goess",
+        "go"
+      ]
+    },
+    {
+      "target": "They ___ cartoons on Sundays.",
+      "correct": [
+        "watch"
+      ],
+      "wrong": [
+        "watches",
+        "watchs",
+        "wach"
+      ]
+    },
+    {
+      "target": "He ___ his homework in the evening.",
+      "correct": [
+        "does"
+      ],
+      "wrong": [
+        "do",
+        "dois",
+        "doese"
+      ]
+    },
+    {
+      "target": "I ___ books in my room.",
+      "correct": [
+        "read"
+      ],
+      "wrong": [
+        "reads",
+        "reeds",
+        "reades"
+      ]
+    },
+    {
+      "target": "Anna ___ a nice picture.",
+      "correct": [
+        "draws"
+      ],
+      "wrong": [
+        "drawes",
+        "drows",
+        "draus"
+      ]
+    },
+    {
+      "target": "We ___ in the pool.",
+      "correct": [
+        "swim"
+      ],
+      "wrong": [
+        "swims",
+        "swimes",
+        "swime"
+      ]
+    },
+    {
+      "target": "The baby ___ a lot.",
+      "correct": [
+        "cries"
+      ],
+      "wrong": [
+        "cry",
+        "cryes",
+        "criis"
+      ]
+    },
+    {
+      "target": "My dad ___ dinner for us.",
+      "correct": [
+        "cooks"
+      ],
+      "wrong": [
+        "cookes",
+        "coocs",
+        "cook"
+      ]
+    },
+    {
+      "target": "He ___ TV in the evening.",
+      "correct": [
+        "watches"
+      ],
+      "wrong": [
+        "watch",
+        "watchs",
+        "wachis"
+      ]
+    },
+    {
+      "target": "The dog ___ very fast.",
+      "correct": [
+        "runs"
+      ],
+      "wrong": [
+        "runnes",
+        "run",
+        "runes"
+      ]
+    },
+    {
+      "target": "I ___ my room on Saturdays.",
+      "correct": [
+        "clean"
+      ],
+      "wrong": [
+        "cleans",
+        "cleanes",
+        "clen"
+      ]
+    },
+    {
+      "target": "She ___ English at school.",
+      "correct": [
+        "studies"
+      ],
+      "wrong": [
+        "study",
+        "studys",
+        "studyies"
+      ]
+    },
+    {
+      "target": "Ben ___ his teeth.",
+      "correct": [
+        "brushes"
+      ],
+      "wrong": [
+        "brushs",
+        "brusches",
+        "bruses"
+      ]
+    },
+    {
+      "target": "We ___ together at parties.",
+      "correct": [
+        "dance"
+      ],
+      "wrong": [
+        "dances",
+        "dancs",
+        "danse"
+      ]
+    }
+  ]
+}
