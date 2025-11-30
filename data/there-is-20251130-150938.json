@@ -1,0 +1,94 @@
+{
+  "language": "en",
+  "font": "Montserrat",
+  "fontSize": 43,
+  "textColor": "#000000",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 49,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/5NPzmPK0/46.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 260
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "There is There are",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Yay! We did it!",
+  "levels": [
+    {
+      "target": "There is",
+      "correct": [
+        "pen",
+        "ruler",
+        "desk",
+        "chair",
+        "bed",
+        "ball",
+        "doll",
+        "car",
+        "kite",
+        "radio",
+        "clock",
+        "book",
+        "cat",
+        "dog"
+      ],
+      "wrong": [
+        "books",
+        "beds",
+        "desks",
+        "rulers",
+        "cats",
+        "dogs"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "There are",
+      "correct": [
+        "books",
+        "beds",
+        "desks",
+        "rulers",
+        "cats",
+        "dogs",
+        "dolls",
+        "balls",
+        "cars",
+        "trees",
+        "bags",
+        "cups",
+        "ants"
+      ],
+      "wrong": [
+        "pen",
+        "ruler",
+        "desk",
+        "chair",
+        "bed",
+        "radio",
+        "clock",
+        "book",
+        "cat",
+        "dog",
+        "ball"
+      ],
+      "timer": 30
+    }
+  ]
+}
