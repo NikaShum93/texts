@@ -1,0 +1,67 @@
+{
+  "language": "en",
+  "font": "Playfair Display",
+  "fontSize": 25,
+  "textColor": "#0f0f0f",
+  "speed": 4,
+  "questionFont": "Playfair Display",
+  "questionFontSize": 35,
+  "style": {
+    "shape": "rounded",
+    "pad": 20,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/wMZ6J5wf/Dizajn-bez-nazvania-(20).png",
+    "bgImages": [
+      "https://i.postimg.cc/wMZ6J5wf/Dizajn-bez-nazvania-(20).png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": true,
+    "glowColor": "#011df4",
+    "fx3d": false,
+    "opacity": 0,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Catch the right icicle",
+    "btnText": "Start"
+  },
+  "direction": "down",
+  "finalFeedback": "Well done!",
+  "globalTimer": 15,
+  "levels": [
+    {
+      "target": "1. ...do you watch TV. - In the evening.",
+      "correct": [
+        "When"
+      ],
+      "wrong": [
+        "Where",
+        "What"
+      ]
+    },
+    {
+      "target": "2. ... did he go yesterday? - to the park.",
+      "correct": [
+        "Where"
+      ],
+      "wrong": [
+        "When",
+        "What"
+      ]
+    },
+    {
+      "target": "3. ... are you doing here? I'm riding a bike.",
+      "correct": [
+        "What"
+      ],
+      "wrong": [
+        "When",
+        "Where"
+      ]
+    }
+  ]
+}
