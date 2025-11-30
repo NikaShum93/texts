@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "font": "Rubik",
+  "fontSize": 22,
+  "textColor": "#ffffff",
+  "speed": 4,
+  "questionFont": "Roboto",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 67,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/tCZpgjmg/Elf.png",
+    "bgImages": [
+      "https://i.postimg.cc/tCZpgjmg/Elf.png"
+    ],
+    "borderOn": true,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#c8d1f3",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 170
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Choose the correct answer! Help Santa go to the house!",
+    "btnText": "Start"
+  },
+  "direction": "random",
+  "finalFeedback": "Well done! Thank you!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "I love _________  Christmas presents.",
+      "correct": [
+        "getting"
+      ],
+      "wrong": [
+        "to surprise",
+        "to buy",
+        "to make"
+      ]
+    },
+    {
+      "target": "He promised _________ (buy) a gift for his sister.",
+      "correct": [
+        "to buy"
+      ],
+      "wrong": [
+        "to make",
+        "choosing",
+        "waiting"
+      ]
+    },
+    {
+      "target": "She enjoys _________ (wrap) presents in beautiful paper.",
+      "correct": [
+        "wrapping"
+      ],
+      "wrong": [
+        "getting",
+        "to find",
+        "opening"
+      ]
+    },
+    {
+      "target": "We decided _________ (make) a handmade card.",
+      "correct": [
+        "to make"
+      ],
+      "wrong": [
+        "getting",
+        "opening",
+        "decorating"
+      ]
+    },
+    {
+      "target": "Do you like _________ (choose) gifts for your family?",
+      "correct": [
+        "choosing"
+      ],
+      "wrong": [
+        "to make",
+        "to surprise",
+        "wrapping"
+      ]
+    },
+    {
+      "target": "He finished _________ (write) his wish list.",
+      "correct": [
+        "writing"
+      ],
+      "wrong": [
+        "decorating",
+        "to surprise",
+        "waiting"
+      ]
+    },
+    {
+      "target": "They hope _________ (find) the perfect toy.",
+      "correct": [
+        "to find"
+      ],
+      "wrong": [
+        "waiting",
+        "to make",
+        "wrapping"
+      ]
+    },
+    {
+      "target": "She doesn't mind _________ (wait) until Christmas morning.",
+      "correct": [
+        "waiting"
+      ],
+      "wrong": [
+        "to make",
+        "to find",
+        "decorating"
+      ]
+    },
+    {
+      "target": "I want _________ (surprise) my parents with a special gift.",
+      "correct": [
+        "to surprise"
+      ],
+      "wrong": [
+        "opening",
+        "wrapping",
+        "to buy"
+      ]
+    },
+    {
+      "target": "He started _________ (decorate) the gifts with ribbons.",
+      "correct": [
+        "decorating"
+      ],
+      "wrong": [
+        "choosing",
+        "to make",
+        "to give"
+      ]
+    },
+    {
+      "target": "We plan _________ (give) presents to all our friends.",
+      "correct": [
+        "to give"
+      ],
+      "wrong": [
+        "waiting",
+        "choosing",
+        "to find"
+      ]
+    },
+    {
+      "target": "She avoided _________ (open) the box before Christmas.",
+      "correct": [
+        "opening"
+      ],
+      "wrong": [
+        "getting",
+        "to buy",
+        "to make"
+      ]
+    }
+  ]
+}
