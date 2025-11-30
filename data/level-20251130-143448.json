@@ -1,0 +1,53 @@
+{
+  "language": "ru",
+  "font": "Lobster",
+  "fontSize": 24,
+  "textColor": "#000000",
+  "speed": 3,
+  "questionFont": "Lobster",
+  "questionFontSize": 25,
+  "style": {
+    "shape": "rounded",
+    "pad": 25,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/MpQ318Px/snezok.png",
+    "bgImages": [
+      "https://i.postimg.cc/MpQ318Px/snezok.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "ИГРА В СНЕЖКИ",
+    "btnText": "НАЧАТЬ"
+  },
+  "direction": "random",
+  "finalFeedback": "МОЛОДЕЦ!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "Выбери предметы, в названии которых звук [Л] стоит в начале слова",
+      "correct": [
+        "Лавка",
+        "Ладонь",
+        "Лайм",
+        "Лампа",
+        "Лампочка",
+        "Ландыш",
+        "Лапти",
+        "Ластик",
+        "Ласточка",
+        "Ласты"
+      ],
+      "wrong": []
+    }
+  ]
+}
