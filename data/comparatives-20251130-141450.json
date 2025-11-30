@@ -1,0 +1,88 @@
+{
+  "language": "en",
+  "font": "Rubik",
+  "fontSize": 43,
+  "textColor": "#000000",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 55,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/dVyNGKHK/4.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 260
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Comparatives and superlatives",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Ho-ho-ho! You did it!",
+  "levels": [
+    {
+      "target": "Comparatives",
+      "correct": [
+        "smaller",
+        "bigger",
+        "faster",
+        "newer",
+        "happier",
+        "funnier",
+        "cheaper",
+        "better",
+        "worse"
+      ],
+      "wrong": [
+        "small",
+        "big",
+        "fat",
+        "happy",
+        "nice",
+        "fast",
+        "funny",
+        "cheap",
+        "good",
+        "bad"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "Superlatives",
+      "correct": [
+        "fastest",
+        "longest",
+        "biggest",
+        "fattest",
+        "nicest",
+        "smartest",
+        "best",
+        "hottest",
+        "worst",
+        "cutest",
+        "cleverest"
+      ],
+      "wrong": [
+        "funnier",
+        "cheaper",
+        "better",
+        "worse",
+        "funny",
+        "cheap",
+        "good",
+        "bad"
+      ],
+      "timer": 30
+    }
+  ]
+}
