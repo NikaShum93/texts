@@ -1,0 +1,64 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 10,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/RhTB3VQB/Мультяшная_снежинка.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 210
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Игра \"Поймай квинту\"",
+    "btnText": ""
+  },
+  "direction": "down",
+  "finalFeedback": "Отличная работа!",
+  "levels": [
+    {
+      "target": "Поймай все интервалы чистая квинта",
+      "correct": [
+        "https://i.postimg.cc/zvwgVWP9/Снежинка_додсольд.png",
+        "https://i.postimg.cc/8kLWKQP0/Снежинка_лябмиб.png",
+        "https://i.postimg.cc/650ZKrZf/Снежинка_лями.png",
+        "https://i.postimg.cc/YS4LQTsT/Снежинка_ребляб.png",
+        "https://i.postimg.cc/1zLnBJx4/Снежинка_реля.png",
+        "https://i.postimg.cc/tJb1QJCc/Снежинка_сифад.png",
+        "https://i.postimg.cc/7P1G13mW/Снежинка_сольре.png",
+        "https://i.postimg.cc/ryG0G1Qb/Снежинка_фадо.png"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/D0QX8sYM/Снежинка_доляб.png",
+        "https://i.postimg.cc/D0QX8sYM/Снежинка_доляб.png",
+        "https://i.postimg.cc/NF8H5TPZ/Снежинка_дореб.png",
+        "https://i.postimg.cc/4yv9mtF0/Снежинка_лябдо.png",
+        "https://i.postimg.cc/4yv9mtF0/Снежинка_лябдо.png",
+        "https://i.postimg.cc/WbnZVGZM/Снежинка_лябреб.png",
+        "https://i.postimg.cc/Yq3F76Ff/Снежинка_лясоль.png",
+        "https://i.postimg.cc/QddTdFkG/Снежинка_мибемре.png",
+        "https://i.postimg.cc/tg1nF8MN/Снежинка_мибляб.png",
+        "https://i.postimg.cc/8CFfLx0n/Снежинка_ребля.png",
+        "https://i.postimg.cc/zf9b7psc/Снежинка_ребреб.png",
+        "https://i.postimg.cc/j2TW02dk/Снежинка_сире.png",
+        "https://i.postimg.cc/brRZzPZX/Снежинка_сольляб.png",
+        "https://i.postimg.cc/SQL2L6gy/Снежинка_фасольд.png"
+      ],
+      "timer": 30
+    }
+  ]
+}
