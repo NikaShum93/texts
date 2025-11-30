@@ -1,0 +1,68 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 35,
+  "textColor": "#ffffff",
+  "speed": 1,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://img.genially.com/658035f5a6ff05001fd83772/426ba1a8-914d-4a73-afb2-d4a5d88efd78.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 120
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Делим на 4",
+    "btnText": ""
+  },
+  "direction": "down",
+  "finalFeedback": "",
+  "levels": [
+    {
+      "target": "что делится на 4",
+      "correct": [
+        "8",
+        "24",
+        "32",
+        "104",
+        "216",
+        "1452",
+        "2764",
+        "3100",
+        "100",
+        "340",
+        "672",
+        "912",
+        "896",
+        "756"
+      ],
+      "wrong": [
+        "18",
+        "201",
+        "746",
+        "213",
+        "422",
+        "1475",
+        "259",
+        "102",
+        "326",
+        "434",
+        "9402",
+        "1029"
+      ],
+      "timer": 60
+    }
+  ]
+}
