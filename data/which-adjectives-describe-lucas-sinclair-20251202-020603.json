@@ -1,0 +1,112 @@
+{
+  "language": "en",
+  "font": "Special Elite",
+  "fontSize": 24,
+  "textColor": "#042434",
+  "speed": 3,
+  "questionFont": "Special Elite",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 80,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/64233afb55129a0017751c8e/d20c0326-3dd1-4a76-baaa-4248e0c3d734.png",
+    "bgImages": [
+      "https://img.genially.com/64233afb55129a0017751c8e/d20c0326-3dd1-4a76-baaa-4248e0c3d734.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Who is who?",
+    "btnText": "Start"
+  },
+  "direction": "down",
+  "finalFeedback": "Eddie: Thanks, heroes! You are ready for our last Christmas adventure!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "Which adjectives describe Lucas Sinclair, the half-orc ranger?",
+      "correct": [
+        "athletic",
+        "observant",
+        "confident",
+        "fearless",
+        "competitive"
+      ],
+      "wrong": [
+        "theatrical",
+        "cold-hearted",
+        "mysterious"
+      ]
+    },
+    {
+      "target": "Which adjectives describe Mike Wheeler, the human wizard?",
+      "correct": [
+        "logical",
+        "responsible",
+        "determined",
+        "patient",
+        "cautious"
+      ],
+      "wrong": [
+        "competitive",
+        "artistic",
+        "creative"
+      ]
+    },
+    {
+      "target": "Which adjectives describe Dustin Henderson, the gnome bard?",
+      "correct": [
+        "inventive",
+        "cheerful",
+        "sociable",
+        "energetic",
+        "open-minded"
+      ],
+      "wrong": [
+        "cautious",
+        "stubborn",
+        "cold-hearted"
+      ]
+    },
+    {
+      "target": "Which adjectives describe Will Byers, the elf druid?",
+      "correct": [
+        "imaginative",
+        "gentle",
+        "intuitive",
+        "thoughtful",
+        "artistic"
+      ],
+      "wrong": [
+        "competitive",
+        "outspoken",
+        "powerful"
+      ]
+    },
+    {
+      "target": "Which adjectives describe Erica Sinclair, the dragonborn paladin?",
+      "correct": [
+        "assertive",
+        "ambitious",
+        "outspoken",
+        "dramatic",
+        "stubborn"
+      ],
+      "wrong": [
+        "gentle",
+        "imaginative",
+        "open-minded"
+      ]
+    }
+  ]
+}
