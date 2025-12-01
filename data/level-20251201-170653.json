@@ -1,0 +1,60 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 30,
+  "textColor": "#ffffff",
+  "speed": 1,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/q7d11G4q/Plusevaa-snezinka.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "снежинки",
+    "btnText": ""
+  },
+  "direction": "down",
+  "finalFeedback": "",
+  "levels": [
+    {
+      "target": "слоги",
+      "correct": [
+        "ДА",
+        "ДУ",
+        "БА",
+        "НО",
+        "РУ",
+        "КА",
+        "ВУ",
+        "МЫ",
+        "ЛЫ",
+        "ПЫ",
+        "ЗИ",
+        "ЗУ",
+        "ГО",
+        "ХО",
+        "ФИ",
+        "КИ",
+        "РИ",
+        "ТИ",
+        "СА"
+      ],
+      "wrong": [],
+      "timer": 50
+    }
+  ]
+}
