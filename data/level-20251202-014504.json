@@ -1,0 +1,52 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#232db3",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/XY53sdT4/Snezinka.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Снегопад",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Ура, получилось. Идём дальше!",
+  "levels": [
+    {
+      "target": "Вычитание",
+      "correct": [
+        "36-х=24",
+        "х+25=38",
+        "у+33=66",
+        "70-а=40",
+        "17+а=57",
+        "96-х=66"
+      ],
+      "wrong": [
+        "у-27=62",
+        "х-30=40",
+        "х-25=15",
+        "а-54=16"
+      ],
+      "timer": 65
+    }
+  ]
+}
