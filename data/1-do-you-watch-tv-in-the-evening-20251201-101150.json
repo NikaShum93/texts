@@ -1,0 +1,147 @@
+{
+  "language": "en",
+  "font": "Playfair Display",
+  "fontSize": 25,
+  "textColor": "#050505",
+  "speed": 2,
+  "questionFont": "Playfair Display",
+  "questionFontSize": 35,
+  "style": {
+    "shape": "rounded",
+    "pad": 20,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/657cce16f9179c001f2be1bb/d11c3b25-6c87-4f62-bdb3-d4387deb5d63.png",
+    "bgImages": [
+      "https://img.genially.com/657cce16f9179c001f2be1bb/d11c3b25-6c87-4f62-bdb3-d4387deb5d63.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": true,
+    "glowColor": "#011df4",
+    "fx3d": false,
+    "opacity": 0,
+    "imgBox": 170
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Catch the right icicle",
+    "btnText": "Start"
+  },
+  "direction": "down",
+  "finalFeedback": "Well done!",
+  "globalTimer": 45,
+  "levels": [
+    {
+      "target": "1. ...do you watch TV. - In the evening.",
+      "correct": [
+        "When"
+      ],
+      "wrong": [
+        "Why",
+        "Who",
+        "How"
+      ]
+    },
+    {
+      "target": "2. ... did he go yesterday? - To the park.",
+      "correct": [
+        "Where"
+      ],
+      "wrong": [
+        "Who",
+        "How",
+        "What"
+      ]
+    },
+    {
+      "target": "3. ... are you doing here? - I'm riding a bike.",
+      "correct": [
+        "What"
+      ],
+      "wrong": [
+        "Where",
+        "Where",
+        "How"
+      ]
+    },
+    {
+      "target": "4. ... the weather today? - It's cold.",
+      "correct": [
+        "How"
+      ],
+      "wrong": [
+        "When",
+        "Where",
+        "What"
+      ]
+    },
+    {
+      "target": "5. ... is she? - She is my mum?",
+      "correct": [
+        "Who"
+      ],
+      "wrong": [
+        "How",
+        "Where",
+        "Where"
+      ]
+    },
+    {
+      "target": "6. ... is he? - He is a pilot.",
+      "correct": [
+        "What"
+      ],
+      "wrong": [
+        "Why",
+        "When",
+        "Where"
+      ]
+    },
+    {
+      "target": "7. ... will they go tomorrow? - To the cinema.",
+      "correct": [
+        "Where"
+      ],
+      "wrong": [
+        "Who",
+        "How",
+        "What"
+      ]
+    },
+    {
+      "target": "8. ... are you crying? - I've lost my doll.",
+      "correct": [
+        "Why"
+      ],
+      "wrong": [
+        "What",
+        "Where",
+        "How"
+      ]
+    },
+    {
+      "target": "9. ... does he usually have lunch? - At 12 o'clock.",
+      "correct": [
+        "When"
+      ],
+      "wrong": [
+        "What",
+        "Who",
+        "How"
+      ]
+    },
+    {
+      "target": "10. ... is it? - It's a toy.",
+      "correct": [
+        "What"
+      ],
+      "wrong": [
+        "Who",
+        "When",
+        "When"
+      ]
+    }
+  ]
+}
