@@ -1,0 +1,62 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/RhTB3VQB/Мультяшная_снежинка.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 260
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Игра \"Поймай чистую квинту\"",
+    "btnText": "Нажми меня"
+  },
+  "direction": "down",
+  "finalFeedback": "Отличная работа!",
+  "levels": [
+    {
+      "target": "Чистая квинта",
+      "correct": [
+        "https://i.postimg.cc/cJTJvWZv/ч5.png",
+        "https://i.postimg.cc/6QzQ8Kw7/ч5а.png",
+        "https://i.postimg.cc/25jZc2Sy/ч5б.png",
+        "https://i.postimg.cc/MGZQPdpX/ч5в.png",
+        "https://i.postimg.cc/k5Mb1fg5/ч5г.png",
+        "https://i.postimg.cc/8Ck6Ktz5/ч5д.png",
+        "https://i.postimg.cc/QMNT40dW/ч5е.png",
+        "https://i.postimg.cc/R0CHsXZH/ч5ж.png"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/Kvd3bmvS/б7.png",
+        "https://i.postimg.cc/nLxssTmp/б7а.png",
+        "https://i.postimg.cc/XvWZZx5n/м2.png",
+        "https://i.postimg.cc/xdQkkgmY/м2а.png",
+        "https://i.postimg.cc/W4VDDSZ2/м3.png",
+        "https://i.postimg.cc/pdv99kjX/м6.png",
+        "https://i.postimg.cc/W47d0rGB/м7.png",
+        "https://i.postimg.cc/wjXMdJGr/тритон.png",
+        "https://i.postimg.cc/Mp7H8RF4/ув2.png",
+        "https://i.postimg.cc/52ByMvRh/ч4.png",
+        "https://i.postimg.cc/BnTbGDVR/ч4а.png",
+        "https://i.postimg.cc/FKFLWDHc/ч8.png"
+      ],
+      "timer": 30
+    }
+  ]
+}
