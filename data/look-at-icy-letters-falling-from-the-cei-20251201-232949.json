@@ -1,0 +1,260 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 50,
+  "textColor": "#150d59",
+  "speed": 3,
+  "questionFont": "Roboto",
+  "questionFontSize": 35,
+  "style": {
+    "shape": "rounded",
+    "pad": 26,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/x139S4mL/2.png\nhttps://i.postimg.cc/W3CvnLRT/3.png\nhttps://i.postimg.cc/0QbvD54k/4.png\nhttps://i.postimg.cc/pT4HZbNb/5.png",
+    "bgImages": [
+      "https://i.postimg.cc/x139S4mL/2.png",
+      "https://i.postimg.cc/W3CvnLRT/3.png",
+      "https://i.postimg.cc/0QbvD54k/4.png",
+      "https://i.postimg.cc/pT4HZbNb/5.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 180
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Frost Mailroom",
+    "btnText": "Begin"
+  },
+  "direction": "random",
+  "finalFeedback": "Brilliant! You help the Snowrays a lot.",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "Look at ___ icy letters falling from the ceiling. (near)",
+      "correct": [
+        "these"
+      ],
+      "wrong": [
+        "this",
+        "that",
+        "that"
+      ]
+    },
+    {
+      "target": "Can you pick up ___ envelope on the blue table? (far)",
+      "correct": [
+        "that"
+      ],
+      "wrong": [
+        "this",
+        "these",
+        "these"
+      ]
+    },
+    {
+      "target": "___ snowflake is on the window. (near)",
+      "correct": [
+        "this"
+      ],
+      "wrong": [
+        "that",
+        "these",
+        "those"
+      ]
+    },
+    {
+      "target": "___ tiny Snowrays are near the lamp. (near)",
+      "correct": [
+        "these"
+      ],
+      "wrong": [
+        "this",
+        "that",
+        "that"
+      ]
+    },
+    {
+      "target": "___ frost on the mailbox is sparkling. (near)",
+      "correct": [
+        "this"
+      ],
+      "wrong": [
+        "that",
+        "these",
+        "those"
+      ]
+    },
+    {
+      "target": "I want to open ___ blue letter first. (near)",
+      "correct": [
+        "this"
+      ],
+      "wrong": [
+        "that",
+        "these",
+        "those"
+      ]
+    },
+    {
+      "target": "___ letters are on the icy floor. (far)",
+      "correct": [
+        "those"
+      ],
+      "wrong": [
+        "this",
+        "that",
+        "these"
+      ]
+    },
+    {
+      "target": "Look at ___ seal on this envelope. (near)",
+      "correct": [
+        "this"
+      ],
+      "wrong": [
+        "that",
+        "these",
+        "those"
+      ]
+    },
+    {
+      "target": "Can you find ___ frozen feather under the shelf? (far)",
+      "correct": [
+        "that"
+      ],
+      "wrong": [
+        "this",
+        "these",
+        "those"
+      ]
+    },
+    {
+      "target": "___ letters will fly through the portal. (far)",
+      "correct": [
+        "those"
+      ],
+      "wrong": [
+        "this",
+        "that",
+        "these"
+      ]
+    },
+    {
+      "target": "___ magical ice pen is on the desk. (near)",
+      "correct": [
+        "this"
+      ],
+      "wrong": [
+        "that",
+        "these",
+        "those"
+      ]
+    },
+    {
+      "target": "___ Snowrays are carrying letters to the portal. (near)",
+      "correct": [
+        "these"
+      ],
+      "wrong": [
+        "this",
+        "that",
+        "those"
+      ]
+    },
+    {
+      "target": "Put ___ envelope into the mail box. (far)",
+      "correct": [
+        "that"
+      ],
+      "wrong": [
+        "this",
+        "these",
+        "those"
+      ]
+    },
+    {
+      "target": "___ frozen stamps are on the wall. (near)",
+      "correct": [
+        "these"
+      ],
+      "wrong": [
+        "this",
+        "that",
+        "those"
+      ]
+    },
+    {
+      "target": "Take ___ icy feather from the corner. (near)",
+      "correct": [
+        "this"
+      ],
+      "wrong": [
+        "that",
+        "these",
+        "those"
+      ]
+    },
+    {
+      "target": "___ letters have questions inside. (far)",
+      "correct": [
+        "those"
+      ],
+      "wrong": [
+        "this",
+        "that",
+        "these"
+      ]
+    },
+    {
+      "target": "Who is carrying ___ little letter? (near)",
+      "correct": [
+        "this"
+      ],
+      "wrong": [
+        "that",
+        "these",
+        "those"
+      ]
+    },
+    {
+      "target": "___ frost patterns are on the big window. (near)",
+      "correct": [
+        "these"
+      ],
+      "wrong": [
+        "this",
+        "that",
+        "those"
+      ]
+    },
+    {
+      "target": "Watch ___ icy letters. (far)",
+      "correct": [
+        "those"
+      ],
+      "wrong": [
+        "this",
+        "that",
+        "these"
+      ]
+    },
+    {
+      "target": "Can you help me sort ___ envelopes on the floor? (near)",
+      "correct": [
+        "these"
+      ],
+      "wrong": [
+        "that",
+        "that",
+        "those"
+      ]
+    }
+  ]
+}
