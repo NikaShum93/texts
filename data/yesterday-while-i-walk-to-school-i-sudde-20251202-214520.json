@@ -1,0 +1,257 @@
+{
+  "language": "en",
+  "font": "Montserrat",
+  "fontSize": 23,
+  "textColor": "#350303",
+  "speed": 3,
+  "questionFont": "Montserrat",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/6573f8946d6d76001fe95399/6e0e7d5f-2a65-4094-8061-91624e0ee8bf.png",
+    "bgImages": [
+      "https://img.genially.com/6573f8946d6d76001fe95399/6e0e7d5f-2a65-4094-8061-91624e0ee8bf.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Catch the envelope!",
+    "btnText": "Start!"
+  },
+  "direction": "random",
+  "finalFeedback": "Well done, my dear wizard!Congratulations!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "Yesterday, while I ________ (walk) to school, I suddenly remembered that I had left my keys at home.",
+      "correct": [
+        "was walking"
+      ],
+      "wrong": [
+        "had started",
+        "was cooking",
+        "had lost"
+      ]
+    },
+    {
+      "target": "By the time we arrived, the movie already ________ (start).",
+      "correct": [
+        "had started"
+      ],
+      "wrong": [
+        "had been planning",
+        "were talking",
+        "had never flown"
+      ]
+    },
+    {
+      "target": "She ________ (cook) dinner when the phone rang.",
+      "correct": [
+        "was cooking"
+      ],
+      "wrong": [
+        "had been following",
+        "were arguing",
+        "had been waiting"
+      ]
+    },
+    {
+      "target": "They ________ (wait) for over an hour before the bus finally arrived.",
+      "correct": [
+        "had been waiting"
+      ],
+      "wrong": [
+        "was cooking",
+        "was cleaning",
+        "had been driving"
+      ]
+    },
+    {
+      "target": "I did not finish my homework because I ________ (play) games all afternoon.",
+      "correct": [
+        "had been playing"
+      ],
+      "wrong": [
+        "was walking",
+        "had started",
+        "had never seen"
+      ]
+    },
+    {
+      "target": "When I was a child, we often ________ (visit) my grandparents in the countryside.",
+      "correct": [
+        "visited"
+      ],
+      "wrong": [
+        "had been studying",
+        "had been planning",
+        "were talking"
+      ]
+    },
+    {
+      "target": "He did not realise she ________ (follow) him for several minutes.",
+      "correct": [
+        "had been following"
+      ],
+      "wrong": [
+        "had lost",
+        "was cleaning",
+        "was walking"
+      ]
+    },
+    {
+      "target": "We ________ (drive) for two hours when we noticed the flat tire.",
+      "correct": [
+        "had been driving"
+      ],
+      "wrong": [
+        "was walking",
+        "had been following",
+        "had been waiting"
+      ]
+    },
+    {
+      "target": "My sister was tired because she ________ (study) all night.",
+      "correct": [
+        "had been studying"
+      ],
+      "wrong": [
+        "was walking",
+        "were arguing",
+        "had been playing"
+      ]
+    },
+    {
+      "target": "The teacher was explaining the task while some students ________ (talk).",
+      "correct": [
+        "were talking"
+      ],
+      "wrong": [
+        "were arguing",
+        "had never seen",
+        "had been planning"
+      ]
+    },
+    {
+      "target": "Before he moved to London, he ________ (never see) such tall buildings.",
+      "correct": [
+        "had never seen"
+      ],
+      "wrong": [
+        "had been waiting",
+        "had been playing",
+        "had been repairing"
+      ]
+    },
+    {
+      "target": "I dropped my phone while I ________ (run) to catch the bus.",
+      "correct": [
+        "was running"
+      ],
+      "wrong": [
+        "had never seen",
+        "had been planning",
+        "had been driving"
+      ]
+    },
+    {
+      "target": "They ________ (repair) the road for weeks before they finally finished it.",
+      "correct": [
+        "had been repairing"
+      ],
+      "wrong": [
+        "had lost",
+        "had been studying",
+        "was running"
+      ]
+    },
+    {
+      "target": "After she ________ (leave) the house, it started to rain.",
+      "correct": [
+        "had left"
+      ],
+      "wrong": [
+        "had been repairing",
+        "had lost",
+        "had started"
+      ]
+    },
+    {
+      "target": "We did not know that they ________ (plan) a surprise for us.",
+      "correct": [
+        "had been planning"
+      ],
+      "wrong": [
+        "had never flown",
+        "were arguing",
+        "was running"
+      ]
+    },
+    {
+      "target": "She ________ (clean) the kitchen because guests were coming over.",
+      "correct": [
+        "was cleaning"
+      ],
+      "wrong": [
+        "had been waiting",
+        "was running",
+        "had left"
+      ]
+    },
+    {
+      "target": "While I ________ (look) for my wallet, I found an old photo.",
+      "correct": [
+        "was looking"
+      ],
+      "wrong": [
+        "had been waiting",
+        "had been following",
+        "were talking"
+      ]
+    },
+    {
+      "target": "He felt nervous because he ________ (never fly) before.",
+      "correct": [
+        "had never flown"
+      ],
+      "wrong": [
+        "had been planning",
+        "were arguing",
+        "had been waiting"
+      ]
+    },
+    {
+      "target": "We ________ (argue) when suddenly the lights went out.",
+      "correct": [
+        "were arguing"
+      ],
+      "wrong": [
+        "were talking",
+        "had been driving",
+        "was running"
+      ]
+    },
+    {
+      "target": "She was crying because she ________ (lose) her favourite bracelet.",
+      "correct": [
+        "had lost"
+      ],
+      "wrong": [
+        "visited",
+        "was walking",
+        "had left"
+      ]
+    }
+  ]
+}
