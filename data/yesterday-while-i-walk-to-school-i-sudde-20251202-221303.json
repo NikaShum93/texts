@@ -1,0 +1,235 @@
+{
+  "language": "en",
+  "font": "Montserrat",
+  "fontSize": 14,
+  "textColor": "#350303",
+  "speed": 6,
+  "questionFont": "Montserrat",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/6573f8946d6d76001fe95399/9b12b864-6982-4f1a-9fc7-844cb4729ce4.png",
+    "bgImages": [
+      "https://img.genially.com/6573f8946d6d76001fe95399/9b12b864-6982-4f1a-9fc7-844cb4729ce4.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Choose the right tense!",
+    "btnText": "Start!"
+  },
+  "direction": "random",
+  "finalFeedback": "Well done, my dear wizard!Congratulations!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "Yesterday, while I ________ (walk) to school, I suddenly remembered that I had left my keys at home.",
+      "correct": [
+        "was walking"
+      ],
+      "wrong": [
+        "walked",
+        "had walked",
+        "had been walking"
+      ]
+    },
+    {
+      "target": "By the time we arrived, the movie already ________ (start).",
+      "correct": [
+        "had started"
+      ],
+      "wrong": [
+        "had been started",
+        "started",
+        "was starting"
+      ]
+    },
+    {
+      "target": "She ________ (cook) dinner when the phone rang.",
+      "correct": [
+        "was cooking"
+      ],
+      "wrong": [
+        "cooked",
+        "had cooked",
+        "had been cooking"
+      ]
+    },
+    {
+      "target": "They ________ (wait) for over an hour before the bus finally arrived.",
+      "correct": [
+        "had been waiting"
+      ],
+      "wrong": [
+        "waited",
+        "was waiting",
+        "had wait"
+      ]
+    },
+    {
+      "target": "I did not finish my homework because I ________ (play) games all afternoon.",
+      "correct": [
+        "had been playing"
+      ],
+      "wrong": [
+        "played",
+        "was playing",
+        "were playing"
+      ]
+    },
+    {
+      "target": "When I was a child, we often ________ (visit) my grandparents in the countryside.",
+      "correct": [
+        "visited"
+      ],
+      "wrong": [
+        "was visiting",
+        "had visited",
+        "had been visiting"
+      ]
+    },
+    {
+      "target": "He did not realise she ________ (follow) him for several minutes.",
+      "correct": [
+        "had been following"
+      ],
+      "wrong": [
+        "followed",
+        "had following",
+        "was following"
+      ]
+    },
+    {
+      "target": "We ________ (drive) for two hours when we noticed the flat tire.",
+      "correct": [
+        "had been driving"
+      ],
+      "wrong": [
+        "drove",
+        "drived",
+        "had driven"
+      ]
+    },
+    {
+      "target": "My sister was tired because she ________ (study) all night.",
+      "correct": [
+        "had been studying"
+      ],
+      "wrong": [
+        "was studying",
+        "studied",
+        "had studyed"
+      ]
+    },
+    {
+      "target": "The teacher was explaining the task while some students ________ (talk).",
+      "correct": [
+        "were talking"
+      ],
+      "wrong": [
+        "talked",
+        "was talking",
+        "had talked"
+      ]
+    },
+    {
+      "target": "Before he moved to London, he ________ (never see) such tall buildings.",
+      "correct": [
+        "had never seen"
+      ],
+      "wrong": [
+        "had never saw",
+        "was never seeing",
+        "had never been seeing"
+      ]
+    },
+    {
+      "target": "I dropped my phone while I ________ (run) to catch the bus.",
+      "correct": [
+        "was running"
+      ],
+      "wrong": [
+        "ran",
+        "were running",
+        "had run"
+      ]
+    },
+    {
+      "target": "They ________ (repair) the road for weeks before they finally finished it.",
+      "correct": [
+        "had been repairing"
+      ],
+      "wrong": [
+        "repaired",
+        "was repairing",
+        "had repaired"
+      ]
+    },
+    {
+      "target": "After she ________ (leave) the house, it started to rain.",
+      "correct": [
+        "had left"
+      ],
+      "wrong": [
+        "left",
+        "was leaving",
+        "had been leaving"
+      ]
+    },
+    {
+      "target": "We did not know that they ________ (plan) a surprise for us.",
+      "correct": [
+        "had been planning"
+      ],
+      "wrong": [
+        "planned",
+        "was planning",
+        "had planning"
+      ]
+    },
+    {
+      "target": "She ________ (clean) the kitchen because guests were coming over.",
+      "correct": [
+        "was cleaning"
+      ],
+      "wrong": [
+        "cleaned",
+        "were cleaning",
+        "had cleaned"
+      ]
+    },
+    {
+      "target": "While I ________ (look) for my wallet, I found an old photo.",
+      "correct": [
+        "was looking"
+      ],
+      "wrong": [
+        "looked",
+        "had looked",
+        "had been looking"
+      ]
+    },
+    {
+      "target": "He felt nervous because he ________ (never fly) before.",
+      "correct": [
+        "had never flown"
+      ],
+      "wrong": [
+        "never flew",
+        "was never flying",
+        "had never flyed"
+      ]
+    }
+  ]
+}
