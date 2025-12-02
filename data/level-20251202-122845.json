@@ -1,0 +1,60 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 2,
+  "style": {
+    "shape": "rounded",
+    "pad": 60,
+    "bgColor": "#1a1a1a",
+    "bgImages": [],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 0,
+    "imgBox": 170
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Буква Я",
+    "btnText": "Играть"
+  },
+  "direction": "up",
+  "finalFeedback": "Отлично!",
+  "levels": [
+    {
+      "target": "яблочки с буквой Я",
+      "correct": [
+        "https://i.postimg.cc/LsFLfmMM/1.png",
+        "https://i.postimg.cc/GpPYx6b7/2.png",
+        "https://i.postimg.cc/R01fL2vy/3.png",
+        "https://i.postimg.cc/bv0b94q4/4.png",
+        "https://i.postimg.cc/13qDff2N/5.png",
+        "https://i.postimg.cc/CxqbzzXC/6.png",
+        "https://i.postimg.cc/RZHwNNyT/7.png",
+        "https://i.postimg.cc/BnK2XXkB/8.png"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/MGJVRzJB/10.png",
+        "https://i.postimg.cc/VNPnMzPM/11.png",
+        "https://i.postimg.cc/zfYKWqYK/12.png",
+        "https://i.postimg.cc/xdVMH9Vv/13.png",
+        "https://i.postimg.cc/cJGwYdGX/14.png",
+        "https://i.postimg.cc/5tWLvfWs/15.png",
+        "https://i.postimg.cc/Dz3Ls73M/16.png",
+        "https://i.postimg.cc/jjYPNRY1/17.png",
+        "https://i.postimg.cc/k5PK87Pk/18.png",
+        "https://i.postimg.cc/FKX3chQ5/19.png",
+        "https://i.postimg.cc/GpnGYb10/20.png",
+        "https://i.postimg.cc/6pvCyygr/9.png"
+      ],
+      "timer": 60
+    }
+  ]
+}
