@@ -1,0 +1,93 @@
+{
+  "language": "ru",
+  "font": "Lobster",
+  "fontSize": 30,
+  "textColor": "#ffffff",
+  "speed": 2,
+  "questionFont": "Lobster",
+  "questionFontSize": 35,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/fTtJJ9FX/20251123-1618-Cetyre-hvojnye-siski-simple-compose-01kards9d6fdwbexw16494dcyh-kopia.png\nhttps://i.postimg.cc/jjXjGQwT/20251123-1618-Cetyre-hvojnye-siski-simple-compose-01kards9d6fdwbexw16494dcyh-kopia-(3).png\nhttps://i.postimg.cc/jjXjGQwT/20251123-1618-Cetyre-hvojnye-siski-simple-compose-01kards9d6fdwbexw16494dcyh-kopia-(3).png",
+    "bgImages": [
+      "https://i.postimg.cc/fTtJJ9FX/20251123-1618-Cetyre-hvojnye-siski-simple-compose-01kards9d6fdwbexw16494dcyh-kopia.png",
+      "https://i.postimg.cc/jjXjGQwT/20251123-1618-Cetyre-hvojnye-siski-simple-compose-01kards9d6fdwbexw16494dcyh-kopia-(3).png",
+      "https://i.postimg.cc/jjXjGQwT/20251123-1618-Cetyre-hvojnye-siski-simple-compose-01kards9d6fdwbexw16494dcyh-kopia-(3).png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 190
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Лови шишки",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Молодец, я покажу тебе дорогу!!!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "70 - 20 - 4 =",
+      "correct": [
+        "46"
+      ],
+      "wrong": [
+        "45"
+      ]
+    },
+    {
+      "target": "80 - 40 - 7 =",
+      "correct": [
+        "33"
+      ],
+      "wrong": [
+        "32"
+      ]
+    },
+    {
+      "target": "60 - 30 - 8 =",
+      "correct": [
+        "22"
+      ],
+      "wrong": [
+        "23"
+      ]
+    },
+    {
+      "target": "(27 + 3) - 6 =",
+      "correct": [
+        "24"
+      ],
+      "wrong": [
+        "25"
+      ]
+    },
+    {
+      "target": "(52 - 8) + 3 =",
+      "correct": [
+        "47"
+      ],
+      "wrong": [
+        "48"
+      ]
+    },
+    {
+      "target": "(68 - 8) - 9 =",
+      "correct": [
+        "51"
+      ],
+      "wrong": [
+        "50"
+      ]
+    }
+  ]
+}
