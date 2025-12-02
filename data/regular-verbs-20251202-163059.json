@@ -1,0 +1,96 @@
+{
+  "language": "en",
+  "font": "Special Elite",
+  "fontSize": 25,
+  "textColor": "#022eb1",
+  "speed": 5,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://img.genially.com/67961b32a116fb001568a75e/54617bc0-55fc-40b5-8dce-5fd82765cdb0.png",
+      "https://img.genially.com/67961b32a116fb001568a75e/58be5044-af37-477f-9e71-029520fb0390.png",
+      "https://img.genially.com/67961b32a116fb001568a75e/ea07af61-2c70-4d64-829b-470e113f9474.png",
+      "https://img.genially.com/67961b32a116fb001568a75e/157d6d25-46ca-427c-b535-56c30ceaf115.png",
+      "https://img.genially.com/67961b32a116fb001568a75e/3f76f7e5-b22c-4a6b-8fa6-6491fffd41d4.png",
+      "https://img.genially.com/67961b32a116fb001568a75e/d2e1be32-066b-4806-a8d6-cbc1f26b48cf.png",
+      "https://img.genially.com/67961b32a116fb001568a75e/7002c54c-84aa-462f-b144-c45c5cff0ceb.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 150
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Collect the cookies for Mrs. Claus",
+    "btnText": "Start"
+  },
+  "direction": "down",
+  "finalFeedback": "You did it!",
+  "levels": [
+    {
+      "target": "Regular Verbs",
+      "correct": [
+        "walk",
+        "play",
+        "look",
+        "watch",
+        "cook",
+        "clean",
+        "open",
+        "talk",
+        "visit",
+        "travel"
+      ],
+      "wrong": [
+        "go",
+        "come",
+        "see",
+        "take",
+        "make",
+        "get",
+        "give",
+        "find",
+        "buy",
+        "write"
+      ],
+      "timer": 25
+    },
+    {
+      "target": "Irregular Verbs",
+      "correct": [
+        "read",
+        "run",
+        "eat",
+        "drink",
+        "bring",
+        "meet",
+        "sit",
+        "stand",
+        "begin",
+        "fall"
+      ],
+      "wrong": [
+        "live",
+        "love",
+        "visit",
+        "answer",
+        "finish",
+        "listen",
+        "help",
+        "change",
+        "start",
+        "wash"
+      ],
+      "timer": 35
+    }
+  ]
+}
