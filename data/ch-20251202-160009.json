@@ -1,0 +1,107 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 35,
+  "textColor": "#120443",
+  "speed": 3,
+  "questionFont": "PT Sans",
+  "questionFontSize": 35,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/x139S4mL/2.png\nhttps://i.postimg.cc/W3CvnLRT/3.png\nhttps://i.postimg.cc/0QbvD54k/4.png\nhttps://i.postimg.cc/pT4HZbNb/5.png",
+    "bgImages": [
+      "https://i.postimg.cc/x139S4mL/2.png",
+      "https://i.postimg.cc/W3CvnLRT/3.png",
+      "https://i.postimg.cc/0QbvD54k/4.png",
+      "https://i.postimg.cc/pT4HZbNb/5.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "sh, ch, th, ee",
+    "btnText": "Start"
+  },
+  "direction": "random",
+  "finalFeedback": "Молодец! \nWell Done!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "Найди слова с буквосочетанием CH, прочитай их",
+      "correct": [
+        "chick",
+        "chop",
+        "chess",
+        "cheese",
+        "lunch",
+        "bench",
+        "chips"
+      ],
+      "wrong": [
+        "math",
+        "shop",
+        "bee"
+      ]
+    },
+    {
+      "target": "Найди слова с буквосочетанием SH, прочитай их",
+      "correct": [
+        "shop",
+        "she",
+        "ship",
+        "shell",
+        "dish",
+        "sheep",
+        "fish"
+      ],
+      "wrong": [
+        "chop",
+        "sleep",
+        "thin"
+      ]
+    },
+    {
+      "target": "Найди слова с буквосочетанием EE, прочитай их",
+      "correct": [
+        "bee",
+        "tree",
+        "three",
+        "feet",
+        "seed",
+        "sleep",
+        "sheep"
+      ],
+      "wrong": [
+        "bath",
+        "chick",
+        "ship"
+      ]
+    },
+    {
+      "target": "Найди слова с буквосочетанием th, прочитай их",
+      "correct": [
+        "three",
+        "bath",
+        "they",
+        "thin",
+        "this",
+        "math"
+      ],
+      "wrong": [
+        "chips",
+        "sheep",
+        "tree"
+      ]
+    }
+  ]
+}
