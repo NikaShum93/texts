@@ -1,0 +1,349 @@
+{
+  "language": "en",
+  "font": "Montserrat",
+  "fontSize": 20,
+  "textColor": "#350303",
+  "speed": 6,
+  "questionFont": "Montserrat",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/6573f8946d6d76001fe95399/9b12b864-6982-4f1a-9fc7-844cb4729ce4.png",
+    "bgImages": [
+      "https://img.genially.com/6573f8946d6d76001fe95399/9b12b864-6982-4f1a-9fc7-844cb4729ce4.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 180
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Choose the right phrasal verb!",
+    "btnText": "Start!"
+  },
+  "direction": "random",
+  "finalFeedback": "Well done, my dear wizard!Congratulations!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "I usually get ___ at 7 a.m. on weekdays.",
+      "correct": [
+        "up"
+      ],
+      "wrong": [
+        "off",
+        "away",
+        "in",
+        "out"
+      ]
+    },
+    {
+      "target": "They are looking ___ their lost dog in the neighborhood.",
+      "correct": [
+        "for"
+      ],
+      "wrong": [
+        "forward to",
+        "up",
+        "into",
+        "after"
+      ]
+    },
+    {
+      "target": "My older brother is looking ___ me this weekend.",
+      "correct": [
+        "after"
+      ],
+      "wrong": [
+        "forward to",
+        "up",
+        "into",
+        "for"
+      ]
+    },
+    {
+      "target": "We are really looking ___ the school trip next month.",
+      "correct": [
+        "forward to"
+      ],
+      "wrong": [
+        "up",
+        "into",
+        "after",
+        "for"
+      ]
+    },
+    {
+      "target": "Could you turn ___ the lights? It’s getting dark.",
+      "correct": [
+        "on"
+      ],
+      "wrong": [
+        "off",
+        "up",
+        "in",
+        "out"
+      ]
+    },
+    {
+      "target": "Don’t forget to turn ___ the stove before you leave.",
+      "correct": [
+        "off"
+      ],
+      "wrong": [
+        "on",
+        "up",
+        "in",
+        "out"
+      ]
+    },
+    {
+      "target": "He will pick ___ his sister from the airport later.",
+      "correct": [
+        "up"
+      ],
+      "wrong": [
+        "out",
+        "in",
+        "away",
+        "on"
+      ]
+    },
+    {
+      "target": "She quickly put ___ her jacket and ran outside.",
+      "correct": [
+        "on"
+      ],
+      "wrong": [
+        "off",
+        "away",
+        "in",
+        "up"
+      ]
+    },
+    {
+      "target": "The kids took ___ their shoes when they entered the house.",
+      "correct": [
+        "off"
+      ],
+      "wrong": [
+        "on",
+        "away",
+        "in",
+        "up"
+      ]
+    },
+    {
+      "target": "We ran ___ milk, so I need to go to the shop.",
+      "correct": [
+        "out off"
+      ],
+      "wrong": [
+        "off",
+        "out",
+        "away",
+        "into"
+      ]
+    },
+    {
+      "target": "He decided to give ___ smoking last year.",
+      "correct": [
+        "up"
+      ],
+      "wrong": [
+        "in",
+        "off",
+        "out",
+        "away"
+      ]
+    },
+    {
+      "target": "Let me know when you find ___ the answer.",
+      "correct": [
+        "out"
+      ],
+      "wrong": [
+        "on",
+        "away",
+        "in",
+        "up"
+      ]
+    },
+    {
+      "target": "She brought ___ an interesting question during the meeting.",
+      "correct": [
+        "up"
+      ],
+      "wrong": [
+        "in",
+        "about",
+        "into",
+        "away"
+      ]
+    },
+    {
+      "target": "The concert was called ___ because of the rain.",
+      "correct": [
+        "off"
+      ],
+      "wrong": [
+        "out",
+        "away",
+        "for",
+        "of"
+      ]
+    },
+    {
+      "target": "I will come ___ as soon as I finish my work.",
+      "correct": [
+        "back"
+      ],
+      "wrong": [
+        "in",
+        "on",
+        "into",
+        "away"
+      ]
+    },
+    {
+      "target": "They love to go ___ on Friday nights.",
+      "correct": [
+        "out"
+      ],
+      "wrong": [
+        "away",
+        "into",
+        "in",
+        "around"
+      ]
+    },
+    {
+      "target": "We checked ___ at the hotel at around noon.",
+      "correct": [
+        "in"
+      ],
+      "wrong": [
+        "up",
+        "off",
+        "away",
+        "into"
+      ]
+    },
+    {
+      "target": "Could you fill ___ this form for me?",
+      "correct": [
+        "in"
+      ],
+      "wrong": [
+        "up",
+        "into",
+        "with",
+        "off"
+      ]
+    },
+    {
+      "target": "Their plane took ___ on time..",
+      "correct": [
+        "off"
+      ],
+      "wrong": [
+        "on",
+        "in",
+        "away",
+        "up"
+      ]
+    },
+    {
+      "target": "Our car broke ___ on the way to the beach.",
+      "correct": [
+        "down"
+      ],
+      "wrong": [
+        "up",
+        "in",
+        "out",
+        "off"
+      ]
+    },
+    {
+      "target": "Can you bring ___ the book when you’re done?",
+      "correct": [
+        "back"
+      ],
+      "wrong": [
+        "into",
+        "in",
+        "up",
+        "away"
+      ]
+    },
+    {
+      "target": "She always turns ___ late to parties.",
+      "correct": [
+        "up"
+      ],
+      "wrong": [
+        "in",
+        "on",
+        "into",
+        "down"
+      ]
+    },
+    {
+      "target": "He turned ___ the job offer because it was too far away.",
+      "correct": [
+        "down"
+      ],
+      "wrong": [
+        "up",
+        "away",
+        "into",
+        "off"
+      ]
+    },
+    {
+      "target": "We can’t sort ___ this problem without more information.",
+      "correct": [
+        "out"
+      ],
+      "wrong": [
+        "up",
+        "in",
+        "down",
+        "off"
+      ]
+    },
+    {
+      "target": "They like to hang ___ at the mall after school.",
+      "correct": [
+        "out"
+      ],
+      "wrong": [
+        "up",
+        "on",
+        "off",
+        "around"
+      ]
+    },
+    {
+      "target": "I get ___ realy well with my boss.",
+      "correct": [
+        "on"
+      ],
+      "wrong": [
+        "off",
+        "away",
+        "in",
+        "down"
+      ]
+    }
+  ]
+}
