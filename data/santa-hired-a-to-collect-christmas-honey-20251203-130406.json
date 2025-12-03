@@ -1,0 +1,172 @@
+{
+  "language": "en",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#042434",
+  "speed": 3,
+  "questionFont": "PT Sans",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 35,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/hPpNL1sj/Chat-GPT-Image-3-dek-2025-g-12-54-43.png\nhttps://i.postimg.cc/7Ymj3n9L/Chat-GPT-Image-3-dek-2025-g-12-54-47.png\nhttps://i.postimg.cc/RVX27LdZ/Chat-GPT-Image-3-dek-2025-g-12-54-50.png\nhttps://i.postimg.cc/wT0nXQ2z/Chat-GPT-Image-3-dek-2025-g-12-56-29.png",
+    "bgImages": [
+      "https://i.postimg.cc/hPpNL1sj/Chat-GPT-Image-3-dek-2025-g-12-54-43.png",
+      "https://i.postimg.cc/7Ymj3n9L/Chat-GPT-Image-3-dek-2025-g-12-54-47.png",
+      "https://i.postimg.cc/RVX27LdZ/Chat-GPT-Image-3-dek-2025-g-12-54-50.png",
+      "https://i.postimg.cc/wT0nXQ2z/Chat-GPT-Image-3-dek-2025-g-12-56-29.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Christmas Chaos",
+    "btnText": "Deal with it"
+  },
+  "direction": "down",
+  "finalFeedback": "Santa is really grateful!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "Santa hired a ______ to collect Christmas honey, but the bees escaped into the toy factory.",
+      "correct": [
+        "beekeeper"
+      ],
+      "wrong": [
+        "easel",
+        "bill",
+        "sterilize"
+      ]
+    },
+    {
+      "target": "Before the Christmas cooking level starts, you must ______ the pots so no cookie-monsters appear again.",
+      "correct": [
+        "sterilize"
+      ],
+      "wrong": [
+        "date",
+        "easel",
+        "beekeeper"
+      ]
+    },
+    {
+      "target": "The elves ordered 500 pizzas by mistake, and Santa now has to pay a huge ______.",
+      "correct": [
+        "bill"
+      ],
+      "wrong": [
+        "easel",
+        "watercolor",
+        "cluster"
+      ]
+    },
+    {
+      "target": "To paint new Christmas cards, the art-elf needs a fresh set of ______ paints.",
+      "correct": [
+        "watercolor"
+      ],
+      "wrong": [
+        "easel",
+        "bill",
+        "date"
+      ]
+    },
+    {
+      "target": "The elf can’t start painting the North Pole map because his ______ is missing.",
+      "correct": [
+        "easel"
+      ],
+      "wrong": [
+        "pearl",
+        "bill",
+        "sterilize"
+      ]
+    },
+    {
+      "target": "First, draw the ______ of the Christmas tree before adding lights and decorations.",
+      "correct": [
+        "outline"
+      ],
+      "wrong": [
+        "sterilize",
+        "fig",
+        "beekeeper"
+      ]
+    },
+    {
+      "target": "Santa eats one ______ every morning to keep his holiday energy high.",
+      "correct": [
+        "date"
+      ],
+      "wrong": [
+        "cluster",
+        "sterilize",
+        "necklace"
+      ]
+    },
+    {
+      "target": "A silly elf replaced all the shiny Christmas balls with ______, so the tree looks like a fruit shop.",
+      "correct": [
+        "fig"
+      ],
+      "wrong": [
+        "easel",
+        "beekeeper",
+        "apiary"
+      ]
+    },
+    {
+      "target": "A secret ______ of penguins is standing outside Santa’s workshop, looking suspicious.",
+      "correct": [
+        "cluster"
+      ],
+      "wrong": [
+        "beekeeper",
+        "sterilize",
+        "easel"
+      ]
+    },
+    {
+      "target": "Find the hidden ______ where Santa keeps his backup honey supply for Christmas cookies.",
+      "correct": [
+        "apiary"
+      ],
+      "wrong": [
+        "fig",
+        "cluster",
+        "date"
+      ]
+    },
+    {
+      "target": "The Snow Queen lost her magical ______, so all snowflakes look boring now.",
+      "correct": [
+        "pearl"
+      ],
+      "wrong": [
+        "date",
+        "watercolor",
+        "bill"
+      ]
+    },
+    {
+      "target": "To enter the Royal Christmas Ball, Mrs. Claus needs to wear her favorite ______.",
+      "correct": [
+        "necklace"
+      ],
+      "wrong": [
+        "beekeeper",
+        "outline",
+        "fig"
+      ]
+    }
+  ]
+}
