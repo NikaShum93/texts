@@ -1,0 +1,61 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 1,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/vHTkY676/Chat-GPT-Image-3-dek-2025-g-10-27-05.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 0,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 150
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Игра \" Попади в волка!\"",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Отличная работа!",
+  "levels": [
+    {
+      "target": "Кликай только на шишки с изображениями со звуком В.",
+      "correct": [
+        "https://i.postimg.cc/mrsX4kyL/111.png",
+        "https://i.postimg.cc/43Q8xGWx/112.png",
+        "https://i.postimg.cc/Pqj3HJQC/113.png",
+        "https://i.postimg.cc/vmtPZy0b/114.png",
+        "https://i.postimg.cc/GpC7RtxB/115.png",
+        "https://i.postimg.cc/BvBhn3mb/116.png",
+        "https://i.postimg.cc/R0LPZmgW/117.png",
+        "https://i.postimg.cc/Xvk2YWsZ/118.png",
+        "https://i.postimg.cc/5tSP2JsQ/119.png",
+        "https://i.postimg.cc/9fYxQ2Ly/120.png",
+        "https://i.postimg.cc/3wFLxhtg/123.png",
+        "https://i.postimg.cc/FKVPHvTg/124.png",
+        "https://i.postimg.cc/sD9L6pRb/122.png"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/qqNVKqFF/125.png",
+        "https://i.postimg.cc/J0sVX0Ff/126.png",
+        "https://i.postimg.cc/4yYkcyMk/127.png",
+        "https://i.postimg.cc/2y1RWyJf/129.png",
+        "https://i.postimg.cc/7h58zhcD/130.png",
+        "https://i.postimg.cc/tJsQ6Jfp/131.png"
+      ],
+      "timer": 60
+    }
+  ]
+}
