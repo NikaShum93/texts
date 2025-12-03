@@ -1,0 +1,129 @@
+{
+  "language": "ru",
+  "font": "Lobster",
+  "fontSize": 25,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "questionFont": "Lobster",
+  "questionFontSize": 35,
+  "style": {
+    "shape": "rounded",
+    "pad": 19,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/dQZjy7rh/rybka1.png\nhttps://i.postimg.cc/sfG4hB7S/rybka2.png\nhttps://i.postimg.cc/h4Q1dJT8/rybka3.png\nhttps://i.postimg.cc/ZYvxd9pL/rybka4.png\nhttps://i.postimg.cc/xjN3zkM5/rybka5.png",
+    "bgImages": [
+      "https://i.postimg.cc/dQZjy7rh/rybka1.png",
+      "https://i.postimg.cc/sfG4hB7S/rybka2.png",
+      "https://i.postimg.cc/h4Q1dJT8/rybka3.png",
+      "https://i.postimg.cc/ZYvxd9pL/rybka4.png",
+      "https://i.postimg.cc/xjN3zkM5/rybka5.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 170
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "РЫБАЛКА",
+    "btnText": "НАЧАТЬ"
+  },
+  "direction": "random",
+  "finalFeedback": "МОЛОДЕЦ!",
+  "globalTimer": 45,
+  "levels": [
+    {
+      "target": "3+2=",
+      "correct": [
+        "5"
+      ],
+      "wrong": [
+        "1",
+        "4",
+        "7"
+      ]
+    },
+    {
+      "target": "4+3=",
+      "correct": [
+        "7"
+      ],
+      "wrong": [
+        "2",
+        "1",
+        "4"
+      ]
+    },
+    {
+      "target": "2+2=",
+      "correct": [
+        "4"
+      ],
+      "wrong": [
+        "5",
+        "7",
+        "1"
+      ]
+    },
+    {
+      "target": "6+3=",
+      "correct": [
+        "9"
+      ],
+      "wrong": [
+        "7",
+        "1",
+        "4"
+      ]
+    },
+    {
+      "target": "7-8=",
+      "correct": [
+        "1"
+      ],
+      "wrong": [
+        "2",
+        "5",
+        "4"
+      ]
+    },
+    {
+      "target": "9-7=",
+      "correct": [
+        "2"
+      ],
+      "wrong": [
+        "7",
+        "9",
+        "5"
+      ]
+    },
+    {
+      "target": "10-5=",
+      "correct": [
+        "5"
+      ],
+      "wrong": [
+        "7",
+        "2",
+        "9"
+      ]
+    },
+    {
+      "target": "1+6=",
+      "correct": [
+        "7"
+      ],
+      "wrong": [
+        "5",
+        "9",
+        "2"
+      ]
+    }
+  ]
+}
