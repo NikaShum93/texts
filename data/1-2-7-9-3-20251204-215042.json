@@ -1,0 +1,142 @@
+{
+  "language": "ru",
+  "font": "Montserrat",
+  "fontSize": 20,
+  "textColor": "#ffffff",
+  "speed": 4,
+  "questionFont": "Montserrat",
+  "questionFontSize": 25,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/xTx9XvJN/Dizajn-bez-nazvania-139.png\nhttps://i.postimg.cc/TwJpFKk4/Dizajn-bez-nazvania-140.png\nhttps://i.postimg.cc/DwGfRW05/Dizajn-bez-nazvania-142.png",
+    "bgImages": [
+      "https://i.postimg.cc/xTx9XvJN/Dizajn-bez-nazvania-139.png",
+      "https://i.postimg.cc/TwJpFKk4/Dizajn-bez-nazvania-140.png",
+      "https://i.postimg.cc/DwGfRW05/Dizajn-bez-nazvania-142.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 260
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Поймай новогоднюю игрушку",
+    "btnText": ""
+  },
+  "direction": "random",
+  "finalFeedback": "Супер!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "1) 2 тысячи 7 сотен 9 десятков и 3 единицы",
+      "correct": [
+        "2793"
+      ],
+      "wrong": [
+        "27093",
+        "20793"
+      ]
+    },
+    {
+      "target": "2) 8 десятков тысяч 7 единиц тысяч 2 десятка и 9 единиц",
+      "correct": [
+        "87029"
+      ],
+      "wrong": [
+        "8729",
+        "80729"
+      ]
+    },
+    {
+      "target": "3) 4 сотни и 9 единиц",
+      "correct": [
+        "409"
+      ],
+      "wrong": [
+        "49",
+        "4009"
+      ]
+    },
+    {
+      "target": "4) 5 сотен тысяч и 9 единиц тысяч",
+      "correct": [
+        "509000"
+      ],
+      "wrong": [
+        "59000",
+        "50900",
+        "5090"
+      ]
+    },
+    {
+      "target": "5) 1 сотня тысяч 2 единицы тысяч 5 сотен и 3 единицы",
+      "correct": [
+        "102503"
+      ],
+      "wrong": [
+        "12503",
+        "10253"
+      ]
+    },
+    {
+      "target": "6) 8 сотен тысяч 7 десятков тысяч 8 единиц тысяч 6 сотен 1 десяток и 2 единицы",
+      "correct": [
+        "878612"
+      ],
+      "wrong": [
+        "8078612",
+        "8786012"
+      ]
+    },
+    {
+      "target": "7) 8 тысяч и 3 десятка",
+      "correct": [
+        "8030"
+      ],
+      "wrong": [
+        "830",
+        "8300",
+        "80030"
+      ]
+    },
+    {
+      "target": "8) 2 сотни тысяч и 7 единиц",
+      "correct": [
+        "200007"
+      ],
+      "wrong": [
+        "20007",
+        "2007",
+        "2000007"
+      ]
+    },
+    {
+      "target": "9) Сто тридцать пять тысяч триста сорок семь",
+      "correct": [
+        "135347"
+      ],
+      "wrong": [
+        "1305347",
+        "1350347"
+      ]
+    },
+    {
+      "target": "10) Девяносто тысяч семьсот",
+      "correct": [
+        "90700"
+      ],
+      "wrong": [
+        "907000",
+        "900700"
+      ]
+    }
+  ]
+}
