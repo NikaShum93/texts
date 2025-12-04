@@ -1,0 +1,257 @@
+{
+  "language": "en",
+  "font": "Montserrat",
+  "fontSize": 19,
+  "textColor": "#ffffff",
+  "speed": 6,
+  "questionFont": "Montserrat",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 20,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/6573f8946d6d76001fe95399/252744f3-2816-4804-9a45-93f6359c5436.png",
+    "bgImages": [
+      "https://img.genially.com/6573f8946d6d76001fe95399/252744f3-2816-4804-9a45-93f6359c5436.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 260
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Choose the correct verb!",
+    "btnText": "Start!"
+  },
+  "direction": "random",
+  "finalFeedback": "Winner!!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "Eleven _______ her powers to save her friends.",
+      "correct": [
+        "used"
+      ],
+      "wrong": [
+        "took",
+        "found",
+        "did"
+      ]
+    },
+    {
+      "target": "Mike _______ everything to help Eleven.",
+      "correct": [
+        "did"
+      ],
+      "wrong": [
+        "used",
+        "went",
+        "ran"
+      ]
+    },
+    {
+      "target": "Dustin _______ his map and headphones before the mission.",
+      "correct": [
+        "took"
+      ],
+      "wrong": [
+        "rode",
+        "did",
+        "fought"
+      ]
+    },
+    {
+      "target": "Lucas _______ a strange noise coming from the woods.",
+      "correct": [
+        "heard"
+      ],
+      "wrong": [
+        "rode",
+        "found",
+        "came"
+      ]
+    },
+    {
+      "target": "Will _______ home late after playing D&D.",
+      "correct": [
+        "came"
+      ],
+      "wrong": [
+        "found",
+        "did",
+        "took"
+      ]
+    },
+    {
+      "target": "Jonathan _______ photos of clues to find Will.",
+      "correct": [
+        "found"
+      ],
+      "wrong": [
+        "took",
+        "used",
+        "played"
+      ]
+    },
+    {
+      "target": "Hopper _______ to protect the kids from danger.",
+      "correct": [
+        "fought"
+      ],
+      "wrong": [
+        "came",
+        "did",
+        "found"
+      ]
+    },
+    {
+      "target": "Joyce _______ that the lights were sending messages.",
+      "correct": [
+        "knew"
+      ],
+      "wrong": [
+        "took",
+        "found",
+        "did"
+      ]
+    },
+    {
+      "target": "Max _______ courage after joining the group.",
+      "correct": [
+        "felt"
+      ],
+      "wrong": [
+        "rode",
+        "chose",
+        "answered"
+      ]
+    },
+    {
+      "target": "Billy _______ the monster’s call inside his head.",
+      "correct": [
+        "heard"
+      ],
+      "wrong": [
+        "went",
+        "fought",
+        "used"
+      ]
+    },
+    {
+      "target": "Erica _______ a hidden passage behind the ice cream shop.",
+      "correct": [
+        "found"
+      ],
+      "wrong": [
+        "rode",
+        "opened",
+        "told"
+      ]
+    },
+    {
+      "target": "Eddie _______ his guitar to distract the bats.",
+      "correct": [
+        "played"
+      ],
+      "wrong": [
+        "found",
+        "told",
+        "fought"
+      ]
+    },
+    {
+      "target": "Suzie _______ to the boys’ radio call from Utah.",
+      "correct": [
+        "answered"
+      ],
+      "wrong": [
+        "found",
+        "knew",
+        "heard"
+      ]
+    },
+    {
+      "target": "Vecna _______ his victims before attacking them.",
+      "correct": [
+        "chose"
+      ],
+      "wrong": [
+        "found",
+        "came",
+        "played"
+      ]
+    },
+    {
+      "target": "Eleven _______ the door with her mind.",
+      "correct": [
+        "opened"
+      ],
+      "wrong": [
+        "knew",
+        "ran",
+        "found"
+      ]
+    },
+    {
+      "target": "Nancy ______ her flashlight and went first.",
+      "correct": [
+        "took"
+      ],
+      "wrong": [
+        "heard",
+        "did",
+        "heard"
+      ]
+    },
+    {
+      "target": "Jonathan ______ to the police station to ask for help.",
+      "correct": [
+        "went"
+      ],
+      "wrong": [
+        "heard",
+        "found",
+        "opened"
+      ]
+    },
+    {
+      "target": "Max ______ her skateboard across town to cool down.",
+      "correct": [
+        "rode"
+      ],
+      "wrong": [
+        "told",
+        "knew",
+        "took"
+      ]
+    },
+    {
+      "target": "Will ______ the group about the visions he was having.",
+      "correct": [
+        "told"
+      ],
+      "wrong": [
+        "used",
+        "did",
+        "took"
+      ]
+    },
+    {
+      "target": "Eleven ______ fast to chase the monster.",
+      "correct": [
+        "ran"
+      ],
+      "wrong": [
+        "used",
+        "did",
+        "came"
+      ]
+    }
+  ]
+}
