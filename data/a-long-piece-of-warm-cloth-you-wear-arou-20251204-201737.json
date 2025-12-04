@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#042434",
+  "speed": 3,
+  "questionFont": "PT Sans",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 26,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/64233afb55129a0017751c8e/6f74d305-5c69-48af-949c-261a667bc5a4.png",
+    "bgImages": [
+      "https://img.genially.com/64233afb55129a0017751c8e/6f74d305-5c69-48af-949c-261a667bc5a4.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Catch the snowflakes!",
+    "btnText": "Start"
+  },
+  "direction": "down",
+  "finalFeedback": "Best snowflakes catcher is here!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "A long piece of warm cloth you wear around your neck.",
+      "correct": [
+        "scarf"
+      ],
+      "wrong": [
+        "rope",
+        "mittens",
+        "thermos"
+      ]
+    },
+    {
+      "target": "A long, strong line you use to tie things or climb.",
+      "correct": [
+        "rope"
+      ],
+      "wrong": [
+        "scarf",
+        "thermos",
+        "notebook"
+      ]
+    },
+    {
+      "target": "A bottle that keeps your drink hot or cold.",
+      "correct": [
+        "thermos"
+      ],
+      "wrong": [
+        "mug",
+        "scarf",
+        "backpack"
+      ]
+    },
+    {
+      "target": "A paper with places and paths to help you find your way.",
+      "correct": [
+        "map"
+      ],
+      "wrong": [
+        "mittens",
+        "scarf",
+        "key"
+      ]
+    },
+    {
+      "target": "A small light you can carry in your hand.",
+      "correct": [
+        "lantern"
+      ],
+      "wrong": [
+        "mittens",
+        "scarf",
+        "compass"
+      ]
+    },
+    {
+      "target": "A small tool that shows direction: north, south, east, west.",
+      "correct": [
+        "compass"
+      ],
+      "wrong": [
+        "notebook",
+        "thermos",
+        "map"
+      ]
+    },
+    {
+      "target": "A small book where you write notes or ideas.",
+      "correct": [
+        "notebook"
+      ],
+      "wrong": [
+        "scarf",
+        "snowshoes",
+        "key"
+      ]
+    },
+    {
+      "target": "Something you use to drink from, bigger than a cup.",
+      "correct": [
+        "mug"
+      ],
+      "wrong": [
+        "backpack",
+        "map",
+        "key"
+      ]
+    },
+    {
+      "target": "A small metal object you use to open a lock or a door.",
+      "correct": [
+        "key"
+      ],
+      "wrong": [
+        "thermos",
+        "mug",
+        "lantern"
+      ]
+    },
+    {
+      "target": "Shoes that help you walk on deep snow.",
+      "correct": [
+        "snowshoes"
+      ],
+      "wrong": [
+        "mug",
+        "rope",
+        "backpack"
+      ]
+    },
+    {
+      "target": "Warm clothes for your hands in winter.",
+      "correct": [
+        "mittens"
+      ],
+      "wrong": [
+        "notebook",
+        "scarf",
+        "lantern"
+      ]
+    },
+    {
+      "target": "A bag you carry on your back for your things.",
+      "correct": [
+        "backpack"
+      ],
+      "wrong": [
+        "mug",
+        "scarf",
+        "thermos"
+      ]
+    }
+  ]
+}
