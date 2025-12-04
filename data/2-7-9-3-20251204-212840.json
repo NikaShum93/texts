@@ -1,0 +1,47 @@
+{
+  "language": "ru",
+  "font": "Open Sans",
+  "fontSize": 25,
+  "textColor": "#ffffff",
+  "speed": 4,
+  "questionFont": "Open Sans",
+  "questionFontSize": 36,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/xTx9XvJN/Dizajn-bez-nazvania-139.png",
+    "bgImages": [
+      "https://i.postimg.cc/xTx9XvJN/Dizajn-bez-nazvania-139.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 260
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Поймай новогоднюю игрушку",
+    "btnText": ""
+  },
+  "direction": "random",
+  "finalFeedback": "Супер!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "2 тысячи 7 сотен 9 десятков и 3 единицы",
+      "correct": [
+        "2793"
+      ],
+      "wrong": [
+        "27093",
+        "20793"
+      ]
+    }
+  ]
+}
