@@ -1,0 +1,158 @@
+{
+  "language": "en",
+  "font": "Inter",
+  "fontSize": 70,
+  "textColor": "#140872",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 40,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.imgur.com/gfvH4cH.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Snow ABC",
+    "btnText": "Play!"
+  },
+  "direction": "down",
+  "finalFeedback": "Great!",
+  "levels": [
+    {
+      "target": "Right English Words.",
+      "correct": [
+        "Red",
+        "Yellow",
+        "Green",
+        "Blue",
+        "Black",
+        "Orange",
+        "Grey",
+        "White",
+        "Purple",
+        "Brown",
+        "Pink"
+      ],
+      "wrong": [
+        "Рed",
+        "Йelloy",
+        "Grииn",
+        "Blуe",
+        "Blэck",
+        "Oraджe",
+        "Greй",
+        "Whайte",
+        "Pёple",
+        "Brауn",
+        "Pинk"
+      ],
+      "timer": 60
+    },
+    {
+      "target": "Right English Words.",
+      "correct": [
+        "One",
+        "Two",
+        "Three",
+        "Four",
+        "Five",
+        "Six",
+        "Seven",
+        "Eight",
+        "Nine",
+        "Ten",
+        "Eleven",
+        "Twelve"
+      ],
+      "wrong": [
+        "Уаn",
+        "Tу",
+        "Thrи",
+        "Foо",
+        "Fiфe",
+        "Sыx",
+        "Sevн",
+        "Eiт",
+        "Нiне",
+        "Tэn",
+        "Иlэvn",
+        "Twэlфe"
+      ],
+      "timer": 59
+    },
+    {
+      "target": "Right English Words.",
+      "correct": [
+        "oNe",
+        "tWo",
+        "tHree",
+        "fOuR",
+        "fIvE",
+        "sIx",
+        "sEvEn",
+        "eIgHt",
+        "nInE",
+        "tEn",
+        "eLeVeN",
+        "tWeLvE"
+      ],
+      "wrong": [
+        "One",
+        "Two",
+        "Three",
+        "Four",
+        "Five",
+        "Six",
+        "Seven",
+        "Eight",
+        "Nine",
+        "Ten",
+        "Eleven",
+        "Twelve"
+      ],
+      "timer": 60
+    },
+    {
+      "target": "Right English Words.",
+      "correct": [
+        "rEd",
+        "yElLoW",
+        "gReEn",
+        "bLuE",
+        "bLaCk",
+        "oRaNgE",
+        "gReY",
+        "wHiTe",
+        "pUrPlE",
+        "bRoWn",
+        "pInK"
+      ],
+      "wrong": [
+        "Ret",
+        "Yelloy",
+        "Griin",
+        "Blue",
+        "Black",
+        "Orange",
+        "Grey",
+        "White",
+        "Purple",
+        "Brown",
+        "Pink"
+      ],
+      "timer": 60
+    }
+  ]
+}
