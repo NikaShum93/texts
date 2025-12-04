@@ -1,0 +1,235 @@
+{
+  "language": "en",
+  "font": "Montserrat",
+  "fontSize": 19,
+  "textColor": "#ffffff",
+  "speed": 6,
+  "questionFont": "Montserrat",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/6573f8946d6d76001fe95399/252744f3-2816-4804-9a45-93f6359c5436.png",
+    "bgImages": [
+      "https://img.genially.com/6573f8946d6d76001fe95399/252744f3-2816-4804-9a45-93f6359c5436.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 230
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Choose the correct verb!",
+    "btnText": "Start!"
+  },
+  "direction": "random",
+  "finalFeedback": "Winner!!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "Eleven _______ her powers to save her friends.",
+      "correct": [
+        "used"
+      ],
+      "wrong": [
+        "felt",
+        "did",
+        "opened"
+      ]
+    },
+    {
+      "target": "Mike _______ everything to help Eleven.",
+      "correct": [
+        "did"
+      ],
+      "wrong": [
+        "knew",
+        "came",
+        "heard"
+      ]
+    },
+    {
+      "target": "Dustin _______ Steve’s advice before the mission.",
+      "correct": [
+        "took"
+      ],
+      "wrong": [
+        "chose",
+        "opened",
+        "came"
+      ]
+    },
+    {
+      "target": "Lucas _______ a strange noise coming from the woods.",
+      "correct": [
+        "heard"
+      ],
+      "wrong": [
+        "played",
+        "found",
+        "chose"
+      ]
+    },
+    {
+      "target": "Will _______ home late after playing D&D.",
+      "correct": [
+        "came"
+      ],
+      "wrong": [
+        "did",
+        "used",
+        "chose"
+      ]
+    },
+    {
+      "target": "Jonathan _______ photos of clues to find Will.",
+      "correct": [
+        "found"
+      ],
+      "wrong": [
+        "played",
+        "chose",
+        "felt"
+      ]
+    },
+    {
+      "target": "Hopper _______ to protect the kids from danger.",
+      "correct": [
+        "fought"
+      ],
+      "wrong": [
+        "felt",
+        "found",
+        "found"
+      ]
+    },
+    {
+      "target": "Joyce _______ that the lights were sending messages.",
+      "correct": [
+        "knew"
+      ],
+      "wrong": [
+        "answered",
+        "used",
+        "did"
+      ]
+    },
+    {
+      "target": "Max _______ courage after joining the group.",
+      "correct": [
+        "felt"
+      ],
+      "wrong": [
+        "found",
+        "rode",
+        "went"
+      ]
+    },
+    {
+      "target": "Billy _______ the monster’s call inside his head.",
+      "correct": [
+        "heard"
+      ],
+      "wrong": [
+        "used",
+        "did",
+        "played"
+      ]
+    },
+    {
+      "target": "Erica _______ a hidden passage behind the ice cream shop.",
+      "correct": [
+        "found"
+      ],
+      "wrong": [
+        "went",
+        "heard",
+        "took"
+      ]
+    },
+    {
+      "target": "Eddie _______ his guitar to distract the bats.",
+      "correct": [
+        "played"
+      ],
+      "wrong": [
+        "took",
+        "opened",
+        "used"
+      ]
+    },
+    {
+      "target": "Suzie _______ to the boys’ radio call from Utah.",
+      "correct": [
+        "answered"
+      ],
+      "wrong": [
+        "knew",
+        "heard",
+        "felt"
+      ]
+    },
+    {
+      "target": "Vecna _______ his victims before attacking them.",
+      "correct": [
+        "chose"
+      ],
+      "wrong": [
+        "knew",
+        "went",
+        "took"
+      ]
+    },
+    {
+      "target": "Eleven _______ the door with her mind.",
+      "correct": [
+        "opened"
+      ],
+      "wrong": [
+        "felt",
+        "took",
+        "took"
+      ]
+    },
+    {
+      "target": "Nancy ______ her flashlight and stepped forward.",
+      "correct": [
+        "took"
+      ],
+      "wrong": [
+        "answered",
+        "played",
+        "opened"
+      ]
+    },
+    {
+      "target": "Jonathan ______ to the police station to ask for help.",
+      "correct": [
+        "went"
+      ],
+      "wrong": [
+        "took",
+        "used",
+        "heard"
+      ]
+    },
+    {
+      "target": "Max ______ her skateboard across town to cool down.",
+      "correct": [
+        "rode"
+      ],
+      "wrong": [
+        "chose",
+        "used",
+        "did"
+      ]
+    }
+  ]
+}
