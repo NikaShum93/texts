@@ -1,0 +1,55 @@
+{
+  "language": "ru",
+  "font": "Lobster",
+  "fontSize": 35,
+  "textColor": "#0f6209",
+  "speed": 3,
+  "questionFont": "Lobster",
+  "questionFontSize": 45,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/x10P861Y/20251205-1544-Socnyj-3D-mandarin-simple-compose-01kbq8nerbfvgtdz15y9e552jx.png",
+    "bgImages": [
+      "https://i.postimg.cc/x10P861Y/20251205-1544-Socnyj-3D-mandarin-simple-compose-01kbq8nerbfvgtdz15y9e552jx.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Мандариновый челлендж",
+    "btnText": "Запускай!!!"
+  },
+  "direction": "random",
+  "finalFeedback": "Ура!!! Все мандарины твои!!!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "К числу 58 прибавь 3 десятка.",
+      "correct": [
+        "88"
+      ],
+      "wrong": [
+        "61"
+      ]
+    },
+    {
+      "target": "К 5 десяткам прибавили 4 десятка. Какое число получилось?",
+      "correct": [
+        "90"
+      ],
+      "wrong": [
+        "9"
+      ]
+    }
+  ]
+}
