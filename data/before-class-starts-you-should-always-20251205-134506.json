@@ -1,0 +1,103 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 13,
+  "textColor": "#141414",
+  "speed": 1,
+  "questionFont": "Roboto",
+  "questionFontSize": 27,
+  "style": {
+    "shape": "rounded",
+    "pad": 33,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/HWwdLbHn/pngimg-com-bauble-PNG279.png",
+    "bgImages": [
+      "https://i.postimg.cc/HWwdLbHn/pngimg-com-bauble-PNG279.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 190
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Good manners",
+    "btnText": "Start"
+  },
+  "direction": "random",
+  "finalFeedback": "Good job!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "Before class starts, you should always ___________ .",
+      "correct": [
+        "arrive on time"
+      ],
+      "wrong": [
+        "wait your turn",
+        "ask for permission",
+        "be polite"
+      ]
+    },
+    {
+      "target": "If you want to leave the classroom during a lesson, you must ___________ from the teacher.",
+      "correct": [
+        "ask for permission"
+      ],
+      "wrong": [
+        "be polite",
+        "arrive on time",
+        "wait your turn"
+      ]
+    },
+    {
+      "target": "When you’re in a queue for lunch, remember to ___________.",
+      "correct": [
+        "wait your turn"
+      ],
+      "wrong": [
+        "ask for permission",
+        "don’t be late",
+        "arrive on time"
+      ]
+    },
+    {
+      "target": "During group discussions ___________, because it’s rude and makes others feel ignored.",
+      "correct": [
+        "don’t interrupt"
+      ],
+      "wrong": [
+        "arrive on time",
+        "ask for permission",
+        "wait your turn"
+      ]
+    },
+    {
+      "target": "In school and outside, it’s important to ___________ — say “please”, “thank you”, and smile!",
+      "correct": [
+        "be polite"
+      ],
+      "wrong": [
+        "don’t be late",
+        "ask for permission",
+        "arrive on time"
+      ]
+    },
+    {
+      "target": "___________ for school every morning — if you’re late, you’ll miss the first lesson!",
+      "correct": [
+        "don’t be late"
+      ],
+      "wrong": [
+        "ask for permission",
+        "wait your turn",
+        "don’t interrupt"
+      ]
+    }
+  ]
+}
