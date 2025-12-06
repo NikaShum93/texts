@@ -1,0 +1,82 @@
+{
+  "language": "en",
+  "font": "Indie Flower",
+  "fontSize": 22,
+  "textColor": "#675ba4",
+  "speed": 3,
+  "questionFont": "Indie Flower",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 25,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/Wz4YKY9D/er-(2).png\nhttps://i.postimg.cc/x8dp7psd/er-(3).png",
+    "bgImages": [
+      "https://i.postimg.cc/Wz4YKY9D/er-(2).png",
+      "https://i.postimg.cc/x8dp7psd/er-(3).png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Waterfall",
+    "btnText": "START"
+  },
+  "direction": "down",
+  "finalFeedback": "Good!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "It's a horse from Africa. It's back and white. It's got stripes.",
+      "correct": [
+        "zebra"
+      ],
+      "wrong": [
+        "bird",
+        "bee",
+        "bear"
+      ]
+    },
+    {
+      "target": "It’s small. It’s orange and black. It can make honey.",
+      "correct": [
+        "bee"
+      ],
+      "wrong": [
+        "bird",
+        "zebra",
+        "bear"
+      ]
+    },
+    {
+      "target": "It’s big and brown. It lives in the forest. It likes honey.",
+      "correct": [
+        "bear"
+      ],
+      "wrong": [
+        "bee",
+        "zebra",
+        "bird"
+      ]
+    },
+    {
+      "target": "It lives in a tree. It can fly and sing. It’s beautiful.",
+      "correct": [
+        "bird"
+      ],
+      "wrong": [
+        "bee",
+        "bear",
+        "zebra"
+      ]
+    }
+  ]
+}
