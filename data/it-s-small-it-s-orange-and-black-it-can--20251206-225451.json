@@ -1,0 +1,170 @@
+{
+  "language": "en",
+  "font": "Indie Flower",
+  "fontSize": 36,
+  "textColor": "#502a7e",
+  "speed": 3,
+  "questionFont": "Indie Flower",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/Wz4YKY9D/er-(2).png\nhttps://i.postimg.cc/x8dp7psd/er-(3).png",
+    "bgImages": [
+      "https://i.postimg.cc/Wz4YKY9D/er-(2).png",
+      "https://i.postimg.cc/x8dp7psd/er-(3).png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "WATERFALL",
+    "btnText": "START"
+  },
+  "direction": "down",
+  "finalFeedback": "Good!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "It’s small. It’s orange and black. It can make honey.",
+      "correct": [
+        "bee"
+      ],
+      "wrong": [
+        "tiger",
+        "lion",
+        "bear"
+      ]
+    },
+    {
+      "target": "It’s big and brown. It lives in the forest. It likes honey.",
+      "correct": [
+        "bear"
+      ],
+      "wrong": [
+        "fox",
+        "wolf",
+        "bee"
+      ]
+    },
+    {
+      "target": "It lives in a tree. It can fly and sing. It’s beautiful.",
+      "correct": [
+        "bird"
+      ],
+      "wrong": [
+        "owl",
+        "hen",
+        "goose"
+      ]
+    },
+    {
+      "target": "It can run. It can’t fly. It lives in the village.",
+      "correct": [
+        "hen"
+      ],
+      "wrong": [
+        "goose",
+        "duck",
+        "bee"
+      ]
+    },
+    {
+      "target": "It’s big and kind. It gives us milk. It lives in the village.",
+      "correct": [
+        "cow"
+      ],
+      "wrong": [
+        "pig",
+        "cat",
+        "donkey"
+      ]
+    },
+    {
+      "target": "It’s big and dangerous. It has got big sharp teeth. It's green.",
+      "correct": [
+        "crocodile"
+      ],
+      "wrong": [
+        "frog",
+        "tiger",
+        "lion"
+      ]
+    },
+    {
+      "target": "It has got yellow babies. It can swim and fly.",
+      "correct": [
+        "duck"
+      ],
+      "wrong": [
+        "chicken",
+        "fish",
+        "bird"
+      ]
+    },
+    {
+      "target": "It lives in the lake. It can jump. It likes eating flies.",
+      "correct": [
+        "frog"
+      ],
+      "wrong": [
+        "fish",
+        "parrot",
+        "horse"
+      ]
+    },
+    {
+      "target": "It sometimes lives in the mountains. It has got a beard.",
+      "correct": [
+        "goat"
+      ],
+      "wrong": [
+        "eagle",
+        "bear",
+        "spider"
+      ]
+    },
+    {
+      "target": "It lives in the sea. It hasn’t got eyes. It can swim.",
+      "correct": [
+        "jellyfish"
+      ],
+      "wrong": [
+        "whale",
+        "seal",
+        "shark"
+      ]
+    },
+    {
+      "target": "It’s white and beautiful. It likes eating grass.",
+      "correct": [
+        "sheep"
+      ],
+      "wrong": [
+        "pig",
+        "wolf",
+        "donkey"
+      ]
+    },
+    {
+      "target": "It can jump. It lives in Australia.",
+      "correct": [
+        "kangaroo"
+      ],
+      "wrong": [
+        "koala",
+        "frog",
+        "rabbit"
+      ]
+    }
+  ]
+}
