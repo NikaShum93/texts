@@ -1,0 +1,206 @@
+{
+  "language": "en",
+  "font": "Poppins",
+  "fontSize": 35,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "questionFont": "Poppins",
+  "questionFontSize": 35,
+  "style": {
+    "shape": "rounded",
+    "pad": 25,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/dQ6zVvFJ/podarok1.png\nhttps://i.postimg.cc/SNt3crjV/podarok2.png\nhttps://i.postimg.cc/tCmwF57r/podarok3.png\nhttps://i.postimg.cc/yYrt0PWQ/podarok4.png\nhttps://i.postimg.cc/VLHpXR5V/podarok5.png",
+    "bgImages": [
+      "https://i.postimg.cc/dQ6zVvFJ/podarok1.png",
+      "https://i.postimg.cc/SNt3crjV/podarok2.png",
+      "https://i.postimg.cc/tCmwF57r/podarok3.png",
+      "https://i.postimg.cc/yYrt0PWQ/podarok4.png",
+      "https://i.postimg.cc/VLHpXR5V/podarok5.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "TO BE",
+    "btnText": "START"
+  },
+  "direction": "down",
+  "finalFeedback": "Well done!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "I ___ happy.",
+      "correct": [
+        "am"
+      ],
+      "wrong": [
+        "are",
+        "is",
+        "is"
+      ]
+    },
+    {
+      "target": "You ___ my friend.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "is",
+        "is",
+        "am"
+      ]
+    },
+    {
+      "target": "He ___ a good boy.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "am",
+        "are",
+        "are"
+      ]
+    },
+    {
+      "target": "She ___ my sister.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are",
+        "are",
+        "am"
+      ]
+    },
+    {
+      "target": "It ___ a big cat.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "am",
+        "am",
+        "are"
+      ]
+    },
+    {
+      "target": "We ___ in the classroom.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "am",
+        "am",
+        "is"
+      ]
+    },
+    {
+      "target": "They ___ best friends.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "is",
+        "is",
+        "is"
+      ]
+    },
+    {
+      "target": "I ___ eight years old.",
+      "correct": [
+        "am"
+      ],
+      "wrong": [
+        "are",
+        "is",
+        "are"
+      ]
+    },
+    {
+      "target": "She ___ a nice girl.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "am",
+        "are",
+        "are"
+      ]
+    },
+    {
+      "target": "He ___ in the park.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are",
+        "are",
+        "am"
+      ]
+    },
+    {
+      "target": "We ___ ready.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "am",
+        "am",
+        "is"
+      ]
+    },
+    {
+      "target": "It ___ a sunny day.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are",
+        "am",
+        "am"
+      ]
+    },
+    {
+      "target": "I ___ in the garden.",
+      "correct": [
+        "am"
+      ],
+      "wrong": [
+        "are",
+        "is",
+        "are"
+      ]
+    },
+    {
+      "target": "You ___ very kind.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "is",
+        "is",
+        "am"
+      ]
+    },
+    {
+      "target": "They ___ in the playground.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "is",
+        "am",
+        "am"
+      ]
+    }
+  ]
+}
