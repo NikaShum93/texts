@@ -1,0 +1,235 @@
+{
+  "language": "en",
+  "font": "Indie Flower",
+  "fontSize": 24,
+  "textColor": "#eaeff1",
+  "speed": 4,
+  "questionFont": "Indie Flower",
+  "questionFontSize": 29,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/JhSWjH5s/er-(8).png",
+    "bgImages": [
+      "https://i.postimg.cc/JhSWjH5s/er-(8).png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 210
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "to bee or not to bee",
+    "btnText": "START"
+  },
+  "direction": "random",
+  "finalFeedback": "Well done!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "The sky ___ blue today.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are",
+        "are",
+        "are"
+      ]
+    },
+    {
+      "target": "The flowers ___ beautiful.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "is",
+        "is",
+        "am"
+      ]
+    },
+    {
+      "target": "I ___ in the garden now.",
+      "correct": [
+        "am"
+      ],
+      "wrong": [
+        "are",
+        "is",
+        "is"
+      ]
+    },
+    {
+      "target": "The honey ___ sweet.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are",
+        "am",
+        "are"
+      ]
+    },
+    {
+      "target": "Bees ___ in the hive.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "is",
+        "is",
+        "is"
+      ]
+    },
+    {
+      "target": "The trees ___ green.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "am",
+        "is",
+        "is"
+      ]
+    },
+    {
+      "target": "Summer ___ my favorite season.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "am",
+        "are",
+        "am"
+      ]
+    },
+    {
+      "target": "I ___ thirsty because it's hot.",
+      "correct": [
+        "am"
+      ],
+      "wrong": [
+        "are",
+        "are",
+        "is"
+      ]
+    },
+    {
+      "target": "The bees ___ making honey.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "am",
+        "is",
+        "is"
+      ]
+    },
+    {
+      "target": "This jar of honey ___ full.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are",
+        "are",
+        "am"
+      ]
+    },
+    {
+      "target": "Honey ___ sweet.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are",
+        "am",
+        "are"
+      ]
+    },
+    {
+      "target": "The sky ___ blue in summer.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are",
+        "are",
+        "am"
+      ]
+    },
+    {
+      "target": "The trees ___ green and bright.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "is",
+        "is",
+        "am"
+      ]
+    },
+    {
+      "target": "This bee ___ very small.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "am",
+        "are",
+        "are"
+      ]
+    },
+    {
+      "target": "The bees ___ in the garden.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "is",
+        "is",
+        "is"
+      ]
+    },
+    {
+      "target": "The flowers ___ colorful.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "is",
+        "is",
+        "am"
+      ]
+    },
+    {
+      "target": "I ___ in the park today.",
+      "correct": [
+        "am"
+      ],
+      "wrong": [
+        "is",
+        "are",
+        "are"
+      ]
+    },
+    {
+      "target": "Summer ___ my favorite season.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are",
+        "are",
+        "am"
+      ]
+    }
+  ]
+}
