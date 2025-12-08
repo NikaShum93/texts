@@ -1,0 +1,215 @@
+{
+  "language": "en",
+  "font": "Indie Flower",
+  "fontSize": 33,
+  "textColor": "#eaeff1",
+  "speed": 4,
+  "questionFont": "Indie Flower",
+  "questionFontSize": 29,
+  "style": {
+    "shape": "rounded",
+    "pad": 5,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/6728e881ebc5420015e1f3ec/5876846c-6de1-470a-984c-163305a61556.png\nhttps://img.genially.com/6728e881ebc5420015e1f3ec/211ae036-4cf8-454c-8281-b108d2539860.png\nhttps://img.genially.com/6728e881ebc5420015e1f3ec/bd0c8fb1-9c32-497f-995e-b12bb5eca156.png",
+    "bgImages": [
+      "https://img.genially.com/6728e881ebc5420015e1f3ec/5876846c-6de1-470a-984c-163305a61556.png",
+      "https://img.genially.com/6728e881ebc5420015e1f3ec/211ae036-4cf8-454c-8281-b108d2539860.png",
+      "https://img.genially.com/6728e881ebc5420015e1f3ec/bd0c8fb1-9c32-497f-995e-b12bb5eca156.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 260
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "to bee or not to bee",
+    "btnText": "START"
+  },
+  "direction": "random",
+  "finalFeedback": "Well done!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "The flowers ___ beautiful.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "am",
+        "am",
+        "is"
+      ]
+    },
+    {
+      "target": "I ___ in the garden now.",
+      "correct": [
+        "am"
+      ],
+      "wrong": [
+        "are",
+        "is",
+        "are"
+      ]
+    },
+    {
+      "target": "Bees ___ in the hive.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "is",
+        "is",
+        "am"
+      ]
+    },
+    {
+      "target": "The people ___ busy.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "is",
+        "is",
+        "is"
+      ]
+    },
+    {
+      "target": "Summer ___ my favorite season.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "am",
+        "are",
+        "are"
+      ]
+    },
+    {
+      "target": "I ___ thirsty because it's hot.",
+      "correct": [
+        "am"
+      ],
+      "wrong": [
+        "are",
+        "are",
+        "are"
+      ]
+    },
+    {
+      "target": "The bees ___ making honey.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "am",
+        "is",
+        "am"
+      ]
+    },
+    {
+      "target": "This jar of honey ___ full.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are",
+        "are",
+        "are"
+      ]
+    },
+    {
+      "target": "Honey ___ sweet.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are",
+        "are",
+        "are"
+      ]
+    },
+    {
+      "target": "The sky ___ blue in summer.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are",
+        "am",
+        "are"
+      ]
+    },
+    {
+      "target": "The trees ___ green.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "is",
+        "is",
+        "is"
+      ]
+    },
+    {
+      "target": "This bee ___ very small.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are",
+        "are",
+        "am"
+      ]
+    },
+    {
+      "target": "The bees ___ in the garden.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "is",
+        "am",
+        "is"
+      ]
+    },
+    {
+      "target": "The flowers ___ colorful.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "is",
+        "am",
+        "is"
+      ]
+    },
+    {
+      "target": "I ___ in the park today.",
+      "correct": [
+        "am"
+      ],
+      "wrong": [
+        "are",
+        "is",
+        "are"
+      ]
+    },
+    {
+      "target": "Summer ___ my favorite season.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are",
+        "am",
+        "am"
+      ]
+    }
+  ]
+}
