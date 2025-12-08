@@ -1,0 +1,184 @@
+{
+  "language": "math",
+  "font": "Latin Modern Math",
+  "fontSize": 23,
+  "textColor": "#110303",
+  "speed": 6,
+  "questionFont": "Latin Modern Math",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/MT0fBfFg/snezok.png",
+    "bgImages": [
+      "https://i.postimg.cc/MT0fBfFg/snezok.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Игра в снежки",
+    "btnText": "Выбери наименьший корень уравнения"
+  },
+  "direction": "random",
+  "finalFeedback": "Молодец! Отлично поиграли!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "x^2 - 9 = 0",
+      "correct": [
+        "-3"
+      ],
+      "wrong": [
+        "3",
+        "2,5",
+        "0",
+        "3",
+        "нет \\ корней",
+        "-\\sqrt{3}"
+      ]
+    },
+    {
+      "target": "4x^2 - 25 = 0",
+      "correct": [
+        "-2,5"
+      ],
+      "wrong": [
+        "3",
+        "2,5",
+        "0",
+        "12",
+        "нет \\ корней",
+        "\\sqrt{2,5}"
+      ]
+    },
+    {
+      "target": "x^2 + 6x = 0",
+      "correct": [
+        "-6"
+      ],
+      "wrong": [
+        "3",
+        "-7",
+        "0",
+        "15",
+        "нет \\ корней",
+        "\\sqrt{5}"
+      ]
+    },
+    {
+      "target": "5x^2 - 15x = 0",
+      "correct": [
+        "0"
+      ],
+      "wrong": [
+        "3",
+        "5",
+        "-6",
+        "12",
+        "нет \\ корней",
+        "15"
+      ]
+    },
+    {
+      "target": "x^2 - 4 = 0",
+      "correct": [
+        "-2"
+      ],
+      "wrong": [
+        "3",
+        "2,5",
+        "0",
+        "12",
+        "2",
+        "8",
+        "-7"
+      ]
+    },
+    {
+      "target": "3x^2 + 12x = 0",
+      "correct": [
+        "-4"
+      ],
+      "wrong": [
+        "-3",
+        "3",
+        "0",
+        "12",
+        "2",
+        "8",
+        "-7"
+      ]
+    },
+    {
+      "target": "7x^2 - 49 = 0",
+      "correct": [
+        "-\\sqrt{7}"
+      ],
+      "wrong": [
+        "3",
+        "2,5",
+        "0",
+        "12",
+        "2",
+        "8",
+        "\\sqrt{7}",
+        "7"
+      ]
+    },
+    {
+      "target": "6x^2 - 18x = 0",
+      "correct": [
+        "0"
+      ],
+      "wrong": [
+        "3",
+        "2,5",
+        "-3",
+        "12",
+        "2",
+        "8",
+        "-7"
+      ]
+    },
+    {
+      "target": "9x^2 + 36 = 0",
+      "correct": [
+        "нет \\ корней"
+      ],
+      "wrong": [
+        "3",
+        "2",
+        "0",
+        "12",
+        "-2",
+        "8",
+        "-7"
+      ]
+    },
+    {
+      "target": "2x^2 + 14x = 0",
+      "correct": [
+        "-7"
+      ],
+      "wrong": [
+        "3",
+        "14",
+        "0",
+        "12",
+        "2",
+        "8",
+        "7"
+      ]
+    }
+  ]
+}
