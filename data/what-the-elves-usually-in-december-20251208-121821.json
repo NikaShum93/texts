@@ -1,0 +1,202 @@
+{
+  "language": "en",
+  "font": "Special Elite",
+  "fontSize": 30,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "questionFont": "Special Elite",
+  "questionFontSize": 30,
+  "style": {
+    "shape": "rounded",
+    "pad": 60,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/8zPKJKQ8/santa.png",
+    "bgImages": [
+      "https://i.postimg.cc/8zPKJKQ8/santa.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Climb, Santa, climb! 🎅",
+    "btnText": "START"
+  },
+  "direction": "up",
+  "finalFeedback": "HO-HO-HO!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "What ___ the elves usually ___ in December?",
+      "correct": [
+        "do / do"
+      ],
+      "wrong": [
+        "are / doing",
+        "do / doing",
+        "are / do"
+      ]
+    },
+    {
+      "target": "Listen! Santa ___ down the chimney right now!",
+      "correct": [
+        "is coming"
+      ],
+      "wrong": [
+        "comes",
+        "come",
+        "are coming"
+      ]
+    },
+    {
+      "target": "Look! The reindeer ___ snowflakes with their noses.",
+      "correct": [
+        "are catching"
+      ],
+      "wrong": [
+        "catch",
+        "catches",
+        "is catching"
+      ]
+    },
+    {
+      "target": "Our family always ___ hot cocoa on Christmas Eve.",
+      "correct": [
+        "drinks"
+      ],
+      "wrong": [
+        "drink",
+        "are drink",
+        "is drinking"
+      ]
+    },
+    {
+      "target": "Right now we ___ gifts under the tree.",
+      "correct": [
+        "are putting"
+      ],
+      "wrong": [
+        "put",
+        "puts",
+        "is put"
+      ]
+    },
+    {
+      "target": "Santa always ___ biscuits and milk in our house.",
+      "correct": [
+        "eats"
+      ],
+      "wrong": [
+        "is eating",
+        "eat",
+        "are eating"
+      ]
+    },
+    {
+      "target": "Look outside! It ___ more and more!",
+      "correct": [
+        "is snowing"
+      ],
+      "wrong": [
+        "snows",
+        "is snow",
+        "snowing"
+      ]
+    },
+    {
+      "target": "The elves ___ new toys every day in December.",
+      "correct": [
+        "make"
+      ],
+      "wrong": [
+        "are making",
+        "makes",
+        "making"
+      ]
+    },
+    {
+      "target": "The children ___ their stockings by the fireplace now.",
+      "correct": [
+        "are hanging"
+      ],
+      "wrong": [
+        "hang",
+        "is hanging",
+        "hangs"
+      ]
+    },
+    {
+      "target": "Our town ___ a big Christmas parade every year.",
+      "correct": [
+        "has"
+      ],
+      "wrong": [
+        "are having",
+        "have",
+        "is having"
+      ]
+    },
+    {
+      "target": "The snow ___ today. It’s too warm.",
+      "correct": [
+        "isn’t falling"
+      ],
+      "wrong": [
+        "doesn't fall",
+        "aren't falling",
+        "don't fall"
+      ]
+    },
+    {
+      "target": "What ___ the elves ___ now?",
+      "correct": [
+        "are / doing"
+      ],
+      "wrong": [
+        "are / do",
+        "do /do",
+        "does / do"
+      ]
+    },
+    {
+      "target": "___ your friends ___ Christmas every year?",
+      "correct": [
+        "Do / celebrate"
+      ],
+      "wrong": [
+        "Does / celebrate",
+        "Are / celebrating",
+        "Is / celebrating"
+      ]
+    },
+    {
+      "target": "We usually ___ presents in the morning.",
+      "correct": [
+        "open"
+      ],
+      "wrong": [
+        "opens",
+        "are opening",
+        "is opening"
+      ]
+    },
+    {
+      "target": "___ Santa ___ his red coat at the moment?",
+      "correct": [
+        "Is / wearing"
+      ],
+      "wrong": [
+        "Does / wear",
+        "Is / wear",
+        "Do / wear"
+      ]
+    }
+  ]
+}
