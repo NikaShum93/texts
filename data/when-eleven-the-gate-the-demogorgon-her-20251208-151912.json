@@ -1,0 +1,136 @@
+{
+  "language": "en",
+  "font": "PT Sans",
+  "fontSize": 22,
+  "textColor": "#042434",
+  "speed": 3,
+  "questionFont": "PT Sans",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 85,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/64233afb55129a0017751c8e/e82d2cf9-5074-4b10-9d6c-c8a8eb656df1.png",
+    "bgImages": [
+      "https://img.genially.com/64233afb55129a0017751c8e/e82d2cf9-5074-4b10-9d6c-c8a8eb656df1.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Find the real King!",
+    "btnText": "Start"
+  },
+  "direction": "random",
+  "finalFeedback": "Will used the Whisper Lantern to freeze the real King's magic for a moment.",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "When Eleven ___ the gate, the Demogorgon ___ her.",
+      "correct": [
+        "opened, had smelt"
+      ],
+      "wrong": [
+        "had opened, smelt"
+      ]
+    },
+    {
+      "target": "Mike ___ because he ___ Eleven at school all day.",
+      "correct": [
+        "panicked, had not seen"
+      ],
+      "wrong": [
+        "had panicked, hadn’t seen"
+      ]
+    },
+    {
+      "target": "Dustin ___ Dart after he ___ strange noises in the trash can.",
+      "correct": [
+        "found, had heard"
+      ],
+      "wrong": [
+        "had found, heard"
+      ]
+    },
+    {
+      "target": "By the time Hopper ___ at the Byers’ house, Will ___ .",
+      "correct": [
+        "arrived, had disappeared"
+      ],
+      "wrong": [
+        "had arrived, disappeared"
+      ]
+    },
+    {
+      "target": "Lucas ___ Max only after she ___ him her skateboard skills.",
+      "correct": [
+        "believed, had shown"
+      ],
+      "wrong": [
+        "had believed, showed"
+      ]
+    },
+    {
+      "target": "Joyce ___ hanging the Christmas lights after she ___ Will’s presence.",
+      "correct": [
+        "started, had felt"
+      ],
+      "wrong": [
+        "had started, felt"
+      ]
+    },
+    {
+      "target": "Steve ___ the bat with nails because he ___ the monster before.",
+      "correct": [
+        "grabbed, had seen"
+      ],
+      "wrong": [
+        "had grabbed, saw"
+      ]
+    },
+    {
+      "target": "Nancy ___ to go to the Upside Down after she ___ her friend Barb.",
+      "correct": [
+        "decided, had lost"
+      ],
+      "wrong": [
+        "had decided, lost"
+      ]
+    },
+    {
+      "target": "By the time the Mind Flayer ___ the mall, the kids ___ a plan.",
+      "correct": [
+        "attacked, had made"
+      ],
+      "wrong": [
+        "had attacked, made"
+      ]
+    },
+    {
+      "target": "Eleven ___ her powers after she ___ the Mind Flayer.",
+      "correct": [
+        "lost, had fought"
+      ],
+      "wrong": [
+        "had lost, fought"
+      ]
+    },
+    {
+      "target": "Max ___ alone in her room because she ___ a terrible vision from the Upside Down.",
+      "correct": [
+        "sat, had had"
+      ],
+      "wrong": [
+        "had sat, had"
+      ]
+    }
+  ]
+}
