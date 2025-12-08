@@ -1,0 +1,40 @@
+{
+  "listA": [
+    "be",
+    "go",
+    "see",
+    "do",
+    "eat",
+    "drink",
+    "sleep",
+    "swim",
+    "read",
+    "buy",
+    "write",
+    "send",
+    "get",
+    "fly",
+    "run"
+  ],
+  "listB": [
+    "was / were",
+    "went",
+    "saw",
+    "did",
+    "ate",
+    "drank",
+    "slept",
+    "swam",
+    "read",
+    "bought",
+    "wrote",
+    "sent",
+    "got",
+    "flew",
+    "ran"
+  ],
+  "freeMode": false,
+  "feedback": "You win!",
+  "language": "en",
+  "mathMode": true
+}
