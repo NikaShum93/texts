@@ -1,0 +1,312 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 22,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "questionFont": "PT Sans",
+  "questionFontSize": 24,
+  "style": {
+    "shape": "rounded",
+    "pad": 30,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/64233afb55129a0017751c8e/29682a8d-1bb2-4e87-bfa3-db97d09feede.png",
+    "bgImages": [
+      "https://img.genially.com/64233afb55129a0017751c8e/29682a8d-1bb2-4e87-bfa3-db97d09feede.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Catch the gnomes",
+    "btnText": "Start"
+  },
+  "direction": "random",
+  "finalFeedback": "Well Done!",
+  "globalTimer": 180,
+  "levels": [
+    {
+      "target": "Dipper usually ___ strange books in the Mystery Shack.",
+      "correct": [
+        "reads"
+      ],
+      "wrong": [
+        "is reading",
+        "read",
+        "is reads"
+      ]
+    },
+    {
+      "target": "Mabel often ___ to her pet pig Waddles after school.",
+      "correct": [
+        "talks"
+      ],
+      "wrong": [
+        "is talking",
+        "talk",
+        "is talks"
+      ]
+    },
+    {
+      "target": "Soos always ___ tourists in the gift shop.",
+      "correct": [
+        "helps"
+      ],
+      "wrong": [
+        "is helping",
+        "help",
+        "is helps"
+      ]
+    },
+    {
+      "target": "Grunkle Stan usually ___ TV in his old chair in the evening.",
+      "correct": [
+        "watches"
+      ],
+      "wrong": [
+        "is watching",
+        "watch",
+        "is watches"
+      ]
+    },
+    {
+      "target": "The kids often ___ in the forest near the Mystery Shack.",
+      "correct": [
+        "play"
+      ],
+      "wrong": [
+        "are playing",
+        "plays",
+        "is play"
+      ]
+    },
+    {
+      "target": "Monsters sometimes ___ strange noises in the trees at night.",
+      "correct": [
+        "make"
+      ],
+      "wrong": [
+        "are making",
+        "makes",
+        "is make"
+      ]
+    },
+    {
+      "target": "The Mystery Shack usually ___ many visitors in summer.",
+      "correct": [
+        "has"
+      ],
+      "wrong": [
+        "is having",
+        "have",
+        "is has"
+      ]
+    },
+    {
+      "target": "Wendy often ___ funny stories about her friends.",
+      "correct": [
+        "tells"
+      ],
+      "wrong": [
+        "is telling",
+        "tell",
+        "is tells"
+      ]
+    },
+    {
+      "target": "The gnomes usually ___ in a secret place in the forest.",
+      "correct": [
+        "live"
+      ],
+      "wrong": [
+        "are living",
+        "lives",
+        "is live"
+      ]
+    },
+    {
+      "target": "Dipper rarely ___ his journal at home.",
+      "correct": [
+        "forgets"
+      ],
+      "wrong": [
+        "is forgetting",
+        "forget",
+        "is forgets"
+      ]
+    },
+    {
+      "target": "Mabel ___ a new page in her scrapbook right now.",
+      "correct": [
+        "is drawing"
+      ],
+      "wrong": [
+        "draws",
+        "is draw",
+        "drawing"
+      ]
+    },
+    {
+      "target": "Dipper ___ for clues in the attic at the moment.",
+      "correct": [
+        "is looking"
+      ],
+      "wrong": [
+        "looks",
+        "is look",
+        "looking"
+      ]
+    },
+    {
+      "target": "Soos ___ a broken machine in the basement today.",
+      "correct": [
+        "is fixing"
+      ],
+      "wrong": [
+        "fixes",
+        "is fix",
+        "fixing"
+      ]
+    },
+    {
+      "target": "Grunkle Stan ___ the tourists around the Shack right now.",
+      "correct": [
+        "is showing"
+      ],
+      "wrong": [
+        "shows",
+        "is show",
+        "showing"
+      ]
+    },
+    {
+      "target": "The kids ___ a strange creature in the forest at the moment.",
+      "correct": [
+        "are chasing"
+      ],
+      "wrong": [
+        "chase",
+        "is chase",
+        "chasing"
+      ]
+    },
+    {
+      "target": "Wendy ___ on the Mystery Shack roof this evening.",
+      "correct": [
+        "is sitting"
+      ],
+      "wrong": [
+        "sits",
+        "is sit",
+        "sitting"
+      ]
+    },
+    {
+      "target": "The gnomes ___ a crazy party in the forest right now.",
+      "correct": [
+        "are having"
+      ],
+      "wrong": [
+        "have",
+        "is have",
+        "having"
+      ]
+    },
+    {
+      "target": "The owl ___ loudly outside the window at the moment.",
+      "correct": [
+        "is hooting"
+      ],
+      "wrong": [
+        "hoots",
+        "is hoot",
+        "hooting"
+      ]
+    },
+    {
+      "target": "Mabel usually wears funny sweaters, but today she ___ a serious detective coat.",
+      "correct": [
+        "is wearing"
+      ],
+      "wrong": [
+        "wears",
+        "is wear",
+        "wear"
+      ]
+    },
+    {
+      "target": "Dipper often looks for clues alone, but now he ___ with Mabel.",
+      "correct": [
+        "is working"
+      ],
+      "wrong": [
+        "works",
+        "is work",
+        "work"
+      ]
+    },
+    {
+      "target": "Soos normally eats pizza in the kitchen, but today he ___ soup for everyone.",
+      "correct": [
+        "is cooking"
+      ],
+      "wrong": [
+        "cooks",
+        "is cook",
+        "cook"
+      ]
+    },
+    {
+      "target": "The kids often play in the forest, but this week they ___ in the Shack.",
+      "correct": [
+        "are staying"
+      ],
+      "wrong": [
+        "stay",
+        "is stay",
+        "staying"
+      ]
+    },
+    {
+      "target": "Grunkle Stan usually sells cheap souvenirs, but today he ___ a very expensive map.",
+      "correct": [
+        "is selling"
+      ],
+      "wrong": [
+        "sells",
+        "is sell",
+        "sell"
+      ]
+    },
+    {
+      "target": "The gnomes usually hide from people, but right now they ___ with Mabel.",
+      "correct": [
+        "are dancing"
+      ],
+      "wrong": [
+        "dance",
+        "is dance",
+        "dancing"
+      ]
+    },
+    {
+      "target": "The Mystery Shack usually looks quiet, but tonight it ___ very noisy.",
+      "correct": [
+        "is getting"
+      ],
+      "wrong": [
+        "gets",
+        "is get",
+        "get"
+      ]
+    }
+  ]
+}
