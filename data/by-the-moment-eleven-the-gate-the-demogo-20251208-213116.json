@@ -1,0 +1,136 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 22,
+  "textColor": "#031626",
+  "speed": 5,
+  "questionFont": "PT Sans",
+  "questionFontSize": 24,
+  "style": {
+    "shape": "rounded",
+    "pad": 100,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/64233afb55129a0017751c8e/e82d2cf9-5074-4b10-9d6c-c8a8eb656df1.png",
+    "bgImages": [
+      "https://img.genially.com/64233afb55129a0017751c8e/e82d2cf9-5074-4b10-9d6c-c8a8eb656df1.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Find the real Frost King!",
+    "btnText": "Start"
+  },
+  "direction": "down",
+  "finalFeedback": "Will managed to stun the real King with his Whispering Lantern!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "By the moment Eleven ___ the gate, the Demogorgon ___ her in the dark.",
+      "correct": [
+        "opened, had already sensed"
+      ],
+      "wrong": [
+        "had opened, sensed"
+      ]
+    },
+    {
+      "target": "Mike ___ because he ___ Eleven at school all week.",
+      "correct": [
+        "panicked, had not seen"
+      ],
+      "wrong": [
+        "panicked, had seen"
+      ]
+    },
+    {
+      "target": "Dustin ___ Dart after he ___ strange noises in the trash can the night before.",
+      "correct": [
+        "found, had heard"
+      ],
+      "wrong": [
+        "had found, heard"
+      ]
+    },
+    {
+      "target": "By the time Hopper ___ at the Byers’ house, Will ___ without a trace.",
+      "correct": [
+        "arrived, had already disappeared"
+      ],
+      "wrong": [
+        "had arrived, disappeared"
+      ]
+    },
+    {
+      "target": "Lucas ___ Max only after she ___ him the truth about her brother.",
+      "correct": [
+        "trusted, had told"
+      ],
+      "wrong": [
+        "trusted, had told"
+      ]
+    },
+    {
+      "target": "Joyce ___ hanging the Christmas lights after she ___ Will’s voice through the wall.",
+      "correct": [
+        "started, had heard"
+      ],
+      "wrong": [
+        "had started, heard"
+      ]
+    },
+    {
+      "target": "Steve ___ the bat with nails because he ___ the monster the previous night.",
+      "correct": [
+        "grabbed, had seen"
+      ],
+      "wrong": [
+        "had grabbed, saw"
+      ]
+    },
+    {
+      "target": "Nancy ___ to go to the Upside Down after she ___ how dangerous it was for her friends.",
+      "correct": [
+        "decided, had realised"
+      ],
+      "wrong": [
+        "had decided, realised"
+      ]
+    },
+    {
+      "target": "By the time the Mind Flayer ___ the mall, the kids ___ a clear plan to stop it.",
+      "correct": [
+        "attacked, had already made"
+      ],
+      "wrong": [
+        "had attacked, made"
+      ]
+    },
+    {
+      "target": "Eleven ___ her powers after she ___ the Mind Flayer in the final battle.",
+      "correct": [
+        "lost, had fought"
+      ],
+      "wrong": [
+        "had lost, fought"
+      ]
+    },
+    {
+      "target": "Max ___ alone in her room because she ___ a terrible vision from the Upside Down earlier that day.",
+      "correct": [
+        "sat, had had"
+      ],
+      "wrong": [
+        "had sat, had"
+      ]
+    }
+  ]
+}
