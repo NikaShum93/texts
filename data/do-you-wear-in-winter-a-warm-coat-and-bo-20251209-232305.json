@@ -1,0 +1,214 @@
+{
+  "language": "en",
+  "font": "Indie Flower",
+  "fontSize": 24,
+  "textColor": "#02223b",
+  "speed": 3,
+  "questionFont": "Indie Flower",
+  "questionFontSize": 24,
+  "style": {
+    "shape": "rounded",
+    "pad": 6,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/6728e881ebc5420015e1f3ec/c09f65b7-1a81-45a9-a8b3-3bf139a3b573.png\nhttps://img.genially.com/6728e881ebc5420015e1f3ec/212b7161-6c2e-4e5c-ab6d-f9f0b71765b4.png",
+    "bgImages": [
+      "https://img.genially.com/6728e881ebc5420015e1f3ec/c09f65b7-1a81-45a9-a8b3-3bf139a3b573.png",
+      "https://img.genially.com/6728e881ebc5420015e1f3ec/212b7161-6c2e-4e5c-ab6d-f9f0b71765b4.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "SNOWFLAKES",
+    "btnText": "START"
+  },
+  "direction": "down",
+  "finalFeedback": "GOOD JOB!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "_____ do you wear in winter? A warm coat and boots.",
+      "correct": [
+        "What"
+      ],
+      "wrong": [
+        "Where",
+        "Why",
+        "When"
+      ]
+    },
+    {
+      "target": "_____ do you play when it snows? Outside in the yard.",
+      "correct": [
+        "Where"
+      ],
+      "wrong": [
+        "When",
+        "How",
+        "When"
+      ]
+    },
+    {
+      "target": "_____ does winter start in your country? In December.",
+      "correct": [
+        "When"
+      ],
+      "wrong": [
+        "How",
+        "What",
+        "How"
+      ]
+    },
+    {
+      "target": "_____ do people drink hot tea in winter? Because they're cold.",
+      "correct": [
+        "Why"
+      ],
+      "wrong": [
+        "What",
+        "How",
+        "Where"
+      ]
+    },
+    {
+      "target": "_____ can you build with snow? A snowman.",
+      "correct": [
+        "What"
+      ],
+      "wrong": [
+        "Where",
+        "Where",
+        "Why"
+      ]
+    },
+    {
+      "target": "_____ do birds go in winter? To warm countries.",
+      "correct": [
+        "Where"
+      ],
+      "wrong": [
+        "What",
+        "What",
+        "What"
+      ]
+    },
+    {
+      "target": "_____ has a beard and likes cookies with milk? Santa Claus.",
+      "correct": [
+        "Who"
+      ],
+      "wrong": [
+        "Why",
+        "Where",
+        "When"
+      ]
+    },
+    {
+      "target": "_____ do you usually go skiing? At the weekends.",
+      "correct": [
+        "When"
+      ],
+      "wrong": [
+        "What",
+        "Why",
+        "Why"
+      ]
+    },
+    {
+      "target": "_____ do you wear gloves in winter? Because my hands are cold.",
+      "correct": [
+        "Why"
+      ],
+      "wrong": [
+        "Where",
+        "Who",
+        "Where"
+      ]
+    },
+    {
+      "target": "_____ do trees look in winter? They have no leaves.",
+      "correct": [
+        "How"
+      ],
+      "wrong": [
+        "What",
+        "Where",
+        "When"
+      ]
+    },
+    {
+      "target": "_____ food do you like to eat in winter? Warm soup.",
+      "correct": [
+        "What"
+      ],
+      "wrong": [
+        "When",
+        "When",
+        "Where"
+      ]
+    },
+    {
+      "target": "_____ can skate well? Tom.",
+      "correct": [
+        "Who"
+      ],
+      "wrong": [
+        "What",
+        "What",
+        "Where"
+      ]
+    },
+    {
+      "target": "_____ do children have winter holidays? In December or January.",
+      "correct": [
+        "When"
+      ],
+      "wrong": [
+        "What",
+        "What",
+        "Who"
+      ]
+    },
+    {
+      "target": "_____ is winter sometimes dangerous? Because roads have ice.",
+      "correct": [
+        "Why"
+      ],
+      "wrong": [
+        "When",
+        "Where",
+        "Who"
+      ]
+    },
+    {
+      "target": "_____ do you feel on a snowy day? Happy and excited.",
+      "correct": [
+        "How"
+      ],
+      "wrong": [
+        "What",
+        "When",
+        "Why"
+      ]
+    },
+    {
+      "target": "_____ animals can you see in winter? Deer and birds.",
+      "correct": [
+        "What"
+      ],
+      "wrong": [
+        "Why",
+        "Who",
+        "Why"
+      ]
+    }
+  ]
+}
