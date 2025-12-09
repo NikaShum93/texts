@@ -1,0 +1,114 @@
+{
+  "language": "en",
+  "font": "Poppins",
+  "sounds": {
+    "pop": "https://github.com/NikaShum93/utki/raw/main/no-meme.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/64233afb55129a0017751c8e/d9688fb7-3aa5-4beb-95ca-a9f91344910d.gif",
+    "task": {
+      "bgColor": "#ffffff",
+      "borderColor": "#ffc800",
+      "textColor": "#052048",
+      "opacity": 1,
+      "fontSize": 26,
+      "neon": true
+    },
+    "feedback": {
+      "borderColor": "#00ffd5",
+      "textColor": "#ffffff",
+      "neon": true
+    }
+  },
+  "finalFeedback": "You caught all the evil wizards!",
+  "feedbackImage": "https://img.genially.com/64233afb55129a0017751c8e/d9688fb7-3aa5-4beb-95ca-a9f91344910d.gif",
+  "autoDistractors": false,
+  "tasks": [
+    {
+      "question": "Santa is __________ than the Yeti. (good)",
+      "correct": [
+        "better"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The Christmas party is __________ than last year’s party. (funny)",
+      "correct": [
+        "funnier"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The Yeti’s footprints are __________ than Santa’s. (big)",
+      "correct": [
+        "bigger"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The snow is __________ today than yesterday. (bad)",
+      "correct": [
+        "worse"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The Christmas presents are __________ than the Yeti’s gifts. (nice)",
+      "correct": [
+        "nicer"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Rudolph is __________ than the other reindeer. (fast)",
+      "correct": [
+        "faster"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The Christmas tree is __________ than the Yeti’s ice sculpture. (beautiful)",
+      "correct": [
+        "more beautiful"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Santa's coat is __________ than the Yeti’s fur. (warm)",
+      "correct": [
+        "warmer"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The elves are __________ than the Yeti’s helpers. (happy)",
+      "correct": [
+        "happier"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The Christmas songs sound __________ than the Yeti’s roar. (good)",
+      "correct": [
+        "better"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The Christmas decorations are __________ than last year’s decorations. (interesting)",
+      "correct": [
+        "more interesting"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The Yeti’s new coat is __________ than Santa’s old coat. (comfortable)",
+      "correct": [
+        "more comfortable"
+      ],
+      "wrong": []
+    }
+  ]
+}
