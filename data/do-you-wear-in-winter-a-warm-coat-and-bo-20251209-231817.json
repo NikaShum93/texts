@@ -1,0 +1,214 @@
+{
+  "language": "en",
+  "font": "Indie Flower",
+  "fontSize": 24,
+  "textColor": "#02223b",
+  "speed": 3,
+  "questionFont": "Indie Flower",
+  "questionFontSize": 24,
+  "style": {
+    "shape": "rounded",
+    "pad": 6,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/Xq4xVnF6/action-(1).png\nhttps://i.postimg.cc/QChSXj5r/action.png",
+    "bgImages": [
+      "https://i.postimg.cc/Xq4xVnF6/action-(1).png",
+      "https://i.postimg.cc/QChSXj5r/action.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "SNOWFLAKES",
+    "btnText": "START"
+  },
+  "direction": "down",
+  "finalFeedback": "GOOD JOB!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "_____ do you wear in winter? A warm coat and boots.",
+      "correct": [
+        "What"
+      ],
+      "wrong": [
+        "Why",
+        "How",
+        "Where"
+      ]
+    },
+    {
+      "target": "_____ do you play when it snows? Outside in the yard.",
+      "correct": [
+        "Where"
+      ],
+      "wrong": [
+        "What",
+        "How",
+        "When"
+      ]
+    },
+    {
+      "target": "_____ does winter start in your country? In December.",
+      "correct": [
+        "When"
+      ],
+      "wrong": [
+        "What",
+        "Where",
+        "Who"
+      ]
+    },
+    {
+      "target": "_____ do people drink hot tea in winter? Because they're cold.",
+      "correct": [
+        "Why"
+      ],
+      "wrong": [
+        "How",
+        "When",
+        "What"
+      ]
+    },
+    {
+      "target": "_____ can you build with snow? A snowman.",
+      "correct": [
+        "What"
+      ],
+      "wrong": [
+        "When",
+        "Where",
+        "How"
+      ]
+    },
+    {
+      "target": "_____ do birds go in winter? To warm countries.",
+      "correct": [
+        "Where"
+      ],
+      "wrong": [
+        "Who",
+        "Why",
+        "How"
+      ]
+    },
+    {
+      "target": "_____ has a beard and likes cookies with milk? Santa Claus.",
+      "correct": [
+        "Who"
+      ],
+      "wrong": [
+        "Where",
+        "Why",
+        "Why"
+      ]
+    },
+    {
+      "target": "_____ do you usually go skiing? At the weekends.",
+      "correct": [
+        "When"
+      ],
+      "wrong": [
+        "Who",
+        "Who",
+        "What"
+      ]
+    },
+    {
+      "target": "_____ do you wear gloves in winter? Because my hands are cold.",
+      "correct": [
+        "Why"
+      ],
+      "wrong": [
+        "What",
+        "How",
+        "When"
+      ]
+    },
+    {
+      "target": "_____ do trees look in winter? They have no leaves.",
+      "correct": [
+        "How"
+      ],
+      "wrong": [
+        "Why",
+        "What",
+        "Who"
+      ]
+    },
+    {
+      "target": "_____ food do you like to eat in winter? Warm soup.",
+      "correct": [
+        "What"
+      ],
+      "wrong": [
+        "When",
+        "Where",
+        "How"
+      ]
+    },
+    {
+      "target": "_____ can skate well? Tom.",
+      "correct": [
+        "Who"
+      ],
+      "wrong": [
+        "When",
+        "How",
+        "When"
+      ]
+    },
+    {
+      "target": "_____ do children have winter holidays? In December or January.",
+      "correct": [
+        "When"
+      ],
+      "wrong": [
+        "Where",
+        "What",
+        "Who"
+      ]
+    },
+    {
+      "target": "_____ is winter sometimes dangerous? Because roads have ice.",
+      "correct": [
+        "Why"
+      ],
+      "wrong": [
+        "What",
+        "How",
+        "Where"
+      ]
+    },
+    {
+      "target": "_____ do you feel on a snowy day? Happy and excited.",
+      "correct": [
+        "How"
+      ],
+      "wrong": [
+        "When",
+        "What",
+        "Where"
+      ]
+    },
+    {
+      "target": "_____ animals can you see in winter? Deer and birds.",
+      "correct": [
+        "What"
+      ],
+      "wrong": [
+        "How",
+        "How",
+        "When"
+      ]
+    }
+  ]
+}
