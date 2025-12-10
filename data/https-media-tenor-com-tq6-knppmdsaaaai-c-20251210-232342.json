@@ -1,0 +1,147 @@
+{
+  "language": "en",
+  "font": "Special Elite",
+  "fontSize": 25,
+  "textColor": "#c70505",
+  "speed": 5,
+  "questionFont": "Special Elite",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 27,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/67961b32a116fb001568a75e/dc3af156-f4a1-49d3-b65b-c4c2b0629ec3.png",
+    "bgImages": [
+      "https://img.genially.com/67961b32a116fb001568a75e/dc3af156-f4a1-49d3-b65b-c4c2b0629ec3.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Match the city with its country",
+    "btnText": "Start"
+  },
+  "direction": "random",
+  "finalFeedback": "Thank you! Santa is so happy now!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "https://media.tenor.com/tq6_KnPPMDsAAAAi/clipperton-island-flags.gif",
+      "correct": [
+        "Paris"
+      ],
+      "wrong": [
+        "Rome",
+        "Washington",
+        "London"
+      ]
+    },
+    {
+      "target": "https://media.tenor.com/kpa76RDzvJ0AAAAi/germany-flags.gif",
+      "correct": [
+        "Berlin"
+      ],
+      "wrong": [
+        "Rome",
+        "Madrid",
+        "Ottawa"
+      ]
+    },
+    {
+      "target": "https://media.tenor.com/f3uwvQt82W8AAAAi/italy-flags.gif",
+      "correct": [
+        "Rome"
+      ],
+      "wrong": [
+        "Canberra",
+        "Paris",
+        "Ottawa"
+      ]
+    },
+    {
+      "target": "https://media.tenor.com/g2lYHQlC15UAAAAi/spain-flags.gif",
+      "correct": [
+        "Madrid"
+      ],
+      "wrong": [
+        "Brasília",
+        "London",
+        "Ottawa"
+      ]
+    },
+    {
+      "target": "https://media.tenor.com/4nigHo8SqkoAAAAi/canada-flags.gif",
+      "correct": [
+        "Ottawa"
+      ],
+      "wrong": [
+        "Paris",
+        "Berlin",
+        "Brasília"
+      ]
+    },
+    {
+      "target": "https://media.tenor.com/b-_8u3hh7MUAAAAi/pitcairn-island-flags.gif",
+      "correct": [
+        "Canberra"
+      ],
+      "wrong": [
+        "Paris",
+        "Ottawa",
+        "Tokyo"
+      ]
+    },
+    {
+      "target": "https://media.tenor.com/2zDb3ayzkMQAAAAi/japan-flags.gif",
+      "correct": [
+        "Tokyo"
+      ],
+      "wrong": [
+        "Rome",
+        "Berlin",
+        "Paris"
+      ]
+    },
+    {
+      "target": "https://media.tenor.com/-7wt353JcHgAAAAi/brazil-flags.gif",
+      "correct": [
+        "Brasília"
+      ],
+      "wrong": [
+        "Washington",
+        "London",
+        "Tokyo"
+      ]
+    },
+    {
+      "target": "https://media.tenor.com/prCW9-f9qLUAAAAi/united-kingdom-flags.gif",
+      "correct": [
+        "London"
+      ],
+      "wrong": [
+        "Washington",
+        "Brasília",
+        "Berlin"
+      ]
+    },
+    {
+      "target": "https://media.tenor.com/s_173eiXx-YAAAAi/united-states-flags.gif",
+      "correct": [
+        "Washington"
+      ],
+      "wrong": [
+        "Brasília",
+        "Paris",
+        "Tokyo"
+      ]
+    }
+  ]
+}
