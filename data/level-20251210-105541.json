@@ -1,0 +1,56 @@
+{
+  "language": "ru",
+  "font": "Rubik",
+  "fontSize": 30,
+  "textColor": "#ffffff",
+  "speed": 1,
+  "style": {
+    "shape": "rounded",
+    "pad": 51,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/gkWyLT8w/Plusevaa-snezinka.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 210
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Лови снежинки",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Молодец!!!",
+  "levels": [
+    {
+      "target": "Зима",
+      "correct": [
+        "снег",
+        "стужа",
+        "мороз",
+        "холод",
+        "лёд",
+        "коньки",
+        "лыжи"
+      ],
+      "wrong": [
+        "жара",
+        "зной",
+        "дождь",
+        "гроза",
+        "гриб",
+        "ягода",
+        "урожай"
+      ],
+      "timer": 30
+    }
+  ]
+}
