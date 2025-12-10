@@ -1,0 +1,255 @@
+{
+  "language": "en",
+  "font": "Inter",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "questionFont": "Inter",
+  "questionFontSize": 30,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "",
+    "bgImages": [],
+    "borderOn": true,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": true,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "",
+    "btnText": ""
+  },
+  "direction": "random",
+  "finalFeedback": "",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "She _____ to the park yesterday.",
+      "correct": [
+        "went"
+      ],
+      "wrong": [
+        "met",
+        "ate",
+        "bought"
+      ]
+    },
+    {
+      "target": "They _____ a new book last week.",
+      "correct": [
+        "bought"
+      ],
+      "wrong": [
+        "wrote",
+        "came",
+        "watched"
+      ]
+    },
+    {
+      "target": "I _____ dinner at six o'clock.",
+      "correct": [
+        "ate"
+      ],
+      "wrong": [
+        "watched",
+        "went",
+        "sent"
+      ]
+    },
+    {
+      "target": "We _____ an interesting movie on Friday.",
+      "correct": [
+        "watched"
+      ],
+      "wrong": [
+        "caught",
+        "took",
+        "met"
+      ]
+    },
+    {
+      "target": "He _____ a letter yesterday.",
+      "correct": [
+        "wrote"
+      ],
+      "wrong": [
+        "baked",
+        "ate",
+        "enjoyed"
+      ]
+    },
+    {
+      "target": "You _____ the answer correctly.",
+      "correct": [
+        "knew"
+      ],
+      "wrong": [
+        "took",
+        "slept",
+        "did"
+      ]
+    },
+    {
+      "target": "The cat _____ under the table.",
+      "correct": [
+        "slept"
+      ],
+      "wrong": [
+        "watched",
+        "ate",
+        "caught"
+      ]
+    },
+    {
+      "target": "We _____ a lot of photos during the trip.",
+      "correct": [
+        "took"
+      ],
+      "wrong": [
+        "knew",
+        "baked",
+        "rose"
+      ]
+    },
+    {
+      "target": "She _____ a cake for the party.",
+      "correct": [
+        "baked"
+      ],
+      "wrong": [
+        "placed",
+        "ate",
+        "tried"
+      ]
+    },
+    {
+      "target": "They _____ home after the rain.",
+      "correct": [
+        "came"
+      ],
+      "wrong": [
+        "slept",
+        "ate",
+        "climbed"
+      ]
+    },
+    {
+      "target": "He _____ his keys on the desk.",
+      "correct": [
+        "placed"
+      ],
+      "wrong": [
+        "slept",
+        "bought",
+        "sent"
+      ]
+    },
+    {
+      "target": "Anna _____ the bus to school.",
+      "correct": [
+        "caught"
+      ],
+      "wrong": [
+        "came",
+        "climbed",
+        "ate"
+      ]
+    },
+    {
+      "target": "We _____ a letter to our friend.",
+      "correct": [
+        "sent"
+      ],
+      "wrong": [
+        "went",
+        "rose",
+        "took"
+      ]
+    },
+    {
+      "target": "The students _____ to finish the test.",
+      "correct": [
+        "tried"
+      ],
+      "wrong": [
+        "slept",
+        "placed",
+        "met"
+      ]
+    },
+    {
+      "target": "I _____ a lot of money at the market.",
+      "correct": [
+        "earned"
+      ],
+      "wrong": [
+        "sent",
+        "placed",
+        "watched"
+      ]
+    },
+    {
+      "target": "She _____ the mountain last year.",
+      "correct": [
+        "climbed"
+      ],
+      "wrong": [
+        "ate",
+        "bought",
+        "rose"
+      ]
+    },
+    {
+      "target": "We _____ our friends yesterday.",
+      "correct": [
+        "met"
+      ],
+      "wrong": [
+        "slept",
+        "went",
+        "caught"
+      ]
+    },
+    {
+      "target": "The sun _____ early this morning.",
+      "correct": [
+        "rose"
+      ],
+      "wrong": [
+        "wrote",
+        "sent",
+        "enjoyed"
+      ]
+    },
+    {
+      "target": "He _____ his homework before dinner.",
+      "correct": [
+        "did"
+      ],
+      "wrong": [
+        "went",
+        "bought",
+        "met"
+      ]
+    },
+    {
+      "target": "They _____ the concert last night.",
+      "correct": [
+        "enjoyed"
+      ],
+      "wrong": [
+        "went",
+        "climbed",
+        "did"
+      ]
+    }
+  ]
+}
