@@ -1,0 +1,190 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 24,
+  "textColor": "#491f6b",
+  "speed": 3,
+  "questionFont": "Roboto",
+  "questionFontSize": 24,
+  "style": {
+    "shape": "rounded",
+    "pad": 50,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/ZK2rhPSz/Chat-GPT-Image-3-dek-2025-g-12-54-43.png\nhttps://i.postimg.cc/yYtFzhzj/Chat-GPT-Image-3-dek-2025-g-12-54-47.png\nhttps://i.postimg.cc/3JVgHjTH/Chat-GPT-Image-3-dek-2025-g-12-54-50.png\nhttps://i.postimg.cc/J4vbW3LV/Chat-GPT-Image-3-dek-2025-g-12-56-29.png",
+    "bgImages": [
+      "https://i.postimg.cc/ZK2rhPSz/Chat-GPT-Image-3-dek-2025-g-12-54-43.png",
+      "https://i.postimg.cc/yYtFzhzj/Chat-GPT-Image-3-dek-2025-g-12-54-47.png",
+      "https://i.postimg.cc/3JVgHjTH/Chat-GPT-Image-3-dek-2025-g-12-54-50.png",
+      "https://i.postimg.cc/J4vbW3LV/Chat-GPT-Image-3-dek-2025-g-12-56-29.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "PRESENTSFALL!",
+    "btnText": "Catch the presents."
+  },
+  "direction": "down",
+  "finalFeedback": "You collected 15 presents! Well done!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "The Christmas tree is ___ than the window. (bright)",
+      "correct": [
+        "brighter"
+      ],
+      "wrong": [
+        "brightest",
+        "more bright"
+      ]
+    },
+    {
+      "target": "Rudolph is ___ reindeer in Santa’s team. (fast)",
+      "correct": [
+        "the fastest"
+      ],
+      "wrong": [
+        "fastester",
+        "fastest than"
+      ]
+    },
+    {
+      "target": "My gift is ___ than yours. (big)",
+      "correct": [
+        "bigger"
+      ],
+      "wrong": [
+        "more big",
+        "the bigger"
+      ]
+    },
+    {
+      "target": "This cookie is ___ cookie on the plate. (sweet)",
+      "correct": [
+        "the sweetest"
+      ],
+      "wrong": [
+        "sweetest than",
+        "more sweetest"
+      ]
+    },
+    {
+      "target": "The elves are ___ today than yesterday. (happy)",
+      "correct": [
+        "happier"
+      ],
+      "wrong": [
+        "more happier",
+        "happiest"
+      ]
+    },
+    {
+      "target": "This snowman is ___ than the last one. (tall)",
+      "correct": [
+        "taller"
+      ],
+      "wrong": [
+        "tallest than",
+        "more tall"
+      ]
+    },
+    {
+      "target": "Santa’s bag is ___ bag in the workshop. (heavy)",
+      "correct": [
+        "the heaviest"
+      ],
+      "wrong": [
+        "heavier than",
+        "most heavy"
+      ]
+    },
+    {
+      "target": "Tonight is ___ night of the year. (cold)",
+      "correct": [
+        "the coldest"
+      ],
+      "wrong": [
+        "coldest than",
+        "more cold"
+      ]
+    },
+    {
+      "target": "My scarf is ___ than his scarf. (warm)",
+      "correct": [
+        "warmer"
+      ],
+      "wrong": [
+        "warmest",
+        "more warm"
+      ]
+    },
+    {
+      "target": "This candy cane is ___ candy cane in the box. (long)",
+      "correct": [
+        "the longest"
+      ],
+      "wrong": [
+        "longer than",
+        "most longest"
+      ]
+    },
+    {
+      "target": "The lights are ___ this year than last year. (colorful)",
+      "correct": [
+        "more colorful"
+      ],
+      "wrong": [
+        "colorfuller",
+        "colorfulest"
+      ]
+    },
+    {
+      "target": "Our sled is ___ than their sled. (old)",
+      "correct": [
+        "older"
+      ],
+      "wrong": [
+        "more older",
+        "oldester"
+      ]
+    },
+    {
+      "target": "This star is ___ star on the tree. (beautiful)",
+      "correct": [
+        "the most beautiful"
+      ],
+      "wrong": [
+        "most beautifulest",
+        "beautifuler"
+      ]
+    },
+    {
+      "target": "The cabin feels ___ than the tent. (cozy)",
+      "correct": [
+        "cozier"
+      ],
+      "wrong": [
+        "more cozy",
+        "coziest than"
+      ]
+    },
+    {
+      "target": "The Yeti is ___ creature I’ve ever seen. (strong)",
+      "correct": [
+        "the strongest"
+      ],
+      "wrong": [
+        "stronger than",
+        "most strong"
+      ]
+    }
+  ]
+}
