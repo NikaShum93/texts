@@ -1,0 +1,131 @@
+{
+  "language": "ru",
+  "font": "Lobster",
+  "fontSize": 34,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "questionFont": "Lobster",
+  "questionFontSize": 35,
+  "style": {
+    "shape": "rounded",
+    "pad": 31,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/dt5QLCmr/20251205-1544-Socnyj-3D-mandarin-simple-compose-01kbq8nerbfvgtdz15y9e552jx.png",
+    "bgImages": [
+      "https://i.postimg.cc/dt5QLCmr/20251205-1544-Socnyj-3D-mandarin-simple-compose-01kbq8nerbfvgtdz15y9e552jx.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Мандариновый челлендж",
+    "btnText": "Запускай!"
+  },
+  "direction": "up",
+  "finalFeedback": "Супер! Все мандарины твои!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "Первое слагаемое 8, второе слагаемое 1. Найди сумму.",
+      "correct": [
+        "9"
+      ],
+      "wrong": [
+        "11"
+      ]
+    },
+    {
+      "target": "4 плюс 3.",
+      "correct": [
+        "7"
+      ],
+      "wrong": [
+        "9"
+      ]
+    },
+    {
+      "target": "Уменьши 7 на 2.",
+      "correct": [
+        "5"
+      ],
+      "wrong": [
+        "9"
+      ]
+    },
+    {
+      "target": "Сложи числа 7 и 1.",
+      "correct": [
+        "8"
+      ],
+      "wrong": [
+        "6"
+      ]
+    },
+    {
+      "target": "Увеличь число 3 на 4.",
+      "correct": [
+        "7"
+      ],
+      "wrong": [
+        "6"
+      ]
+    },
+    {
+      "target": "Найди сумму чисел 3 плюс 5.",
+      "correct": [
+        "8"
+      ],
+      "wrong": [
+        "9"
+      ]
+    },
+    {
+      "target": "Уменьшаемое 9, вычитаемое 2. Найди разность чисел.",
+      "correct": [
+        "7"
+      ],
+      "wrong": [
+        "8"
+      ]
+    },
+    {
+      "target": "К числу 5 прибавь число 3.",
+      "correct": [
+        "8"
+      ],
+      "wrong": [
+        "6"
+      ]
+    },
+    {
+      "target": "Увеличь число 2 на 7.",
+      "correct": [
+        "9"
+      ],
+      "wrong": [
+        "7",
+        "7",
+        "5"
+      ]
+    },
+    {
+      "target": "Найди сумму чисел 1 и 4.",
+      "correct": [
+        "5"
+      ],
+      "wrong": [
+        "9",
+        "7",
+        "8"
+      ]
+    }
+  ]
+}
