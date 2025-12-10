@@ -1,0 +1,200 @@
+{
+  "language": "en",
+  "font": "Open Sans",
+  "fontSize": 40,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "questionFont": "Montserrat",
+  "questionFontSize": 31,
+  "style": {
+    "shape": "rounded",
+    "pad": 14,
+    "bgColor": "#1a1a1a",
+    "bgImage": "",
+    "bgImages": [],
+    "borderOn": true,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": true,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 0,
+    "imgBox": 200
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Выбери правильный продукт!",
+    "btnText": "Start!"
+  },
+  "direction": "down",
+  "finalFeedback": "Молодец!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "apple",
+      "correct": [
+        "https://i.postimg.cc/nzymBpcT/2121.png"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/3R4pkd7W/pngwing-com57.png",
+        "https://i.postimg.cc/m2x3FNPR/pngwing-com-(19).png",
+        "https://i.postimg.cc/V6rMJd1w/pngwing-com53.png"
+      ]
+    },
+    {
+      "target": "bread",
+      "correct": [
+        "https://i.postimg.cc/Vstn1rDX/bread.png"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/RFktK4VH/pngwing-com86.png",
+        "https://i.postimg.cc/HkzbKqBn/pngwing-com-(1).png",
+        "https://i.postimg.cc/cHp3w04v/pngwing-com62.png"
+      ]
+    },
+    {
+      "target": "pineapple",
+      "correct": [
+        "https://i.postimg.cc/HkzbKqBn/pngwing-com-(1).png"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/nzymBpcT/2121.png",
+        "https://i.postimg.cc/pTh8mpxM/pngwing-com55.png",
+        "https://i.postimg.cc/Vstn1rDX/bread.png"
+      ]
+    },
+    {
+      "target": "ice-cream",
+      "correct": [
+        "https://i.postimg.cc/W3FrdhjR/pngwing-com-(12).png"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/V6rMJd1w/pngwing-com53.png",
+        "https://i.postimg.cc/nzymBpcT/2121.png",
+        "https://i.postimg.cc/tCHPgqc7/pngwing-com71.png"
+      ]
+    },
+    {
+      "target": "cake",
+      "correct": [
+        "https://i.postimg.cc/m2x3FNPR/pngwing-com-(19).png"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/fLtXVJZ9/pngwing-com-(52).png",
+        "https://i.postimg.cc/3R4pkd7W/pngwing-com57.png",
+        "https://i.postimg.cc/tCHPgqc7/pngwing-com71.png"
+      ]
+    },
+    {
+      "target": "strawberry",
+      "correct": [
+        "https://i.postimg.cc/fLtXVJZ9/pngwing-com-(52).png"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/G2WDGdhF/pngwing-comr.png",
+        "https://i.postimg.cc/nzymBpcT/2121.png",
+        "https://i.postimg.cc/tCHPgqc7/pngwing-com71.png"
+      ]
+    },
+    {
+      "target": "chicken",
+      "correct": [
+        "https://i.postimg.cc/V6rMJd1w/pngwing-com53.png"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/tCHPgqc7/pngwing-com71.png",
+        "https://i.postimg.cc/G2WDGdhF/pngwing-comr.png",
+        "https://i.postimg.cc/TwzbgfYj/pngwing-com61.png"
+      ]
+    },
+    {
+      "target": "hamburger",
+      "correct": [
+        "https://i.postimg.cc/MGG189FY/pngwing-com54.png"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/V6rMJd1w/pngwing-com53.png",
+        "https://i.postimg.cc/pTh8mpxM/pngwing-com55.png",
+        "https://i.postimg.cc/tCHPgqc7/pngwing-com71.png"
+      ]
+    },
+    {
+      "target": "cheese",
+      "correct": [
+        "https://i.postimg.cc/pTh8mpxM/pngwing-com55.png"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/fLtXVJZ9/pngwing-com-(52).png",
+        "https://i.postimg.cc/TwzbgfYj/pngwing-com61.png",
+        "https://i.postimg.cc/MGG189FY/pngwing-com54.png"
+      ]
+    },
+    {
+      "target": "tomato",
+      "correct": [
+        "https://i.postimg.cc/3R4pkd7W/pngwing-com57.png"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/tCHPgqc7/pngwing-com71.png",
+        "https://i.postimg.cc/G2WDGdhF/pngwing-comr.png",
+        "https://i.postimg.cc/nzymBpcT/2121.png"
+      ]
+    },
+    {
+      "target": "orange",
+      "correct": [
+        "https://i.postimg.cc/TwzbgfYj/pngwing-com61.png"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/V6rMJd1w/pngwing-com53.png",
+        "https://i.postimg.cc/G2WDGdhF/pngwing-comr.png",
+        "https://i.postimg.cc/RFktK4VH/pngwing-com86.png"
+      ]
+    },
+    {
+      "target": "fish",
+      "correct": [
+        "https://i.postimg.cc/cHp3w04v/pngwing-com62.png"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/HkzbKqBn/pngwing-com-(1).png",
+        "https://i.postimg.cc/pTh8mpxM/pngwing-com55.png",
+        "https://i.postimg.cc/MGG189FY/pngwing-com54.png"
+      ]
+    },
+    {
+      "target": "candy",
+      "correct": [
+        "https://i.postimg.cc/tCHPgqc7/pngwing-com71.png"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/V6rMJd1w/pngwing-com53.png",
+        "https://i.postimg.cc/W3FrdhjR/pngwing-com-(12).png",
+        "https://i.postimg.cc/RFktK4VH/pngwing-com86.png"
+      ]
+    },
+    {
+      "target": "banana",
+      "correct": [
+        "https://i.postimg.cc/RFktK4VH/pngwing-com86.png"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/TwzbgfYj/pngwing-com61.png",
+        "https://i.postimg.cc/cHp3w04v/pngwing-com62.png",
+        "https://i.postimg.cc/nzymBpcT/2121.png"
+      ]
+    },
+    {
+      "target": "cookie",
+      "correct": [
+        "https://i.postimg.cc/G2WDGdhF/pngwing-comr.png"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/nzymBpcT/2121.png",
+        "https://i.postimg.cc/RFktK4VH/pngwing-com86.png",
+        "https://i.postimg.cc/m2x3FNPR/pngwing-com-(19).png"
+      ]
+    }
+  ]
+}
