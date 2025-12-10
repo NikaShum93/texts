@@ -1,0 +1,127 @@
+{
+  "language": "ru",
+  "font": "Lobster",
+  "fontSize": 34,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "questionFont": "Lobster",
+  "questionFontSize": 35,
+  "style": {
+    "shape": "rounded",
+    "pad": 31,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/dt5QLCmr/20251205-1544-Socnyj-3D-mandarin-simple-compose-01kbq8nerbfvgtdz15y9e552jx.png",
+    "bgImages": [
+      "https://i.postimg.cc/dt5QLCmr/20251205-1544-Socnyj-3D-mandarin-simple-compose-01kbq8nerbfvgtdz15y9e552jx.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Мандариновый челлендж",
+    "btnText": "Запускай!"
+  },
+  "direction": "up",
+  "finalFeedback": "Супер! Все мандарины твои!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "Найдите сумму чисел 46 000 и 2000.",
+      "correct": [
+        "48000"
+      ],
+      "wrong": [
+        "44000"
+      ]
+    },
+    {
+      "target": "Запишите, сколько получится, если из числа 230 000 вычесть 20 000.",
+      "correct": [
+        "210000"
+      ],
+      "wrong": [
+        "220000"
+      ]
+    },
+    {
+      "target": "Число 3700 увеличьте на 30.",
+      "correct": [
+        "3730"
+      ],
+      "wrong": [
+        "4000"
+      ]
+    },
+    {
+      "target": "Из числа 555 000 вычтите 5000.",
+      "correct": [
+        "550000"
+      ],
+      "wrong": [
+        "505000"
+      ]
+    },
+    {
+      "target": "К числу 40 000 прибавьте 14 000.",
+      "correct": [
+        "54000"
+      ],
+      "wrong": [
+        "64000"
+      ]
+    },
+    {
+      "target": "Увеличьте сумму чисел 35 000 и 30 000 на их разность.",
+      "correct": [
+        "70000"
+      ],
+      "wrong": [
+        "65000"
+      ]
+    },
+    {
+      "target": "Найдите разность, если уменьшаемое равно 24 000, вычитаемое выражено суммой чисел 3000 и 10 000.",
+      "correct": [
+        "11000"
+      ],
+      "wrong": [
+        "10100"
+      ]
+    },
+    {
+      "target": "Первое слагаемое выражено разностью чисел 15 000 и 5000, второе слагаемое равно трём. Найдите сумму.",
+      "correct": [
+        "10003"
+      ],
+      "wrong": [
+        "10030"
+      ]
+    },
+    {
+      "target": "Разность чисел 5020 и 5000 увеличьте на 100.",
+      "correct": [
+        "120"
+      ],
+      "wrong": [
+        "2000"
+      ]
+    },
+    {
+      "target": "Число 7500 уменьшите на сумму чисел 3000 и 4000.",
+      "correct": [
+        "500"
+      ],
+      "wrong": [
+        "5000"
+      ]
+    }
+  ]
+}
