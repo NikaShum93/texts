@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "font": "Montserrat",
+  "fontSize": 40,
+  "textColor": "#ffffff",
+  "speed": 6,
+  "questionFont": "Montserrat",
+  "questionFontSize": 31,
+  "style": {
+    "shape": "rounded",
+    "pad": 9,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/6573f8946d6d76001fe95399/4226731f-f23e-4a12-a038-ed24ea8fd2e0.png",
+    "bgImages": [
+      "https://img.genially.com/6573f8946d6d76001fe95399/4226731f-f23e-4a12-a038-ed24ea8fd2e0.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 260
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Выбери правильную цифру!",
+    "btnText": "Start!"
+  },
+  "direction": "random",
+  "finalFeedback": "Молодец!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "Six",
+      "correct": [
+        "6"
+      ],
+      "wrong": [
+        "4",
+        "11",
+        "9"
+      ]
+    },
+    {
+      "target": "Four",
+      "correct": [
+        "4"
+      ],
+      "wrong": [
+        "5",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "target": "Ten",
+      "correct": [
+        "10"
+      ],
+      "wrong": [
+        "8",
+        "12",
+        "11"
+      ]
+    },
+    {
+      "target": "Two",
+      "correct": [
+        "2"
+      ],
+      "wrong": [
+        "1",
+        "9",
+        "3"
+      ]
+    },
+    {
+      "target": "Eleven",
+      "correct": [
+        "11"
+      ],
+      "wrong": [
+        "6",
+        "3",
+        "1"
+      ]
+    },
+    {
+      "target": "Five",
+      "correct": [
+        "5"
+      ],
+      "wrong": [
+        "7",
+        "11",
+        "1"
+      ]
+    },
+    {
+      "target": "Eight",
+      "correct": [
+        "8"
+      ],
+      "wrong": [
+        "10",
+        "11",
+        "4"
+      ]
+    },
+    {
+      "target": "Three",
+      "correct": [
+        "3"
+      ],
+      "wrong": [
+        "6",
+        "4",
+        "8"
+      ]
+    },
+    {
+      "target": "Nine",
+      "correct": [
+        "9"
+      ],
+      "wrong": [
+        "2",
+        "11",
+        "8"
+      ]
+    },
+    {
+      "target": "One",
+      "correct": [
+        "1"
+      ],
+      "wrong": [
+        "8",
+        "3",
+        "2"
+      ]
+    },
+    {
+      "target": "Seven",
+      "correct": [
+        "7"
+      ],
+      "wrong": [
+        "12",
+        "4",
+        "2"
+      ]
+    },
+    {
+      "target": "Twelve",
+      "correct": [
+        "12"
+      ],
+      "wrong": [
+        "11",
+        "8",
+        "3"
+      ]
+    }
+  ]
+}
