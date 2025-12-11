@@ -1,0 +1,145 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 24,
+  "textColor": "#000000",
+  "speed": 1,
+  "questionFont": "Roboto",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 40,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/Nj4BNSvX/pngimg-com-bauble-PNG279.png",
+    "bgImages": [
+      "https://i.postimg.cc/Nj4BNSvX/pngimg-com-bauble-PNG279.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 190
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Choose the correct -ing form",
+    "btnText": "Start"
+  },
+  "direction": "random",
+  "finalFeedback": "Good job!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "play",
+      "correct": [
+        "playing"
+      ],
+      "wrong": [
+        "plaing"
+      ]
+    },
+    {
+      "target": "swim",
+      "correct": [
+        "swimming"
+      ],
+      "wrong": [
+        "swiming"
+      ]
+    },
+    {
+      "target": "stop",
+      "correct": [
+        "stopping"
+      ],
+      "wrong": [
+        "stoping"
+      ]
+    },
+    {
+      "target": "bring",
+      "correct": [
+        "bringing"
+      ],
+      "wrong": [
+        "brining"
+      ]
+    },
+    {
+      "target": "give",
+      "correct": [
+        "giving"
+      ],
+      "wrong": [
+        "givving"
+      ]
+    },
+    {
+      "target": "be",
+      "correct": [
+        "being"
+      ],
+      "wrong": [
+        "beeing"
+      ]
+    },
+    {
+      "target": "enjoy",
+      "correct": [
+        "enjoying"
+      ],
+      "wrong": [
+        "enjoing"
+      ]
+    },
+    {
+      "target": "tie",
+      "correct": [
+        "tying"
+      ],
+      "wrong": [
+        "tieing"
+      ]
+    },
+    {
+      "target": "use",
+      "correct": [
+        "using"
+      ],
+      "wrong": [
+        "useing"
+      ]
+    },
+    {
+      "target": "die",
+      "correct": [
+        "dying"
+      ],
+      "wrong": [
+        "dieing"
+      ]
+    },
+    {
+      "target": "buy",
+      "correct": [
+        "buying"
+      ],
+      "wrong": [
+        "buing"
+      ]
+    },
+    {
+      "target": "lie",
+      "correct": [
+        "lying"
+      ],
+      "wrong": [
+        "lieing"
+      ]
+    }
+  ]
+}
