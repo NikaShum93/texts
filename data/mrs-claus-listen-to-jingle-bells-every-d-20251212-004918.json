@@ -1,0 +1,466 @@
+{
+  "language": "en",
+  "font": "Indie Flower",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "questionFont": "Indie Flower",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/6728e881ebc5420015e1f3ec/f8fb6085-e3f3-489c-bcb6-39a698931f43.png",
+    "bgImages": [
+      "https://img.genially.com/6728e881ebc5420015e1f3ec/f8fb6085-e3f3-489c-bcb6-39a698931f43.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "LET'S PLAY SNOWBALLS",
+    "btnText": "START"
+  },
+  "direction": "random",
+  "finalFeedback": "YOU WIN!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "___ Mrs Claus listen to Jingle Bells every day?",
+      "correct": [
+        "does"
+      ],
+      "wrong": [
+        "am",
+        "are",
+        "can"
+      ]
+    },
+    {
+      "target": "___ Santa Claus got a long beard?",
+      "correct": [
+        "has"
+      ],
+      "wrong": [
+        "are",
+        "is",
+        "does"
+      ]
+    },
+    {
+      "target": "___ Santa drink hot tea in the evenings?",
+      "correct": [
+        "does"
+      ],
+      "wrong": [
+        "has",
+        "have",
+        "has"
+      ]
+    },
+    {
+      "target": "___ Santa got a toy factory?",
+      "correct": [
+        "has"
+      ],
+      "wrong": [
+        "am",
+        "does",
+        "does"
+      ]
+    },
+    {
+      "target": "___ Mrs Claus live in the North Pole?",
+      "correct": [
+        "does"
+      ],
+      "wrong": [
+        "has",
+        "are",
+        "are"
+      ]
+    },
+    {
+      "target": "___ Santa climb down chimneys well?",
+      "correct": [
+        "can"
+      ],
+      "wrong": [
+        "is",
+        "are",
+        "are"
+      ]
+    },
+    {
+      "target": "___ Santa got a solar powered sleigh?",
+      "correct": [
+        "has"
+      ],
+      "wrong": [
+        "does",
+        "does",
+        "have"
+      ]
+    },
+    {
+      "target": "___ elves make 100 toys a day?",
+      "correct": [
+        "can"
+      ],
+      "wrong": [
+        "are",
+        "is",
+        "is"
+      ]
+    },
+    {
+      "target": "___ the roads icy in winter?",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "does",
+        "does",
+        "can"
+      ]
+    },
+    {
+      "target": "___ the trees white in December?",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "am",
+        "can",
+        "can"
+      ]
+    },
+    {
+      "target": "___ your house warm?",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "does",
+        "are",
+        "are"
+      ]
+    },
+    {
+      "target": "___ you got gloves?",
+      "correct": [
+        "have"
+      ],
+      "wrong": [
+        "can",
+        "is",
+        "does"
+      ]
+    },
+    {
+      "target": "___ your friends ski well?",
+      "correct": [
+        "can"
+      ],
+      "wrong": [
+        "does",
+        "does",
+        "has"
+      ]
+    },
+    {
+      "target": "___ you skate?",
+      "correct": [
+        "can"
+      ],
+      "wrong": [
+        "do",
+        "do",
+        "does"
+      ]
+    },
+    {
+      "target": "___ Christmas on December, 25?",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "have",
+        "can",
+        "does"
+      ]
+    },
+    {
+      "target": "___ they decorating a Christmas tree?",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "has",
+        "does",
+        "do"
+      ]
+    },
+    {
+      "target": "___ it snowing outside again?",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "can",
+        "does",
+        "does"
+      ]
+    },
+    {
+      "target": "___ it usually get cold and snowy in winter?",
+      "correct": [
+        "does"
+      ],
+      "wrong": [
+        "are",
+        "has",
+        "can"
+      ]
+    },
+    {
+      "target": "The weather ___ very cold in January.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "have",
+        "does",
+        "has"
+      ]
+    },
+    {
+      "target": "___ days shorter in winter?",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "has",
+        "does",
+        "does"
+      ]
+    },
+    {
+      "target": "___ ice cover lakes in winter?",
+      "correct": [
+        "does"
+      ],
+      "wrong": [
+        "has",
+        "have",
+        "is"
+      ]
+    },
+    {
+      "target": "___ people wear warm clothes in winter?",
+      "correct": [
+        "do"
+      ],
+      "wrong": [
+        "has",
+        "can",
+        "has"
+      ]
+    },
+    {
+      "target": "___ bears sleep in winter?",
+      "correct": [
+        "do"
+      ],
+      "wrong": [
+        "can",
+        "does",
+        "are"
+      ]
+    },
+    {
+      "target": "___ trees got leaves in winter?",
+      "correct": [
+        "have"
+      ],
+      "wrong": [
+        "does",
+        "is",
+        "can"
+      ]
+    },
+    {
+      "target": "___ you like hot cocoa?",
+      "correct": [
+        "do"
+      ],
+      "wrong": [
+        "does",
+        "has",
+        "is"
+      ]
+    },
+    {
+      "target": "___ winter come after autumn?",
+      "correct": [
+        "does"
+      ],
+      "wrong": [
+        "are",
+        "has",
+        "can"
+      ]
+    },
+    {
+      "target": "___ the children playing snowballs now?",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "am",
+        "does",
+        "is"
+      ]
+    },
+    {
+      "target": "___ birds fly to warm countries?",
+      "correct": [
+        "do"
+      ],
+      "wrong": [
+        "does",
+        "can",
+        "are"
+      ]
+    },
+    {
+      "target": "We ___ make snow castles in winter.",
+      "correct": [
+        "can"
+      ],
+      "wrong": [
+        "is",
+        "do",
+        "are"
+      ]
+    },
+    {
+      "target": "___ the sun shining in the blue sky?",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "does",
+        "does",
+        "do"
+      ]
+    },
+    {
+      "target": "___ we building a snowman in the park?",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "does",
+        "have",
+        "have"
+      ]
+    },
+    {
+      "target": "I ___ wearing a warm coat and gloves.",
+      "correct": [
+        "am"
+      ],
+      "wrong": [
+        "have",
+        "can",
+        "are"
+      ]
+    },
+    {
+      "target": "A strong wind ___ blowing.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "can",
+        "has",
+        "does"
+      ]
+    },
+    {
+      "target": "Mum ___ putting up Christmas lights.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "has",
+        "have",
+        "does"
+      ]
+    },
+    {
+      "target": "I ___ watching snowflakes.",
+      "correct": [
+        "am"
+      ],
+      "wrong": [
+        "can",
+        "does",
+        "can"
+      ]
+    },
+    {
+      "target": "Boys ___ playing snowballs.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "can",
+        "is",
+        "does"
+      ]
+    },
+    {
+      "target": "My friends ___ making snow angels.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "can",
+        "am",
+        "am"
+      ]
+    },
+    {
+      "target": "I ___ got a big sled.",
+      "correct": [
+        "have"
+      ],
+      "wrong": [
+        "are",
+        "has",
+        "are"
+      ]
+    },
+    {
+      "target": "We ___ got cookies and milk for Santa.",
+      "correct": [
+        "have"
+      ],
+      "wrong": [
+        "are",
+        "has",
+        "am"
+      ]
+    }
+  ]
+}
