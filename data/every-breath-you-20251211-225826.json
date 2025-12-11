@@ -1,0 +1,191 @@
+{
+  "language": "en",
+  "font": "Lobster",
+  "fontSize": 26,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "questionFont": "Lobster",
+  "questionFontSize": 24,
+  "style": {
+    "shape": "rounded",
+    "pad": 0,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/64233afb55129a0017751c8e/e4317e84-d293-49c1-8208-08e0a3b9187d.png",
+    "bgImages": [
+      "https://img.genially.com/64233afb55129a0017751c8e/e4317e84-d293-49c1-8208-08e0a3b9187d.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Every breath you take...",
+    "btnText": "Lalala La Laaaaaa"
+  },
+  "direction": "random",
+  "finalFeedback": "That was SLAY!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "Every breath you ___",
+      "correct": [
+        "take"
+      ],
+      "wrong": [
+        "run",
+        "jump",
+        "open"
+      ]
+    },
+    {
+      "target": "Every move you ___",
+      "correct": [
+        "make"
+      ],
+      "wrong": [
+        "dance",
+        "climb",
+        "catch"
+      ]
+    },
+    {
+      "target": "Every bond you ___",
+      "correct": [
+        "break"
+      ],
+      "wrong": [
+        "lose",
+        "hide",
+        "forget"
+      ]
+    },
+    {
+      "target": "Every step you ___",
+      "correct": [
+        "take"
+      ],
+      "wrong": [
+        "walk",
+        "push",
+        "shake"
+      ]
+    },
+    {
+      "target": "I'll be watching you",
+      "correct": [
+        "watch"
+      ],
+      "wrong": [
+        "see",
+        "try",
+        "know"
+      ]
+    },
+    {
+      "target": "With every step you ___",
+      "correct": [
+        "take"
+      ],
+      "wrong": [
+        "drive",
+        "cut",
+        "pull"
+      ]
+    },
+    {
+      "target": "Every move you ___",
+      "correct": [
+        "make"
+      ],
+      "wrong": [
+        "move",
+        "dig",
+        "swim"
+      ]
+    },
+    {
+      "target": "Every vow you ___",
+      "correct": [
+        "break"
+      ],
+      "wrong": [
+        "write",
+        "drink",
+        "return"
+      ]
+    },
+    {
+      "target": "Every smile you ___",
+      "correct": [
+        "fake"
+      ],
+      "wrong": [
+        "smile",
+        "eat",
+        "fall"
+      ]
+    },
+    {
+      "target": "Every claim you ___",
+      "correct": [
+        "stake"
+      ],
+      "wrong": [
+        "drop",
+        "pack",
+        "spin"
+      ]
+    },
+    {
+      "target": "I'll be watching you",
+      "correct": [
+        "watch"
+      ],
+      "wrong": [
+        "cry",
+        "feel",
+        "yell"
+      ]
+    },
+    {
+      "target": "I ___ at night",
+      "correct": [
+        "dream"
+      ],
+      "wrong": [
+        "sleep",
+        "shout",
+        "breathe"
+      ]
+    },
+    {
+      "target": "I ___ for your embrace",
+      "correct": [
+        "long"
+      ],
+      "wrong": [
+        "hug",
+        "look",
+        "fly"
+      ]
+    },
+    {
+      "target": "I ___ crying, baby, baby",
+      "correct": [
+        "keep"
+      ],
+      "wrong": [
+        "stop",
+        "fall",
+        "rest"
+      ]
+    }
+  ]
+}
