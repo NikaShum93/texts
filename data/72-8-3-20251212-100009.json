@@ -1,0 +1,48 @@
+{
+  "language": "ru",
+  "font": "Lobster",
+  "fontSize": 25,
+  "textColor": "#6e0707",
+  "speed": 3,
+  "questionFont": "Lobster",
+  "questionFontSize": 24,
+  "style": {
+    "shape": "rounded",
+    "pad": 47,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/684ea2da1b51060014c50e97/0142736f-3e25-4c38-b50e-ea69d47677e3.png",
+    "bgImages": [
+      "https://img.genially.com/684ea2da1b51060014c50e97/0142736f-3e25-4c38-b50e-ea69d47677e3.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 150
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Поймай письмо",
+    "btnText": "Начать"
+  },
+  "direction": "random",
+  "finalFeedback": "Отправляемся в путь!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "В мастерской было 72 м ткани. Часть этой ткани израсходовали на пошив 8 платьев, расходуя на каждое по 3 м. Сколько м ткани осталось в мастерской?",
+      "correct": [
+        "48 м"
+      ],
+      "wrong": [
+        "52 м",
+        "27 м",
+        "34 м"
+      ]
+    }
+  ]
+}
