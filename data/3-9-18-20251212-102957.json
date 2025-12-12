@@ -1,0 +1,48 @@
+{
+  "language": "ru",
+  "font": "Lobster",
+  "fontSize": 23,
+  "textColor": "#830202",
+  "speed": 3,
+  "questionFont": "Lobster",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 39,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/684ea2da1b51060014c50e97/0142736f-3e25-4c38-b50e-ea69d47677e3.png",
+    "bgImages": [
+      "https://img.genially.com/684ea2da1b51060014c50e97/0142736f-3e25-4c38-b50e-ea69d47677e3.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Поймай письмо",
+    "btnText": "Начать"
+  },
+  "direction": "random",
+  "finalFeedback": "Поехали!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "После того как Гарри разложил мандарины на 3 тарелки по 9 мандаринов на каждую, у него ещё осталось 18 мандаринов. Сколько мандаринов было у Гарри?",
+      "correct": [
+        "45 м."
+      ],
+      "wrong": [
+        "27 м.",
+        "32 м.",
+        "46 м."
+      ]
+    }
+  ]
+}
