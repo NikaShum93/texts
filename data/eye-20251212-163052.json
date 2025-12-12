@@ -1,0 +1,112 @@
+{
+  "language": "en",
+  "font": "Rubik",
+  "fontSize": 26,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "questionFont": "Rubik",
+  "questionFontSize": 24,
+  "style": {
+    "shape": "rounded",
+    "pad": 0,
+    "bgColor": "#1a1a1a",
+    "bgImage": "",
+    "bgImages": [],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Body Parts",
+    "btnText": "Start"
+  },
+  "direction": "random",
+  "finalFeedback": "Monster is collected!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "eye",
+      "correct": [
+        "https://i.postimg.cc/NjJ8bqm0/AI-(17).png"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/8zPBhPJp/AI-(23).png",
+        "https://i.postimg.cc/DwjQ5kLF/AI-(20).png",
+        "https://i.postimg.cc/P53bKsYd/AI-(21).png"
+      ]
+    },
+    {
+      "target": "head",
+      "correct": [
+        "https://i.postimg.cc/W1WmSLg1/AI-(18).png"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/NjJ8bqm0/AI-(17).png",
+        "https://i.postimg.cc/YCnN8KYK/AI-(19).png",
+        "https://i.postimg.cc/DwjQ5kLF/AI-(20).png"
+      ]
+    },
+    {
+      "target": "arm",
+      "correct": [
+        "https://i.postimg.cc/YCnN8KYK/AI-(19).png"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/W1WmSLg1/AI-(18).png",
+        "https://i.postimg.cc/P53bKsYd/AI-(21).png",
+        "https://i.postimg.cc/NjJ8bqm0/AI-(17).png"
+      ]
+    },
+    {
+      "target": "leg",
+      "correct": [
+        "https://i.postimg.cc/DwjQ5kLF/AI-(20).png"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/8zPBhPJp/AI-(23).png",
+        "https://i.postimg.cc/W1WmSLg1/AI-(18).png",
+        "https://i.postimg.cc/NjJ8bqm0/AI-(17).png"
+      ]
+    },
+    {
+      "target": "body",
+      "correct": [
+        "https://i.postimg.cc/P53bKsYd/AI-(21).png"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/DwjQ5kLF/AI-(20).png",
+        "https://i.postimg.cc/W1WmSLg1/AI-(18).png",
+        "https://i.postimg.cc/NjJ8bqm0/AI-(17).png"
+      ]
+    },
+    {
+      "target": "mouth",
+      "correct": [
+        "https://i.postimg.cc/Qd4gSG13/AI-(22).png"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/DwjQ5kLF/AI-(20).png",
+        "https://i.postimg.cc/W1WmSLg1/AI-(18).png",
+        "https://i.postimg.cc/8zPBhPJp/AI-(23).png"
+      ]
+    },
+    {
+      "target": "hand",
+      "correct": [
+        "https://i.postimg.cc/8zPBhPJp/AI-(23).png"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/Qd4gSG13/AI-(22).png",
+        "https://i.postimg.cc/W1WmSLg1/AI-(18).png",
+        "https://i.postimg.cc/DwjQ5kLF/AI-(20).png"
+      ]
+    }
+  ]
+}
