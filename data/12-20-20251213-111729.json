@@ -1,0 +1,101 @@
+{
+  "language": "ru",
+  "font": "Marck Script",
+  "fontSize": 36,
+  "textColor": "#5a1c00",
+  "speed": 5,
+  "questionFont": "Marck Script",
+  "questionFontSize": 40,
+  "style": {
+    "shape": "rounded",
+    "pad": 25,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/y6vfJVzL/Dizajn-bez-nazvania-176.png",
+    "bgImages": [
+      "https://i.postimg.cc/y6vfJVzL/Dizajn-bez-nazvania-176.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 220
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Уравнения",
+    "btnText": ""
+  },
+  "direction": "random",
+  "finalFeedback": "Отлично! Билет где-то здесь!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "а+12=20",
+      "correct": [
+        "8"
+      ],
+      "wrong": [
+        "32",
+        "9",
+        "7"
+      ]
+    },
+    {
+      "target": "43-с=17",
+      "correct": [
+        "26"
+      ],
+      "wrong": [
+        "60",
+        "27",
+        "36"
+      ]
+    },
+    {
+      "target": "а-20=30",
+      "correct": [
+        "50"
+      ],
+      "wrong": [
+        "10",
+        "60"
+      ]
+    },
+    {
+      "target": "78-с=34",
+      "correct": [
+        "44"
+      ],
+      "wrong": [
+        "54",
+        "112"
+      ]
+    },
+    {
+      "target": "7*Х=100 – 51",
+      "correct": [
+        "7"
+      ],
+      "wrong": [
+        "9",
+        "8",
+        "49"
+      ]
+    },
+    {
+      "target": "Х : 6= 21:3",
+      "correct": [
+        "42"
+      ],
+      "wrong": [
+        "7",
+        "48",
+        "9"
+      ]
+    }
+  ]
+}
