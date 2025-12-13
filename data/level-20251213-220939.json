@@ -1,0 +1,147 @@
+{
+  "language": "ru",
+  "font": "Lobster",
+  "fontSize": 35,
+  "textColor": "#000000",
+  "speed": 4,
+  "questionFont": "Lobster",
+  "questionFontSize": 35,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/Wz56tGtv/snezok.png",
+    "bgImages": [
+      "https://i.postimg.cc/Wz56tGtv/snezok.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Игра в снежки",
+    "btnText": "Начать"
+  },
+  "direction": "random",
+  "finalFeedback": "Отличная работа!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "НЕСГ",
+      "correct": [
+        "снег"
+      ],
+      "wrong": [
+        "мороз",
+        "шубка",
+        "ёлка"
+      ]
+    },
+    {
+      "target": "ЗОМОР",
+      "correct": [
+        "мороз"
+      ],
+      "wrong": [
+        "снежинка",
+        "санки",
+        "ёлка"
+      ]
+    },
+    {
+      "target": "КИСАН",
+      "correct": [
+        "санки"
+      ],
+      "wrong": [
+        "сугроб",
+        "снег",
+        "мороз"
+      ]
+    },
+    {
+      "target": "ЖНАСЕНКИ",
+      "correct": [
+        "снежинка"
+      ],
+      "wrong": [
+        "снег",
+        "мороз",
+        "санки"
+      ]
+    },
+    {
+      "target": "КОКТА",
+      "correct": [
+        "каток"
+      ],
+      "wrong": [
+        "коньки",
+        "сугроб",
+        "снег"
+      ]
+    },
+    {
+      "target": "КИНЬОК",
+      "correct": [
+        "коньки"
+      ],
+      "wrong": [
+        "снег",
+        "санки",
+        "вьюга"
+      ]
+    },
+    {
+      "target": "КУАШБ",
+      "correct": [
+        "шубка"
+      ],
+      "wrong": [
+        "мороз",
+        "каток",
+        "коньки"
+      ]
+    },
+    {
+      "target": "ГАЬЮВ",
+      "correct": [
+        "вьюга"
+      ],
+      "wrong": [
+        "мороз",
+        "шубка",
+        "ёлка"
+      ]
+    },
+    {
+      "target": "БОГСУР",
+      "correct": [
+        "сугроб"
+      ],
+      "wrong": [
+        "вьюга",
+        "снег",
+        "мороз"
+      ]
+    },
+    {
+      "target": "ЛЁАК",
+      "correct": [
+        "ёлка"
+      ],
+      "wrong": [
+        "снежинка",
+        "коньки",
+        "санки"
+      ]
+    }
+  ]
+}
