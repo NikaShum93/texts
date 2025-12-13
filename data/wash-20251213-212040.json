@@ -1,0 +1,127 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 26,
+  "textColor": "#ffffff",
+  "speed": 1,
+  "questionFont": "Roboto",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 34,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/Nj4BNSvX/pngimg-com-bauble-PNG279.png",
+    "bgImages": [
+      "https://i.postimg.cc/Nj4BNSvX/pngimg-com-bauble-PNG279.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Add -s, -es, -ies",
+    "btnText": "Start"
+  },
+  "direction": "random",
+  "finalFeedback": "Good job!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "wash",
+      "correct": [
+        "washes"
+      ],
+      "wrong": [
+        "washs"
+      ]
+    },
+    {
+      "target": "teach",
+      "correct": [
+        "teaches"
+      ],
+      "wrong": [
+        "teachs"
+      ]
+    },
+    {
+      "target": "play",
+      "correct": [
+        "plays"
+      ],
+      "wrong": [
+        "plaies"
+      ]
+    },
+    {
+      "target": "tidy",
+      "correct": [
+        "tidies"
+      ],
+      "wrong": [
+        "tidys"
+      ]
+    },
+    {
+      "target": "sweep",
+      "correct": [
+        "sweeps"
+      ],
+      "wrong": [
+        "sweepes"
+      ]
+    },
+    {
+      "target": "cook",
+      "correct": [
+        "cooks"
+      ],
+      "wrong": [
+        "cookes"
+      ]
+    },
+    {
+      "target": "fly",
+      "correct": [
+        "flies"
+      ],
+      "wrong": [
+        "flys"
+      ]
+    },
+    {
+      "target": "pay",
+      "correct": [
+        "pays"
+      ],
+      "wrong": [
+        "payes"
+      ]
+    },
+    {
+      "target": "go",
+      "correct": [
+        "goes"
+      ],
+      "wrong": [
+        "gos"
+      ]
+    },
+    {
+      "target": "do",
+      "correct": [
+        "does"
+      ],
+      "wrong": [
+        "dos"
+      ]
+    }
+  ]
+}
