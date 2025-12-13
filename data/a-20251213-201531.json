@@ -1,0 +1,65 @@
+{
+  "language": "de",
+  "font": "PT Sans",
+  "fontSize": 30,
+  "textColor": "#ddcaa2",
+  "speed": 5,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#d98c8c",
+    "bgImages": [
+      "https://i.postimg.cc/qB8rPtnD/4e48de1c-0d5d-451b-a373-03fc25c37f7b-removalai-preview.png",
+      "https://i.postimg.cc/nLmZnTMH/649f1f8d-e3da-4675-945e-5c03f39bb768-removalai-preview.png",
+      "https://i.postimg.cc/W40RB3fM/59266574-4700-4cf1-9f28-f07c01404fd1-removalai-preview.png",
+      "https://i.postimg.cc/pdSw5jhZ/e02b64ce-b396-4b72-a2a7-7b017568e841-removalai-preview.png",
+      "https://i.postimg.cc/GtCSvxcT/f7e66a65-27cd-4ac1-a978-d04a93ab3c6e-removalai-preview.png",
+      "https://i.postimg.cc/3w0L6cN6/53b46bde-1543-4cca-ad45-3c6a895fddb8-removalai-preview.png",
+      "https://i.postimg.cc/FFpxP4GH/a4be34ad-ec87-42cb-a9c5-475951b3d1c4-removalai-preview.png"
+    ],
+    "bgImage": "",
+    "borderOn": true,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": true,
+    "opacity": 1,
+    "imgBox": 210
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Weihnachten",
+    "btnText": "Start"
+  },
+  "direction": "up",
+  "finalFeedback": "Super!",
+  "levels": [
+    {
+      "target": "A",
+      "correct": [
+        "Adventskranz",
+        "Adventskalender",
+        "Herrnhuter Stern",
+        "Strohschmuck",
+        "Dresdner Stollen",
+        "Weihnachtspyramide",
+        "Maronen",
+        "Weihnachtsmarkt",
+        "Weihnachtskrippe",
+        "Schwibbogen",
+        "Nürnberger Lebkuchen"
+      ],
+      "wrong": [
+        "Ostereier",
+        "Osterhase",
+        "Frauertag",
+        "Narzissen",
+        "Rosen",
+        "Karneval"
+      ],
+      "timer": 30
+    }
+  ]
+}
