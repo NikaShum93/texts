@@ -1,0 +1,213 @@
+{
+  "language": "en",
+  "font": "Indie Flower",
+  "fontSize": 43,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "questionFont": "Indie Flower",
+  "questionFontSize": 30,
+  "style": {
+    "shape": "rounded",
+    "pad": 53,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/65SR21j2/sveca.png",
+    "bgImages": [
+      "https://i.postimg.cc/65SR21j2/sveca.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "The Great Hall",
+    "btnText": "START"
+  },
+  "direction": "random",
+  "finalFeedback": "It was great!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "There is ___ chocolate left from the Honeydukes shop.",
+      "correct": [
+        "a little"
+      ],
+      "wrong": [
+        "a few",
+        "few",
+        "any"
+      ]
+    },
+    {
+      "target": "Hermione didn’t have ___ sugar for her pumpkin pie.",
+      "correct": [
+        "any"
+      ],
+      "wrong": [
+        "few",
+        "some",
+        "little"
+      ]
+    },
+    {
+      "target": "There are ___ cookies on the table in the Great Hall.",
+      "correct": [
+        "some"
+      ],
+      "wrong": [
+        "a little",
+        "little",
+        "any"
+      ]
+    },
+    {
+      "target": "Ron ate ___ pieces of chocolate frog before dinner!",
+      "correct": [
+        "a few"
+      ],
+      "wrong": [
+        "a little",
+        "little",
+        "any"
+      ]
+    },
+    {
+      "target": "Can I have ___ more pumpkin juice, please?",
+      "correct": [
+        "some"
+      ],
+      "wrong": [
+        "a few",
+        "little",
+        "any"
+      ]
+    },
+    {
+      "target": "We have very ___ bread, we need to buy more.",
+      "correct": [
+        "little"
+      ],
+      "wrong": [
+        "a little",
+        "some",
+        "few"
+      ]
+    },
+    {
+      "target": "Harry put ___ boxes of Bertie Bott’s Beans into his bag.",
+      "correct": [
+        "a few"
+      ],
+      "wrong": [
+        "a little",
+        "any",
+        "little"
+      ]
+    },
+    {
+      "target": "Luna put ___ milk into her tea.",
+      "correct": [
+        "a little"
+      ],
+      "wrong": [
+        "a few",
+        "few",
+        "any"
+      ]
+    },
+    {
+      "target": "Ron ate a whole ___ of chocolate frogs during the feast.",
+      "correct": [
+        "box"
+      ],
+      "wrong": [
+        "glass",
+        "piece",
+        "jar"
+      ]
+    },
+    {
+      "target": "There’s a ___ of strawberry jam on the table.",
+      "correct": [
+        "jar"
+      ],
+      "wrong": [
+        "cup",
+        "slice",
+        "bag"
+      ]
+    },
+    {
+      "target": "Luna always carries a small ___ of tea leaves in her bag.",
+      "correct": [
+        "bag"
+      ],
+      "wrong": [
+        "cup",
+        "glass",
+        "bottle"
+      ]
+    },
+    {
+      "target": "How ___ sugar do we need for the Christmas cookies?",
+      "correct": [
+        "much"
+      ],
+      "wrong": [
+        "many",
+        "any",
+        "few"
+      ]
+    },
+    {
+      "target": "We don’t have ___ food for the party.",
+      "correct": [
+        "much"
+      ],
+      "wrong": [
+        "many",
+        "little",
+        "few"
+      ]
+    },
+    {
+      "target": "There aren’t ___ sandwiches for all the students.",
+      "correct": [
+        "many"
+      ],
+      "wrong": [
+        "much",
+        "little",
+        "a little"
+      ]
+    },
+    {
+      "target": "Hagrid brought a ___ of milk for the Christmas party.",
+      "correct": [
+        "carton"
+      ],
+      "wrong": [
+        "packet",
+        "jar",
+        "can"
+      ]
+    },
+    {
+      "target": "Would you like a ___ of hot cocoa?",
+      "correct": [
+        "cup"
+      ],
+      "wrong": [
+        "plate",
+        "bottle",
+        "jar"
+      ]
+    }
+  ]
+}
