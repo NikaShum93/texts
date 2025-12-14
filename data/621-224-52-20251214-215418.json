@@ -1,0 +1,48 @@
+{
+  "language": "ru",
+  "font": "Lobster",
+  "fontSize": 24,
+  "textColor": "#990a0a",
+  "speed": 5,
+  "questionFont": "Lobster",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 55,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/67851e5a81c13d0016057ef5/d1741183-2c94-4fe4-bf49-5d7d67e3e580.png",
+    "bgImages": [
+      "https://img.genially.com/67851e5a81c13d0016057ef5/d1741183-2c94-4fe4-bf49-5d7d67e3e580.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Поймай письмо",
+    "btnText": "Начать"
+  },
+  "direction": "random",
+  "finalFeedback": "Поехали",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "Гарри, Рон и Гермона собирают монеты. Всего у ребят 621 монета. У Гарри - 224 монет, а у Рона на 52 монеты больше, чем у Гарри. Сколько монет у Гермионы?",
+      "correct": [
+        "121 м."
+      ],
+      "wrong": [
+        "112 м.",
+        "235 м",
+        "351 м"
+      ]
+    }
+  ]
+}
