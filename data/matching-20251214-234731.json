@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "anchors": {
+    "L1": {
+      "x": 0.47754203431180353,
+      "y": 0.3161166819705103,
+      "side": "left"
+    },
+    "L2": {
+      "x": 0.47754203431180353,
+      "y": 0.41411768310320496,
+      "side": "left"
+    },
+    "L3": {
+      "x": 0.47754203431180353,
+      "y": 0.5210277965258623,
+      "side": "left"
+    },
+    "R1": {
+      "x": 0.5552145949102386,
+      "y": 0.3224803850981714,
+      "side": "right"
+    },
+    "R2": {
+      "x": 0.5552145949102386,
+      "y": 0.4217540908120168,
+      "side": "right"
+    },
+    "R3": {
+      "x": 0.5559337777425644,
+      "y": 0.5248459778525298,
+      "side": "right"
+    }
+  },
+  "pairs": [
+    {
+      "from": "L3",
+      "to": "R3"
+    },
+    {
+      "from": "L1",
+      "to": "R1"
+    }
+  ],
+  "settings": {
+    "connectMode": "drag",
+    "checkMode": "instant",
+    "oneToOne": true,
+    "wrongBehavior": "mark",
+    "showButtons": true
+  },
+  "style": {
+    "ropeWidth": 8,
+    "curve": 0.35,
+    "ropeColor": "#66ccff",
+    "correctColor": "#5cff9d",
+    "wrongColor": "#ff4d4d",
+    "glow": true,
+    "drawAnim": true
+  },
+  "feedback": {
+    "enabled": true,
+    "mode": "text",
+    "text": "🎉 Молодец! Все пары найдены.",
+    "image": ""
+  }
+}
