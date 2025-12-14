@@ -1,0 +1,77 @@
+{
+  "language": "ru",
+  "font": "Lobster",
+  "fontSize": 24,
+  "textColor": "#990a0a",
+  "speed": 5,
+  "questionFont": "Lobster",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 55,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/67851e5a81c13d0016057ef5/d1741183-2c94-4fe4-bf49-5d7d67e3e580.png",
+    "bgImages": [
+      "https://img.genially.com/67851e5a81c13d0016057ef5/d1741183-2c94-4fe4-bf49-5d7d67e3e580.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Поймай письмо",
+    "btnText": "Начать"
+  },
+  "direction": "random",
+  "finalFeedback": "Поехали",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "5360 x 100 =",
+      "correct": [
+        "536000"
+      ],
+      "wrong": [
+        "536",
+        "53600"
+      ]
+    },
+    {
+      "target": "40 x 1500 =",
+      "correct": [
+        "60000"
+      ],
+      "wrong": [
+        "5000",
+        "45000"
+      ]
+    },
+    {
+      "target": "7400 : 10 =",
+      "correct": [
+        "740"
+      ],
+      "wrong": [
+        "74000",
+        "74"
+      ]
+    },
+    {
+      "target": "84 000 : 70 =",
+      "correct": [
+        "1200"
+      ],
+      "wrong": [
+        "940",
+        "120"
+      ]
+    }
+  ]
+}
