@@ -1,0 +1,91 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": true,
+  "bubbleSize": 48,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/T3NCGF4c/Chat-GPT-Image-6-noab-2025-g-14-05-28.png",
+    "bubbleSize": 48,
+    "task": {
+      "bgColor": "rgba(111,24,170,0.85)",
+      "borderColor": "#00ffaa",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#6f18aa",
+      "borderColor": "#e7bc23",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/T3NCGF4c/Chat-GPT-Image-6-noab-2025-g-14-05-28.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Yesterday we ___ a big Christmas tree.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "On Christmas Eve we ___ a lot of gifts.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Last night Santa ___ to our house.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "In the morning the children ___ very happy.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We ___ Christmas songs together.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She ___ a funny Christmas movie yesterday.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They ___ hot chocolate after the walk.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "He ___ up early on Christmas morning.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We ___ a snowman in the yard.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She ___ a letter to Santa last week.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
