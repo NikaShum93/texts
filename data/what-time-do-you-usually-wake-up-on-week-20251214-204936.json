@@ -1,0 +1,84 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Roboto",
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/64233afb55129a0017751c8e/d9688fb7-3aa5-4beb-95ca-a9f91344910d.gif",
+    "task": {
+      "bgColor": "#eeff00",
+      "borderColor": "#ffffff",
+      "textColor": "#000000",
+      "opacity": 0.7,
+      "fontSize": 36,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#00b3a7",
+      "borderColor": "#d400ff",
+      "textColor": "#ffffff",
+      "neon": true
+    }
+  },
+  "finalFeedback": "Wow!",
+  "feedbackImage": "https://img.genially.com/64233afb55129a0017751c8e/d9688fb7-3aa5-4beb-95ca-a9f91344910d.gif",
+  "autoDistractors": false,
+  "feedbackEnabled": true,
+  "orderMode": true,
+  "tasks": [
+    {
+      "question": "What time do you usually wake up on weekdays?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Where do your parents work?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Why do you like learning English?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "How often do you watch films in English?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What music does your best friend listen to?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "When do you have English lessons?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "How do you get to school or work every day?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What games do you play after school?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Who helps you with homework at home?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What food do you eat for breakfast?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
