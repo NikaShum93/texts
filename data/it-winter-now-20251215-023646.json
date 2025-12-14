@@ -1,0 +1,202 @@
+{
+  "language": "en",
+  "font": "Poppins",
+  "fontSize": 23,
+  "textColor": "#0a0000",
+  "speed": 3,
+  "questionFont": "Poppins",
+  "questionFontSize": 27,
+  "style": {
+    "shape": "rounded",
+    "pad": 17,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/5tdmPN8r/snezok.png",
+    "bgImages": [
+      "https://i.postimg.cc/5tdmPN8r/snezok.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "SNOW FIGHT",
+    "btnText": "START"
+  },
+  "direction": "random",
+  "finalFeedback": "It was fun!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "It ___ winter now.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "am",
+        "isn't",
+        "are"
+      ]
+    },
+    {
+      "target": "The snowman ___ funny.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "am",
+        "aren't",
+        "are"
+      ]
+    },
+    {
+      "target": "My gloves ___ warm.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "am",
+        "isn't",
+        "is"
+      ]
+    },
+    {
+      "target": "The presents ___ under the tree.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "am",
+        "isn't",
+        "is"
+      ]
+    },
+    {
+      "target": "___ it snowy today?",
+      "correct": [
+        "Is"
+      ],
+      "wrong": [
+        "Am",
+        "Isn't",
+        "Are"
+      ]
+    },
+    {
+      "target": "The snowflakes ___ black.",
+      "correct": [
+        "aren't"
+      ],
+      "wrong": [
+        "am not",
+        "isn't",
+        "are"
+      ]
+    },
+    {
+      "target": "The children ___ happy.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "am",
+        "is",
+        "isn't"
+      ]
+    },
+    {
+      "target": "___ you cold?",
+      "correct": [
+        "Are"
+      ],
+      "wrong": [
+        "Am",
+        "Isn't",
+        "Is"
+      ]
+    },
+    {
+      "target": "The sky ___ grey.",
+      "correct": [
+        "isn't"
+      ],
+      "wrong": [
+        "am",
+        "aren't",
+        "are"
+      ]
+    },
+    {
+      "target": "I ___ not in the park.",
+      "correct": [
+        "am"
+      ],
+      "wrong": [
+        "is",
+        "am not",
+        "are"
+      ]
+    },
+    {
+      "target": "The winter holidays ___ fun.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "am",
+        "aren't",
+        "is"
+      ]
+    },
+    {
+      "target": "The tree ___ in the room.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "am",
+        "aren't",
+        "are"
+      ]
+    },
+    {
+      "target": "___ Sam at home now?",
+      "correct": [
+        "Is"
+      ],
+      "wrong": [
+        "Am",
+        "Isn't",
+        "Are"
+      ]
+    },
+    {
+      "target": "The elves ___ nice.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "am",
+        "isn't",
+        "is"
+      ]
+    },
+    {
+      "target": "We ___ ready for the New Year.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "am",
+        "isn't",
+        "is"
+      ]
+    }
+  ]
+}
