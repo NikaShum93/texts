@@ -1,0 +1,262 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Mountains of Christmas",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 94,
+  "sounds": {
+    "pop": "https://github.com/vivanova288-boop/sounds/blob/main/%D0%BF%D0%BE%D0%B9%D0%BC%D0%B0%D0%BB.mp3",
+    "open": "https://github.com/vivanova288-boop/sounds/blob/main/%D1%84%D0%B8%D0%B4%D0%B1%D0%B5%D0%BA.mp3",
+    "correct": "https://github.com/vivanova288-boop/sounds/blob/main/%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE.mp3",
+    "wrong": "https://github.com/vivanova288-boop/sounds/blob/main/%D0%BD%D0%B5%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE.mp3"
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/v8nZJHrY/Untitled-design.png",
+    "bubbleSize": 94,
+    "task": {
+      "bgColor": "rgba(192,167,7,0.75)",
+      "borderColor": "#997a0a",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#d7a009",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    }
+  },
+  "finalFeedback": "🎉 Thank you for helping the elves. Christmas magic is saved! 🎉",
+  "feedbackImage": "https://i.postimg.cc/L85WYh8M/Whisk-1abb4b9396c3ceca089450ac9f114dd9dr.jpg",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "The elf sees two flying ___ in the sky. (letter)",
+      "correct": [
+        "letters"
+      ],
+      "wrong": [
+        "letter",
+        "letteres",
+        "letteries"
+      ]
+    },
+    {
+      "question": "There are three paper ___ in the wind. (plane)",
+      "correct": [
+        "planes"
+      ],
+      "wrong": [
+        "planeses",
+        "planies",
+        "plane"
+      ]
+    },
+    {
+      "question": "The elves catch many ___ . (box)",
+      "correct": [
+        "boxes"
+      ],
+      "wrong": [
+        "boxs",
+        "boxies",
+        "box"
+      ]
+    },
+    {
+      "question": "I see five magic ___ on the ground. (wish)",
+      "correct": [
+        "wishes"
+      ],
+      "wrong": [
+        "wishs",
+        "wishies",
+        "wish"
+      ]
+    },
+    {
+      "question": "Two ___ help Santa every day. (elf)",
+      "correct": [
+        "elves"
+      ],
+      "wrong": [
+        "elfs",
+        "elfes",
+        "elf"
+      ]
+    },
+    {
+      "question": "There are four ___ in the magic bag. (baby)",
+      "correct": [
+        "babies"
+      ],
+      "wrong": [
+        "babys",
+        "babyes",
+        "baby"
+      ]
+    },
+    {
+      "question": "The ___ fly very fast. (bus)",
+      "correct": [
+        "buses"
+      ],
+      "wrong": [
+        "buss",
+        "bus",
+        "busies"
+      ]
+    },
+    {
+      "question": "We find many lost ___ near the post office. (letter)",
+      "correct": [
+        "letters"
+      ],
+      "wrong": [
+        "letter",
+        "letteres",
+        "letteries"
+      ]
+    },
+    {
+      "question": "Three ___ are under the Christmas tree. (box)",
+      "correct": [
+        "boxes"
+      ],
+      "wrong": [
+        "boxs",
+        "boxies",
+        "box"
+      ]
+    },
+    {
+      "question": "The wizard sees two ___ in the snow. (fox)",
+      "correct": [
+        "foxes"
+      ],
+      "wrong": [
+        "foxs",
+        "foxies",
+        "fox"
+      ]
+    },
+    {
+      "question": "The elves write many ___ to Santa. (story)",
+      "correct": [
+        "stories"
+      ],
+      "wrong": [
+        "storys",
+        "storyes",
+        "story"
+      ]
+    },
+    {
+      "question": "I can see five green ___ in the workshop. (leaf)",
+      "correct": [
+        "leaves"
+      ],
+      "wrong": [
+        "leafs",
+        "leafes",
+        "leafies"
+      ]
+    },
+    {
+      "question": "Two ___ are very happy. (child)",
+      "correct": [
+        "children"
+      ],
+      "wrong": [
+        "childs",
+        "childes",
+        "child"
+      ]
+    },
+    {
+      "question": "The ___ turn into paper planes. (letter)",
+      "correct": [
+        "letters"
+      ],
+      "wrong": [
+        "letter",
+        "letteres",
+        "letteries"
+      ]
+    },
+    {
+      "question": "There are many ___ in the magic wind. (knife)",
+      "correct": [
+        "knives"
+      ],
+      "wrong": [
+        "knifes",
+        "knife",
+        "knifves"
+      ]
+    },
+    {
+      "question": "I see three ___ in the sky. (man)",
+      "correct": [
+        "men"
+      ],
+      "wrong": [
+        "mans",
+        "menes",
+        "man"
+      ]
+    },
+    {
+      "question": "The elf finds two ___ in the house. (mouse)",
+      "correct": [
+        "mice"
+      ],
+      "wrong": [
+        "mouses",
+        "mouse",
+        "mices"
+      ]
+    },
+    {
+      "question": "Four ___ help catch the letters. (boy)",
+      "correct": [
+        "boys"
+      ],
+      "wrong": [
+        "boyes",
+        "boyies",
+        "boy"
+      ]
+    },
+    {
+      "question": "The wizard breaks many ___ . (spell)",
+      "correct": [
+        "spells"
+      ],
+      "wrong": [
+        "spellses",
+        "spellies",
+        "spell"
+      ]
+    },
+    {
+      "question": "All the ___ are safe now. (sheep)",
+      "correct": [
+        "sheep"
+      ],
+      "wrong": [
+        "sheeps",
+        "sheepes",
+        "sheepies"
+      ]
+    }
+  ]
+}
