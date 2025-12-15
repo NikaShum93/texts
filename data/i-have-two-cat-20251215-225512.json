@@ -1,0 +1,262 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Mountains of Christmas",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "f7ae3585a7db496.mp3",
+    "open": "c2a0476aa43e6e2.mp3",
+    "correct": "42345235.mp3",
+    "wrong": "644f28691357be1.mp3"
+  },
+  "style": {
+    "bgImage": "",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    }
+  },
+  "finalFeedback": "🎉 Thank you for helping the elves. Christmas magic is saved!",
+  "feedbackImage": "Whisk_1abb4b9396c3ceca089450ac9f114dd9dr.jpeg",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "I have two ___ . (cat)",
+      "correct": [
+        "cats"
+      ],
+      "wrong": [
+        "cat",
+        "cates",
+        "caties"
+      ]
+    },
+    {
+      "question": "There are three ___ on the desk. (pen)",
+      "correct": [
+        "pens"
+      ],
+      "wrong": [
+        "penes",
+        "penies",
+        "pen"
+      ]
+    },
+    {
+      "question": "We see four ___ in the zoo. (fox)",
+      "correct": [
+        "foxes"
+      ],
+      "wrong": [
+        "foxs",
+        "foxies",
+        "fox"
+      ]
+    },
+    {
+      "question": "My mum buys five ___ . (tomato)",
+      "correct": [
+        "tomatoes"
+      ],
+      "wrong": [
+        "tomatos",
+        "tomato",
+        "tomatoies"
+      ]
+    },
+    {
+      "question": "The ___ are in the classroom. (baby)",
+      "correct": [
+        "babies"
+      ],
+      "wrong": [
+        "babys",
+        "babyes",
+        "baby"
+      ]
+    },
+    {
+      "question": "I can see many ___ in the sky. (bird)",
+      "correct": [
+        "birds"
+      ],
+      "wrong": [
+        "birdes",
+        "birdies",
+        "bird"
+      ]
+    },
+    {
+      "question": "There are two ___ in the bag. (box)",
+      "correct": [
+        "boxes"
+      ],
+      "wrong": [
+        "boxs",
+        "boxies",
+        "box"
+      ]
+    },
+    {
+      "question": "My dad has three ___ . (watch)",
+      "correct": [
+        "watches"
+      ],
+      "wrong": [
+        "watchs",
+        "watchies",
+        "watch"
+      ]
+    },
+    {
+      "question": "We need four ___ to eat. (knife)",
+      "correct": [
+        "knives"
+      ],
+      "wrong": [
+        "knifes",
+        "knife",
+        "knifves"
+      ]
+    },
+    {
+      "question": "The ___ are very big. (bus)",
+      "correct": [
+        "buses"
+      ],
+      "wrong": [
+        "buss",
+        "bus",
+        "busies"
+      ]
+    },
+    {
+      "question": "I see many ___ in the field. (sheep)",
+      "correct": [
+        "sheep"
+      ],
+      "wrong": [
+        "sheeps",
+        "sheepes",
+        "sheepies"
+      ]
+    },
+    {
+      "question": "These ___ are funny. (monkey)",
+      "correct": [
+        "monkeys"
+      ],
+      "wrong": [
+        "monkeyes",
+        "monkeies",
+        "monkey"
+      ]
+    },
+    {
+      "question": "My aunt has two ___ . (child)",
+      "correct": [
+        "children"
+      ],
+      "wrong": [
+        "childs",
+        "childes",
+        "child"
+      ]
+    },
+    {
+      "question": "There are five ___ on the tree. (leaf)",
+      "correct": [
+        "leaves"
+      ],
+      "wrong": [
+        "leafs",
+        "leafes",
+        "leafies"
+      ]
+    },
+    {
+      "question": "I can see three ___ in the water. (fish)",
+      "correct": [
+        "fish"
+      ],
+      "wrong": [
+        "fishes",
+        "fishs",
+        "fishies"
+      ]
+    },
+    {
+      "question": "The ___ are reading books. (man)",
+      "correct": [
+        "men"
+      ],
+      "wrong": [
+        "mans",
+        "menes",
+        "man"
+      ]
+    },
+    {
+      "question": "We have many ___ in our house. (mouse)",
+      "correct": [
+        "mice"
+      ],
+      "wrong": [
+        "mouses",
+        "mouse",
+        "mices"
+      ]
+    },
+    {
+      "question": "There are four ___ on the road. (car)",
+      "correct": [
+        "cars"
+      ],
+      "wrong": [
+        "cares",
+        "caries",
+        "car"
+      ]
+    },
+    {
+      "question": "My brother has two ___ . (baby)",
+      "correct": [
+        "babies"
+      ],
+      "wrong": [
+        "babys",
+        "babyes",
+        "baby"
+      ]
+    },
+    {
+      "question": "The ___ are playing football. (boy)",
+      "correct": [
+        "boys"
+      ],
+      "wrong": [
+        "boyes",
+        "boyies",
+        "boy"
+      ]
+    }
+  ]
+}
