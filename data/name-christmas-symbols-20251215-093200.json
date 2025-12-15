@@ -1,0 +1,53 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 4,
+  "style": {
+    "shape": "rounded",
+    "pad": 60,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/FFw4NzJN/Snezinka.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 210
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Christmas Symbols",
+    "btnText": "Start"
+  },
+  "direction": "up",
+  "finalFeedback": "Good Job!",
+  "levels": [
+    {
+      "target": "Name Christmas Symbols",
+      "correct": [
+        "https://i.postimg.cc/nzCqK02z/10.png",
+        "https://i.postimg.cc/9MKZLZgC/11.png",
+        "https://i.postimg.cc/B6kHmH73/12.png",
+        "https://i.postimg.cc/Y9hQNbRj/13.png",
+        "https://i.postimg.cc/FR83T3CJ/14.png",
+        "https://i.postimg.cc/bJWkmkVy/15.png",
+        "https://i.postimg.cc/FR83T3Cz/16.png",
+        "https://i.postimg.cc/LXwLxLQX/17.png",
+        "https://i.postimg.cc/26Mh0h97/18.png",
+        "https://i.postimg.cc/sXq7T7Hc/19.png",
+        "https://i.postimg.cc/k4zKTKYx/20.png",
+        "https://i.postimg.cc/3Rd2jn1K/21.png"
+      ],
+      "wrong": [],
+      "timer": 45
+    }
+  ]
+}
