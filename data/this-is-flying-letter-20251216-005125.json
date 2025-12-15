@@ -1,0 +1,182 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Snowburst One",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 94,
+  "sounds": {
+    "pop": "https://raw.githubusercontent.com/vivanova288-boop/sounds2/main/catch.mp3",
+    "open": "https://raw.githubusercontent.com/vivanova288-boop/sounds2/main/feedback.mp3",
+    "correct": "https://raw.githubusercontent.com/vivanova288-boop/sounds2/main/correct.mp3",
+    "wrong": "https://raw.githubusercontent.com/vivanova288-boop/sounds2/main/wrong.mp3"
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/v8nZJHrY/Untitled-design.png",
+    "bubbleSize": 94,
+    "task": {
+      "bgColor": "rgba(178,140,107,1)",
+      "borderColor": "#4f2518",
+      "textColor": "#6f360a",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#e6b814",
+      "borderColor": "#c97d13",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    }
+  },
+  "finalFeedback": "🎉You caught all the flying letters here. Only a little magic is left.🎉",
+  "feedbackImage": "https://i.postimg.cc/P5yc3cSn/Untitled-design-(3).png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "This is ___ flying letter.",
+      "correct": [
+        "a"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "It is ___ old magic spell.",
+      "correct": [
+        "an"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I see ___ paper plane.",
+      "correct": [
+        "a"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "This is ___ elf from the post office.",
+      "correct": [
+        "an"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "It is ___ enchanted plane.",
+      "correct": [
+        "an"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "That is ___ icy cloud.",
+      "correct": [
+        "an"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "This is ___ important message.",
+      "correct": [
+        "an"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "It is ___ orange paper plane.",
+      "correct": [
+        "an"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "This is ___ special Christmas letter.",
+      "correct": [
+        "a"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "That is ___ magic wind.",
+      "correct": [
+        "a"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "This is ___ elf helper.",
+      "correct": [
+        "an"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "It is ___ interesting letter.",
+      "correct": [
+        "an"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "That is ___ unusual plane.",
+      "correct": [
+        "an"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "This is ___ winter message.",
+      "correct": [
+        "a"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "It is ___ enchanted letter.",
+      "correct": [
+        "an"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "That is ___ icy wind.",
+      "correct": [
+        "an"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "This is ___ happy elf.",
+      "correct": [
+        "a"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "It is ___ amazing spell.",
+      "correct": [
+        "an"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "That is ___ old letter.",
+      "correct": [
+        "an"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "This is ___ Christmas plane.",
+      "correct": [
+        "a"
+      ],
+      "wrong": []
+    }
+  ]
+}
