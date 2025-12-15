@@ -1,0 +1,117 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Patrick Hand",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": false,
+  "bubbleSize": 90,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/QMb6zhpZ/Chat-GPT-Image-16-dek-2025-g-00-49-25.png",
+    "bubbleSize": 90,
+    "task": {
+      "bgColor": "rgba(255,235,133,0.75)",
+      "borderColor": "#fbff00",
+      "textColor": "#0a0000",
+      "fontSize": 25,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 25,
+      "neon": true
+    }
+  },
+  "finalFeedback": "Good job!",
+  "feedbackImage": "https://i.postimg.cc/sxD9Zh8g/Chat-GPT-Image-16-dek-2025-g-01-15-47.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "image",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "_____ do the students decorate the Christmas tree? — In the Great Hall.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "_____ does Harry spend Christmas with? — With his friends.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "_____ food do the students eat during the Christmas feast? — Roast chicken and pudding.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "_____ does the Christmas feast start? — In the evening.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "_____ will the students open their first Christmas presents? — On Christmas morning.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "_____ is butterbeer popular at Christmas? — Because it is warm and sweet.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "_____ Christmas movie did the students watch in the common room? — A magical Christmas movie.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "_____ many presents did Ron get for Christmas? — Five presents.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "_____ do the students go to Hogsmeade before Christmas? — To buy presents.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "_____ did Hermione write a Christmas letter to? — To her parents.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "_____ was the most exciting part of Christmas at Hogwarts? — The Christmas feast.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "_____ do the students feel when they open their presents? — Excited and happy.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "_____ Christmas tradition do you like most at Hogwarts? — The Christmas feast.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "_____ did the students stay at Hogwarts for Christmas? — Because they wanted to celebrate together.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "_____ will the students celebrate Christmas this year? — At Hogwarts.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
