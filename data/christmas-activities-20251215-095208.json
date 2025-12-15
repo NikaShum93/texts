@@ -1,0 +1,60 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 1,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 0,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "What will you do on Christmas Holidays?",
+    "btnText": "Start"
+  },
+  "direction": "up",
+  "finalFeedback": "Happy Holidays",
+  "levels": [
+    {
+      "target": "Christmas Activities",
+      "correct": [
+        "https://media.tenor.com/397DwhVvgK0AAAAi/happy-dance.gif",
+        "https://media.tenor.com/-kMfoLqUc7oAAAAi/gingerbread-man-gingerbread-cookie.gif",
+        "https://media.tenor.com/mLxHFaUa55UAAAAi/snow-winter.gif",
+        "https://media.tenor.com/w-eOaUn42foAAAAi/inky-et-peete-cats.gif",
+        "https://media.tenor.com/YKNYmwf8cAoAAAAi/i-love-christmas-love-christmas.gif",
+        "https://media.tenor.com/f7ZjPd6L80wAAAAi/christmas-gift-giving.gif",
+        "https://media.tenor.com/ktY0yzs3V_MAAAAi/happy-holidays-holidays.gif",
+        "https://media.tenor.com/aQeZTod6ON0AAAAi/tonton-tontonsticker.gif",
+        "https://media.tenor.com/IQUEATWPbAYAAAAi/xmas-christmas.gif",
+        "https://media.tenor.com/m_Um6Cin_SgAAAAi/merry-christmas-happy-holidays.gif",
+        "https://media.tenor.com/fM64jz0PbtwAAAAi/song-sing.gif",
+        "https://media.tenor.com/1z0b7f_gnxMAAAAi/fashion-winter.gif",
+        "https://media.tenor.com/5D0W1PZwpXgAAAAi/snowman-cute-snowman.gif",
+        "https://media.tenor.com/kKJCXGR6rVUAAAAi/snowboarding-extreme-sports.gif",
+        "https://media.tenor.com/UAJvWbnuVbAAAAAi/sweet-dreams-sleep-good.gif",
+        "https://media.tenor.com/4pwWP4Ji_XgAAAAi/skating-ice-skate.gif",
+        "https://media.tenor.com/XTWiYrjz_cQAAAAi/penguin-pudgy.gif",
+        "https://media.tenor.com/hLq4NVRIad8AAAAi/snow-winter.gif",
+        "https://media.tenor.com/AFagQ7fK8JUAAAAi/food-yummy.gif",
+        "https://media.tenor.com/e6giYgBWQTcAAAAi/show-browse.gif",
+        "https://media.tenor.com/KE5Q-lzhOwgAAAAi/gaming-esports.gif"
+      ],
+      "wrong": [],
+      "timer": 120
+    }
+  ]
+}
