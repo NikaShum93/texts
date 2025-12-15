@@ -1,0 +1,142 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Snowburst One",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": true,
+  "bubbleSize": 94,
+  "sounds": {
+    "pop": "https://raw.githubusercontent.com/vivanova288-boop/sounds2/main/catch.mp3",
+    "open": "https://raw.githubusercontent.com/vivanova288-boop/sounds2/main/feedback.mp3",
+    "correct": "https://raw.githubusercontent.com/vivanova288-boop/sounds2/main/correct.mp3",
+    "wrong": "https://raw.githubusercontent.com/vivanova288-boop/sounds2/main/wrong.mp3"
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/v8nZJHrY/Untitled-design.png",
+    "bubbleSize": 94,
+    "task": {
+      "bgColor": "rgba(199,170,34,0.75)",
+      "borderColor": "#b36a05",
+      "textColor": "#000000",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#c3a51e",
+      "borderColor": "#7e540e",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    }
+  },
+  "finalFeedback": "🎉All these letters are safe! They can reach Santa now.🎉",
+  "feedbackImage": "https://i.postimg.cc/P5yc3cSn/Untitled-design-(3).png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "This is a flying letter.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "That is an elf.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "These are magic planes.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "This is a special message.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Those are happy elves.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "This is an enchanted spell.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "This is not a letter.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "That is not an elf.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "These are not flying letters.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "This is not a magic spell.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Those are not paper planes.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "This is not a Christmas message.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "These are not happy elves.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Is this a flying letter?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Is that an elf?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Are these magic planes?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Is this a special message?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Are those happy elves?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Is this an enchanted spell?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Are these letters for Santa?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
