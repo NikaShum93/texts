@@ -1,0 +1,57 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 88,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/T3NCGF4c/Chat-GPT-Image-6-noab-2025-g-14-05-28.png",
+    "bubbleSize": 88,
+    "task": {
+      "bgColor": "rgba(79,172,254,0)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": false
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "type": "image",
+      "image": "https://i.postimg.cc/ZK2rhPSz/Chat-GPT-Image-3-dek-2025-g-12-54-43.png"
+    },
+    {
+      "type": "image",
+      "image": "https://i.postimg.cc/yYtFzhzj/Chat-GPT-Image-3-dek-2025-g-12-54-47.png"
+    },
+    {
+      "type": "image",
+      "image": "https://i.postimg.cc/3JVgHjTH/Chat-GPT-Image-3-dek-2025-g-12-54-50.png"
+    },
+    {
+      "type": "image",
+      "image": "https://i.postimg.cc/J4vbW3LV/Chat-GPT-Image-3-dek-2025-g-12-56-29.png"
+    }
+  ]
+}
