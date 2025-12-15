@@ -1,0 +1,53 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 4,
+  "style": {
+    "shape": "rounded",
+    "pad": 60,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/FFw4NzJN/Snezinka.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 180
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Christmas Symbols",
+    "btnText": "Start"
+  },
+  "direction": "up",
+  "finalFeedback": "Good Job!",
+  "levels": [
+    {
+      "target": "Name Christmas Symbols",
+      "correct": [
+        "[url=https://postimg.cc/0M16PGLR][img]https://i.postimg.cc/0M16PGLR/10.png[/img][/url]",
+        "[url=https://postimg.cc/PpbCxpkR][img]https://i.postimg.cc/PpbCxpkR/11.png[/img][/url]",
+        "[url=https://postimg.cc/ft7VLthq][img]https://i.postimg.cc/ft7VLthq/12.png[/img][/url]",
+        "[url=https://postimg.cc/qhHt4c9d][img]https://i.postimg.cc/qhHt4c9d/13.png[/img][/url]",
+        "[url=https://postimg.cc/G8P428Cc][img]https://i.postimg.cc/G8P428Cc/14.png[/img][/url]",
+        "[url=https://postimg.cc/wy51vydZ][img]https://i.postimg.cc/wy51vydZ/15.png[/img][/url]",
+        "[url=https://postimg.cc/cg7vHgSG][img]https://i.postimg.cc/cg7vHgSG/16.png[/img][/url]",
+        "[url=https://postimg.cc/2bd16bDR][img]https://i.postimg.cc/2bd16bDR/17.png[/img][/url]",
+        "[url=https://postimg.cc/R61WF6BW][img]https://i.postimg.cc/R61WF6BW/18.png[/img][/url]",
+        "[url=https://postimg.cc/9RPDMRhR][img]https://i.postimg.cc/9RPDMRhR/19.png[/img][/url]",
+        "[url=https://postimg.cc/JD3snDLn][img]https://i.postimg.cc/JD3snDLn/20.png[/img][/url]",
+        "[url=https://postimg.cc/JDCyM3Sg][img]https://i.postimg.cc/JDCyM3Sg/21.png[/img][/url]"
+      ],
+      "wrong": [],
+      "timer": 45
+    }
+  ]
+}
