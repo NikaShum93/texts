@@ -1,0 +1,107 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Neucha",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 134,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/628e14e6dac8e90018d119b5/02585ea1-8782-4104-8cab-f863e4e87bf7.png",
+    "bubbleSize": 134,
+    "task": {
+      "bgColor": "rgba(160,49,55,1)",
+      "borderColor": "#0f2729",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e72323",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    }
+  },
+  "finalFeedback": "🎉Отлично!",
+  "feedbackImage": "",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Как найти периметр квадрата?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Как найти сторону квадрата, если известен его периметр?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Как найти периметр прямоугольника?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Как найти периметр треугольника?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Что нужно сделать со сторонами треугольника, чтобы найти периметр?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Что такое периметр любой фигуры?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Как найти площадь прямоугольника?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "В каких величинах измеряется площадь прямоугольника?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Как найти неизвестный множитель?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Как найти неизвестное слагаемое?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Как найти неизвестное  делимое?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Как найти неизвестный  делитель?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Как найти произведение?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
