@@ -1,0 +1,257 @@
+{
+  "language": "en",
+  "font": "Open Sans",
+  "fontSize": 38,
+  "textColor": "#440303",
+  "speed": 5,
+  "questionFont": "Montserrat",
+  "questionFontSize": 31,
+  "style": {
+    "shape": "rounded",
+    "pad": 14,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/6573f8946d6d76001fe95399/cb185353-3b11-4e5a-b940-6ca2c7dbbf1c.png",
+    "bgImages": [
+      "https://img.genially.com/6573f8946d6d76001fe95399/cb185353-3b11-4e5a-b940-6ca2c7dbbf1c.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 0,
+    "imgBox": 200
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Выбери правильный продукт!",
+    "btnText": "Start!"
+  },
+  "direction": "up",
+  "finalFeedback": "Well done!!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "Harry looked up at ___ moon above Hogwarts castle.",
+      "correct": [
+        "the"
+      ],
+      "wrong": [
+        "a",
+        "a",
+        "an"
+      ]
+    },
+    {
+      "target": "Hermione bought ___ book about ancient spells in Diagon Alley.",
+      "correct": [
+        "a"
+      ],
+      "wrong": [
+        "no article",
+        "the",
+        "the"
+      ]
+    },
+    {
+      "target": "Hagrid has ___ unusual pet in his hut.",
+      "correct": [
+        "an"
+      ],
+      "wrong": [
+        "a",
+        "no article",
+        "the"
+      ]
+    },
+    {
+      "target": "Students usually go to ___ school by boat in their first year.",
+      "correct": [
+        "no article"
+      ],
+      "wrong": [
+        "an",
+        "the",
+        "a"
+      ]
+    },
+    {
+      "target": "Ron wants to become ___ Auror after leaving Hogwarts.",
+      "correct": [
+        "an"
+      ],
+      "wrong": [
+        "a",
+        "the",
+        "a"
+      ]
+    },
+    {
+      "target": "Newt Scamander keeps ___ magical creatures in his suitcase.",
+      "correct": [
+        "no article"
+      ],
+      "wrong": [
+        "an",
+        "the",
+        "a"
+      ]
+    },
+    {
+      "target": "Professor McGonagall is ___ head of Gryffindor House.",
+      "correct": [
+        "the"
+      ],
+      "wrong": [
+        "a",
+        "no article",
+        "an"
+      ]
+    },
+    {
+      "target": "Harry received ___ letter from Hogwarts on his birthday.",
+      "correct": [
+        "a"
+      ],
+      "wrong": [
+        "the",
+        "the",
+        "an"
+      ]
+    },
+    {
+      "target": "Witches often travel by ___ broomstick instead of using Muggle transport.",
+      "correct": [
+        "no article"
+      ],
+      "wrong": [
+        "a",
+        "the",
+        "a"
+      ]
+    },
+    {
+      "target": "Voldemort is ___ most dangerous dark wizard in the series.",
+      "correct": [
+        "the"
+      ],
+      "wrong": [
+        "a",
+        "a",
+        "no article"
+      ]
+    },
+    {
+      "target": "Fantastic Beasts is set in ___ New York of the 1920s.",
+      "correct": [
+        "no article"
+      ],
+      "wrong": [
+        "the",
+        "a",
+        "the"
+      ]
+    },
+    {
+      "target": "Luna believes in ___ magic of friendship.",
+      "correct": [
+        "the"
+      ],
+      "wrong": [
+        "a",
+        "an",
+        "a"
+      ]
+    },
+    {
+      "target": "Draco comes from ___ rich wizarding family.",
+      "correct": [
+        "a"
+      ],
+      "wrong": [
+        "the",
+        "the",
+        "the"
+      ]
+    },
+    {
+      "target": "At Christmas students eat dinner in ___ Great Hall.",
+      "correct": [
+        "the"
+      ],
+      "wrong": [
+        "a",
+        "no article",
+        "no article"
+      ]
+    },
+    {
+      "target": "Harry plays ___ Quidditch every weekend.",
+      "correct": [
+        "no article"
+      ],
+      "wrong": [
+        "a",
+        "a",
+        "the"
+      ]
+    },
+    {
+      "target": "Dumbledore was ___ wise man with a long beard.",
+      "correct": [
+        "a"
+      ],
+      "wrong": [
+        "an",
+        "the",
+        "no article"
+      ]
+    },
+    {
+      "target": "Jacob goes for ___ walk with Newt around the city.",
+      "correct": [
+        "a"
+      ],
+      "wrong": [
+        "no article",
+        "the",
+        "no article"
+      ]
+    },
+    {
+      "target": "Hogwarts is ___ place where many young wizards learn spells.",
+      "correct": [
+        "a"
+      ],
+      "wrong": [
+        "the",
+        "the",
+        "an"
+      ]
+    },
+    {
+      "target": "Professor Snape teaches ___ Potions.",
+      "correct": [
+        "no article"
+      ],
+      "wrong": [
+        "the",
+        "a",
+        "the"
+      ]
+    },
+    {
+      "target": "After class, Hermione goes to ___ library to study.",
+      "correct": [
+        "the"
+      ],
+      "wrong": [
+        "no article",
+        "an",
+        "a"
+      ]
+    }
+  ]
+}
