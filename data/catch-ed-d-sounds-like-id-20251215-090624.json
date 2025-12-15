@@ -1,0 +1,148 @@
+{
+  "language": "en",
+  "font": "Poppins",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 87,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/FFw4NzJN/Snezinka.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Funny Reading",
+    "btnText": "Start"
+  },
+  "direction": "down",
+  "finalFeedback": "Great!",
+  "levels": [
+    {
+      "target": "Catch: -ed = /ɪd/ (sounds like “id”)",
+      "correct": [
+        "wanted",
+        "needed",
+        "started",
+        "painted",
+        "visited",
+        "decided",
+        "invited",
+        "shouted",
+        "waited",
+        "ended"
+      ],
+      "wrong": [
+        "helped",
+        "washed",
+        "liked",
+        "danced",
+        "stopped",
+        "looked",
+        "kissed",
+        "asked",
+        "cooked",
+        "watched",
+        "played",
+        "loved",
+        "cleaned",
+        "opened",
+        "lived",
+        "called",
+        "rained",
+        "answered",
+        "snowed",
+        "pulled"
+      ],
+      "timer": 45
+    },
+    {
+      "target": "Catch: -ed = /t/ (sounds like “t”)",
+      "correct": [
+        "helped",
+        "washed",
+        "liked",
+        "danced",
+        "stopped",
+        "looked",
+        "kissed",
+        "asked",
+        "cooked",
+        "watched"
+      ],
+      "wrong": [
+        "wanted",
+        "needed",
+        "started",
+        "painted",
+        "visited",
+        "decided",
+        "invited",
+        "shouted",
+        "waited",
+        "ended",
+        "played",
+        "loved",
+        "cleaned",
+        "opened",
+        "lived",
+        "called",
+        "rained",
+        "answered",
+        "snowed",
+        "pulled"
+      ],
+      "timer": 45
+    },
+    {
+      "target": "Catch: -ed = /d/ (sounds like “d”)",
+      "correct": [
+        "played",
+        "loved",
+        "cleaned",
+        "opened",
+        "lived",
+        "called",
+        "rained",
+        "answered",
+        "snowed",
+        "pulled"
+      ],
+      "wrong": [
+        "helped",
+        "washed",
+        "liked",
+        "danced",
+        "stopped",
+        "looked",
+        "kissed",
+        "asked",
+        "cooked",
+        "watched",
+        "wanted",
+        "needed",
+        "started",
+        "painted",
+        "visited",
+        "decided",
+        "invited",
+        "shouted",
+        "waited",
+        "ended"
+      ],
+      "timer": 45
+    }
+  ]
+}
