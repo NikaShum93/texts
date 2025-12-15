@@ -1,0 +1,81 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/T3NCGF4c/Chat-GPT-Image-6-noab-2025-g-14-05-28.png",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "\\frac{3}{4}",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "\\sqrt{9}",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "\\sqrt[3]{8}",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "\\log_{2}{8}",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "x^{2}",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "\\sum_{i=1}^{n} i",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "\\sum_{i=1}^{n} i",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "\\int_{0}^{1} x^2 dx",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
