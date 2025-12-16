@@ -1,0 +1,106 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#000000",
+  "speed": 1,
+  "questionFont": "PT Sans",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 100,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/j2vwjCtj/Chat-GPT-Image-28-noab-2025-g-17-58-31.png",
+    "bgImages": [
+      "https://i.postimg.cc/j2vwjCtj/Chat-GPT-Image-28-noab-2025-g-17-58-31.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 200
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Кто? или что?",
+    "btnText": "Играть"
+  },
+  "direction": "random",
+  "finalFeedback": "",
+  "globalTimer": 60,
+  "levels": [
+    {
+      "target": "Какие слова отвечают на вопрос КТО?",
+      "correct": [
+        "Дед Мороз",
+        "снегири",
+        "детки",
+        "лесник"
+      ],
+      "wrong": [
+        "сапоги",
+        "озеро",
+        "подарки"
+      ]
+    },
+    {
+      "target": "Какие слова отвечают на вопрос ЧТО?",
+      "correct": [
+        "каток",
+        "сани",
+        "узор",
+        "мороз"
+      ],
+      "wrong": [
+        "сова",
+        "гном",
+        "волк"
+      ]
+    },
+    {
+      "target": "Какие слова отвечают на вопрос КТО?",
+      "correct": [
+        "Маша",
+        "собака",
+        "ворона",
+        "колдун"
+      ],
+      "wrong": [
+        "изба",
+        "дерево",
+        "зима"
+      ]
+    },
+    {
+      "target": "Какие слова отвечают на вопрос КТО?",
+      "correct": [
+        "баба Яга",
+        "сорока",
+        "енот",
+        "Вова"
+      ],
+      "wrong": [
+        "снег",
+        "холод",
+        "дрова"
+      ]
+    },
+    {
+      "target": "Какие слова отвечают на вопрос ЧТО?",
+      "correct": [
+        "звезда",
+        "рукав",
+        "платок"
+      ],
+      "wrong": [
+        "Витя",
+        "лиса",
+        "барсук"
+      ]
+    }
+  ]
+}
