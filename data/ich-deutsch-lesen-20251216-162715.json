@@ -1,0 +1,102 @@
+{
+  "language": "de",
+  "font": "Open Sans",
+  "fontSize": 30,
+  "textColor": "#ffffff",
+  "speed": 4,
+  "questionFont": "Open Sans",
+  "questionFontSize": 30,
+  "style": {
+    "shape": "rounded",
+    "pad": 50,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/85shX8R6/santa.png\nhttps://i.postimg.cc/85shX8R6/santa.png\nhttps://i.postimg.cc/85shX8R6/santa.png\nhttps://i.postimg.cc/85shX8R6/santa.png\nhttps://i.postimg.cc/85shX8R6/santa.png\nhttps://i.postimg.cc/85shX8R6/santa.png",
+    "bgImages": [
+      "https://i.postimg.cc/85shX8R6/santa.png",
+      "https://i.postimg.cc/85shX8R6/santa.png",
+      "https://i.postimg.cc/85shX8R6/santa.png",
+      "https://i.postimg.cc/85shX8R6/santa.png",
+      "https://i.postimg.cc/85shX8R6/santa.png",
+      "https://i.postimg.cc/85shX8R6/santa.png"
+    ],
+    "borderOn": true,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 260
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Spiel «Komm zu uns, Weihnachtsmann!»",
+    "btnText": "Start"
+  },
+  "direction": "up",
+  "finalFeedback": "Gut gemacht!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "Ich_Deutsch lesen.",
+      "correct": [
+        "muss"
+      ],
+      "wrong": [
+        "müsst",
+        "musst"
+      ]
+    },
+    {
+      "target": "Du_Wörter schreiben.",
+      "correct": [
+        "kannst"
+      ],
+      "wrong": [
+        "kann",
+        "könnt"
+      ]
+    },
+    {
+      "target": "Klaus_morgen wandern.",
+      "correct": [
+        "will"
+      ],
+      "wrong": [
+        "willst",
+        "wollt"
+      ]
+    },
+    {
+      "target": "Wir__Ball spielen.",
+      "correct": [
+        "können"
+      ],
+      "wrong": [
+        "könnt",
+        "kann"
+      ]
+    },
+    {
+      "target": "Ihr_eine Aufgabe machen.",
+      "correct": [
+        "sollt"
+      ],
+      "wrong": [
+        "sollst",
+        "soll"
+      ]
+    },
+    {
+      "target": "Die Schüler_ Pause machen.",
+      "correct": [
+        "dürfen"
+      ],
+      "wrong": [
+        "darf",
+        "dürft"
+      ]
+    }
+  ]
+}
