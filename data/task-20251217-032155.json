@@ -1,0 +1,74 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Gloria Hallelujah",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 84,
+  "sounds": {
+    "pop": "https://github.com/NikaShum93/sound/raw/refs/heads/main/vhs.mp3",
+    "open": "https://github.com/NikaShum93/sound/raw/refs/heads/main/frost_king,mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/64233afb55129a0017751c8e/67033c9f-38ca-4199-aa47-33d487522926.png",
+    "bubbleSize": 84,
+    "task": {
+      "bgColor": "rgba(0,0,0,0)",
+      "borderColor": "#ff0000",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    }
+  },
+  "finalFeedback": "Something is coming...",
+  "feedbackImage": "https://img.genially.com/64233afb55129a0017751c8e/67033c9f-38ca-4199-aa47-33d487522926.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "type": "image",
+      "image": "https://img.genially.com/64233afb55129a0017751c8e/0c22bd6e-39d7-44b2-9dd5-5324458ae057.png"
+    },
+    {
+      "type": "image",
+      "image": "https://img.genially.com/64233afb55129a0017751c8e/9f772a55-c372-4506-b64b-39f2c62e1deb.png"
+    },
+    {
+      "type": "image",
+      "image": "https://img.genially.com/64233afb55129a0017751c8e/f354ed9b-0cd0-40e1-8c16-3b9a65ddf00c.png"
+    },
+    {
+      "type": "image",
+      "image": "https://img.genially.com/64233afb55129a0017751c8e/9f94ff24-1351-4a30-bb55-ad061a5aff9b.png"
+    },
+    {
+      "type": "image",
+      "image": "https://img.genially.com/64233afb55129a0017751c8e/a6f86c92-f966-4b1d-8825-8f75328cf7f8.png"
+    },
+    {
+      "type": "image",
+      "image": "https://img.genially.com/64233afb55129a0017751c8e/1d451fa9-9b11-4d2a-a35b-f8b17aa7e417.png"
+    },
+    {
+      "type": "image",
+      "image": "https://img.genially.com/64233afb55129a0017751c8e/d3b7fd89-f025-4912-bb72-a51b2b8b364d.png"
+    },
+    {
+      "type": "image",
+      "image": "https://img.genially.com/64233afb55129a0017751c8e/94a82895-435f-4a94-9436-26be14a66bad.png"
+    }
+  ]
+}
