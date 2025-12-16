@@ -1,0 +1,112 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 114,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/zGbsQ1H4/1.png",
+    "bubbleSize": 114,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": false
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    }
+  },
+  "finalFeedback": "🎉 Молодец!",
+  "feedbackImage": "",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Переведите 45 см в мм",
+      "correct": [
+        "450 мм"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Переведите 8 м в дм",
+      "correct": [
+        "80 дм"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Переведите 230 мм в см",
+      "correct": [
+        "23 см"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Переведите 15 дм в см",
+      "correct": [
+        "150 см"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Переведите 3,5 м в см",
+      "correct": [
+        "350 см"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Переведите 780 см в м",
+      "correct": [
+        "7,8 м"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Переведите 62 дм в м",
+      "correct": [
+        "6,2 м"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Переведите 1200 мм в дм",
+      "correct": [
+        "12 дм"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Переведите 0,4 м в мм",
+      "correct": [
+        "400 мм"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Переведите 95 см в дм",
+      "correct": [
+        "9,5 дм"
+      ],
+      "wrong": []
+    }
+  ]
+}
