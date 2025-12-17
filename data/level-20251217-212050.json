@@ -1,0 +1,79 @@
+{
+  "language": "ru",
+  "font": "Marck Script",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/NfkKyfqL/Dizajn-bez-nazvania(46).png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Игра \"Мандаринопад\"",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Отличная работа!",
+  "levels": [
+    {
+      "target": "слоги с буквой И",
+      "correct": [
+        "ми",
+        "им",
+        "си",
+        "ис",
+        "хи",
+        "их",
+        "ри",
+        "ир",
+        "ши",
+        "иш",
+        "ли",
+        "ил",
+        "ни",
+        "ин",
+        "ки",
+        "ик",
+        "ти",
+        "ит"
+      ],
+      "wrong": [
+        "ма",
+        "ам",
+        "ом",
+        "мо",
+        "су",
+        "ус",
+        "хо",
+        "ох",
+        "ра",
+        "ру",
+        "ыр",
+        "на",
+        "ан",
+        "он",
+        "но",
+        "ша",
+        "уш",
+        "то",
+        "ут"
+      ],
+      "timer": 30
+    }
+  ]
+}
