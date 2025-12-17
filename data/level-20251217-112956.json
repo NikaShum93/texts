@@ -1,0 +1,56 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 2,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 0,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Буква Г",
+    "btnText": "Играть!"
+  },
+  "direction": "up",
+  "finalFeedback": "",
+  "levels": [
+    {
+      "target": "груши с буквой Г",
+      "correct": [
+        "https://i.postimg.cc/hvnzrmMV/2.png",
+        "https://i.postimg.cc/prvhZjkz/3.png",
+        "https://i.postimg.cc/3Nh4BG9j/4.png",
+        "https://i.postimg.cc/8cGJHvwb/5.png",
+        "https://i.postimg.cc/zvNbjhpP/6.png",
+        "https://i.postimg.cc/qqGtZ7Zc/7.png",
+        "https://i.postimg.cc/zvkLPfPx/8.png",
+        "https://i.postimg.cc/PJMLFqF3/9.png"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/FzvdZSGK/1.png",
+        "https://i.postimg.cc/VvFSHNHh/10.png",
+        "https://i.postimg.cc/x8PkFdFB/11.png",
+        "https://i.postimg.cc/90B4Nfnh/12.png",
+        "https://i.postimg.cc/QCqBnMyD/13.png",
+        "https://i.postimg.cc/cCcK5Jb0/14.png",
+        "https://i.postimg.cc/90B4NfnW/15.png",
+        "https://i.postimg.cc/T1cyHP4d/16.png"
+      ],
+      "timer": 60
+    }
+  ]
+}
