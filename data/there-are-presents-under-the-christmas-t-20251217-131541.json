@@ -1,0 +1,177 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Mountains of Christmas",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/25qWGhRx/Dizajn-bez-nazvania-2025-12-17T123828-119.png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(230,202,61,0.85)",
+      "borderColor": "#fbed4b",
+      "textColor": "#050000",
+      "fontSize": 30,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#fcff5c",
+      "borderColor": "#d9e723",
+      "textColor": "#130101",
+      "fontSize": 30,
+      "neon": true
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": true,
+  "quizMaxOptions": 2,
+  "tasks": [
+    {
+      "question": "There are ___ presents under the Christmas tree.",
+      "correct": [
+        "some"
+      ],
+      "wrong": [
+        "any"
+      ]
+    },
+    {
+      "question": "We’ve got ___ cookies for Santa.",
+      "correct": [
+        "some"
+      ],
+      "wrong": [
+        "any"
+      ]
+    },
+    {
+      "question": "I haven't got ___ gloves, so my hands are cold!",
+      "correct": [
+        "any"
+      ],
+      "wrong": [
+        "some"
+      ]
+    },
+    {
+      "question": "There are ___ lights on the house.",
+      "correct": [
+        "some"
+      ],
+      "wrong": [
+        "any"
+      ]
+    },
+    {
+      "question": "Would you like ___ hot tea?",
+      "correct": [
+        "some"
+      ],
+      "wrong": [
+        "any"
+      ]
+    },
+    {
+      "question": "Has she got ___ candy canes?",
+      "correct": [
+        "any"
+      ],
+      "wrong": [
+        "some"
+      ]
+    },
+    {
+      "question": "I need ___ hot chocolate, please!",
+      "correct": [
+        "some"
+      ],
+      "wrong": [
+        "any"
+      ]
+    },
+    {
+      "question": "We haven't got ___ snow today.",
+      "correct": [
+        "any"
+      ],
+      "wrong": [
+        "some"
+      ]
+    },
+    {
+      "question": "Santa has got ___ reindeer to help him.",
+      "correct": [
+        "some"
+      ],
+      "wrong": [
+        "any"
+      ]
+    },
+    {
+      "question": "Have you got ___ plans for the New Year?",
+      "correct": [
+        "any"
+      ],
+      "wrong": [
+        "some"
+      ]
+    },
+    {
+      "question": "Can I have ___ cookies, please?",
+      "correct": [
+        "some"
+      ],
+      "wrong": [
+        "any"
+      ]
+    },
+    {
+      "question": "There are ___ happy elves in Santa’s workshop.",
+      "correct": [
+        "some"
+      ],
+      "wrong": [
+        "any"
+      ]
+    },
+    {
+      "question": "Are there ___ Christmas trees in the park?",
+      "correct": [
+        "any"
+      ],
+      "wrong": [
+        "some"
+      ]
+    },
+    {
+      "question": "Is there ___ milk left?",
+      "correct": [
+        "any"
+      ],
+      "wrong": [
+        "some"
+      ]
+    },
+    {
+      "question": "There aren’t ___ sweets on the plate. He ate them all!",
+      "correct": [
+        "any"
+      ],
+      "wrong": [
+        "some"
+      ]
+    }
+  ]
+}
