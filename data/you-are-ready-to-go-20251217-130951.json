@@ -1,0 +1,112 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Mountains of Christmas",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 90,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/64233afb55129a0017751c8e/f8c5595f-3b07-4e79-ad2d-ac93591d9525.png",
+    "bubbleSize": 90,
+    "task": {
+      "bgColor": "rgba(255,220,122,1)",
+      "borderColor": "#ffa200",
+      "textColor": "#db7500",
+      "fontSize": 24,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 24,
+      "neon": true
+    }
+  },
+  "finalFeedback": "You are a smart kid! You can go!",
+  "feedbackImage": "https://img.genially.com/64233afb55129a0017751c8e/fdf20ffb-6a09-49f3-b921-29eb0df418b1.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "You are ready to go, ___?",
+      "correct": [
+        "aren't you"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "He doesn’t believe the sign, ___?",
+      "correct": [
+        "does he"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We were quiet near the bridge, ___?",
+      "correct": [
+        "weren't we"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "She plays video games every day, ___?",
+      "correct": [
+        "doesn't she"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "They didn’t see anything strange, ___?",
+      "correct": [
+        "did they"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "You can hear the river, ___?",
+      "correct": [
+        "can't you"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Santa isn’t coming this way, ___?",
+      "correct": [
+        "is he"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We finished the task already, ___?",
+      "correct": [
+        "didn't we"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "He was hiding behind the tree, ___?",
+      "correct": [
+        "wasn't he"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "You don’t like scary stories, ___?",
+      "correct": [
+        "do you"
+      ],
+      "wrong": []
+    }
+  ]
+}
