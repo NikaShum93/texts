@@ -1,0 +1,257 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 24,
+  "textColor": "#ffae00",
+  "speed": 3,
+  "questionFont": "Roboto",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 50,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/64233afb55129a0017751c8e/838e7824-8788-47f5-85af-982fe0ab91f4.png",
+    "bgImages": [
+      "https://img.genially.com/64233afb55129a0017751c8e/838e7824-8788-47f5-85af-982fe0ab91f4.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Be quiet and catch tags",
+    "btnText": "Start"
+  },
+  "direction": "random",
+  "finalFeedback": "Monster is leaving. Time to look around.",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "It is cold tonight, ___?",
+      "correct": [
+        "isn’t it"
+      ],
+      "wrong": [
+        "is it",
+        "doesn’t it",
+        "isn’t he"
+      ]
+    },
+    {
+      "target": "You like hot cocoa, ___?",
+      "correct": [
+        "don’t you"
+      ],
+      "wrong": [
+        "do you",
+        "doesn’t you",
+        "aren’t you"
+      ]
+    },
+    {
+      "target": "We are hiding under the bridge, ___?",
+      "correct": [
+        "aren’t we"
+      ],
+      "wrong": [
+        "are we",
+        "isn’t we",
+        "don’t we"
+      ]
+    },
+    {
+      "target": "He lives near the river, ___?",
+      "correct": [
+        "doesn’t he"
+      ],
+      "wrong": [
+        "does he",
+        "isn’t he",
+        "don’t he"
+      ]
+    },
+    {
+      "target": "They don’t make noise here, ___?",
+      "correct": [
+        "do they"
+      ],
+      "wrong": [
+        "don’t they",
+        "did they",
+        "aren’t they"
+      ]
+    },
+    {
+      "target": "She was scared last night, ___?",
+      "correct": [
+        "wasn’t she"
+      ],
+      "wrong": [
+        "was she",
+        "didn’t she",
+        "isn’t she"
+      ]
+    },
+    {
+      "target": "You didn’t hear the monster, ___?",
+      "correct": [
+        "did you"
+      ],
+      "wrong": [
+        "didn’t you",
+        "do you",
+        "weren’t you"
+      ]
+    },
+    {
+      "target": "We found the sign, ___?",
+      "correct": [
+        "didn’t we"
+      ],
+      "wrong": [
+        "did we",
+        "don’t we",
+        "aren’t we"
+      ]
+    },
+    {
+      "target": "He can see the lights, ___?",
+      "correct": [
+        "can’t he"
+      ],
+      "wrong": [
+        "can he",
+        "doesn’t he",
+        "is he"
+      ]
+    },
+    {
+      "target": "You can’t run on ice, ___?",
+      "correct": [
+        "can you"
+      ],
+      "wrong": [
+        "can’t you",
+        "don’t you",
+        "isn’t you"
+      ]
+    },
+    {
+      "target": "Santa comes at night, ___?",
+      "correct": [
+        "doesn’t he"
+      ],
+      "wrong": [
+        "does he",
+        "isn’t he",
+        "didn’t he"
+      ]
+    },
+    {
+      "target": "We are waiting quietly, ___?",
+      "correct": [
+        "aren’t we"
+      ],
+      "wrong": [
+        "are we",
+        "don’t we",
+        "weren’t we"
+      ]
+    },
+    {
+      "target": "She doesn’t trust the bridge, ___?",
+      "correct": [
+        "does she"
+      ],
+      "wrong": [
+        "doesn’t she",
+        "did she",
+        "isn’t she"
+      ]
+    },
+    {
+      "target": "You were at the campfire, ___?",
+      "correct": [
+        "weren’t you"
+      ],
+      "wrong": [
+        "were you",
+        "didn’t you",
+        "aren’t you"
+      ]
+    },
+    {
+      "target": "They built a snowman, ___?",
+      "correct": [
+        "didn’t they"
+      ],
+      "wrong": [
+        "did they",
+        "don’t they",
+        "weren’t they"
+      ]
+    },
+    {
+      "target": "He isn’t ready yet, ___?",
+      "correct": [
+        "is he"
+      ],
+      "wrong": [
+        "isn’t he",
+        "does he",
+        "wasn’t he"
+      ]
+    },
+    {
+      "target": "You like Christmas music, ___?",
+      "correct": [
+        "don’t you"
+      ],
+      "wrong": [
+        "do you",
+        "doesn’t you",
+        "aren’t you"
+      ]
+    },
+    {
+      "target": "We didn’t move at all, ___?",
+      "correct": [
+        "did we"
+      ],
+      "wrong": [
+        "didn’t we",
+        "don’t we",
+        "weren’t we"
+      ]
+    },
+    {
+      "target": "She can help the elves, ___?",
+      "correct": [
+        "can’t she"
+      ],
+      "wrong": [
+        "can she",
+        "doesn’t she",
+        "isn’t she"
+      ]
+    },
+    {
+      "target": "It was dangerous near the river, ___?",
+      "correct": [
+        "wasn’t it"
+      ],
+      "wrong": [
+        "was it",
+        "didn’t it",
+        "isn’t it"
+      ]
+    }
+  ]
+}
