@@ -1,0 +1,217 @@
+{
+  "language": "en",
+  "font": "Montserrat",
+  "fontSize": 23,
+  "textColor": "#274462",
+  "speed": 5,
+  "questionFont": "Montserrat",
+  "questionFontSize": 22,
+  "style": {
+    "shape": "rounded",
+    "pad": 12,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/6573f8946d6d76001fe95399/8c191ff3-4b33-4b97-89f2-5e9cffdeb53e.png",
+    "bgImages": [
+      "https://img.genially.com/6573f8946d6d76001fe95399/8c191ff3-4b33-4b97-89f2-5e9cffdeb53e.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 200
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Choose the right verb form!",
+    "btnText": "Start!"
+  },
+  "direction": "random",
+  "finalFeedback": "Well done!!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "She agreed _______ us with the project.",
+      "correct": [
+        "to help"
+      ],
+      "wrong": [
+        "helping"
+      ]
+    },
+    {
+      "target": "He admitted _______ the window by accident.",
+      "correct": [
+        "breaking"
+      ],
+      "wrong": [
+        "to break"
+      ]
+    },
+    {
+      "target": "They decided _______ early because it was raining.",
+      "correct": [
+        "to leave"
+      ],
+      "wrong": [
+        "leaving"
+      ]
+    },
+    {
+      "target": "She suggested _______ a break after the test.",
+      "correct": [
+        "taking"
+      ],
+      "wrong": [
+        "to take"
+      ]
+    },
+    {
+      "target": "He promised _______ me after work.",
+      "correct": [
+        "to call"
+      ],
+      "wrong": [
+        "calling"
+      ]
+    },
+    {
+      "target": "They refused _______ the rules.",
+      "correct": [
+        "to follow"
+      ],
+      "wrong": [
+        "following"
+      ]
+    },
+    {
+      "target": "She apologized for _______ late to the meeting.",
+      "correct": [
+        "being"
+      ],
+      "wrong": [
+        "to be"
+      ]
+    },
+    {
+      "target": "He offered _______ me to the airport.",
+      "correct": [
+        "to take"
+      ],
+      "wrong": [
+        "taking"
+      ]
+    },
+    {
+      "target": "They denied _______ the documents.",
+      "correct": [
+        "stealing"
+      ],
+      "wrong": [
+        "to steal"
+      ]
+    },
+    {
+      "target": "She warned me not _______ the dog.",
+      "correct": [
+        "to touch"
+      ],
+      "wrong": [
+        "touching"
+      ]
+    },
+    {
+      "target": "He avoided _______ about the problem.",
+      "correct": [
+        "talking"
+      ],
+      "wrong": [
+        "to talk"
+      ]
+    },
+    {
+      "target": "They encouraged us _______ harder for the exam.",
+      "correct": [
+        "to study"
+      ],
+      "wrong": [
+        "studying"
+      ]
+    },
+    {
+      "target": "She complained about _______ too much homework.",
+      "correct": [
+        "having"
+      ],
+      "wrong": [
+        "to have"
+      ]
+    },
+    {
+      "target": "He managed _______ on time.",
+      "correct": [
+        "to arrive"
+      ],
+      "wrong": [
+        "arriving"
+      ]
+    },
+    {
+      "target": "They recommended _______ the museum first.",
+      "correct": [
+        "visiting"
+      ],
+      "wrong": [
+        "to visit"
+      ]
+    },
+    {
+      "target": "She reminded me _______ my passport.",
+      "correct": [
+        "to bring"
+      ],
+      "wrong": [
+        "bringing"
+      ]
+    },
+    {
+      "target": "He admitted to _______ the truth.",
+      "correct": [
+        "telling"
+      ],
+      "wrong": [
+        "to tell"
+      ]
+    },
+    {
+      "target": "They suggested _______ the meeting online.",
+      "correct": [
+        "having"
+      ],
+      "wrong": [
+        "to have"
+      ]
+    },
+    {
+      "target": "She refused _______ him the answer.",
+      "correct": [
+        "to give"
+      ],
+      "wrong": [
+        "giving"
+      ]
+    },
+    {
+      "target": "He promised not _______ late again.",
+      "correct": [
+        "to be"
+      ],
+      "wrong": [
+        "being"
+      ]
+    }
+  ]
+}
