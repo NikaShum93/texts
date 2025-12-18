@@ -1,0 +1,60 @@
+{
+  "language": "ru",
+  "font": "Montserrat",
+  "fontSize": 32,
+  "textColor": "#000000",
+  "speed": 5,
+  "style": {
+    "shape": "rounded",
+    "pad": 120,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/q7MHyKRp/Chat-GPT-Image-19-dek-2025-g-01-00-12.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 150
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Игра \"Новогодний подарок\"",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Отличная работа!",
+  "levels": [
+    {
+      "target": "Неправильные дроби",
+      "correct": [
+        "4/1",
+        "\\frac{5}{2}",
+        "\\frac{6}{3}",
+        "\\frac{7}{4}",
+        "\\frac{8}{5}",
+        "\\frac{9}{6}",
+        "\\frac{10}{7}",
+        "\\frac{11}{8}",
+        "\\frac{12}{9}",
+        "\\frac{13}{10}",
+        "\\frac{14}{17}",
+        "\\frac{15}{5}"
+      ],
+      "wrong": [
+        "\\frac{1}{2}",
+        "\\frac{2}{3}",
+        "\\frac{4}{5}",
+        "\\frac{5}{6}",
+        "\\frac{3}{7}",
+        "\\frac{4}{9}"
+      ],
+      "timer": 30
+    }
+  ]
+}
