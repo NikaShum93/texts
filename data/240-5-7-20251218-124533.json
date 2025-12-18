@@ -1,0 +1,80 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Mountains of Christmas",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 84,
+  "sounds": {
+    "pop": "https://image2url.com/audio/1766050225914-675872c7-3ae9-44bc-b3f7-ee8413dff42c.mp3",
+    "open": "https://image2url.com/audio/1766050357733-e5d27c4c-cab3-46f6-b1f9-b6ac217b069e.mp3",
+    "correct": "https://image2url.com/audio/1766050511069-55116ec5-f081-4c3d-bdc1-d498cc831c5e.mp3",
+    "wrong": "https://image2url.com/audio/1766050445250-4ca84ae3-f296-4de8-a386-05fb6f3738eb.mp3"
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/d1G3qLHK/Chat-GPT-Image-18-dek-2025-g-12-21-08.png",
+    "bubbleSize": 84,
+    "task": {
+      "bgColor": "rgba(33,70,17,1)",
+      "borderColor": "#971717",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#384e18",
+      "borderColor": "#a62626",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    }
+  },
+  "finalFeedback": "❄️ Отлично!",
+  "feedbackImage": "",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Бригада изготовляет 240 деталей в час. За первый день она работала 5 часов, а во второй — 7 часов. Сколько деталей изготовила бригада за два дня?",
+      "correct": [
+        "2880"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "",
+      "correct": [
+        "1680"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Станок за 1 час обрабатывает 360 деталей. Он работал 6 часов, после чего 480 деталей отправили на склад.Сколько деталей осталось?",
+      "correct": [
+        "4200"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "",
+      "correct": [
+        "450"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "За 1 час рабочий укладывает 420 плиток. В первый день он работал 4 часа, во второй — 6 часов.Сколько плиток уложил рабочий за два дня?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Бригада изготовила 3600 деталей, работая 8 часов.Сколько деталей в час изготавливает бригада?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
