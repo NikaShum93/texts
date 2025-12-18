@@ -1,0 +1,52 @@
+{
+  "language": "ru",
+  "font": "Lobster",
+  "fontSize": 35,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 46,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/QMhXrhBy/Plusevaa-snezinka.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 180
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Снегопад",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Молодец! Ты справился!",
+  "levels": [
+    {
+      "target": "Лови только деление",
+      "correct": [
+        "25:х=5",
+        "36:х=6",
+        "х*5=40",
+        "7*х=56",
+        "81:у=9",
+        "63:х=7"
+      ],
+      "wrong": [
+        "х:4=9",
+        "х:6=7",
+        "у:5=9",
+        "х:8=4"
+      ],
+      "timer": 99
+    }
+  ]
+}
