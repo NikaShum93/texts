@@ -1,0 +1,86 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Catch the food!",
+    "btnText": "Start"
+  },
+  "direction": "down",
+  "finalFeedback": "The kitchen is okay now! Thank you!",
+  "levels": [
+    {
+      "target": "Uncountables",
+      "correct": [
+        "https://i.postimg.cc/NFjHVC5H/133.png",
+        "https://i.postimg.cc/1X3qT7f8/134.png",
+        "https://i.postimg.cc/HnvyC0yW/135.png",
+        "https://i.postimg.cc/FzHLqC7d/136.png",
+        "https://i.postimg.cc/1X7qZ0q4/137.png",
+        "https://i.postimg.cc/SR1MpLMX/138.png",
+        "https://i.postimg.cc/1X7qZ0qV/139.png",
+        "https://i.postimg.cc/Xq1C0KCy/140.png",
+        "https://i.postimg.cc/Zn5dgsCJ/141.png"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/KzZkkp7N/142.png",
+        "https://i.postimg.cc/nzHjjSK1/143.png",
+        "https://i.postimg.cc/xC0JJpG6/144.png",
+        "https://i.postimg.cc/3RK44fj9/145.png",
+        "https://i.postimg.cc/ZRV9rPjx/146.png",
+        "https://i.postimg.cc/wv0th5F0/147.png",
+        "https://i.postimg.cc/zB0Lnwpk/148.png",
+        "https://i.postimg.cc/ydvJFhnn/149.png",
+        "https://i.postimg.cc/262q4dTX/150.png",
+        "https://i.postimg.cc/zBJbb2wR/151.png"
+      ],
+      "timer": 60
+    },
+    {
+      "target": "Countables",
+      "correct": [
+        "https://i.postimg.cc/KzZkkp7N/142.png",
+        "https://i.postimg.cc/nzHjjSK1/143.png",
+        "https://i.postimg.cc/xC0JJpG6/144.png",
+        "https://i.postimg.cc/3RK44fj9/145.png",
+        "https://i.postimg.cc/ZRV9rPjx/146.png",
+        "https://i.postimg.cc/wv0th5F0/147.png",
+        "https://i.postimg.cc/zB0Lnwpk/148.png",
+        "https://i.postimg.cc/ydvJFhnn/149.png",
+        "https://i.postimg.cc/262q4dTX/150.png",
+        "https://i.postimg.cc/zBJbb2wR/151.png"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/NFjHVC5H/133.png",
+        "https://i.postimg.cc/1X3qT7f8/134.png",
+        "https://i.postimg.cc/HnvyC0yW/135.png",
+        "https://i.postimg.cc/FzHLqC7d/136.png",
+        "https://i.postimg.cc/1X7qZ0q4/137.png",
+        "https://i.postimg.cc/SR1MpLMX/138.png",
+        "https://i.postimg.cc/1X7qZ0qV/139.png",
+        "https://i.postimg.cc/Xq1C0KCy/140.png",
+        "https://i.postimg.cc/Zn5dgsCJ/141.png"
+      ],
+      "timer": 60
+    }
+  ]
+}
