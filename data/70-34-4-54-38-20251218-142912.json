@@ -1,0 +1,119 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "questionFont": "PT Sans",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 51,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/tg62Fn9F/20251123-1618-Cetyre-hvojnye-siski-simple-compose-01kards9d6fdwbexw16494dcyh.png",
+    "bgImages": [
+      "https://i.postimg.cc/tg62Fn9F/20251123-1618-Cetyre-hvojnye-siski-simple-compose-01kards9d6fdwbexw16494dcyh.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 200
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Лови шишки",
+    "btnText": "Будь внимательна!"
+  },
+  "direction": "down",
+  "finalFeedback": "Отлично! Ты молодец!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "(70−34):4+(54−38)",
+      "correct": [
+        "25"
+      ],
+      "wrong": [
+        "27",
+        "15",
+        "32",
+        "99",
+        "14",
+        "28",
+        "39",
+        "67"
+      ]
+    },
+    {
+      "target": "9⋅(30:6)+55",
+      "correct": [
+        "100"
+      ],
+      "wrong": [
+        "22",
+        "21",
+        "25"
+      ]
+    },
+    {
+      "target": "82–(14+19)−(90−63)",
+      "correct": [
+        "22"
+      ],
+      "wrong": [
+        "100",
+        "25",
+        "59"
+      ]
+    },
+    {
+      "target": "(57−48)⋅3+(34−26)⋅4",
+      "correct": [
+        "59"
+      ],
+      "wrong": [
+        "22",
+        "25",
+        "69"
+      ]
+    },
+    {
+      "target": "18:6⋅5+4⋅3:2",
+      "correct": [
+        "21"
+      ],
+      "wrong": [
+        "25",
+        "69",
+        "22"
+      ]
+    },
+    {
+      "target": "36:9:4+32:8⋅7",
+      "correct": [
+        "29"
+      ],
+      "wrong": [
+        "21",
+        "100",
+        "25"
+      ]
+    },
+    {
+      "target": "(38+32)−17+(61−45)",
+      "correct": [
+        "69"
+      ],
+      "wrong": [
+        "100",
+        "22",
+        "29"
+      ]
+    }
+  ]
+}
