@@ -1,0 +1,192 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Mountains of Christmas",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": false,
+  "bubbleSize": 74,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/6573f8946d6d76001fe95399/571df3da-0ded-423d-85df-648a24cae534.png",
+    "bubbleSize": 74,
+    "task": {
+      "bgColor": "rgba(49,125,44,1)",
+      "borderColor": "#f5faa8",
+      "textColor": "#ffffff",
+      "fontSize": 16,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#05a2ad",
+      "borderColor": "#043e48",
+      "textColor": "#ffffff",
+      "fontSize": 16,
+      "neon": true
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": true,
+  "quizUseOtherCorrect": true,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Do you celebrate Christmas with your family?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What is your favourite Christmas food?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do you like Christmas music?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Is your house decorated at Christmas?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What do you usually do on Christmas Day?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What is your favourite Christmas film?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do you buy presents before Christmas?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Are your parents at home on Christmas Eve?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do you open presents in the morning or in the evening?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "When do you eat Christmas dinner?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Does your family have a Christmas tree?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What is Christmas for you: fun or boring?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do you watch TV after Christmas dinner?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What is your favourite Christmas colour?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Are you happy at Christmas time?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do your friends celebrate Christmas?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Where do you usually celebrate Christmas?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Does your school have a Christmas party?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Are you with your family on Christmas Day?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What do you like most about Christmas?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
