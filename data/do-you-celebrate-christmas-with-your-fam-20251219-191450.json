@@ -1,0 +1,262 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Creepster",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": false,
+  "bubbleSize": 120,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/6573f8946d6d76001fe95399/feeb8d20-a62c-4ddd-ac85-8de934281e3c.png",
+    "bubbleSize": 120,
+    "task": {
+      "bgColor": "rgba(70,124,4,1)",
+      "borderColor": "#d2ff80",
+      "textColor": "#ffffff",
+      "fontSize": 21,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#035172",
+      "borderColor": "#ffffff",
+      "textColor": "#ffffff",
+      "fontSize": 21,
+      "neon": true
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Do you celebrate Christmas with your family?",
+      "correct": [
+        "Do"
+      ],
+      "wrong": [
+        "does",
+        "is",
+        "are"
+      ]
+    },
+    {
+      "question": "What is your favourite Christmas food?",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "does",
+        "do",
+        "are"
+      ]
+    },
+    {
+      "question": "Do you like Christmas music?",
+      "correct": [
+        "Do"
+      ],
+      "wrong": [
+        "does",
+        "is",
+        "are"
+      ]
+    },
+    {
+      "question": "Is your house decorated at Christmas?",
+      "correct": [
+        "Is"
+      ],
+      "wrong": [
+        "does",
+        "are",
+        "do"
+      ]
+    },
+    {
+      "question": "What do you usually do on Christmas Day?",
+      "correct": [
+        "do"
+      ],
+      "wrong": [
+        "does",
+        "is",
+        "are"
+      ]
+    },
+    {
+      "question": "What is your favourite Christmas film?",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "does",
+        "do",
+        "are"
+      ]
+    },
+    {
+      "question": "Do you buy presents before Christmas?",
+      "correct": [
+        "Do"
+      ],
+      "wrong": [
+        "does",
+        "is",
+        "are"
+      ]
+    },
+    {
+      "question": "Are your parents at home on Christmas Eve?",
+      "correct": [
+        "Are"
+      ],
+      "wrong": [
+        "does",
+        "is",
+        "do"
+      ]
+    },
+    {
+      "question": "Do you open presents in the morning or in the evening?",
+      "correct": [
+        "Do"
+      ],
+      "wrong": [
+        "does",
+        "is",
+        "are"
+      ]
+    },
+    {
+      "question": "When do you eat Christmas dinner?",
+      "correct": [
+        "do"
+      ],
+      "wrong": [
+        "does",
+        "is",
+        "are"
+      ]
+    },
+    {
+      "question": "Does your family have a Christmas tree?",
+      "correct": [
+        "Does"
+      ],
+      "wrong": [
+        "do",
+        "is",
+        "are"
+      ]
+    },
+    {
+      "question": "What is Christmas for you: fun or boring?",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "does",
+        "do",
+        "are"
+      ]
+    },
+    {
+      "question": "Do you watch TV after Christmas dinner?",
+      "correct": [
+        "Do"
+      ],
+      "wrong": [
+        "does",
+        "is",
+        "are"
+      ]
+    },
+    {
+      "question": "What is your favourite Christmas colour?",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "does",
+        "do",
+        "are"
+      ]
+    },
+    {
+      "question": "Are you happy at Christmas time?",
+      "correct": [
+        "Are"
+      ],
+      "wrong": [
+        "does",
+        "is",
+        "do"
+      ]
+    },
+    {
+      "question": "Do your friends celebrate Christmas?",
+      "correct": [
+        "Do"
+      ],
+      "wrong": [
+        "does",
+        "is",
+        "are"
+      ]
+    },
+    {
+      "question": "Where do you usually celebrate Christmas?",
+      "correct": [
+        "do"
+      ],
+      "wrong": [
+        "does",
+        "is",
+        "are"
+      ]
+    },
+    {
+      "question": "Does your school have a Christmas party?",
+      "correct": [
+        "Does"
+      ],
+      "wrong": [
+        "do",
+        "is",
+        "are"
+      ]
+    },
+    {
+      "question": "Are you with your family on Christmas Day?",
+      "correct": [
+        "Are"
+      ],
+      "wrong": [
+        "does",
+        "is",
+        "do"
+      ]
+    },
+    {
+      "question": "What do you like most about Christmas?",
+      "correct": [
+        "do"
+      ],
+      "wrong": [
+        "does",
+        "is",
+        "are"
+      ]
+    }
+  ]
+}
