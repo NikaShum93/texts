@@ -1,0 +1,98 @@
+{
+  "language": "en",
+  "font": "Open Sans",
+  "fontSize": 26,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "style": {
+    "shape": "circle",
+    "pad": 22,
+    "bgColor": "#ffffff",
+    "bgImages": [],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ec0909",
+    "borderWidth": 0,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 150
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "A or AN?",
+    "btnText": "START"
+  },
+  "direction": "down",
+  "finalFeedback": "Well done!",
+  "levels": [
+    {
+      "target": "words with \"an\"",
+      "correct": [
+        "https://media.tenor.com/cmPzPQvhqccAAAAi/red-apple-food.gif",
+        "https://media.tenor.com/vXxKljuL1lsAAAAi/egg-food.gif",
+        "https://media.tenor.com/zFoqUyvqfF8AAAAi/ice-cream-summer.gif",
+        "https://media.tenor.com/65JiqwtMnKYAAAAi/tangerine-food.gif",
+        "https://media.tenor.com/-X6bUg5C5C0AAAAi/truth-and-tales-elephant.gif",
+        "https://media.tenor.com/ptq1k2V0q_wAAAAi/ant-semut.gif",
+        "https://media.tenor.com/t8MNbYrgJ_IAAAAi/umbrella-nature.gif",
+        "https://media.tenor.com/G6m3kdPHDrUAAAAi/octopus-pogita.gif",
+        "https://media.tenor.com/9tnqEFOZLQYAAAAi/desert-island-travel.gif",
+        "https://media.tenor.com/8iftxaExXVAAAAAi/4-crocodile.gif",
+        "https://media.tenor.com/DK0qxybZNZUAAAAi/smile-winter-joy.gif"
+      ],
+      "wrong": [
+        "https://media.tenor.com/dEN66mMlhB8AAAAi/i-love-you.gif",
+        "https://media.tenor.com/3034faPtCXUAAAAi/raf-rafs.gif",
+        "https://media.tenor.com/e20c3tvXIMEAAAAi/pen-objects.gif",
+        "https://media.tenor.com/510rM6ezLM8AAAAi/roewi.gif",
+        "https://media.tenor.com/SI6eRkpxU7IAAAAi/smile-happy.gif",
+        "https://media.tenor.com/F1ORbCkWzdsAAAAi/birthday-cake-joypixels.gif",
+        "https://media.tenor.com/Ft1zYm6Zg18AAAAi/automobile-joypixels.gif",
+        "https://media.tenor.com/Uzzsyj8-3S4AAAAi/osito.gif",
+        "https://media.tenor.com/B2_zkZb_D4cAAAAi/barbie-corna.gif",
+        "https://media.tenor.com/wrwsxrl1TS0AAAAi/kite-activity.gif",
+        "https://media.tenor.com/V6HYr1pd1VkAAAAi/train.gif",
+        "https://media.tenor.com/u1I-D7aXK9UAAAAi/havenauts-astronaut.gif",
+        "https://media.tenor.com/11dm-3OMq8QAAAAi/basketball-activity.gif",
+        "https://media.tenor.com/ihvRwRn_rFEAAAAi/banana-ba.gif"
+      ],
+      "timer": 60
+    },
+    {
+      "target": "words with \"a\"",
+      "correct": [
+        "https://media.tenor.com/dEN66mMlhB8AAAAi/i-love-you.gif",
+        "https://media.tenor.com/3034faPtCXUAAAAi/raf-rafs.gif",
+        "https://media.tenor.com/e20c3tvXIMEAAAAi/pen-objects.gif",
+        "https://media.tenor.com/510rM6ezLM8AAAAi/roewi.gif",
+        "https://media.tenor.com/SI6eRkpxU7IAAAAi/smile-happy.gif",
+        "https://media.tenor.com/F1ORbCkWzdsAAAAi/birthday-cake-joypixels.gif",
+        "https://media.tenor.com/Ft1zYm6Zg18AAAAi/automobile-joypixels.gif",
+        "https://media.tenor.com/Uzzsyj8-3S4AAAAi/osito.gif",
+        "https://media.tenor.com/B2_zkZb_D4cAAAAi/barbie-corna.gif",
+        "https://media.tenor.com/wrwsxrl1TS0AAAAi/kite-activity.gif",
+        "https://media.tenor.com/V6HYr1pd1VkAAAAi/train.gif",
+        "https://media.tenor.com/u1I-D7aXK9UAAAAi/havenauts-astronaut.gif",
+        "https://media.tenor.com/11dm-3OMq8QAAAAi/basketball-activity.gif",
+        "https://media.tenor.com/ihvRwRn_rFEAAAAi/banana-ba.gi"
+      ],
+      "wrong": [
+        "https://media.tenor.com/cmPzPQvhqccAAAAi/red-apple-food.gif",
+        "https://media.tenor.com/vXxKljuL1lsAAAAi/egg-food.gif",
+        "https://media.tenor.com/zFoqUyvqfF8AAAAi/ice-cream-summer.gif",
+        "https://media.tenor.com/65JiqwtMnKYAAAAi/tangerine-food.gif",
+        "https://media.tenor.com/-X6bUg5C5C0AAAAi/truth-and-tales-elephant.gif",
+        "https://media.tenor.com/ptq1k2V0q_wAAAAi/ant-semut.gif",
+        "https://media.tenor.com/t8MNbYrgJ_IAAAAi/umbrella-nature.gif",
+        "https://media.tenor.com/G6m3kdPHDrUAAAAi/octopus-pogita.gif",
+        "https://media.tenor.com/9tnqEFOZLQYAAAAi/desert-island-travel.gif",
+        "https://media.tenor.com/8iftxaExXVAAAAAi/4-crocodile.gif",
+        "https://media.tenor.com/DK0qxybZNZUAAAAi/smile-winter-joy.gif"
+      ],
+      "timer": 60
+    }
+  ]
+}
