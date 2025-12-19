@@ -1,0 +1,117 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Nunito",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": true,
+  "bubbleSize": 60,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/qMtPkQ3n/foni-papik-pro-fg1g-p-kartinki-snezhok-na-prozrachnom-fone-4.png",
+    "bubbleSize": 60,
+    "task": {
+      "bgColor": "rgba(179,219,255,1)",
+      "borderColor": "#bdfcff",
+      "textColor": "#ffffff",
+      "fontSize": 30,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#b3dbff",
+      "borderColor": "#bdfcff",
+      "textColor": "#ffffff",
+      "fontSize": 30,
+      "neon": true
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "My brother often takes the dog for a walk.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Dad never sweeps the snow from the roof.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We always put lights on the wreath.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I don’t usually wash up after breakfast.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Santa Claus always brings presents in his sleigh.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My sister doesn’t often dry the dishes.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We sometimes decorate the Christmas tree with baubles.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The reindeer don’t tidy up the sleigh.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I always tidy up my room before Christmas.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My parents don’t do the Christmas shopping on Monday.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The elf sometimes stands behind the Christmas tree.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We don’t always feed the dog before school.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My mum usually cooks dinner.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Santa Claus doesn’t cook dinner.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We usually put the stocking next to the fireplace.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
