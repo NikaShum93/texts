@@ -1,0 +1,199 @@
+{
+  "language": "en",
+  "font": "Cormorant",
+  "fontSize": 28,
+  "textColor": "#000000",
+  "speed": 2,
+  "questionFont": "Cormorant",
+  "questionFontSize": 28,
+  "style": {
+    "shape": "rounded",
+    "pad": 26,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/64233afb55129a0017751c8e/08fa5f51-a49c-4bd8-8f82-018995351e53.png",
+    "bgImages": [
+      "https://img.genially.com/64233afb55129a0017751c8e/08fa5f51-a49c-4bd8-8f82-018995351e53.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "El: Mike...",
+    "btnText": "Listen to El"
+  },
+  "direction": "random",
+  "finalFeedback": "El: Max, can you play the recording?",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "I couldn’t help ___ about what I saw.",
+      "correct": [
+        "thinking"
+      ],
+      "wrong": [
+        "to think"
+      ]
+    },
+    {
+      "target": "I avoided ___ at the dark store windows.",
+      "correct": [
+        "looking"
+      ],
+      "wrong": [
+        "to look"
+      ]
+    },
+    {
+      "target": "I kept ___ strange noises behind me.",
+      "correct": [
+        "hearing"
+      ],
+      "wrong": [
+        "to hear"
+      ]
+    },
+    {
+      "target": "I considered ___, but I decided to stay.",
+      "correct": [
+        "running"
+      ],
+      "wrong": [
+        "to run"
+      ]
+    },
+    {
+      "target": "I expected ___ safe inside the mall.",
+      "correct": [
+        "to feel"
+      ],
+      "wrong": [
+        "feeling"
+      ]
+    },
+    {
+      "target": "I refused ___ the gift boxes near the tree.",
+      "correct": [
+        "to touch"
+      ],
+      "wrong": [
+        "touching"
+      ]
+    },
+    {
+      "target": "I promised ___ until everything stopped moving.",
+      "correct": [
+        "to wait"
+      ],
+      "wrong": [
+        "waiting"
+      ]
+    },
+    {
+      "target": "I enjoyed ___ the lights flicker.",
+      "correct": [
+        "watching"
+      ],
+      "wrong": [
+        "to watch"
+      ]
+    },
+    {
+      "target": "I didn’t mind ___ there, frozen.",
+      "correct": [
+        "standing"
+      ],
+      "wrong": [
+        "to stand"
+      ]
+    },
+    {
+      "target": "I planned ___ the box.",
+      "correct": [
+        "to open"
+      ],
+      "wrong": [
+        "opening"
+      ]
+    },
+    {
+      "target": "I decided ___ it.",
+      "correct": [
+        "to try"
+      ],
+      "wrong": [
+        "trying"
+      ]
+    },
+    {
+      "target": "I promised ___ quiet.",
+      "correct": [
+        "to stay"
+      ],
+      "wrong": [
+        "staying"
+      ]
+    },
+    {
+      "target": "I kept ___ carefully.",
+      "correct": [
+        "listening"
+      ],
+      "wrong": [
+        "to listen"
+      ]
+    },
+    {
+      "target": "I expected ___ breathing.",
+      "correct": [
+        "to hear"
+      ],
+      "wrong": [
+        "hearing"
+      ]
+    },
+    {
+      "target": "I chose ___ the button.",
+      "correct": [
+        "to press"
+      ],
+      "wrong": [
+        "pressing"
+      ]
+    },
+    {
+      "target": "I hoped ___ the sound.",
+      "correct": [
+        "to catch"
+      ],
+      "wrong": [
+        "catching"
+      ]
+    },
+    {
+      "target": "I need ___ you this part carefully.",
+      "correct": [
+        "to tell"
+      ],
+      "wrong": [
+        "telling"
+      ]
+    },
+    {
+      "target": "I managed ___ something.",
+      "correct": [
+        "to record"
+      ],
+      "wrong": [
+        "recording"
+      ]
+    }
+  ]
+}
