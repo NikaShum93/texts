@@ -1,0 +1,117 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Indie Flower",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 64,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/64233afb55129a0017751c8e/f07f74aa-66c0-4d86-a04c-d967bc6e9d3a.png",
+    "bubbleSize": 64,
+    "task": {
+      "bgColor": "rgba(0,0,0,1)",
+      "borderColor": "#ff0000",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#000000",
+      "borderColor": "#ff0000",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    }
+  },
+  "finalFeedback": "Time to leave.",
+  "feedbackImage": "https://img.genially.com/64233afb55129a0017751c8e/7dd678ce-d0f9-4a83-b2e8-8747663edc2a.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "What do you enjoy doing most at Christmas, and why?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What Christmas activity do you remember doing when you were a child?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What do you avoid doing before Christmas because it causes stress?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What do you miss having or doing at Christmas now that you are older?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What Christmas tradition do you regret stopping or changing?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What kind of Christmas movies do you enjoy watching, and with whom?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What do you plan to do on Christmas Eve this year?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What do you hope to feel or experience this Christmas?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What do you want to change about how you celebrate Christmas?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What do you promise to do or not to do during the holidays?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What do you need to prepare before Christmas starts?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What would you like to try this Christmas for the first time?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Who do you want to spend Christmas with, and why?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What Christmas moment do you remember feeling very strongly?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What important Christmas task do you always remember to do, and what happens if you forget?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
