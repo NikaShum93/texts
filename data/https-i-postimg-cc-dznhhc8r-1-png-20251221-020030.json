@@ -1,0 +1,158 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 26,
+  "textColor": "#050000",
+  "speed": 3,
+  "questionFont": "Roboto",
+  "questionFontSize": 27,
+  "style": {
+    "shape": "rounded",
+    "pad": 150,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/CKn0mn8t/12.png",
+    "bgImages": [
+      "https://i.postimg.cc/CKn0mn8t/12.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "This / These / That / Those",
+    "btnText": "START"
+  },
+  "direction": "random",
+  "finalFeedback": "Well done!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "https://i.postimg.cc/DznHHC8R/1.png",
+      "correct": [
+        "This is a train."
+      ],
+      "wrong": [
+        "That is a train.",
+        "These are trains.",
+        "Those are trains."
+      ]
+    },
+    {
+      "target": "https://i.postimg.cc/tJKm5D00/10.png",
+      "correct": [
+        "Those are toy soldiers."
+      ],
+      "wrong": [
+        "These are toy soldiers.",
+        "This is a toy soldier.",
+        "That is a toy soldier."
+      ]
+    },
+    {
+      "target": "https://i.postimg.cc/yxMrPnqC/11.png",
+      "correct": [
+        "This is a nutcracker."
+      ],
+      "wrong": [
+        "That is a nutcracker.",
+        "These are nutcrackers.",
+        "Those are nutcrackers."
+      ]
+    },
+    {
+      "target": "https://i.postimg.cc/nrJ39rqp/Dizajn-bez-nazvania-2025-12-21T015951-809.png",
+      "correct": [
+        "These are teddy bears."
+      ],
+      "wrong": [
+        "Those are teddy bears.",
+        "This is a teddy bear.",
+        "That is a teddy bear."
+      ]
+    },
+    {
+      "target": "https://i.postimg.cc/wvBPT757/3.png",
+      "correct": [
+        "This is a reindeer."
+      ],
+      "wrong": [
+        "That is a reindeer.",
+        "These are reindeer.",
+        "Those are reindeer."
+      ]
+    },
+    {
+      "target": "https://i.postimg.cc/SsK5NJLX/4.png",
+      "correct": [
+        "That is a doll."
+      ],
+      "wrong": [
+        "This is a doll.",
+        "These are dolls.",
+        "Those are dolls."
+      ]
+    },
+    {
+      "target": "https://i.postimg.cc/ydN5YkhW/5.png",
+      "correct": [
+        "These are cars."
+      ],
+      "wrong": [
+        "Those are cars.",
+        "This is a car.",
+        "That is a car."
+      ]
+    },
+    {
+      "target": "https://i.postimg.cc/C162ZSJr/6.png",
+      "correct": [
+        "That is a plane."
+      ],
+      "wrong": [
+        "This is a plane.",
+        "These are planes.",
+        "Those are planes."
+      ]
+    },
+    {
+      "target": "https://i.postimg.cc/HxPNJdBk/7.png",
+      "correct": [
+        "That is a ball."
+      ],
+      "wrong": [
+        "This is a ball.",
+        "These are balls.",
+        "Those are balls."
+      ]
+    },
+    {
+      "target": "https://i.postimg.cc/qRZFt4j4/8.png",
+      "correct": [
+        "Those are blocks."
+      ],
+      "wrong": [
+        "These are blocks.",
+        "This is a block.",
+        "That is a block."
+      ]
+    },
+    {
+      "target": "https://i.postimg.cc/26Xtqr2m/9.png",
+      "correct": [
+        "Those are robots."
+      ],
+      "wrong": [
+        "These are robots.",
+        "This is a robot.",
+        "That is a robot."
+      ]
+    }
+  ]
+}
