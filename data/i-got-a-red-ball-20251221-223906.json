@@ -1,0 +1,117 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Caveat",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/60965f29ebc4800fbe1c0f74/97219d77-a1cd-426e-97dc-756e2aa38eff.png",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(185,203,217,1)",
+      "borderColor": "#b14b2f",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://media.tenor.com/J-Q0Nc0WcN4AAAAi/clap.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "I ______ got a red ball.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She ______ got a cat.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We ______ got two pencils.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "He ______ got a blue bike.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They ______ got a big house.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I ______ not got a dog.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She ______ not got a sister.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "He ______ not got a hat.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We ______ not got any apples.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They ______ not got a car.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "______ you got a pen?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "______ she got a brother?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "______ he got a toy?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "______ they got a teacher?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "______ we got homework?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
