@@ -1,0 +1,242 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Creepster",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": false,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/6573f8946d6d76001fe95399/a465484d-0b69-48e5-b52a-097544f41a07.png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(2,122,162,1)",
+      "borderColor": "#fffca8",
+      "textColor": "#ffffff",
+      "fontSize": 21,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#035172",
+      "borderColor": "#ffffff",
+      "textColor": "#ffffff",
+      "fontSize": 21,
+      "neon": true
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 3,
+  "tasks": [
+    {
+      "question": "What is _______ (good) Christmas present you have ever got?",
+      "correct": [
+        "the best"
+      ],
+      "wrong": [
+        "goodest",
+        "better"
+      ]
+    },
+    {
+      "question": "Christmas Eve is _______ (exciting) than a normal evening.",
+      "correct": [
+        "more exciting"
+      ],
+      "wrong": [
+        "excitinger",
+        "most exciting"
+      ]
+    },
+    {
+      "question": "Winter days are _______ (short) than summer days.",
+      "correct": [
+        "shorter"
+      ],
+      "wrong": [
+        "more short",
+        "shortest"
+      ]
+    },
+    {
+      "question": "January is _______ (cold) month of the year.",
+      "correct": [
+        "the coldest"
+      ],
+      "wrong": [
+        "more cold",
+        "coldest"
+      ]
+    },
+    {
+      "question": "New Year’s Eve is _______ (fun) night for many people.",
+      "correct": [
+        "the most fun"
+      ],
+      "wrong": [
+        "funner",
+        "more funnier"
+      ]
+    },
+    {
+      "question": "Hot chocolate is _______ (nice) in winter than in summer.",
+      "correct": [
+        "nicer"
+      ],
+      "wrong": [
+        "more nicer",
+        "nicest"
+      ]
+    },
+    {
+      "question": "This winter is _______ (snowy) than last winter.",
+      "correct": [
+        "snowier"
+      ],
+      "wrong": [
+        "more snowy",
+        "snowiest"
+      ]
+    },
+    {
+      "question": "Decorating the tree is _______ (happy) part of Christmas.",
+      "correct": [
+        "the happiest"
+      ],
+      "wrong": [
+        "more happy",
+        "happiest"
+      ]
+    },
+    {
+      "question": "Skiing is _______ (dangerous) than skating.",
+      "correct": [
+        "more dangerous"
+      ],
+      "wrong": [
+        "dangerouser",
+        "most dangerous"
+      ]
+    },
+    {
+      "question": "Christmas lights are _______ (bright) at night than in the day.",
+      "correct": [
+        "brighter"
+      ],
+      "wrong": [
+        "more brighter",
+        "brightest"
+      ]
+    },
+    {
+      "question": "The weather in December is _______ (bad) than in November.",
+      "correct": [
+        "worse"
+      ],
+      "wrong": [
+        "badder",
+        "baddest"
+      ]
+    },
+    {
+      "question": "This is _______ (interesting) winter sport I know.",
+      "correct": [
+        "the most interesting"
+      ],
+      "wrong": [
+        "interestinger",
+        "more interestinger"
+      ]
+    },
+    {
+      "question": "A warm coat is _______ (important) in winter than in autumn.",
+      "correct": [
+        "more important"
+      ],
+      "wrong": [
+        "importanter",
+        "most importanter"
+      ]
+    },
+    {
+      "question": "New Year’s Day is _______ (quiet) than New Year’s Eve.",
+      "correct": [
+        "quieter"
+      ],
+      "wrong": [
+        "more quieter",
+        "quietest"
+      ]
+    },
+    {
+      "question": "This Christmas song is _______ (popular) than the old one.",
+      "correct": [
+        "more popular"
+      ],
+      "wrong": [
+        "popularer",
+        "most popularer"
+      ]
+    },
+    {
+      "question": "Ice skating is _______ (easy) than skiing.",
+      "correct": [
+        "easier"
+      ],
+      "wrong": [
+        "more easier",
+        "easiest"
+      ]
+    },
+    {
+      "question": "Family time is _______ (valuable) part of the holidays.",
+      "correct": [
+        "the most valuable"
+      ],
+      "wrong": [
+        "valuabler",
+        "more valuablest"
+      ]
+    },
+    {
+      "question": "Winter holidays are _______ (long) than a normal weekend.",
+      "correct": [
+        "longer"
+      ],
+      "wrong": [
+        "more longer",
+        "longest"
+      ]
+    },
+    {
+      "question": "This year’s Christmas dinner is _______ (tasty) than last year’s.",
+      "correct": [
+        "tastier"
+      ],
+      "wrong": [
+        "more tastier",
+        "tastiest"
+      ]
+    },
+    {
+      "question": "December 31st is _______ (busy) day of the year.",
+      "correct": [
+        "the busiest"
+      ],
+      "wrong": [
+        "busyer",
+        "most busy"
+      ]
+    }
+  ]
+}
