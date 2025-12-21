@@ -1,0 +1,147 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Patrick Hand",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 116,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media0.giphy.com/media/XMasZzurdLwATHAS3N/giphy.gif?cid=a267dfa34zasv23jbox4hfj392u3qgclmzsex2kzbhu680kq&ep=v1_stickers_search&rid=giphy.gif&ct=s",
+    "bubbleSize": 116,
+    "task": {
+      "bgColor": "rgba(6,136,249,0.75)",
+      "borderColor": "#0fc6eb",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#1486f0",
+      "borderColor": "#0fcff5",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    }
+  },
+  "finalFeedback": "✨Ten Points for Gryffindor! ✨",
+  "feedbackImage": "",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Hogwarts looks ________ (beautiful) in winter than in summer.",
+      "correct": [
+        "more beautiful"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Ron thinks Christmas dinner is ________ (good) meal of the year.",
+      "correct": [
+        "the best"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Harry feels ________ (happy) when he celebrates Christmas with his friends.",
+      "correct": [
+        "happier"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The Forbidden Forest is ________ (dangerous) in winter nights.",
+      "correct": [
+        "more dangerous"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Hermione is ________ (good) at spells than most students.",
+      "correct": [
+        "better"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "This winter is ________ (cold) Harry has ever experienced at Hogwarts.",
+      "correct": [
+        "the coldest"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Flying on a broom is ________ (exciting) than walking through the snow.",
+      "correct": [
+        "more exciting"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Malfoy thinks his presents are ________ (expensive) of all.",
+      "correct": [
+        "the most expensive"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The Great Hall looks ________ (magical) at Christmas than usual.",
+      "correct": [
+        "more magical"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Ron says studying is ________ (bad) part of the holidays.",
+      "correct": [
+        "the worst"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Harry ran ________ (fast) than everyone else to open his presents.",
+      "correct": [
+        "faster"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Hagrid lives ________ (far) from the castle than most teachers.",
+      "correct": [
+        "farther"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Hermione has ________ (many) Christmas books than anyone else.",
+      "correct": [
+        "more"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "This task is ________ (easy) than the last spell they learned.",
+      "correct": [
+        "easier"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Winter nights at Hogwarts are ________ (quiet) of the whole year.",
+      "correct": [
+        "the quietest"
+      ],
+      "wrong": []
+    }
+  ]
+}
