@@ -1,0 +1,72 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Nunito",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/64233afb55129a0017751c8e/21445f8c-9bd0-41a3-a7ed-f22ed088e75c.png",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(255,199,46,0.8)",
+      "borderColor": "#efd1ff",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#fdc326",
+      "borderColor": "#ff7300",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    }
+  },
+  "finalFeedback": "Thank you for sharing!",
+  "feedbackImage": "https://media.tenor.com/DG2j6-JfA08AAAAC/patrick-star-christmas-hat.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "The Honest Dinner If you were forced to drink a \"truth serum\" right before sitting down for Christmas dinner with your extended family, would you fake being sick to skip it, or go and watch the chaos unfold?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The Grinch Proposition If the Grinch offered you $10,000 to ruin Christmas for your younger sibling or cousin (tell them Santa isn't real, pop their balloons, etc.), would you take the money?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The Gift Receipt If your partner or best friend gave you a terrible, ugly sweater they knitted themselves for Christmas, would you wear it to school to make them happy, or \"accidentally\" lose it?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The Santa Trap If you caught Santa Claus in your living room and you had enough evidence to blackmail him for anything in the world, what would you demand?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The Mariah Carey Curse If you were locked in a room and had to listen to \"All I Want for Christmas is You\" on repeat for 24 hours to win a new car, would you do it, or would you lose your mind?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The Reindeer Swap If you were Santa but you were allergic to reindeer, what animal would you use to pull your sleigh instead? (e.g., \"If I were Santa, I would use giant flying cats...\")",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
