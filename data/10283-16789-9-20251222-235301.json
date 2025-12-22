@@ -1,0 +1,70 @@
+{
+  "language": "ru",
+  "font": "Lobster",
+  "fontSize": 28,
+  "textColor": "#121111",
+  "speed": 4,
+  "questionFont": "Lobster",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 41,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/684ea2da1b51060014c50e97/a73bbdbc-f833-40c6-9e4a-efc0391fb1dd.png",
+    "bgImages": [
+      "https://img.genially.com/684ea2da1b51060014c50e97/a73bbdbc-f833-40c6-9e4a-efc0391fb1dd.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Поиграем в снежки",
+    "btnText": "Начать"
+  },
+  "direction": "random",
+  "finalFeedback": "Победа!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "(10283 + 16789) : 9 =",
+      "correct": [
+        "3.008"
+      ],
+      "wrong": [
+        "3.080",
+        "2.356",
+        "1.684"
+      ]
+    },
+    {
+      "target": "5 • (125 + 75) : 20 =",
+      "correct": [
+        "50"
+      ],
+      "wrong": [
+        "35",
+        "44",
+        "86"
+      ]
+    },
+    {
+      "target": "(200496 -134597) • 2 =",
+      "correct": [
+        "131.798"
+      ],
+      "wrong": [
+        "131.792",
+        "12.544",
+        "3.456"
+      ]
+    }
+  ]
+}
