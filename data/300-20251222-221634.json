@@ -1,0 +1,147 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 138,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/65a66a0db3c06500207bb5f3/6c105ad8-8cca-419e-ab91-0b4835647080.png",
+    "bubbleSize": 138,
+    "task": {
+      "bgColor": "rgba(19,73,32,1)",
+      "borderColor": "#d2dadb",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#0a5717",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    }
+  },
+  "finalFeedback": "🎉 Отличная работа!",
+  "feedbackImage": "",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "300 мм = _______ см",
+      "correct": [
+        "30 см"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "513 дм = ____ м____ дм",
+      "correct": [
+        "5 м 13 дм"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "3470 см =____ м ____ дм",
+      "correct": [
+        "34 м 7 дм"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "6003 м = ____ км ____ м",
+      "correct": [
+        "6 км 3 м"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "5805 м = ____км ____ м",
+      "correct": [
+        "5 км 805 м"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "9 км 50 м=__________м",
+      "correct": [
+        "9050 м"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "5 мин =_____с",
+      "correct": [
+        "300 с"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "3 суток  =____ч",
+      "correct": [
+        "72 ч"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "8 час =_____ мин",
+      "correct": [
+        "480 мин"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "600 мин =_____ ч",
+      "correct": [
+        "10 ч"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "7 ч 25 мин =_____мин",
+      "correct": [
+        "445 мин"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "120 мин = _____ч",
+      "correct": [
+        "2 ч"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "2 сут 8 ч = ____ ч",
+      "correct": [
+        "56 ч"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "420 с = _____ мин",
+      "correct": [
+        "7 мин"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "500 мм = _______ см",
+      "correct": [
+        "50 см"
+      ],
+      "wrong": []
+    }
+  ]
+}
