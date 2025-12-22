@@ -1,0 +1,126 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Baloo 2",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 128,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/EzslInPS8zkAAAAi/deer.gif",
+    "bubbleSize": 128,
+    "task": {
+      "bgColor": "rgba(30,139,235,0.9)",
+      "borderColor": "#10e8f4",
+      "textColor": "#ffffff",
+      "fontSize": 25,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#33c4e1",
+      "borderColor": "#0eacfb",
+      "textColor": "#ffffff",
+      "fontSize": 25,
+      "neon": true
+    }
+  },
+  "finalFeedback": "Thanks a lot! 🎅",
+  "feedbackImage": "",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "There are three ___ (box) on the table.",
+      "correct": [
+        "boxes"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The girl has got five ___ (apple) in her bag.",
+      "correct": [
+        "apples"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We see many ___ (baby) in the park.",
+      "correct": [
+        "babies"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "There are two ___ (bus) next to the school.",
+      "correct": [
+        "buses"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I have got a lot of ___ (toy) at home.",
+      "correct": [
+        "toys"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Two ___ (child) are playing in the snow.",
+      "correct": [
+        "children"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I can see three ___ (mouse) in the book.",
+      "correct": [
+        "mice"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The farmer has got many ___ (sheep).",
+      "correct": [
+        "sheep"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We have got two ___ (foot).",
+      "correct": [
+        "feet"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "There are two ___ (man) in the shop.",
+      "correct": [
+        "men"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "There are some ___ (goose) by the lake.",
+      "correct": [
+        "geese"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Where are your ____ (dish)?",
+      "correct": [
+        "dishes"
+      ],
+      "wrong": []
+    }
+  ]
+}
