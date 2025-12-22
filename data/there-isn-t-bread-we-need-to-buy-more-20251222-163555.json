@@ -1,0 +1,182 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Nunito",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 40,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/C1GbJcYx/1766405387-no-bg-preview-(carve-photos).png",
+    "bubbleSize": 40,
+    "task": {
+      "bgColor": "rgba(155,72,47,1)",
+      "borderColor": "#ee8e20",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#9b482f",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://media.tenor.com/NZM2g7tLyRAAAAAC/big-smile-stranger-things.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "There isn’t ______ bread, we need to buy more.",
+      "correct": [
+        "any"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "______ there any fish in the fridge?",
+      "correct": [
+        "Is"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We don’t have ______ fruit, but we have ______ apples.",
+      "correct": [
+        "any, some"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "How ______ biscuits are in the packet?",
+      "correct": [
+        "many"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "There is ______ cereal and ______ cheese on the table.",
+      "correct": [
+        "some, some"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "There ______ a lot of chicken, but there aren’t ______ chips.",
+      "correct": [
+        "is, any"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Is there ______ ham in the sandwich?",
+      "correct": [
+        "any"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "How ______ meat do we need for dinner?",
+      "correct": [
+        "much"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "There’s ______ orange juice in the fridge, but there isn’t ______ pancakes.",
+      "correct": [
+        "some, any"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "______ there any rice or salad in the kitchen?",
+      "correct": [
+        "Is"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "There are ______ sandwiches, but there isn’t ______ tuna.",
+      "correct": [
+        "some, any"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "How ______ tomatoes do you want in your salad?",
+      "correct": [
+        "many"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "There isn’t ______ pasta, but there are ______ potatoes.",
+      "correct": [
+        "any, some"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We’ve got ______ sausages and ______ vegetables for dinner.",
+      "correct": [
+        "some, some"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Is there ______ water in the bottle?",
+      "correct": [
+        "any"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "There’s ______ yoghurt and ______ bar of chocolate in my bag.",
+      "correct": [
+        "some, a"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "How ______ bottles of water do we need for the trip?",
+      "correct": [
+        "many"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "There isn’t a ______ of cola, but there’s a ______ of juice.",
+      "correct": [
+        "can, carton"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Do we have a ____ of jam or a ____ of biscuits?",
+      "correct": [
+        "jar, packet"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "There are ______ lot of products on the list: ______ cereal, ______ yoghurt, and ______ pasta.",
+      "correct": [
+        "a, some, some, some"
+      ],
+      "wrong": []
+    }
+  ]
+}
