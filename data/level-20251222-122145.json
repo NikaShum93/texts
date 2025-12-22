@@ -1,0 +1,52 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 0,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Буква Ч",
+    "btnText": "Играть"
+  },
+  "direction": "up",
+  "finalFeedback": "",
+  "levels": [
+    {
+      "target": "чашки с буквой Ч",
+      "correct": [
+        "https://i.postimg.cc/W4wwhPT4/10.png",
+        "https://i.postimg.cc/VNWWdcm6/11.png",
+        "https://i.postimg.cc/ZqxxCh4n/12.png",
+        "https://i.postimg.cc/5tSS6Mbz/13.png"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/43g1f3CM/1.png",
+        "https://i.postimg.cc/hGB0DGWq/2.png",
+        "https://i.postimg.cc/7LkNHL88/3.png",
+        "https://i.postimg.cc/6QXhWQJx/4.png",
+        "https://i.postimg.cc/N0cxs0qc/5.png",
+        "https://i.postimg.cc/GpxxH1r6/6.png",
+        "https://i.postimg.cc/PqQQPkTG/8.png",
+        "https://i.postimg.cc/5tSS6Mbf/9.png"
+      ],
+      "timer": 59
+    }
+  ]
+}
