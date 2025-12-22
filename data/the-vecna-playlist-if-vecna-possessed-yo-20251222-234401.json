@@ -1,0 +1,72 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Nunito",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/64233afb55129a0017751c8e/21445f8c-9bd0-41a3-a7ed-f22ed088e75c.png",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(255,199,46,0.8)",
+      "borderColor": "#efd1ff",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#fdc326",
+      "borderColor": "#ff7300",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    }
+  },
+  "finalFeedback": "Thank you for sharing!",
+  "feedbackImage": "https://media.tenor.com/DG2j6-JfA08AAAAC/patrick-star-christmas-hat.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "The Vecna Playlist If Vecna possessed you right now and the only way to save your life was to blast your \"guilty pleasure\" song for the whole school to hear, which embarrassing song would you choose?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The 80s Trade-off If you were transported to 1984 Hawkins, Indiana, but you had to give up your smartphone forever to keep your cool 80s hair and fashion, would you stay there or come back to the boring present?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The Demogorgon Pet If you found a baby Demogorgon (like Dart) and it ate your homework, would you try to hide it in your room or immediately tell the government?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The Truth-Teller If you had Eleven’s powers, but every time you used them your nose bled profusely in front of your crush, would you still use your powers to show off?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The Survival Partner If you were stuck in the Upside Down and could only bring one teacher from this school to help you fight monsters, who would you choose and why?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The Hair Dilemma If you had to have Steve Harrington’s hair (huge and full of hairspray) or Joyce’s anxiety (constant panic) for a whole year, which would you choose?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
