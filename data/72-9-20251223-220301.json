@@ -1,0 +1,105 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Mountains of Christmas",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/684ea2da1b51060014c50e97/0d077485-099c-457b-9db9-0e0ad9ab8d68.png",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(255,255,255,0)",
+      "borderColor": "#a00303",
+      "textColor": "#ff0303",
+      "fontSize": 26,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#ffffff",
+      "borderColor": "#a00303",
+      "textColor": "#a00303",
+      "fontSize": 26,
+      "neon": true
+    }
+  },
+  "finalFeedback": "Молодец!",
+  "feedbackImage": "https://img.genially.com/684ea2da1b51060014c50e97/0d077485-099c-457b-9db9-0e0ad9ab8d68.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "72 : 9 =",
+      "correct": [
+        "8"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "56 : 8 =",
+      "correct": [
+        "7"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "8 * 5 =",
+      "correct": [
+        "40"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "63 : 7 =",
+      "correct": [
+        "9"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "36 : 9 =",
+      "correct": [
+        "4"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "12 : 3 =",
+      "correct": [
+        "4"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "40 : 5 =",
+      "correct": [
+        "8"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "4 * 7 =",
+      "correct": [
+        "28"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "32 : 4 =",
+      "correct": [
+        "8"
+      ],
+      "wrong": []
+    }
+  ]
+}
