@@ -1,0 +1,81 @@
+{
+  "language": "ru",
+  "font": "Lobster",
+  "fontSize": 33,
+  "textColor": "#000000",
+  "speed": 4,
+  "questionFont": "Lobster",
+  "questionFontSize": 34,
+  "style": {
+    "shape": "rounded",
+    "pad": 42,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/684ea2da1b51060014c50e97/e2dd27eb-eb17-4a7d-a72b-300fa27b3ea3.png",
+    "bgImages": [
+      "https://img.genially.com/684ea2da1b51060014c50e97/e2dd27eb-eb17-4a7d-a72b-300fa27b3ea3.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Игра в снежки",
+    "btnText": "Начать"
+  },
+  "direction": "random",
+  "finalFeedback": "Победа!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "Прямоугольник со сторонами 7 см и 2 см. Найди его площадь.",
+      "correct": [
+        "14 см2"
+      ],
+      "wrong": [
+        "9 см2",
+        "12 см2",
+        "15 см2"
+      ]
+    },
+    {
+      "target": "Прямоугольник со сторонами 6 см и 4 см. Найди его площадь.",
+      "correct": [
+        "24 см2"
+      ],
+      "wrong": [
+        "10 см2",
+        "12 см2",
+        "22 см2"
+      ]
+    },
+    {
+      "target": "Квадрат со стороной 6 см. Найди его площадь.",
+      "correct": [
+        "36 см2"
+      ],
+      "wrong": [
+        "20 см2",
+        "18 см2",
+        "22 см2"
+      ]
+    },
+    {
+      "target": "Треугольник со сторонами 4 см, 3 см, 8 см. Найди его периметр.",
+      "correct": [
+        "15 см"
+      ],
+      "wrong": [
+        "18 см",
+        "14 см",
+        "20 см"
+      ]
+    }
+  ]
+}
