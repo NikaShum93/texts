@@ -1,0 +1,59 @@
+{
+  "language": "ru",
+  "font": "Lobster",
+  "fontSize": 33,
+  "textColor": "#000000",
+  "speed": 4,
+  "questionFont": "Lobster",
+  "questionFontSize": 56,
+  "style": {
+    "shape": "rounded",
+    "pad": 42,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/684ea2da1b51060014c50e97/e2dd27eb-eb17-4a7d-a72b-300fa27b3ea3.png",
+    "bgImages": [
+      "https://img.genially.com/684ea2da1b51060014c50e97/e2dd27eb-eb17-4a7d-a72b-300fa27b3ea3.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Игра в снежки",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Победа!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "Прямоугольник со сторонами 7 см и 2 см. Найди его периметр.",
+      "correct": [
+        "18 см"
+      ],
+      "wrong": [
+        "9 см",
+        "12 см",
+        "15 см"
+      ]
+    },
+    {
+      "target": "Прямоугольник со сторонами 6 см и 4 см. Найди его периметр.",
+      "correct": [
+        "20 см"
+      ],
+      "wrong": [
+        "10 см",
+        "12 см",
+        "22 см"
+      ]
+    }
+  ]
+}
