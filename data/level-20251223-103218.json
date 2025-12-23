@@ -1,0 +1,110 @@
+{
+  "language": "zh",
+  "font": "Noto Sans SC",
+  "fontSize": 25,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "style": {
+    "shape": "circle",
+    "pad": 22,
+    "bgColor": "#43d1db",
+    "bgImages": [],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": true,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 0.8,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "读生词。翻译。",
+    "btnText": "开始"
+  },
+  "direction": "down",
+  "finalFeedback": "太好了！",
+  "levels": [
+    {
+      "target": "Выбери только слова, обозначающие погоду/сезоны",
+      "correct": [
+        "雨",
+        "雪",
+        "刮风",
+        "冷",
+        "热",
+        "温暖",
+        "冬天",
+        "夏天",
+        "秋天",
+        "春天",
+        "温度"
+      ],
+      "wrong": [
+        "狗",
+        "猫",
+        "鱼",
+        "过",
+        "来",
+        "国家",
+        "复习",
+        "喜欢",
+        "海鲜",
+        "学校",
+        "问题"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "Переведи слова",
+      "correct": [
+        "爱情片",
+        "恐怖片",
+        "科幻片",
+        "冒险片",
+        "战争片",
+        "动作片",
+        "喜剧片",
+        "剧情片",
+        "动画片",
+        "纪录片",
+        "侦探片",
+        "电影",
+        "京剧"
+      ],
+      "wrong": [],
+      "timer": 30
+    },
+    {
+      "target": "Выбери только глаголы",
+      "correct": [
+        "打",
+        "去",
+        "来",
+        "吃",
+        "喝",
+        "看",
+        "见面",
+        "打算",
+        "计划",
+        "写",
+        "听"
+      ],
+      "wrong": [
+        "猫",
+        "狗",
+        "电视",
+        "图",
+        "鱼",
+        "雨",
+        "雪",
+        "莱",
+        "果"
+      ],
+      "timer": 30
+    }
+  ]
+}
