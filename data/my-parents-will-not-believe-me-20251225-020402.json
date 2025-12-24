@@ -1,0 +1,82 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Mountains of Christmas",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/64233afb55129a0017751c8e/22cd2d10-e2f6-4854-b2df-9c3fbae48cd8.png",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(191,191,191,1)",
+      "borderColor": "#e3e3e3",
+      "textColor": "#000000",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    }
+  },
+  "finalFeedback": "Yeti feels better now!",
+  "feedbackImage": "https://img.genially.com/64233afb55129a0017751c8e/281c04da-780a-425f-9d04-503918ac596d.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "My parents will not believe me.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I will not find them.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I will not see them.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They will never hug me.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They will run away.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My parents will not listen to me.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They will think I am a monster.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I will be alone forever.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
