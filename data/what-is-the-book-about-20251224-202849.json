@@ -1,0 +1,107 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Mountains of Christmas",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://github.com/NikaShum93/sound/raw/refs/heads/main/short-toy-squeak.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/64233afb55129a0017751c8e/3bcd315c-10e9-44b3-89f2-398bffc6bf2f.png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#2424ff",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    }
+  },
+  "finalFeedback": "You can go!",
+  "feedbackImage": "https://img.genially.com/64233afb55129a0017751c8e/3bcd315c-10e9-44b3-89f2-398bffc6bf2f.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "What is the book about?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Who is the main character?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What happens in the story?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Is the story funny or serious?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Is it interesting or boring?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Who gave it to you?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What do you like most about it?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What is the game about?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What do you do in the game?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "How often do you play it?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Is it scary or funny?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Is the game easy or difficult?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do you usually play alone or with friends?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
