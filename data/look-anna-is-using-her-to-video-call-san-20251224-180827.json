@@ -1,0 +1,192 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Fredoka",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 40,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/FRKZzHJp/zolotoj-kljuchik.png",
+    "bubbleSize": 40,
+    "task": {
+      "bgColor": "rgba(172,159,176,1)",
+      "borderColor": "#56788b",
+      "textColor": "#ffffff",
+      "fontSize": 28,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#ac9fb0",
+      "borderColor": "#56788b",
+      "textColor": "#ffffff",
+      "fontSize": 28,
+      "neon": true
+    }
+  },
+  "finalFeedback": "Well Done!",
+  "feedbackImage": "https://i.postimg.cc/RFVB0Kdq/maleficent-angelina-jolie.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 3,
+  "tasks": [
+    {
+      "question": "Look! Anna is using her __________ to video-call Santa right now.",
+      "correct": [
+        "mobile phone"
+      ],
+      "wrong": [
+        "mouse",
+        "printer"
+      ]
+    },
+    {
+      "question": "Every New Year’s Eve, my dad __________ to his brother in Canada.",
+      "correct": [
+        "chats online"
+      ],
+      "wrong": [
+        "takes a selfie",
+        "texts a friend"
+      ]
+    },
+    {
+      "question": "I can’t hear the New Year’s music — where are my __________?",
+      "correct": [
+        "headphones"
+      ],
+      "wrong": [
+        "camera",
+        "keyboard"
+      ]
+    },
+    {
+      "question": "Right now, Max is trying to __________ a funny holiday song for our party.",
+      "correct": [
+        "download"
+      ],
+      "wrong": [
+        "send an email",
+        "surf the Internet"
+      ]
+    },
+    {
+      "question": "We always decorate the house, then __________ with the Christmas tree in the background.",
+      "correct": [
+        "take a selfie"
+      ],
+      "wrong": [
+        "talk on the phone",
+        "use the TV"
+      ]
+    },
+    {
+      "question": "My little sister is drawing a snowman on the __________ with her finger.",
+      "correct": [
+        "screen"
+      ],
+      "wrong": [
+        "printer",
+        "speakers"
+      ]
+    },
+    {
+      "question": "Mum is baking cookies and __________ to Grandma at the same time!",
+      "correct": [
+        "talking on the phone"
+      ],
+      "wrong": [
+        "texting a friend",
+        "downloading a song"
+      ]
+    },
+    {
+      "question": "He doesn’t like typing on his phone, so he uses a __________.",
+      "correct": [
+        "keyboard"
+      ],
+      "wrong": [
+        "mouse",
+        "camera"
+      ]
+    },
+    {
+      "question": "At this moment, I __________ to find New Year traditions around the world.",
+      "correct": [
+        "am surfing the Internet"
+      ],
+      "wrong": [
+        "am sending an email",
+        "am chatting online"
+      ]
+    },
+    {
+      "question": "We need to print our holiday cards — please turn on the __________!",
+      "correct": [
+        "printer"
+      ],
+      "wrong": [
+        "computer",
+        "TV"
+      ]
+    },
+    {
+      "question": "Look at the big __________! It’s showing the time in London.",
+      "correct": [
+        "screen"
+      ],
+      "wrong": [
+        "laptop",
+        "tablet"
+      ]
+    },
+    {
+      "question": "I always __________ to my grandparents before Christmas.",
+      "correct": [
+        "send an email"
+      ],
+      "wrong": [
+        "download",
+        "talk on the phone"
+      ]
+    },
+    {
+      "question": "Is that your new __________? It looks great for watching holiday movies!",
+      "correct": [
+        "tablet"
+      ],
+      "wrong": [
+        "headphones",
+        "mouse"
+      ]
+    },
+    {
+      "question": "The music is too quiet — can you turn up the __________, please?",
+      "correct": [
+        "speakers"
+      ],
+      "wrong": [
+        "camera",
+        "keyboard"
+      ]
+    },
+    {
+      "question": "She’s not using her __________ right now, so you can borrow it to write your letter to Santa.",
+      "correct": [
+        "laptop"
+      ],
+      "wrong": [
+        "mouse",
+        "TV"
+      ]
+    }
+  ]
+}
