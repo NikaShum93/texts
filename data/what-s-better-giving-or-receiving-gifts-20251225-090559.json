@@ -1,0 +1,102 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Fredoka",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/60965f29ebc4800fbe1c0f74/58fafde3-488f-4cf3-9499-b2f127a36265.png",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(221,102,90,1)",
+      "borderColor": "#da4b3d",
+      "textColor": "#f0ccc0",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#dd665a",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    }
+  },
+  "finalFeedback": "🎄 Good job!",
+  "feedbackImage": "https://media.tenor.com/YAlvYAOdHMsAAAAC/pusheen-christmas.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "What’s better, giving or receiving gifts?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Are real Christmas trees better than fake Christmas trees?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Does Christmas bring people together?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Christmas crackers often have a small toy or a joke inside. What would you put inside a Christmas cracker?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "If you could choose anything you wanted for Christmas dinner, what would you eat?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What is the best present you have ever been given?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What is the worst present you have ever been given?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What is the worst present you have ever been given?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What is your favourite Christmas film and why do you like it?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Are handmade gifts the best kind of Christmas gift?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Did you write a Christmas list this year? What did you ask for?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What’s your favourite Christmas tradition?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
