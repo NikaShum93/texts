@@ -1,0 +1,63 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Mountains of Christmas",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/QGA78UFo9oAAAAAi/minecraft-parrot-minecraft.gif",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 36,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 36,
+      "neon": true
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": true,
+  "quizUseOtherCorrect": true,
+  "quizMaxOptions": 3,
+  "tasks": [
+    {
+      "question": "https://img.genially.com/64233afb55129a0017751c8e/280fca33-41cc-42a2-922b-61d56cf720c2.png",
+      "correct": [
+        "one"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "https://img.genially.com/64233afb55129a0017751c8e/27e33de3-45e7-42c6-9093-799ac3783d09.png",
+      "correct": [
+        "two"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "https://img.genially.com/64233afb55129a0017751c8e/5717d30d-e2a0-4ad7-8d83-671eb9b6ecba.png",
+      "correct": [
+        "three"
+      ],
+      "wrong": []
+    }
+  ]
+}
