@@ -1,0 +1,145 @@
+{
+  "language": "en",
+  "font": "Anton",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "questionFont": "Anton",
+  "questionFontSize": 36,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "",
+    "bgImages": [],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 150
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Catch Numbers",
+    "btnText": "Start"
+  },
+  "direction": "random",
+  "finalFeedback": "Well done!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "one",
+      "correct": [
+        "https://img.genially.com/64233afb55129a0017751c8e/280fca33-41cc-42a2-922b-61d56cf720c2.png"
+      ],
+      "wrong": [
+        "https://img.genially.com/64233afb55129a0017751c8e/4e4abeb2-850a-4f73-ae52-3e42d4e3c533.png",
+        "https://img.genially.com/64233afb55129a0017751c8e/27e33de3-45e7-42c6-9093-799ac3783d09.png",
+        "https://img.genially.com/64233afb55129a0017751c8e/42fa782f-c7e3-44db-913f-d442904de1ea.png"
+      ]
+    },
+    {
+      "target": "two",
+      "correct": [
+        "https://img.genially.com/64233afb55129a0017751c8e/27e33de3-45e7-42c6-9093-799ac3783d09.png"
+      ],
+      "wrong": [
+        "https://img.genially.com/64233afb55129a0017751c8e/50c9ad51-4540-4abf-b26e-313caffc84cb.png",
+        "https://img.genially.com/64233afb55129a0017751c8e/308e6689-4ea9-4e07-a10e-e0381b87dd7d.png",
+        "https://img.genially.com/64233afb55129a0017751c8e/42fa782f-c7e3-44db-913f-d442904de1ea.png"
+      ]
+    },
+    {
+      "target": "three",
+      "correct": [
+        "https://img.genially.com/64233afb55129a0017751c8e/5717d30d-e2a0-4ad7-8d83-671eb9b6ecba.png"
+      ],
+      "wrong": [
+        "https://img.genially.com/64233afb55129a0017751c8e/27e33de3-45e7-42c6-9093-799ac3783d09.png",
+        "https://img.genially.com/64233afb55129a0017751c8e/42fa782f-c7e3-44db-913f-d442904de1ea.png",
+        "https://img.genially.com/64233afb55129a0017751c8e/280fca33-41cc-42a2-922b-61d56cf720c2.png"
+      ]
+    },
+    {
+      "target": "four",
+      "correct": [
+        "https://img.genially.com/64233afb55129a0017751c8e/4e4abeb2-850a-4f73-ae52-3e42d4e3c533.png"
+      ],
+      "wrong": [
+        "https://img.genially.com/64233afb55129a0017751c8e/718a6e8b-6319-4f55-a43f-e18c02bca70a.png",
+        "https://img.genially.com/64233afb55129a0017751c8e/280fca33-41cc-42a2-922b-61d56cf720c2.png",
+        "https://img.genially.com/64233afb55129a0017751c8e/27e33de3-45e7-42c6-9093-799ac3783d09.png"
+      ]
+    },
+    {
+      "target": "five",
+      "correct": [
+        "https://img.genially.com/64233afb55129a0017751c8e/42fa782f-c7e3-44db-913f-d442904de1ea.png"
+      ],
+      "wrong": [
+        "https://img.genially.com/64233afb55129a0017751c8e/4e4abeb2-850a-4f73-ae52-3e42d4e3c533.png",
+        "https://img.genially.com/64233afb55129a0017751c8e/718a6e8b-6319-4f55-a43f-e18c02bca70a.png",
+        "https://img.genially.com/64233afb55129a0017751c8e/74d2153a-d431-4ce3-8c07-fd97c0f80769.png"
+      ]
+    },
+    {
+      "target": "six",
+      "correct": [
+        "https://img.genially.com/64233afb55129a0017751c8e/1a5c89c0-eeaa-440c-bb90-e528deaa0053.png"
+      ],
+      "wrong": [
+        "https://img.genially.com/64233afb55129a0017751c8e/280fca33-41cc-42a2-922b-61d56cf720c2.png",
+        "https://img.genially.com/64233afb55129a0017751c8e/5717d30d-e2a0-4ad7-8d83-671eb9b6ecba.png",
+        "https://img.genially.com/64233afb55129a0017751c8e/50c9ad51-4540-4abf-b26e-313caffc84cb.png"
+      ]
+    },
+    {
+      "target": "seven",
+      "correct": [
+        "https://img.genially.com/64233afb55129a0017751c8e/74d2153a-d431-4ce3-8c07-fd97c0f80769.png"
+      ],
+      "wrong": [
+        "https://img.genially.com/64233afb55129a0017751c8e/280fca33-41cc-42a2-922b-61d56cf720c2.png",
+        "https://img.genially.com/64233afb55129a0017751c8e/27e33de3-45e7-42c6-9093-799ac3783d09.png",
+        "https://img.genially.com/64233afb55129a0017751c8e/1a5c89c0-eeaa-440c-bb90-e528deaa0053.png"
+      ]
+    },
+    {
+      "target": "eight",
+      "correct": [
+        "https://img.genially.com/64233afb55129a0017751c8e/308e6689-4ea9-4e07-a10e-e0381b87dd7d.png"
+      ],
+      "wrong": [
+        "https://img.genially.com/64233afb55129a0017751c8e/74d2153a-d431-4ce3-8c07-fd97c0f80769.png",
+        "https://img.genially.com/64233afb55129a0017751c8e/718a6e8b-6319-4f55-a43f-e18c02bca70a.png",
+        "https://img.genially.com/64233afb55129a0017751c8e/5717d30d-e2a0-4ad7-8d83-671eb9b6ecba.png"
+      ]
+    },
+    {
+      "target": "nine",
+      "correct": [
+        "https://img.genially.com/64233afb55129a0017751c8e/50c9ad51-4540-4abf-b26e-313caffc84cb.png"
+      ],
+      "wrong": [
+        "https://img.genially.com/64233afb55129a0017751c8e/42fa782f-c7e3-44db-913f-d442904de1ea.png",
+        "https://img.genially.com/64233afb55129a0017751c8e/308e6689-4ea9-4e07-a10e-e0381b87dd7d.png",
+        "https://img.genially.com/64233afb55129a0017751c8e/718a6e8b-6319-4f55-a43f-e18c02bca70a.png"
+      ]
+    },
+    {
+      "target": "ten",
+      "correct": [
+        "https://img.genially.com/64233afb55129a0017751c8e/718a6e8b-6319-4f55-a43f-e18c02bca70a.png"
+      ],
+      "wrong": [
+        "https://img.genially.com/64233afb55129a0017751c8e/50c9ad51-4540-4abf-b26e-313caffc84cb.png",
+        "https://img.genially.com/64233afb55129a0017751c8e/42fa782f-c7e3-44db-913f-d442904de1ea.png",
+        "https://img.genially.com/64233afb55129a0017751c8e/1a5c89c0-eeaa-440c-bb90-e528deaa0053.png"
+      ]
+    }
+  ]
+}
