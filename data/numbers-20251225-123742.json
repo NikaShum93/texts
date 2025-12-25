@@ -1,0 +1,58 @@
+{
+  "language": "en",
+  "font": "Anton",
+  "fontSize": 35,
+  "textColor": "#ea0606",
+  "speed": 2,
+  "style": {
+    "shape": "rounded",
+    "pad": 82,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/4y6m4GP5/star.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 170
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "NUMBERS",
+    "btnText": "Start"
+  },
+  "direction": "down",
+  "finalFeedback": "GREAT!",
+  "levels": [
+    {
+      "target": "Numbers",
+      "correct": [
+        "ten",
+        "eighteen",
+        "eleven",
+        "twelve",
+        "twenty",
+        "seventeen",
+        "thirteen",
+        "sixteen",
+        "fifteen"
+      ],
+      "wrong": [
+        "dog",
+        "cat",
+        "red",
+        "black",
+        "name",
+        "girl",
+        "boy"
+      ],
+      "timer": 50
+    }
+  ]
+}
