@@ -1,0 +1,93 @@
+{
+  "language": "en",
+  "font": "Poppins",
+  "fontSize": 60,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "style": {
+    "shape": "rounded",
+    "pad": 100,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/ZRDfpZwJ/bauble.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 220
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Буквопад",
+    "btnText": "START"
+  },
+  "direction": "down",
+  "finalFeedback": "WOW!",
+  "levels": [
+    {
+      "target": "Заглавные буквы",
+      "correct": [
+        "A",
+        "N",
+        "H",
+        "J",
+        "K",
+        "L",
+        "M",
+        "U",
+        "W",
+        "O",
+        "P",
+        "F",
+        "D",
+        "B",
+        "M",
+        "T"
+      ],
+      "wrong": [
+        "a",
+        "g",
+        "b",
+        "d",
+        "n",
+        "m"
+      ],
+      "timer": 50
+    },
+    {
+      "target": "Маленькие буквы",
+      "correct": [
+        "a",
+        "m",
+        "n",
+        "s",
+        "l",
+        "u",
+        "w",
+        "v",
+        "k",
+        "y",
+        "r",
+        "q",
+        "o",
+        "p",
+        "d",
+        "b"
+      ],
+      "wrong": [
+        "R",
+        "T",
+        "J",
+        "D",
+        "B"
+      ],
+      "timer": 40
+    }
+  ]
+}
