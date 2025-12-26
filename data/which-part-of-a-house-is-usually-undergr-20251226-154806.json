@@ -1,0 +1,207 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Fredoka",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 40,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/FRKZzHJp/zolotoj-kljuchik.png",
+    "bubbleSize": 40,
+    "task": {
+      "bgColor": "rgba(126,161,187,1)",
+      "borderColor": "#00aab3",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#7ea1bb",
+      "borderColor": "#00aab3",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    }
+  },
+  "finalFeedback": "Good job!",
+  "feedbackImage": "https://i.postimg.cc/kXtK5RDD/laika-coraline.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Which part of a house is usually underground?",
+      "correct": [
+        "basement"
+      ],
+      "wrong": [
+        "attic",
+        "balcony",
+        "lift"
+      ]
+    },
+    {
+      "question": "If you live on the “first floor” in the UK, which floor is it in the USA?",
+      "correct": [
+        "second floor"
+      ],
+      "wrong": [
+        "ground floor",
+        "top floor",
+        "basement"
+      ]
+    },
+    {
+      "question": "Which of these words describes food that tastes unpleasant?",
+      "correct": [
+        "disgusting"
+      ],
+      "wrong": [
+        "delicious",
+        "spicy",
+        "sweet"
+      ]
+    },
+    {
+      "question": "What do you use to bake a cake?",
+      "correct": [
+        "cake tin"
+      ],
+      "wrong": [
+        "frying pan",
+        "pot",
+        "bowl"
+      ]
+    },
+    {
+      "question": "Which action means “to cut food into thin, flat pieces”?",
+      "correct": [
+        "slice"
+      ],
+      "wrong": [
+        "chop",
+        "peel",
+        "beat"
+      ]
+    },
+    {
+      "question": "What do you do to potatoes before boiling them?",
+      "correct": [
+        "peel"
+      ],
+      "wrong": [
+        "fry",
+        "roast",
+        "mix"
+      ]
+    },
+    {
+      "question": "Which of these is NOT a symptom of a cold?",
+      "correct": [
+        "a toothache"
+      ],
+      "wrong": [
+        "a sore throat",
+        "a runny nose",
+        "a cough"
+      ]
+    },
+    {
+      "question": "If your food tastes like lemon, it is …",
+      "correct": [
+        "sour"
+      ],
+      "wrong": [
+        "sweet",
+        "salty",
+        "spicy"
+      ]
+    },
+    {
+      "question": "Where would you go to get fresh air outside your flat?",
+      "correct": [
+        "balcony"
+      ],
+      "wrong": [
+        "attic",
+        "basement",
+        "lift"
+      ]
+    },
+    {
+      "question": "Which verb means “to cook food quickly in hot oil”?",
+      "correct": [
+        "fry"
+      ],
+      "wrong": [
+        "boil",
+        "bake",
+        "roast"
+      ]
+    },
+    {
+      "question": "If you have a high ________, you may feel hot.",
+      "correct": [
+        "temperature"
+      ],
+      "wrong": [
+        "headache",
+        "stomachache",
+        "earache"
+      ]
+    },
+    {
+      "question": "What do you use to cook soup?",
+      "correct": [
+        "pot"
+      ],
+      "wrong": [
+        "oven",
+        "frying pan",
+        "cake tin"
+      ]
+    },
+    {
+      "question": "Which of these actions involves using a fork to combine eggs?",
+      "correct": [
+        "beat"
+      ],
+      "wrong": [
+        "mix",
+        "add",
+        "bake"
+      ]
+    },
+    {
+      "question": "If someone makes loud sounds because their throat hurts, they have…",
+      "correct": [
+        "a cough"
+      ],
+      "wrong": [
+        "a sneeze",
+        "a blocked nose",
+        "a stomachache"
+      ]
+    },
+    {
+      "question": "What do you do when you blow your nose into a tissue?",
+      "correct": [
+        "sneeze"
+      ],
+      "wrong": [
+        "cough",
+        "roast",
+        "fry"
+      ]
+    }
+  ]
+}
