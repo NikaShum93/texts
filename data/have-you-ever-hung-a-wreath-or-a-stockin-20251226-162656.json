@@ -1,0 +1,117 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Fredoka",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 40,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/xTzkyrvn/replika-perchatki-beskonechnosti-marvel-legends-ot-no-bg-preview-(carve-photos).png",
+    "bubbleSize": 40,
+    "task": {
+      "bgColor": "rgba(126,161,187,1)",
+      "borderColor": "#00aab3",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#7ea1bb",
+      "borderColor": "#00aab3",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    }
+  },
+  "finalFeedback": "Well done!",
+  "feedbackImage": "https://i.postimg.cc/Vsj9mbhg/caption.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Have you ever hung a wreath or a stocking for the holidays?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Will you give gifts to your friends this winter?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Are you going to bake gingerbread or cinnamon buns this weekend?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Are you hosting a cozy winter party next Friday?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Should we follow tradition? Why?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do you have to wrap gifts before the party tomorrow?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
