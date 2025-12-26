@@ -1,0 +1,62 @@
+{
+  "language": "ru",
+  "font": "Open Sans",
+  "fontSize": 27,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 118,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/GppmC2w9/Chat_GPT_Image_16_нояб_2025_г_20_59_55.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Snowfall",
+    "btnText": "Start"
+  },
+  "direction": "down",
+  "finalFeedback": "Ура! Снег оживает!",
+  "levels": [
+    {
+      "target": "Лови снежные слова",
+      "correct": [
+        "snow",
+        "snowflake",
+        "snowman",
+        "snow maiden",
+        "snowball",
+        "snow",
+        "snowflake",
+        "snowman",
+        "snow maiden",
+        "snowball"
+      ],
+      "wrong": [
+        "apple",
+        "banana",
+        "English",
+        "school",
+        "pencil case",
+        "teddy bear",
+        "cake",
+        "chicken",
+        "rubber",
+        "pencil"
+      ],
+      "timer": 40
+    }
+  ]
+}
