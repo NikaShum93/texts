@@ -1,0 +1,117 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Snowburst One",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/60965f29ebc4800fbe1c0f74/58fafde3-488f-4cf3-9499-b2f127a36265.png",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(228,133,117,1)",
+      "borderColor": "#eaccc2",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#e48575",
+      "borderColor": "#eaccc2",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    }
+  },
+  "finalFeedback": "🎄 Well Done!",
+  "feedbackImage": "",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Do you like New Year? Why or why not?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "How do you usually celebrate New Year?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Who do you celebrate New Year with?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What is your favourite New Year tradition?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do you stay up until midnight on New Year’s Eve?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What do people usually do at midnight in your country?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "7. Do you make New Year’s resolutions? Why / Why not?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What was the best New Year you remember?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What food do you usually eat on New Year’s Eve?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do you prefer celebrating New Year at home or outside?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What is the best New Year gift you have ever got?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "How is New Year different from Christmas for you?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What music do people listen to on New Year’s Eve?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do you think New Year is more important for teens or adults? Why?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What would be your perfect New Year celebration?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
