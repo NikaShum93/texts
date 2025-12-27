@@ -1,0 +1,137 @@
+{
+  "language": "en",
+  "font": "Poppins",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 4,
+  "questionFont": "Poppins",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 95,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/5yFQXvs8/3.png",
+    "bgImages": [
+      "https://i.postimg.cc/5yFQXvs8/3.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 260
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Sausages!",
+    "btnText": "Catch the sausages!"
+  },
+  "direction": "random",
+  "finalFeedback": "Yummy!",
+  "globalTimer": 120,
+  "levels": [
+    {
+      "target": "Max is _____ than most of the other pets in the movie.",
+      "correct": [
+        "braver"
+      ],
+      "wrong": [
+        "bravest",
+        "brave"
+      ]
+    },
+    {
+      "target": "Duke is _____ than Max, but he is also very kind.",
+      "correct": [
+        "bigger"
+      ],
+      "wrong": [
+        "biger",
+        "biggest"
+      ]
+    },
+    {
+      "target": "Snowball thinks he is the _____ animal of all the pets.",
+      "correct": [
+        "strongest"
+      ],
+      "wrong": [
+        "the most strong",
+        "more stronger"
+      ]
+    },
+    {
+      "target": "Gidget is _____ than many people think she is.",
+      "correct": [
+        "smarter"
+      ],
+      "wrong": [
+        "smartest",
+        "more smart"
+      ]
+    },
+    {
+      "target": "The city is _____ than the pets’ homes when the owners are away.",
+      "correct": [
+        "noisier"
+      ],
+      "wrong": [
+        "noisyer",
+        "more noisy"
+      ]
+    },
+    {
+      "target": "Snowball has the _____ ideas in the whole movie.",
+      "correct": [
+        "craziest"
+      ],
+      "wrong": [
+        "crazyer",
+        "more crazy"
+      ]
+    },
+    {
+      "target": "Max feels _____ than ever when his owner comes back home.",
+      "correct": [
+        "happier"
+      ],
+      "wrong": [
+        "happyer",
+        "happiest"
+      ]
+    },
+    {
+      "target": "The adventure outside is _____ than staying in the apartment.",
+      "correct": [
+        "more dangerous"
+      ],
+      "wrong": [
+        "most dangerous",
+        "dangerouser"
+      ]
+    },
+    {
+      "target": "Duke becomes one of the _____ friends Max has.",
+      "correct": [
+        "best"
+      ],
+      "wrong": [
+        "goodest",
+        "better"
+      ]
+    },
+    {
+      "target": "Gidget’s love for Max is the _____ feeling in the story.",
+      "correct": [
+        "sweetest"
+      ],
+      "wrong": [
+        "sweeter",
+        "most sweet"
+      ]
+    }
+  ]
+}
