@@ -1,0 +1,177 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Rubik",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": false,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/6573f8946d6d76001fe95399/4089bb29-36dc-402d-a419-cae3cafb6f44.png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(109,3,8,1)",
+      "borderColor": "#fffca8",
+      "textColor": "#ffffff",
+      "fontSize": 21,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#720314",
+      "borderColor": "#ffffff",
+      "textColor": "#ffffff",
+      "fontSize": 21,
+      "neon": true
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 2,
+  "tasks": [
+    {
+      "question": "Mike intends to reveal the truth about Hawkins, no matter the cost.",
+      "correct": [
+        "to reveal"
+      ],
+      "wrong": [
+        "revealing"
+      ]
+    },
+    {
+      "question": "Will forgot hearing Vecna’s voice echoing in his head long after the vision ended.",
+      "correct": [
+        "hearing"
+      ],
+      "wrong": [
+        "to hear"
+      ]
+    },
+    {
+      "question": "The broken machine needs repairing before the experiment can continue.",
+      "correct": [
+        "repairing"
+      ],
+      "wrong": [
+        "to repair"
+      ]
+    },
+    {
+      "question": "Hopper stopped to talk to Joyce after he realised the lab was listening.",
+      "correct": [
+        "to talk"
+      ],
+      "wrong": [
+        "talking"
+      ]
+    },
+    {
+      "question": "Despite the danger, the group went on searching for clues in the forest.",
+      "correct": [
+        "searching"
+      ],
+      "wrong": [
+        "to search"
+      ]
+    },
+    {
+      "question": "Eleven stopped closing the door when she heard footsteps in the hallway.",
+      "correct": [
+        "closing"
+      ],
+      "wrong": [
+        "to close"
+      ]
+    },
+    {
+      "question": "The scientist regretted starting the experiment once the children were hurt.",
+      "correct": [
+        "starting"
+      ],
+      "wrong": [
+        "to start"
+      ]
+    },
+    {
+      "question": "Lucas forgot to lock the door behind him, and the lights started flickering.",
+      "correct": [
+        "to lock"
+      ],
+      "wrong": [
+        "locking"
+      ]
+    },
+    {
+      "question": "Max tried listening to music to calm her thoughts.",
+      "correct": [
+        "listening"
+      ],
+      "wrong": [
+        "to listen"
+      ]
+    },
+    {
+      "question": "Dr Brenner made Eleven repeat the same test again and again.",
+      "correct": [
+        "repeat"
+      ],
+      "wrong": [
+        "repeating"
+      ]
+    },
+    {
+      "question": "Will remembers feeling the cold air when the gate first opened.",
+      "correct": [
+        "feeling"
+      ],
+      "wrong": [
+        "to feel"
+      ]
+    },
+    {
+      "question": "Eleven needs to control her powers carefully if she wants to help her friends.",
+      "correct": [
+        "to control"
+      ],
+      "wrong": [
+        "controlling"
+      ]
+    },
+    {
+      "question": "Mike remembered to turn on the radio before leaving the basement.",
+      "correct": [
+        "to turn on"
+      ],
+      "wrong": [
+        "turning on"
+      ]
+    },
+    {
+      "question": "Hopper regretted to tell the kids that the lab was safe.",
+      "correct": [
+        "to tell"
+      ],
+      "wrong": [
+        "telling"
+      ]
+    },
+    {
+      "question": "Dustin tried to fix the signal using a stronger antenna.",
+      "correct": [
+        "to fix"
+      ],
+      "wrong": [
+        "fixing"
+      ]
+    }
+  ]
+}
