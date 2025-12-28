@@ -1,0 +1,290 @@
+{
+  "language": "en",
+  "font": "Montserrat",
+  "fontSize": 20,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "questionFont": "Montserrat",
+  "questionFontSize": 22,
+  "style": {
+    "shape": "rounded",
+    "pad": 12,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/6573f8946d6d76001fe95399/d9e16887-9365-4784-b33f-0a18e79d87ca.png",
+    "bgImages": [
+      "https://img.genially.com/6573f8946d6d76001fe95399/d9e16887-9365-4784-b33f-0a18e79d87ca.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 190
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Choose the right phrasal verb!",
+    "btnText": "Start!"
+  },
+  "direction": "random",
+  "finalFeedback": "Well done!!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "Mike ______ early when something strange happens in Hawkins.",
+      "correct": [
+        "gets up"
+      ],
+      "wrong": [
+        "picks up",
+        "looks up",
+        "stands up"
+      ]
+    },
+    {
+      "target": "Will ______ suddenly after dreaming about the Upside Down.",
+      "correct": [
+        "wakes up"
+      ],
+      "wrong": [
+        "takes off",
+        "finds out",
+        "breaks down"
+      ]
+    },
+    {
+      "target": "The group ______ clues near the old lab.",
+      "correct": [
+        "looks for"
+      ],
+      "wrong": [
+        "runs out of",
+        "gives up",
+        "looks after"
+      ]
+    },
+    {
+      "target": "Joyce ______ Will when he feels weak.",
+      "correct": [
+        "looks after"
+      ],
+      "wrong": [
+        "looks up",
+        "looks forward to",
+        "looks for"
+      ]
+    },
+    {
+      "target": "Dustin ______ seeing his friends again.",
+      "correct": [
+        "looks forward to"
+      ],
+      "wrong": [
+        "looks up",
+        "looks at",
+        "looks for"
+      ]
+    },
+    {
+      "target": "Eleven ______ the lights to check the room.",
+      "correct": [
+        "turns on"
+      ],
+      "wrong": [
+        "turns off",
+        "puts on",
+        "takes off"
+      ]
+    },
+    {
+      "target": "They ______ the radio to avoid being heard.",
+      "correct": [
+        "turn off"
+      ],
+      "wrong": [
+        "take off",
+        "break down",
+        "work out"
+      ]
+    },
+    {
+      "target": "Lucas ______ the MP3 from the floor.",
+      "correct": [
+        "picks up"
+      ],
+      "wrong": [
+        "takes off",
+        "gets up",
+        "gives up"
+      ]
+    },
+    {
+      "target": "Max ______ her jacket before going outside.",
+      "correct": [
+        "puts on"
+      ],
+      "wrong": [
+        "takes off",
+        "finds out",
+        "looks after"
+      ]
+    },
+    {
+      "target": "The helicopter ______ near Hawkins Lab.",
+      "correct": [
+        "takes off"
+      ],
+      "wrong": [
+        "puts off",
+        "gets off",
+        "turns off"
+      ]
+    },
+    {
+      "target": "They ______ batteries during the search.",
+      "correct": [
+        "run out of"
+      ],
+      "wrong": [
+        "give up",
+        "put on",
+        "break down"
+      ]
+    },
+    {
+      "target": "Eleven refuses to ______, even when she is tired.",
+      "correct": [
+        "give up"
+      ],
+      "wrong": [
+        "get up",
+        "wake up",
+        "find out"
+      ]
+    },
+    {
+      "target": "They finally ______ the truth about Vecna.",
+      "correct": [
+        "find out"
+      ],
+      "wrong": [
+        "look for",
+        "look after",
+        "set up"
+      ]
+    },
+    {
+      "target": "Dustin ______ the radio to contact the others.",
+      "correct": [
+        "sets up"
+      ],
+      "wrong": [
+        "breaks up",
+        "turns off",
+        "finds out"
+      ]
+    },
+    {
+      "target": "They decide to ______ the mission because it is too dangerous.",
+      "correct": [
+        "call off"
+      ],
+      "wrong": [
+        "take off",
+        "hang out",
+        "break down"
+      ]
+    },
+    {
+      "target": "Eleven promises to ______ after closing the gate.",
+      "correct": [
+        "come back"
+      ],
+      "wrong": [
+        "give up",
+        "wake up",
+        "come across"
+      ]
+    },
+    {
+      "target": "They ______ at the motel near Hawkins.",
+      "correct": [
+        "check in"
+      ],
+      "wrong": [
+        "come across",
+        "hang out",
+        "set up"
+      ]
+    },
+    {
+      "target": "The police ______ the strange noise near the lab.",
+      "correct": [
+        "check out"
+      ],
+      "wrong": [
+        "chesk in",
+        "call off",
+        "work out"
+      ]
+    },
+    {
+      "target": "The machine ______ during the experiment.",
+      "correct": [
+        "breaks down"
+      ],
+      "wrong": [
+        "gets off",
+        "takes off",
+        "runs out of"
+      ]
+    },
+    {
+      "target": "Vecna suddenly ______ in the background.",
+      "correct": [
+        "turns up"
+      ],
+      "wrong": [
+        "finds out",
+        "sets up",
+        "checks in"
+      ]
+    },
+    {
+      "target": "They ______ a plan to close the gate.",
+      "correct": [
+        "work out"
+      ],
+      "wrong": [
+        "look after",
+        "give up",
+        "turn off"
+      ]
+    },
+    {
+      "target": "The friends ______ at the mall after school.",
+      "correct": [
+        "hang out"
+      ],
+      "wrong": [
+        "check out",
+        "come across",
+        "find out"
+      ]
+    },
+    {
+      "target": "Lucas ______ a strange symbol in the forest.",
+      "correct": [
+        "comes across"
+      ],
+      "wrong": [
+        "sets up",
+        "looks after",
+        "call off"
+      ]
+    }
+  ]
+}
