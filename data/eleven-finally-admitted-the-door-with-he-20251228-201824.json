@@ -1,0 +1,195 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/doMPn3xQ-WYAAAAi/fire-field-tibia.gif",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(110,2,2,1)",
+      "borderColor": "#fdfbbf",
+      "textColor": "#ffffff",
+      "fontSize": 23,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 23,
+      "neon": true
+    }
+  },
+  "finalFeedback": "The Gate is now open!!",
+  "feedbackImage": "https://img.genially.com/6573f8946d6d76001fe95399/4b49b937-2f42-430a-b8a0-edb2fe303a51.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Eleven finally admitted ___ the door with her powers during the experiment.",
+      "correct": [
+        "opening"
+      ],
+      "wrong": [
+        "to open"
+      ]
+    },
+    {
+      "question": "Hopper promised ___ the kids safe, no matter what happened.",
+      "correct": [
+        "to keep"
+      ],
+      "wrong": [
+        "keeping"
+      ]
+    },
+    {
+      "question": "The scientists denied ___ anything about the secret tests.",
+      "correct": [
+        "knowing"
+      ],
+      "wrong": [
+        "to know"
+      ]
+    },
+    {
+      "question": "Vecna threatened ___ the town if they tried to stop him.",
+      "correct": [
+        "to destroy"
+      ],
+      "wrong": [
+        "destroying"
+      ]
+    },
+    {
+      "question": "Max can’t stand ___ alone in the dark anymore.",
+      "correct": [
+        "being"
+      ],
+      "wrong": [
+        "to be"
+      ]
+    },
+    {
+      "question": "Dustin can’t wait ___ the others about his new discovery.",
+      "correct": [
+        "to tell"
+      ],
+      "wrong": [
+        "telling"
+      ]
+    },
+    {
+      "question": "Robin recommended ___ the old tapes before entering the lab.",
+      "correct": [
+        "watching"
+      ],
+      "wrong": [
+        "to watch"
+      ]
+    },
+    {
+      "question": "Will seemed ___ something was wrong with the Upside Down.",
+      "correct": [
+        "to realise"
+      ],
+      "wrong": [
+        "realising"
+      ]
+    },
+    {
+      "question": "Mike agreed ___ Eleven even when it was dangerous.",
+      "correct": [
+        "to help"
+      ],
+      "wrong": [
+        "helping"
+      ]
+    },
+    {
+      "question": "The group couldn’t afford ___ another mistake during the mission.",
+      "correct": [
+        "to make"
+      ],
+      "wrong": [
+        "making"
+      ]
+    },
+    {
+      "question": "Facing Vecna is worth ___ if it saves Hawkins.",
+      "correct": [
+        "fighting"
+      ],
+      "wrong": [
+        "to fight"
+      ]
+    },
+    {
+      "question": "Dustin is looking forward to ___ everyone again after the mission.",
+      "correct": [
+        "seeing"
+      ],
+      "wrong": [
+        "to see"
+      ]
+    },
+    {
+      "question": "They decided ___ the gate before it opened fully.",
+      "correct": [
+        "to close"
+      ],
+      "wrong": [
+        "closing"
+      ]
+    },
+    {
+      "question": "Lucas risked ___ caught while sneaking into the lab.",
+      "correct": [
+        "getting"
+      ],
+      "wrong": [
+        "to get"
+      ]
+    },
+    {
+      "question": "Max fancied ___ music to calm her thoughts.",
+      "correct": [
+        "listening to"
+      ],
+      "wrong": [
+        "to listen to"
+      ]
+    },
+    {
+      "question": "The kids expected ___ the truth when they entered the lab.",
+      "correct": [
+        "to find out"
+      ],
+      "wrong": [
+        "finding out"
+      ]
+    },
+    {
+      "question": "Hopper really misses ___ normal life before everything changed.",
+      "correct": [
+        "having"
+      ],
+      "wrong": [
+        "to have"
+      ]
+    }
+  ]
+}
