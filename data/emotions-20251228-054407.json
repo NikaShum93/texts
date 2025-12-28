@@ -1,0 +1,53 @@
+{
+  "language": "en",
+  "font": "Special Elite",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 4,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 0,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "emotions",
+    "btnText": "START"
+  },
+  "direction": "down",
+  "finalFeedback": "WELL DONE!",
+  "levels": [
+    {
+      "target": "emotions",
+      "correct": [
+        "excited",
+        "sad",
+        "scared",
+        "tired",
+        "happy",
+        "angry",
+        "https://i.postimg.cc/G3q6BXLf/1.png",
+        "https://i.postimg.cc/N0kp305s/2.png",
+        "https://i.postimg.cc/5y6gQqpJ/3.png",
+        "https://i.postimg.cc/1RjJh25Q/4.png",
+        "https://i.postimg.cc/59RndTNM/5.png",
+        "https://i.postimg.cc/KcHJSwvb/6.png"
+      ],
+      "wrong": [
+        "https://media.tenor.com/-pZcpf69_LgAAAAi/tnt-bomb.gif"
+      ],
+      "timer": 30
+    }
+  ]
+}
