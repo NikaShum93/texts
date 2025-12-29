@@ -1,0 +1,53 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 21,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 0,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Едопад",
+    "btnText": "START"
+  },
+  "direction": "down",
+  "finalFeedback": "GOOD JOB",
+  "levels": [
+    {
+      "target": "FOOD",
+      "correct": [
+        "https://media.tenor.com/acn-VvakFUwAAAAi/selaco-3d.gif",
+        "https://media.tenor.com/AmeapnBRazwAAAAi/food.gif",
+        "https://media.tenor.com/w1LwTF7qhucAAAAi/sandwich-food.gif",
+        "https://media.tenor.com/vXxKljuL1lsAAAAi/egg-food.gif",
+        "https://media.tenor.com/2TIyG5k-f1cAAAAi/popcorn.gif",
+        "https://media.tenor.com/j__IuqOn0KEAAAAi/ice-cream-ice-cream-cone.gif",
+        "https://media.tenor.com/B3UQvg1cJvsAAAAi/cookies-eating.gif",
+        "https://media.tenor.com/VgdofdIl5QQAAAAi/carrot-karotte.gif",
+        "https://media.tenor.com/98ryoONVm7AAAAAi/maniram.gif",
+        "https://media.tenor.com/rl7rcbJeEQsAAAAi/green-salad-food.gif",
+        "https://media.tenor.com/29lbybMTI78AAAAi/torta-de-pastel.gif",
+        "https://media.tenor.com/VgdofdIl5QQAAAAi/carrot-karotte.gif"
+      ],
+      "wrong": [
+        "https://media.tenor.com/ojDYbnx4As8AAAAi/dm4uz3-foekoe.gif"
+      ],
+      "timer": 40
+    }
+  ]
+}
