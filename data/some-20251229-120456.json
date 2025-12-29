@@ -1,0 +1,74 @@
+{
+  "language": "en",
+  "font": "Poppins",
+  "fontSize": 30,
+  "textColor": "#ffffff",
+  "speed": 4,
+  "style": {
+    "shape": "rounded",
+    "pad": 106,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/ZRDfpZwJ/bauble.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 190
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "BAUBLES",
+    "btnText": "START"
+  },
+  "direction": "down",
+  "finalFeedback": "WOW!",
+  "levels": [
+    {
+      "target": "Some",
+      "correct": [
+        "I have _____ friends.",
+        "There is ____ milk in the fridge.",
+        "We need ______ apples.",
+        "There are ____books on the table.",
+        "She has _____ nice clothes.",
+        "He wants ____ water.",
+        "We have _____ free time.",
+        "There are _____ flowers in the garden."
+      ],
+      "wrong": [
+        "Do you have _____ brothers or sisters?",
+        "Are there ____students in the class?",
+        "Do you see ____ dogs in the park?",
+        "I don’t have_____ pens."
+      ],
+      "timer": 40
+    },
+    {
+      "target": "Any",
+      "correct": [
+        "Do you have _____ brothers or sisters?",
+        "There isn’t ____ water in the bottle.",
+        "Are there ____students in the class?",
+        "She doesn’t have _____ homework today.",
+        "He doesn’t eat _____ meat.",
+        "Do you see ____ dogs in the park?",
+        "There isn’t _____rice at home.",
+        "I don’t have_____ pens.",
+        "She doesn’t have ____ friends."
+      ],
+      "wrong": [
+        "There is ____ milk in the fridge.",
+        "There are ____books on the table.",
+        "He wants ____ water."
+      ],
+      "timer": 40
+    }
+  ]
+}
