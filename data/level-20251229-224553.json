@@ -1,0 +1,62 @@
+{
+  "language": "ru",
+  "font": "Noto Sans",
+  "fontSize": 24,
+  "textColor": "#22d61f",
+  "speed": 5,
+  "style": {
+    "shape": "rounded",
+    "pad": 70,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/q7jqnBJB/Chat_GPT_Image_29_дек_2025_г_21_52_42.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Пожелания",
+    "btnText": "Лови"
+  },
+  "direction": "down",
+  "finalFeedback": "С Новым годом!",
+  "levels": [
+    {
+      "target": "п",
+      "correct": [
+        "спокойствие",
+        "здоровье",
+        "прибыль",
+        "подарки",
+        "знакомство",
+        "путешествия",
+        "удача",
+        "стабильность",
+        "вдохновение",
+        "тепло"
+      ],
+      "wrong": [
+        "дедлайны",
+        "суета",
+        "тревожность",
+        "усталость",
+        "спешка",
+        "перегруз",
+        "сомнения",
+        "ссоры",
+        "непонимание",
+        "бессонница"
+      ],
+      "timer": 30
+    }
+  ]
+}
