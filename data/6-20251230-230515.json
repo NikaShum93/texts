@@ -1,0 +1,53 @@
+{
+  "language": "en",
+  "font": "Montserrat",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 4,
+  "style": {
+    "shape": "rounded",
+    "pad": 30,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/XqYc6V8M/Default-A-single-solid-snowflake-in-a-cute-cartoon-style-cente-0-3a7c59f7-aa10-423c-81f1-414d48ba123.png"
+    ],
+    "bgImage": "",
+    "borderOn": true,
+    "borderColor": "#ffffff",
+    "borderWidth": 0,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "to be",
+    "btnText": "start"
+  },
+  "direction": "down",
+  "finalFeedback": "well done!",
+  "levels": [
+    {
+      "target": "6",
+      "correct": [
+        "is",
+        "are",
+        "am not",
+        "aren't",
+        "am",
+        "isn't"
+      ],
+      "wrong": [
+        "has",
+        "have",
+        "had",
+        "hasn't got",
+        "hadn't"
+      ],
+      "timer": 30
+    }
+  ]
+}
