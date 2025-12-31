@@ -1,0 +1,51 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/5tj4NWZJ/Fashion-Show-Event-Announcement-Instagram-Post-kopia-kopia-(1).png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "поймай все снежинки 雪花",
+    "btnText": ""
+  },
+  "direction": "down",
+  "finalFeedback": "",
+  "levels": [
+    {
+      "target": "雪花",
+      "correct": [
+        "https://i.postimg.cc/pXMg1MCh/1.png",
+        "https://i.postimg.cc/4NRrFRPh/2.png",
+        "https://i.postimg.cc/dtczSc6r/3.png",
+        "https://i.postimg.cc/fTQ6gQCd/4.png",
+        "https://i.postimg.cc/9FHvNHbT/5.png",
+        "https://i.postimg.cc/QxZRnZmp/6.png",
+        "https://i.postimg.cc/8Pgqng4d/7.png",
+        "https://i.postimg.cc/vHwpSwhr/8.png",
+        "https://i.postimg.cc/bNfKFfgH/9.png",
+        "https://i.postimg.cc/kGQhdDsX/10.png"
+      ],
+      "wrong": [],
+      "timer": 30
+    }
+  ]
+}
