@@ -1,0 +1,51 @@
+{
+  "language": "en",
+  "font": "Montserrat",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "style": {
+    "shape": "rounded",
+    "pad": 30,
+    "bgColor": "#e67a7a",
+    "bgImages": [
+      "https://zhoukovets.ru/2025_pics/snowdrop.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Викторина",
+    "btnText": ""
+  },
+  "direction": "down",
+  "finalFeedback": "",
+  "levels": [
+    {
+      "target": "Plurals",
+      "correct": [
+        "watches",
+        "dishes",
+        "cats",
+        "radios",
+        "foxes"
+      ],
+      "wrong": [
+        "watchs",
+        "dishs",
+        "radioes",
+        "foxs"
+      ],
+      "timer": 30
+    }
+  ]
+}
