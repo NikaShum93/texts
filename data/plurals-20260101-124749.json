@@ -1,0 +1,73 @@
+{
+  "language": "en",
+  "font": "Montserrat",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "style": {
+    "shape": "rounded",
+    "pad": 30,
+    "bgColor": "#e67a7a",
+    "bgImages": [
+      "https://zhoukovets.ru/2025_pics/snowdrop.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Do you know?",
+    "btnText": ""
+  },
+  "direction": "down",
+  "finalFeedback": "",
+  "levels": [
+    {
+      "target": "Plurals",
+      "correct": [
+        "brushes",
+        "berries",
+        "kisses",
+        "copies",
+        "wives",
+        "wolves",
+        "leaves",
+        "potatoes",
+        "cliffs",
+        "photos",
+        "proofs",
+        "formulae",
+        "data",
+        "passers-by",
+        "theses",
+        "trousers",
+        "scissors",
+        "gulfs",
+        "pianos"
+      ],
+      "wrong": [
+        "elfes",
+        "foots",
+        "gooses",
+        "aircrafts",
+        "deers",
+        "phenomenon",
+        "octopuses",
+        "thesis",
+        "datum",
+        "thesis",
+        "curriculum",
+        "knowledge"
+      ],
+      "timer": 60
+    }
+  ]
+}
