@@ -1,0 +1,55 @@
+{
+  "language": "en",
+  "font": "Montserrat",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": true,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 0,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Actions",
+    "btnText": "Start"
+  },
+  "direction": "up",
+  "finalFeedback": "Well done!",
+  "levels": [
+    {
+      "target": "Actions",
+      "correct": [
+        "https://media.tenor.com/P0J-GXwqFZkAAAAi/piggy-cute.gif",
+        "https://media.tenor.com/9Vj-slosh1gAAAAi/sleep-peach-goma.gif",
+        "https://media.tenor.com/C7caMK_C6IQAAAAi/running-run.gif",
+        "https://media.tenor.com/W7I-9gnF_MoAAAAi/dudu-dance.gif",
+        "https://media.tenor.com/ugiZvX-h8qkAAAAi/game-gaming.gif",
+        "https://media.tenor.com/UShIbJFy5icAAAAi/looping-infinite-loop.gif",
+        "https://media.tenor.com/MLmk9OBAX3UAAAAi/dudu.gif",
+        "https://media.tenor.com/OB67aji3qG0AAAAi/tkthao219-bubududu.gif",
+        "https://media.tenor.com/NgAmTbY1aokAAAAi/dare-aggie-dare-aggie-bunny.gif",
+        "https://media.tenor.com/USJ0yQKgxCwAAAAi/bubu-bubu-dudu.gif",
+        "https://media.tenor.com/Glt9BXwTqfcAAAAi/%E3%81%8A%E7%B5%B5%E3%81%8B%E3%81%8D-%E3%83%8F%E3%83%BC%E3%83%88.gif",
+        "https://media.tenor.com/YiE7JUKy9z4AAAAi/lguitar1.gif",
+        "https://media.tenor.com/QeauQG3zU3cAAAAi/mimibubu.gif",
+        "https://media.tenor.com/McUZ9VgyKqEAAAAi/tkthao219-peach.gif"
+      ],
+      "wrong": [
+        "https://media.tenor.com/-pZcpf69_LgAAAAi/tnt-bomb.gif"
+      ],
+      "timer": 50
+    }
+  ]
+}
