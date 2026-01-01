@@ -1,0 +1,63 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 26,
+  "textColor": "#ffffff",
+  "speed": 4,
+  "style": {
+    "shape": "rounded",
+    "pad": 60,
+    "bgColor": "#110a71",
+    "bgImages": [
+      "https://i.postimg.cc/tJYG7ZR5/Chat_GPT_Image_16_нояб_2025_г_21_42_09.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Catch the snowballs",
+    "btnText": "Start"
+  },
+  "direction": "up",
+  "finalFeedback": "Super",
+  "levels": [
+    {
+      "target": "a",
+      "correct": [
+        "play hockey",
+        "make a snowman",
+        "ski",
+        "play snowballs",
+        "make a snow castle",
+        "ice skate",
+        "make a snow angel",
+        "make a snow maiden",
+        "sledge",
+        "snowboard"
+      ],
+      "wrong": [
+        "play football",
+        "make a sandcastle",
+        "swim",
+        "play ball",
+        "go to school",
+        "skateboard",
+        "ride a bike",
+        "play domino",
+        "play basketball",
+        "play volleyball",
+        "skateboard"
+      ],
+      "timer": 60
+    }
+  ]
+}
