@@ -1,0 +1,159 @@
+{
+  "language": "en",
+  "font": "Poppins",
+  "fontSize": 26,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "questionFont": "Poppins",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 31,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/85jpBc8f/hermione.png\nhttps://i.postimg.cc/7YgxNjRm/ron.png\nhttps://i.postimg.cc/CK6Y10ZG/harry.png",
+    "bgImages": [
+      "https://i.postimg.cc/85jpBc8f/hermione.png",
+      "https://i.postimg.cc/7YgxNjRm/ron.png",
+      "https://i.postimg.cc/CK6Y10ZG/harry.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 140
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Летающие друзья",
+    "btnText": "START"
+  },
+  "direction": "random",
+  "finalFeedback": "GREAT",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "I ___ a student.",
+      "correct": [
+        "am"
+      ],
+      "wrong": [
+        "is",
+        "are"
+      ]
+    },
+    {
+      "target": "She ___ my friend.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "am",
+        "are"
+      ]
+    },
+    {
+      "target": "They ___ happy today.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "am",
+        "is"
+      ]
+    },
+    {
+      "target": "He ___ from Spain.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "am",
+        "are"
+      ]
+    },
+    {
+      "target": "We ___ in the classroom.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "am",
+        "is"
+      ]
+    },
+    {
+      "target": "It ___ very cold.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "am",
+        "are"
+      ]
+    },
+    {
+      "target": "You ___ late.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "am",
+        "is"
+      ]
+    },
+    {
+      "target": "The dog ___ hungry.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "am",
+        "are"
+      ]
+    },
+    {
+      "target": "My parents ___ at home.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "am",
+        "is"
+      ]
+    },
+    {
+      "target": "I ___ tired.",
+      "correct": [
+        "am"
+      ],
+      "wrong": [
+        "is",
+        "are"
+      ]
+    },
+    {
+      "target": "The books ___ on the table.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "am",
+        "is"
+      ]
+    },
+    {
+      "target": "It ___ my bag.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "am",
+        "are"
+      ]
+    }
+  ]
+}
