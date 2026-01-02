@@ -1,0 +1,54 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 30,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://ltdfoto.ru/images/2026/01/01/tags.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 150
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Snowballs game",
+    "btnText": "Start"
+  },
+  "direction": "down",
+  "finalFeedback": "Well done!",
+  "levels": [
+    {
+      "target": "Name the Animal",
+      "correct": [
+        "https://img.genially.com/6217b551bc0f7d0012399c62/17c048fd-6d7d-460d-a3f4-e8f3444258c4.png",
+        "https://img.genially.com/6217b551bc0f7d0012399c62/4868d3dd-5b92-4603-a579-e39a02e893ae.png",
+        "https://img.genially.com/6217b551bc0f7d0012399c62/cc977313-9959-43cb-8e8f-0f9070ed615c.png",
+        "https://img.genially.com/6217b551bc0f7d0012399c62/f22ed001-574a-451e-81c4-d070bb50d9ca.png",
+        "https://img.genially.com/6217b551bc0f7d0012399c62/47c5e20f-9d47-4c12-8b1c-edbc73f6e6e4.png",
+        "https://img.genially.com/6217b551bc0f7d0012399c62/6674b0d0-ed54-44bc-8d20-28c00eb2cc04.png",
+        "https://img.genially.com/6217b551bc0f7d0012399c62/0cc015a3-59a1-48ed-9eac-5089355f214e.png",
+        "https://img.genially.com/6217b551bc0f7d0012399c62/16f4df12-f52f-499a-91cb-379f7daced05.png",
+        "https://img.genially.com/6217b551bc0f7d0012399c62/37338988-1641-47da-8685-11657bb0ca8e.png",
+        "https://img.genially.com/6217b551bc0f7d0012399c62/959aefc7-3d64-49ff-8e74-6daafc2fa6d3.png",
+        "https://img.genially.com/6217b551bc0f7d0012399c62/2cdf3a28-7549-4fec-8d25-83d6b6b6fd93.png"
+      ],
+      "wrong": [
+        "https://media.tenor.com/QDTS1oM1HLgAAAAi/bomb-objects.gif"
+      ],
+      "timer": 40
+    }
+  ]
+}
