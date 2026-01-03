@@ -1,0 +1,56 @@
+{
+  "language": "en",
+  "font": "Montserrat",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 0,
+    "imgBox": 180
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Animals",
+    "btnText": "Start"
+  },
+  "direction": "down",
+  "finalFeedback": "Well done!",
+  "levels": [
+    {
+      "target": "Wild animals",
+      "correct": [
+        "https://ai-image.genially.com/65ffe6457537470013313f35/6958e13f7c7c7aed37f2bf92/6958e19aae62ec746f039219.png",
+        "https://ai-image.genially.com/65ffe6457537470013313f35/6958e13f7c7c7aed37f2bf92/6958e1c6eee83aa29898a524.png",
+        "https://ai-image.genially.com/65ffe6457537470013313f35/6958e13f7c7c7aed37f2bf92/6958e1ee65924c7731db1703.png",
+        "https://ai-image.genially.com/65ffe6457537470013313f35/6958e13f7c7c7aed37f2bf92/6958e247e2e30838a6df9e81.png",
+        "https://ai-image.genially.com/65ffe6457537470013313f35/6958e13f7c7c7aed37f2bf92/6958e2ef7e4a6b4bdb767e94.png",
+        "https://ai-image.genially.com/65ffe6457537470013313f35/6958e13f7c7c7aed37f2bf92/6958e30d7c7c7aed37f365af.png",
+        "https://ai-image.genially.com/65ffe6457537470013313f35/6958e13f7c7c7aed37f2bf92/6958e3347c7c7aed37f37222.png",
+        "https://ai-image.genially.com/65ffe6457537470013313f35/6958e13f7c7c7aed37f2bf92/6958e35b65924c7731db9fa7.png",
+        "https://ai-image.genially.com/65ffe6457537470013313f35/6958e13f7c7c7aed37f2bf92/6958e37e71a2d1841cfeb34f.png"
+      ],
+      "wrong": [
+        "https://ai-image.genially.com/65ffe6457537470013313f35/6958e13f7c7c7aed37f2bf92/6958e21171a2d1841cfe3ebe.png",
+        "https://ai-image.genially.com/65ffe6457537470013313f35/6958e13f7c7c7aed37f2bf92/6958e22a2ddc862aca42c7a3.png",
+        "https://ai-image.genially.com/65ffe6457537470013313f35/6958e13f7c7c7aed37f2bf92/6958e263ae62ec746f03b824.png",
+        "https://ai-image.genially.com/65ffe6457537470013313f35/6958e13f7c7c7aed37f2bf92/6958e27e2ddc862aca42d7a8.png",
+        "https://ai-image.genially.com/65ffe6457537470013313f35/6958e13f7c7c7aed37f2bf92/6958e298c4ae20d085fb5518.png",
+        "https://ai-image.genially.com/65ffe6457537470013313f35/6958e13f7c7c7aed37f2bf92/6958e2b42ddc862aca42e05f.png",
+        "https://ai-image.genially.com/65ffe6457537470013313f35/6958e13f7c7c7aed37f2bf92/6958e2d07c7c7aed37f351c3.png"
+      ],
+      "timer": 40
+    }
+  ]
+}
