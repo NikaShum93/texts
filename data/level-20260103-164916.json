@@ -1,0 +1,64 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 29,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [],
+    "bgImage": "",
+    "borderOn": true,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": true,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Время глагола",
+    "btnText": "Старт"
+  },
+  "direction": "down",
+  "finalFeedback": "Отлична работа!",
+  "levels": [
+    {
+      "target": "Настоящее время",
+      "correct": [
+        "читает",
+        "пишет",
+        "идёт",
+        "играет",
+        "смотрит",
+        "ест",
+        "спит",
+        "бежит",
+        "рисует"
+      ],
+      "wrong": [
+        "бегал",
+        "будет делать",
+        "выиграл",
+        "спросил",
+        "будет помогать",
+        "увидел",
+        "открыл",
+        "прочитал",
+        "будет покупать",
+        "поедет",
+        "будет рисовать",
+        "построит",
+        "сказал",
+        "принесёт",
+        "будет учить"
+      ],
+      "timer": 40
+    }
+  ]
+}
