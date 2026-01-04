@@ -1,0 +1,52 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#696bb0",
+  "speed": 5,
+  "style": {
+    "shape": "rounded",
+    "pad": 30,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/ht195y7Q/fj8p-MWx-TCU07BZIqasc-Z4-a1WLeu-Dy7lzp-E1F5socvq0v-JJp-CYaz-F8MJZ7Di-UU2u4v-Ksf-Q6n-EKE1d-BTKf0Iaz-U.jpg"
+    ],
+    "bgImage": "",
+    "borderOn": true,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Пробуем",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Я молодец",
+  "levels": [
+    {
+      "target": "Irregular Verbs",
+      "correct": [
+        "run",
+        "get",
+        "understand",
+        "make",
+        "can"
+      ],
+      "wrong": [
+        "live",
+        "play",
+        "watch",
+        "listen",
+        "check"
+      ],
+      "timer": 30
+    }
+  ]
+}
