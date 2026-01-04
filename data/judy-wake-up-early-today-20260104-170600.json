@@ -1,0 +1,117 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Mountains of Christmas",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 152,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/99231b69-680c-49b1-a476-28109442292a.gif",
+    "bubbleSize": 152,
+    "task": {
+      "bgColor": "rgba(41,46,199,1)",
+      "borderColor": "#ffffff",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#bc05ff",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    }
+  },
+  "finalFeedback": "🎉 Amazing!",
+  "feedbackImage": "",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Judy (wake up) early today.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I (brush) my teeth now.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My friends (eat) breakfast in the kitchen.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I (go) to school at the moment.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Nick and Judy (study) English now.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I (do) my homework at the moment.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My sister (watch) TV right now.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I (go) to bed now.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Nick (not wake) up late today.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I (not eat) fast food now.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My brothers (not play) games at the moment.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "___ you ___ (wake up) early today?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "___ Judy ___ (eat) breakfast now?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "___ your friends ___ (go) to school at the moment?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "___ you ___ (watch) TV now?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
