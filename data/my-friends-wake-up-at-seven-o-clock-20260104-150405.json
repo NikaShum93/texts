@@ -1,0 +1,117 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Mountains of Christmas",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 138,
+  "sounds": {
+    "pop": "https://drive.google.com/file/d/1_-7ML1EXKfL-Sn1ZotmSF0ugN41aHu95/view?usp=sharing",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/618e244f-105b-49e8-9217-e917438b042a.gif",
+    "bubbleSize": 138,
+    "task": {
+      "bgColor": "rgba(255,133,210,1)",
+      "borderColor": "#ff00bb",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#8523e7",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    }
+  },
+  "finalFeedback": "🎉 Aw Amazing!",
+  "feedbackImage": "",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "My friends (wake up) at seven o’clock.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I (brush) my teeth every morning.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My cousin (eat) breakfast at home.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I (not go) to school by bus.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We (like) our English class.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Judy and Nick (do) their homework in the afternoon.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Mary (not watch) TV in the evening.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Her brother (not go) to bed at ten o’clock.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I (not wake up) late.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Judy (not eat) fast food every day.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My best friend (not play) games in the morning.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "__ you __ (wake up) early?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "__ your friend __ (eat) fast food every day?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "__ you ___ (go) to school on foot?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "__ your teacher __ (watch) TV at night?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
