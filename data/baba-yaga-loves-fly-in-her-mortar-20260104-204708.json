@@ -1,0 +1,158 @@
+{
+  "language": "en",
+  "font": "Playfair Display",
+  "fontSize": 25,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "questionFont": "Roboto",
+  "questionFontSize": 27,
+  "style": {
+    "shape": "rounded",
+    "pad": 50,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/W1XPfP6K/1.png",
+    "bgImages": [
+      "https://i.postimg.cc/W1XPfP6K/1.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 240
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Infinitive & Gerund choose the correct answer",
+    "btnText": "Start"
+  },
+  "direction": "down",
+  "finalFeedback": "Awesome!!!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "Baba Yaga loves _________ (fly) in her mortar.",
+      "correct": [
+        "flying"
+      ],
+      "wrong": [
+        "losing",
+        "to cross",
+        "entering"
+      ]
+    },
+    {
+      "target": "She hates _________ (lose) her magical things.",
+      "correct": [
+        "losing"
+      ],
+      "wrong": [
+        "seeing",
+        "flying",
+        "to cross"
+      ]
+    },
+    {
+      "target": "He needs _________ (cross) a deep river.",
+      "correct": [
+        "to cross"
+      ],
+      "wrong": [
+        "flying",
+        "seeing",
+        "asking"
+      ]
+    },
+    {
+      "target": "He is afraid of _________ (enter) the dark forest.",
+      "correct": [
+        "entering"
+      ],
+      "wrong": [
+        "flying",
+        "asking",
+        "to become"
+      ]
+    },
+    {
+      "target": "She finished _________ (prepare) her magic potion.",
+      "correct": [
+        "preparing"
+      ],
+      "wrong": [
+        "to show",
+        "entering",
+        "to cross"
+      ]
+    },
+    {
+      "target": "He wants _________ (rescue) the beautiful princess.",
+      "correct": [
+        "to rescue"
+      ],
+      "wrong": [
+        "to show",
+        "entering",
+        "losing"
+      ]
+    },
+    {
+      "target": "He hopes _________ (become) a real hero.",
+      "correct": [
+        "to become"
+      ],
+      "wrong": [
+        "losing",
+        "flying",
+        "chasing"
+      ]
+    },
+    {
+      "target": "Baba Yaga started _________ (chase) him through the forest.",
+      "correct": [
+        "chasing"
+      ],
+      "wrong": [
+        "flying",
+        "to show",
+        "losing"
+      ]
+    },
+    {
+      "target": "She agreed _________ (show) him the secret way.",
+      "correct": [
+        "to show"
+      ],
+      "wrong": [
+        "to become",
+        "flying",
+        "preparing"
+      ]
+    },
+    {
+      "target": "Baba Yaga avoids _________ (see) the sunlight.",
+      "correct": [
+        "seeing"
+      ],
+      "wrong": [
+        "flying",
+        "losing",
+        "to show"
+      ]
+    },
+    {
+      "target": "Baba Yaga enjoys _________ (ask) tricky riddles.",
+      "correct": [
+        "asking"
+      ],
+      "wrong": [
+        "to become",
+        "preparing",
+        "entering"
+      ]
+    }
+  ]
+}
