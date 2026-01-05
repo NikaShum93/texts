@@ -1,0 +1,123 @@
+{
+  "language": "de",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "questionFont": "PT Sans",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#a3a3a3",
+    "bgImage": "",
+    "bgImages": [],
+    "borderOn": true,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": true,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Max oder Moriz?",
+    "btnText": "Los!"
+  },
+  "direction": "down",
+  "finalFeedback": "Toll!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "Max sprach ruhig und __________.",
+      "correct": [
+        "ernst"
+      ],
+      "wrong": [
+        "wichtig",
+        "sorgfältig",
+        "angenehm"
+      ]
+    },
+    {
+      "target": "Die Atmosphäre in Max’ Studio war __________ und sicher.",
+      "correct": [
+        "angenehm"
+      ],
+      "wrong": [
+        "streng",
+        "sorgfältig",
+        "sympathisch"
+      ]
+    },
+    {
+      "target": "Igor war sehr __________, er erlaubte keine Fehler.",
+      "correct": [
+        "streng"
+      ],
+      "wrong": [
+        "angenehm",
+        "plötzlich",
+        "ernst"
+      ]
+    },
+    {
+      "target": "Im Studio von Igor war alles __________, niemand fühlte sich wohl.",
+      "correct": [
+        "chaotisch"
+      ],
+      "wrong": [
+        "sympathisch",
+        "angenehm",
+        "wichtig"
+      ]
+    },
+    {
+      "target": "__________ kam Igor ins Studio und begann zu schreien.",
+      "correct": [
+        "plötzlich"
+      ],
+      "wrong": [
+        "ernst",
+        "sorgfältig",
+        "wichtig"
+      ]
+    },
+    {
+      "target": "Max trainierte __________ und kontrolliert.",
+      "correct": [
+        "sorgfältig"
+      ],
+      "wrong": [
+        "sympathisch",
+        "chaotisch",
+        "angenehm"
+      ]
+    },
+    {
+      "target": "Viele Menschen fanden Max __________.",
+      "correct": [
+        "sympathisch"
+      ],
+      "wrong": [
+        "streng",
+        "ernst",
+        "wichtig"
+      ]
+    },
+    {
+      "target": "Für Max waren Gefühle __________, nicht nur Muskeln.",
+      "correct": [
+        "wichtig"
+      ],
+      "wrong": [
+        "chaotisch",
+        "angenehm",
+        "sympathisch"
+      ]
+    }
+  ]
+}
