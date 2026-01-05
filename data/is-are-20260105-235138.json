@@ -1,0 +1,49 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 2,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://img.genially.com/61d09eb094503e001a6aef15/327a269d-65af-4ee7-adc9-e6ed9b4c08c4.png",
+      "https://img.genially.com/61d09eb094503e001a6aef15/327a269d-65af-4ee7-adc9-e6ed9b4c08c4.png",
+      "https://img.genially.com/61d09eb094503e001a6aef15/327a269d-65af-4ee7-adc9-e6ed9b4c08c4.png"
+    ],
+    "bgImage": "",
+    "borderOn": true,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": true,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "is are",
+    "btnText": "Start"
+  },
+  "direction": "up",
+  "finalFeedback": "Great!",
+  "levels": [
+    {
+      "target": "is are",
+      "correct": [
+        "He... a teacher",
+        "She ... a nurse",
+        "It ... a cat"
+      ],
+      "wrong": [
+        "They ... cats",
+        "We ... students"
+      ],
+      "timer": 30
+    }
+  ]
+}
