@@ -1,0 +1,169 @@
+{
+  "language": "ru",
+  "font": "Montserrat",
+  "fontSize": 51,
+  "textColor": "#051594",
+  "speed": 3,
+  "questionFont": "Montserrat",
+  "questionFontSize": 60,
+  "style": {
+    "shape": "rounded",
+    "pad": 0,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/28WMDsp3/santa.webp",
+    "bgImages": [
+      "https://i.postimg.cc/28WMDsp3/santa.webp"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 220
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Игра \" Дед Мороз\".",
+    "btnText": "Начать"
+  },
+  "direction": "up",
+  "finalFeedback": "Отличная работа!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "мы_ка",
+      "correct": [
+        "ш"
+      ],
+      "wrong": [
+        "с",
+        "с",
+        "с"
+      ]
+    },
+    {
+      "target": "ко_ка",
+      "correct": [
+        "ш"
+      ],
+      "wrong": [
+        "с",
+        "с",
+        "с"
+      ]
+    },
+    {
+      "target": "ку_ок",
+      "correct": [
+        "с"
+      ],
+      "wrong": [
+        "ш",
+        "ш",
+        "ш"
+      ]
+    },
+    {
+      "target": "фа_оль",
+      "correct": [
+        "с"
+      ],
+      "wrong": [
+        "ш",
+        "ш",
+        "ш"
+      ]
+    },
+    {
+      "target": "ма_ина",
+      "correct": [
+        "ш"
+      ],
+      "wrong": [
+        "с",
+        "с",
+        "с"
+      ]
+    },
+    {
+      "target": "пе_ня",
+      "correct": [
+        "с"
+      ],
+      "wrong": [
+        "ш",
+        "ш",
+        "ш"
+      ]
+    },
+    {
+      "target": "_арф",
+      "correct": [
+        "ш"
+      ],
+      "wrong": [
+        "с",
+        "с",
+        "с"
+      ]
+    },
+    {
+      "target": "пе_ок",
+      "correct": [
+        "с"
+      ],
+      "wrong": [
+        "ш",
+        "ш",
+        "ш"
+      ]
+    },
+    {
+      "target": "какту_ы",
+      "correct": [
+        "с"
+      ],
+      "wrong": [
+        "ш",
+        "ш",
+        "ш"
+      ]
+    },
+    {
+      "target": "малы_и",
+      "correct": [
+        "ш"
+      ],
+      "wrong": [
+        "с",
+        "с",
+        "с"
+      ]
+    },
+    {
+      "target": "_екунда",
+      "correct": [
+        "с"
+      ],
+      "wrong": [
+        "ш",
+        "ш",
+        "ш"
+      ]
+    },
+    {
+      "target": "ко_точка",
+      "correct": [
+        "с"
+      ],
+      "wrong": [
+        "ш",
+        "ш",
+        "ш"
+      ]
+    }
+  ]
+}
