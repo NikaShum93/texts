@@ -1,0 +1,159 @@
+{
+  "language": "ru",
+  "font": "Open Sans",
+  "fontSize": 50,
+  "textColor": "#f3f1f1",
+  "speed": 1,
+  "questionFont": "Open Sans",
+  "questionFontSize": 50,
+  "style": {
+    "shape": "rounded",
+    "pad": 24,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/63GWvd4d/Chat-GPT-Image-5-anv-2026-g-19-03-14.png\nhttps://i.postimg.cc/L5HWpSSL/Chat-GPT-Imahttps://i.postimg.cc/m2SbCZhr/Chat-GPT-Image-5-anv-2026-g-19-08-16.pngge-5-anv-2026-g-19-15-00.png",
+    "bgImages": [
+      "https://i.postimg.cc/63GWvd4d/Chat-GPT-Image-5-anv-2026-g-19-03-14.png",
+      "https://i.postimg.cc/L5HWpSSL/Chat-GPT-Imahttps://i.postimg.cc/m2SbCZhr/Chat-GPT-Image-5-anv-2026-g-19-08-16.pngge-5-anv-2026-g-19-15-00.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 260
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Игра \"Подарки\".",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Отличная работа!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "_емена",
+      "correct": [
+        "с"
+      ],
+      "wrong": [
+        "щ",
+        "щ",
+        "щ"
+      ]
+    },
+    {
+      "target": "пе_енка",
+      "correct": [
+        "с"
+      ],
+      "wrong": [
+        "щ",
+        "щ",
+        "щ"
+      ]
+    },
+    {
+      "target": "пе_ера",
+      "correct": [
+        "щ"
+      ],
+      "wrong": [
+        "с",
+        "с",
+        "с"
+      ]
+    },
+    {
+      "target": "_ека",
+      "correct": [
+        "щ"
+      ],
+      "wrong": [
+        "с",
+        "с",
+        "с"
+      ]
+    },
+    {
+      "target": "_ила",
+      "correct": [
+        "с"
+      ],
+      "wrong": [
+        "щ",
+        "щ",
+        "щ"
+      ]
+    },
+    {
+      "target": "_енок",
+      "correct": [
+        "щ"
+      ],
+      "wrong": [
+        "с",
+        "с",
+        "с"
+      ]
+    },
+    {
+      "target": "гу_ята",
+      "correct": [
+        "с"
+      ],
+      "wrong": [
+        "щ",
+        "щ",
+        "щ"
+      ]
+    },
+    {
+      "target": "но_ик",
+      "correct": [
+        "с"
+      ],
+      "wrong": [
+        "щ",
+        "щ",
+        "щ"
+      ]
+    },
+    {
+      "target": "на_екомое",
+      "correct": [
+        "с"
+      ],
+      "wrong": [
+        "щ",
+        "щ",
+        "щ"
+      ]
+    },
+    {
+      "target": "пла_",
+      "correct": [
+        "щ"
+      ],
+      "wrong": [
+        "с",
+        "с",
+        "с"
+      ]
+    },
+    {
+      "target": "та_ить",
+      "correct": [
+        "щ"
+      ],
+      "wrong": [
+        "с",
+        "с",
+        "с"
+      ]
+    }
+  ]
+}
