@@ -1,0 +1,44 @@
+{
+  "language": "de",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 2,
+  "questionFont": "PT Sans",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "",
+    "bgImages": [],
+    "borderOn": true,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": true,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Max oder Moriz?",
+    "btnText": "Los!"
+  },
+  "direction": "down",
+  "finalFeedback": "Toll!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "Max sprach ruhig und __________.",
+      "correct": [
+        "ernst"
+      ],
+      "wrong": [
+        "angenehm"
+      ]
+    }
+  ]
+}
