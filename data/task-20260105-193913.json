@@ -1,0 +1,58 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Nunito",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 136,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/64233afb55129a0017751c8e/681875a0-3c45-46b5-8db9-482eb4948341.gif",
+    "bubbleSize": 136,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 3,
+  "tasks": [
+    {
+      "question": "В каком варианте все слова являются однокоренными?",
+      "correct": [
+        "гора, горный, гористый"
+      ],
+      "wrong": [
+        "вода, водяной, водит; лес, лестница, лесной"
+      ]
+    },
+    {
+      "question": "В каком ряду все слова имеют корень -снег-?",
+      "correct": [
+        "снегопад, снежный, подснежник; снегирь, снеговик, снежинка"
+      ],
+      "wrong": []
+    }
+  ]
+}
