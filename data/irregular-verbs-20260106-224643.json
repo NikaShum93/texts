@@ -1,0 +1,135 @@
+{
+  "language": "en",
+  "font": "Rubik",
+  "fontSize": 30,
+  "textColor": "#deec22",
+  "speed": 2,
+  "style": {
+    "shape": "rounded",
+    "pad": 36,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://img.genially.com/61d09eb094503e001a6aef15/8ceb7fd9-fddb-4cd4-8602-d8a1b1f3b130.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 220
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Verbs",
+    "btnText": "Start"
+  },
+  "direction": "up",
+  "finalFeedback": "Great!",
+  "levels": [
+    {
+      "target": "Irregular Verbs",
+      "correct": [
+        "buy",
+        "catch",
+        "teach",
+        "have",
+        "make",
+        "get",
+        "give",
+        "take",
+        "understand",
+        "win",
+        "write",
+        "read"
+      ],
+      "wrong": [
+        "watch",
+        "listen",
+        "wash",
+        "bake",
+        "like",
+        "hate",
+        "print",
+        "type"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "Regular Verbs",
+      "correct": [
+        "watch",
+        "listen",
+        "wash",
+        "bake",
+        "like",
+        "hate",
+        "print",
+        "type"
+      ],
+      "wrong": [
+        "buy",
+        "catch",
+        "teach",
+        "have",
+        "make",
+        "get",
+        "give",
+        "take",
+        "understand",
+        "win",
+        "write",
+        "read"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "Modal Verbs",
+      "correct": [
+        "can",
+        "must",
+        "have to",
+        "may",
+        "might",
+        "should",
+        "could"
+      ],
+      "wrong": [
+        "am",
+        "is",
+        "are",
+        "was",
+        "were",
+        "will",
+        "do",
+        "did",
+        "had"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "Auxiliary Verbs",
+      "correct": [
+        "was",
+        "were",
+        "will",
+        "do",
+        "did",
+        "had"
+      ],
+      "wrong": [
+        "can",
+        "must",
+        "have to",
+        "may",
+        "might",
+        "should",
+        "could"
+      ],
+      "timer": 30
+    }
+  ]
+}
