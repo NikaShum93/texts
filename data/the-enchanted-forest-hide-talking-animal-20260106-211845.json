@@ -1,0 +1,182 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Baloo 2",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/mqvTrVZEMxIAAAAi/bubble-bfdi.gif",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(16,217,244,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#1532c1",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#00fbff",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": false
+    }
+  },
+  "finalFeedback": "",
+  "feedbackImage": "https://media.tenor.com/E_UyRwJIOeAAAAAi/congrats-congratulations.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "image",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "... the enchanted forest hide talking animals?",
+      "correct": [
+        "Does"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The magic broom ... sweep the sky every day.",
+      "correct": [
+        "doesn't"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "... the phoenix rise from ashes yesterday?",
+      "correct": [
+        "Did"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The troll ... eat broccoli every day.",
+      "correct": [
+        "doesn't"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "... the fairy godmother grant three wishes last week?",
+      "correct": [
+        "Did"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The sleepy dragon ... guard the treasure yesterday.",
+      "correct": [
+        "didn't"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "... unicorns eat rainbows every day?",
+      "correct": [
+        "Do"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The spellbook ... open by itself every evening.",
+      "correct": [
+        "doesn't"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The ogre ... live in a candy house.",
+      "correct": [
+        "doesn't"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "... the talking tree tell stories every morning?",
+      "correct": [
+        "Does"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The cloud castle ... float away last summer.",
+      "correct": [
+        "didn't"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "... the dragon breathe fire yesterday morning?",
+      "correct": [
+        "Did"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Fairies ... use umbrellas when it rains.",
+      "correct": [
+        "don't"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "... the magic mirror show the truth last night?",
+      "correct": [
+        "Did"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The mermaid ... ride a seahorse to school.",
+      "correct": [
+        "doesn't"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "... elves bake magic cookies on Sundays?",
+      "correct": [
+        "Do"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The talking cat ... understand human words.",
+      "correct": [
+        "doesn't"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "... the golden key unlock the treasure chest yesterday?",
+      "correct": [
+        "Did"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The dragon ... whisper secrets every Tuesday.",
+      "correct": [
+        "doesn't"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "... the troll cross the rainbow bridge?",
+      "correct": [
+        "Does"
+      ],
+      "wrong": []
+    }
+  ]
+}
