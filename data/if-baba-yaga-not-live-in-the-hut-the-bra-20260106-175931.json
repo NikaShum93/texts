@@ -1,0 +1,147 @@
+{
+  "language": "en",
+  "font": "Montserrat",
+  "fontSize": 15,
+  "textColor": "#230c79",
+  "speed": 3,
+  "questionFont": "Roboto",
+  "questionFontSize": 28,
+  "style": {
+    "shape": "rounded",
+    "pad": 100,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/cHnPCLgF/snezinka.png",
+    "bgImages": [
+      "https://i.postimg.cc/cHnPCLgF/snezinka.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Third Conditional. Choose the correct answer.",
+    "btnText": "Start"
+  },
+  "direction": "down",
+  "finalFeedback": "Good job! Thank you!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "If Baba Yaga ______ (not live) in the hut, the brave youth wouldn't have found her.",
+      "correct": [
+        "had not lived"
+      ],
+      "wrong": [
+        "had not given",
+        "had seen",
+        "had been"
+      ]
+    },
+    {
+      "target": "If Baba Yaga ______ (be) friendlier, she wouldn't have tried to cook him.",
+      "correct": [
+        "had been"
+      ],
+      "wrong": [
+        "had not said",
+        "had seen",
+        "had not lived"
+      ]
+    },
+    {
+      "target": "If the cat ______ (not give) him advice, the youth wouldn't have known what to do.",
+      "correct": [
+        "had not given"
+      ],
+      "wrong": [
+        "had not lived",
+        "had been",
+        "had been"
+      ]
+    },
+    {
+      "target": "Baba Yaga would have caught the youth if he ______ (not be) so clever.",
+      "correct": [
+        "had not been"
+      ],
+      "wrong": [
+        "had not said",
+        "had found",
+        "had been"
+      ]
+    },
+    {
+      "target": "If Baba Yaga's geese-swans ______ (see) the youth, they would have told her.",
+      "correct": [
+        "had seen"
+      ],
+      "wrong": [
+        "had not said",
+        "had not been",
+        "had not given"
+      ]
+    },
+    {
+      "target": "Baba Yaga's hut wouldn't have turned around if the youth ______ (not say) the magic words.",
+      "correct": [
+        "had not said"
+      ],
+      "wrong": [
+        "had not been",
+        "had had",
+        "had been"
+      ]
+    },
+    {
+      "target": "If the river of fire ______ (be) wider, the youth wouldn't have crossed it.",
+      "correct": [
+        "had been"
+      ],
+      "wrong": [
+        "had not given",
+        "had not lived",
+        "had found"
+      ]
+    },
+    {
+      "target": "The youth would have become rich if he ______ (find) Baba Yaga's treasure.",
+      "correct": [
+        "had found"
+      ],
+      "wrong": [
+        "had not been",
+        "had not given",
+        "had not said"
+      ]
+    },
+    {
+      "target": "The youth would have asked for help if he ______ (have) a magic ring.",
+      "correct": [
+        "had had"
+      ],
+      "wrong": [
+        "had been",
+        "had been",
+        "had seen"
+      ]
+    },
+    {
+      "target": "The story would have had a bad ending if the youth ______ (be) cowardly.",
+      "correct": [
+        "had been"
+      ],
+      "wrong": [
+        "had seen",
+        "had not been",
+        "had found"
+      ]
+    }
+  ]
+}
