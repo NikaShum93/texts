@@ -1,0 +1,145 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 2,
+  "questionFont": "PT Sans",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#dcd6d6",
+    "bgImage": "",
+    "bgImages": [],
+    "borderOn": true,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": true,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "",
+    "btnText": ""
+  },
+  "direction": "down",
+  "finalFeedback": "",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "Jeden Morgen _______ ich mir die Haare, bevor ich aus dem Haus gehe.",
+      "correct": [
+        "föhne"
+      ],
+      "wrong": [
+        "frühstücken",
+        "erfüllen",
+        "gießen"
+      ]
+    },
+    {
+      "target": "Kannst du mich bitte an meinen Termin _______?",
+      "correct": [
+        "erinnern"
+      ],
+      "wrong": [
+        "föhne",
+        "mischen",
+        "gekocht"
+      ]
+    },
+    {
+      "target": "Beim Kochen habe ich die Tasse fallen lassen, und sie ist auf den Boden _______.",
+      "correct": [
+        "heruntergefallen"
+      ],
+      "wrong": [
+        "erfüllen",
+        "frühstücken",
+        "lächelt"
+      ]
+    },
+    {
+      "target": "Zum Geburtstag möchte ich mir einen Wunsch _______.",
+      "correct": [
+        "erfüllen"
+      ],
+      "wrong": [
+        "heruntergefallen",
+        "erinnern",
+        "lächelt"
+      ]
+    },
+    {
+      "target": "Am Wochenende _______ wir immer gemütlich zusammen.",
+      "correct": [
+        "frühstücken"
+      ],
+      "wrong": [
+        "föhne",
+        "erinnern",
+        "heruntergefallen"
+      ]
+    },
+    {
+      "target": "Kannst du die Blumen _______? Sie brauchen Wasser.",
+      "correct": [
+        "gießen"
+      ],
+      "wrong": [
+        "lassen",
+        "erfüllen",
+        "gekocht"
+      ]
+    },
+    {
+      "target": "Das Baby _______ mich an und ich werde sofort weich.",
+      "correct": [
+        "lächelt"
+      ],
+      "wrong": [
+        "frühstücken",
+        "lassen",
+        "mischen"
+      ]
+    },
+    {
+      "target": "Ich habe den Teig noch nicht fertig. Ich muss die Zutaten zuerst _______.",
+      "correct": [
+        "mischen"
+      ],
+      "wrong": [
+        "föhne",
+        "lächelt",
+        "erinnern"
+      ]
+    },
+    {
+      "target": "Ich wollte gehen, aber meine Freunde haben mich nicht _______.",
+      "correct": [
+        "lassen"
+      ],
+      "wrong": [
+        "erinnern",
+        "lächelt",
+        "föhne"
+      ]
+    },
+    {
+      "target": "Der Kaffee ist schon fertig. Ich habe ihn gerade _______.",
+      "correct": [
+        "gekocht"
+      ],
+      "wrong": [
+        "lächelt",
+        "erinnern",
+        "mischen"
+      ]
+    }
+  ]
+}
