@@ -1,0 +1,172 @@
+{
+  "language": "en",
+  "font": "Poppins",
+  "fontSize": 40,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "questionFont": "Roboto",
+  "questionFontSize": 47,
+  "style": {
+    "shape": "rounded",
+    "pad": 100,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/KY5Cm6LN/Grinch.png",
+    "bgImages": [
+      "https://i.postimg.cc/KY5Cm6LN/Grinch.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Grinch Quiz",
+    "btnText": "START"
+  },
+  "direction": "random",
+  "finalFeedback": "GREAT!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "I _____ a cat.",
+      "correct": [
+        "have got"
+      ],
+      "wrong": [
+        "has got"
+      ]
+    },
+    {
+      "target": "She _____ a brother.",
+      "correct": [
+        "has got"
+      ],
+      "wrong": [
+        "have got"
+      ]
+    },
+    {
+      "target": "We ______ a car.",
+      "correct": [
+        "haven't got"
+      ],
+      "wrong": [
+        "hasn't got"
+      ]
+    },
+    {
+      "target": "He _____ a bike.",
+      "correct": [
+        "hasn't got"
+      ],
+      "wrong": [
+        "haven't got"
+      ]
+    },
+    {
+      "target": "____ you ___ a pen?",
+      "correct": [
+        "Have got"
+      ],
+      "wrong": [
+        "Has got"
+      ]
+    },
+    {
+      "target": "____ she ____ a dog?",
+      "correct": [
+        "Has got"
+      ],
+      "wrong": [
+        "Have got"
+      ]
+    },
+    {
+      "target": "They _____a big house.",
+      "correct": [
+        "have got"
+      ],
+      "wrong": [
+        "has got"
+      ]
+    },
+    {
+      "target": "I ______ any homework.",
+      "correct": [
+        "haven't got"
+      ],
+      "wrong": [
+        "hasn't got"
+      ]
+    },
+    {
+      "target": "___ he ____ a sister?",
+      "correct": [
+        "Has got"
+      ],
+      "wrong": [
+        "Have got"
+      ]
+    },
+    {
+      "target": "My friend _____ a new bag.",
+      "correct": [
+        "has got"
+      ],
+      "wrong": [
+        "have got"
+      ]
+    },
+    {
+      "target": "____ they ___ a garden?",
+      "correct": [
+        "Have got"
+      ],
+      "wrong": [
+        "Has got"
+      ]
+    },
+    {
+      "target": "She _____ blue eyes.",
+      "correct": [
+        "hasn't got"
+      ],
+      "wrong": [
+        "haven't got"
+      ]
+    },
+    {
+      "target": "We _____ two apples.",
+      "correct": [
+        "have got"
+      ],
+      "wrong": [
+        "has got"
+      ]
+    },
+    {
+      "target": "___ you ___ a phone?",
+      "correct": [
+        "Have got"
+      ],
+      "wrong": [
+        "Has got"
+      ]
+    },
+    {
+      "target": "The boy _____ a hat.",
+      "correct": [
+        "hasn't got"
+      ],
+      "wrong": [
+        "haven't got"
+      ]
+    }
+  ]
+}
