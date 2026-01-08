@@ -1,0 +1,217 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Baloo 2",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/nOV2FxPWVgQAAAAi/lol.gif",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": false
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://media.tenor.com/0gsZ7XYp9bYAAAAi/emoji-well-done.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "image",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "The friendly dragon … (breathe) fire that smells like cinnamon buns.",
+      "correct": [
+        "is breathing"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Every night, the moon … (whisper) secrets to the sleepy stars.",
+      "correct": [
+        "whispers"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Right now, the wizard … (mix) a potion that makes socks dance.",
+      "correct": [
+        "is mixing"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The magic broom … (sweep) the clouds every morning.",
+      "correct": [
+        "sweeps"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Look! The enchanted cat … (wear) tiny sunglasses.",
+      "correct": [
+        "is wearing"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The gingerbread house … (smell) like cookies and rainbows.",
+      "correct": [
+        "smells"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "At midnight, the castle clock … (sing) a lullaby.",
+      "correct": [
+        "sings"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The fairy … (paint) dreams with her sparkly brush right now.",
+      "correct": [
+        "is painting"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Every spring, talking flowers … (tell) jokes to butterflies.",
+      "correct": [
+        "tell"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The invisible puppy … (chase) its own tail in the garden.",
+      "correct": [
+        "is chasing"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The wise owl … (read) a book about flying cupcakes.",
+      "correct": [
+        "reads"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Right now, the mermaid … (braid) seaweed into her hair.",
+      "correct": [
+        "is braiding"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The magic mirror … (show) only kind faces.",
+      "correct": [
+        "shows"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Look! The cloud sheep … (float) toward the candy mountain.",
+      "correct": [
+        "are floating"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The chocolate river … (flow) slowly through the valley.",
+      "correct": [
+        "flows"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Every afternoon, the unicorn … (brush) its rainbow mane.",
+      "correct": [
+        "brushes"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The little goblin … (try) to tie his shoelaces with magic.",
+      "correct": [
+        "is trying"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The talking tree … (wave) its branches when someone says “hello”.",
+      "correct": [
+        "waves"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Right now, the genie … (grant) a wish for endless pizza.",
+      "correct": [
+        "is granting"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The sleepy dragon … (snore) bubbles that turn into butterflies.",
+      "correct": [
+        "snores"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The magic school bell … (ring) only when it’s time for fun.",
+      "correct": [
+        "rings"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The candy witch … (bake) cupcakes that giggle when you eat them.",
+      "correct": [
+        "bakes"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Look! The baby dragon … (blow) smoke rings shaped like hearts.",
+      "correct": [
+        "is blowing"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Every full moon, the frogs … (sing) opera in the swamp.",
+      "correct": [
+        "sing"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The enchanted backpack … (carry) homework and chocolate frogs.",
+      "correct": [
+        "carries"
+      ],
+      "wrong": []
+    }
+  ]
+}
