@@ -1,0 +1,171 @@
+{
+  "language": "ru",
+  "font": "Montserrat",
+  "fontSize": 38,
+  "textColor": "#87083f",
+  "speed": 1,
+  "questionFont": "Montserrat",
+  "questionFontSize": 60,
+  "style": {
+    "shape": "rounded",
+    "pad": 49,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/bw4nG1wR/Chat-GPT-Image-8-anv-2026-g-11-48-02.png\nhttps://i.postimg.cc/3N3SPPsc/Chat-GPT-Image-8-anv-2026-g-11-59-46.png\nhttps://i.postimg.cc/zvD7dTWH/2026-01-07T183548-897-Photoroom.png",
+    "bgImages": [
+      "https://i.postimg.cc/bw4nG1wR/Chat-GPT-Image-8-anv-2026-g-11-48-02.png",
+      "https://i.postimg.cc/3N3SPPsc/Chat-GPT-Image-8-anv-2026-g-11-59-46.png",
+      "https://i.postimg.cc/zvD7dTWH/2026-01-07T183548-897-Photoroom.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 150
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Игра \" На катке\".",
+    "btnText": ""
+  },
+  "direction": "random",
+  "finalFeedback": "Здорово!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "пи_ама",
+      "correct": [
+        "Ж"
+      ],
+      "wrong": [
+        "Ш",
+        "Ш",
+        "Ш"
+      ]
+    },
+    {
+      "target": "ко_елёк",
+      "correct": [
+        "Ш"
+      ],
+      "wrong": [
+        "Ж",
+        "Ж",
+        "Ж"
+      ]
+    },
+    {
+      "target": "пе_еход",
+      "correct": [
+        "Ш"
+      ],
+      "wrong": [
+        "Ж",
+        "Ж",
+        "Ж"
+      ]
+    },
+    {
+      "target": "мы_онок",
+      "correct": [
+        "Ш"
+      ],
+      "wrong": [
+        "Ж",
+        "Ж",
+        "Ж"
+      ]
+    },
+    {
+      "target": "творо_ок",
+      "correct": [
+        "Ж"
+      ],
+      "wrong": [
+        "Ш",
+        "Ш",
+        "Ш"
+      ]
+    },
+    {
+      "target": "кру_ок",
+      "correct": [
+        "Ж"
+      ],
+      "wrong": [
+        "Ш",
+        "Ш",
+        "Ш"
+      ]
+    },
+    {
+      "target": "ма_ина",
+      "correct": [
+        "Ш"
+      ],
+      "wrong": [
+        "Ж",
+        "Ж",
+        "Ж"
+      ]
+    },
+    {
+      "target": "моро_еное",
+      "correct": [
+        "Ж"
+      ],
+      "wrong": [
+        "Ш",
+        "Ш",
+        "Ш"
+      ]
+    },
+    {
+      "target": "слу_ать",
+      "correct": [
+        "Ш"
+      ],
+      "wrong": [
+        "Ж",
+        "Ж",
+        "Ж"
+      ]
+    },
+    {
+      "target": "пру_инка",
+      "correct": [
+        "Ж"
+      ],
+      "wrong": [
+        "Ш",
+        "Ш",
+        "Ш"
+      ]
+    },
+    {
+      "target": "сне_инка",
+      "correct": [
+        "Ж"
+      ],
+      "wrong": [
+        "Ш",
+        "Ш",
+        "Ш"
+      ]
+    },
+    {
+      "target": "_ираф",
+      "correct": [
+        "Ж"
+      ],
+      "wrong": [
+        "Ш",
+        "Ш",
+        "Ш"
+      ]
+    }
+  ]
+}
