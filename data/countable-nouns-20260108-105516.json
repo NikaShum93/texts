@@ -1,0 +1,88 @@
+{
+  "language": "en",
+  "font": "Special Elite",
+  "fontSize": 24,
+  "textColor": "#453002",
+  "speed": 3,
+  "style": {
+    "shape": "circle",
+    "pad": 100,
+    "bgColor": "#ffffff",
+    "bgImages": [
+      "https://i.postimg.cc/wMRyxPcj/f5b316b3-8500-4079-9853-ccf1f18d099e-removalai-preview.webp"
+    ],
+    "bgImage": "",
+    "borderOn": true,
+    "borderColor": "#ffffff",
+    "borderWidth": 0,
+    "shadow": true,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Countable or Uncountable",
+    "btnText": "Start!"
+  },
+  "direction": "down",
+  "finalFeedback": "Well done!",
+  "levels": [
+    {
+      "target": "Countable nouns",
+      "correct": [
+        "apple",
+        "lemon",
+        "potato",
+        "egg",
+        "strawberry",
+        "sandwich",
+        "biscuit",
+        "tomato",
+        "pancake"
+      ],
+      "wrong": [
+        "cereal",
+        "sugar",
+        "flour",
+        "juice",
+        "milk",
+        "water",
+        "rice",
+        "bread",
+        "pasta",
+        "meat"
+      ],
+      "timer": 45
+    },
+    {
+      "target": "Uncountable nouns",
+      "correct": [
+        "cereal",
+        "sugar",
+        "flour",
+        "juice",
+        "milk",
+        "water",
+        "rice",
+        "bread",
+        "pasta",
+        "meat"
+      ],
+      "wrong": [
+        "apple",
+        "lemon",
+        "potato",
+        "egg",
+        "strawberry",
+        "sandwich",
+        "biscuit",
+        "tomato",
+        "pancake"
+      ],
+      "timer": 30
+    }
+  ]
+}
