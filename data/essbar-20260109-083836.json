@@ -1,0 +1,121 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 2,
+  "questionFont": "PT Sans",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#dcd6d6",
+    "bgImage": "https://media.tenor.com/j__IuqOn0KEAAAAi/ice-cream-ice-cream-cone.gif",
+    "bgImages": [
+      "https://media.tenor.com/j__IuqOn0KEAAAAi/ice-cream-ice-cream-cone.gif"
+    ],
+    "borderOn": true,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": true,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Was passt zu?",
+    "btnText": "Los!"
+  },
+  "direction": "down",
+  "finalFeedback": "Toll!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "essbar",
+      "correct": [
+        "der Keks"
+      ],
+      "wrong": [
+        "die Oma"
+      ]
+    },
+    {
+      "target": "essbar",
+      "correct": [
+        "der Fisch"
+      ],
+      "wrong": [
+        "das Buch"
+      ]
+    },
+    {
+      "target": "essbar",
+      "correct": [
+        "das Müsli"
+      ],
+      "wrong": [
+        "der Tisch"
+      ]
+    },
+    {
+      "target": "essbar",
+      "correct": [
+        "die Nudel"
+      ],
+      "wrong": [
+        "das Regal"
+      ]
+    },
+    {
+      "target": "essbar",
+      "correct": [
+        "der Joghurt"
+      ],
+      "wrong": [
+        "das Sofa"
+      ]
+    },
+    {
+      "target": "essbar",
+      "correct": [
+        "das Fleisch"
+      ],
+      "wrong": [
+        "das Auto"
+      ]
+    },
+    {
+      "target": "essbar",
+      "correct": [
+        "die Gurke"
+      ],
+      "wrong": [
+        "die Schule"
+      ]
+    },
+    {
+      "target": "essbar",
+      "correct": [
+        "der Käse"
+      ],
+      "wrong": []
+    },
+    {
+      "target": "essbar",
+      "correct": [
+        "die Orange"
+      ],
+      "wrong": []
+    },
+    {
+      "target": "essbar",
+      "correct": [
+        "der Quark"
+      ],
+      "wrong": []
+    }
+  ]
+}
