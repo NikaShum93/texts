@@ -1,0 +1,224 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 2,
+  "questionFont": "PT Sans",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#dcd6d6",
+    "bgImage": "https://media.tenor.com/j__IuqOn0KEAAAAi/ice-cream-ice-cream-cone.gif",
+    "bgImages": [
+      "https://media.tenor.com/j__IuqOn0KEAAAAi/ice-cream-ice-cream-cone.gif"
+    ],
+    "borderOn": true,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": true,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Was passt zu?",
+    "btnText": "Los!"
+  },
+  "direction": "down",
+  "finalFeedback": "Toll!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "nicht essbar",
+      "correct": [
+        "die Oma"
+      ],
+      "wrong": [
+        "der Keks",
+        "das Auto",
+        "der Quark"
+      ]
+    },
+    {
+      "target": "essbar",
+      "correct": [
+        "der Keks"
+      ],
+      "wrong": [
+        "der Quark",
+        "der Tisch",
+        "das Müsli"
+      ]
+    },
+    {
+      "target": "essbar",
+      "correct": [
+        "der Fisch"
+      ],
+      "wrong": [
+        "der Tisch",
+        "das Müsli",
+        "das Auto"
+      ]
+    },
+    {
+      "target": "nicht essbar",
+      "correct": [
+        "das Buch"
+      ],
+      "wrong": [
+        "die Orange",
+        "die Schule",
+        "das Auto"
+      ]
+    },
+    {
+      "target": "nicht essbar",
+      "correct": [
+        "der Tisch"
+      ],
+      "wrong": [
+        "die Schule",
+        "das Buch",
+        "das Auto"
+      ]
+    },
+    {
+      "target": "essbar",
+      "correct": [
+        "das Müsli"
+      ],
+      "wrong": [
+        "der Tisch",
+        "der Fisch",
+        "das Regal"
+      ]
+    },
+    {
+      "target": "essbar",
+      "correct": [
+        "die Nudel"
+      ],
+      "wrong": [
+        "der Fisch",
+        "das Auto",
+        "die Orange"
+      ]
+    },
+    {
+      "target": "essbar",
+      "correct": [
+        "der Joghurt"
+      ],
+      "wrong": [
+        "das Regal",
+        "der Keks",
+        "das Fleisch"
+      ]
+    },
+    {
+      "target": "nicht essbar",
+      "correct": [
+        "das Regal"
+      ],
+      "wrong": [
+        "der Fisch",
+        "die Nudel",
+        "das Fleisch"
+      ]
+    },
+    {
+      "target": "essbar",
+      "correct": [
+        "das Fleisch"
+      ],
+      "wrong": [
+        "der Quark",
+        "die Nudel",
+        "die Schule"
+      ]
+    },
+    {
+      "target": "nicht essbar",
+      "correct": [
+        "das Sofa"
+      ],
+      "wrong": [
+        "die Oma",
+        "das Regal",
+        "das Müsli"
+      ]
+    },
+    {
+      "target": "essbar",
+      "correct": [
+        "die Gurke"
+      ],
+      "wrong": [
+        "der Käse",
+        "das Buch",
+        "das Müsli"
+      ]
+    },
+    {
+      "target": "nicht essbar",
+      "correct": [
+        "das Auto"
+      ],
+      "wrong": [
+        "der Quark",
+        "der Fisch",
+        "der Keks"
+      ]
+    },
+    {
+      "target": "nicht essbar",
+      "correct": [
+        "die Schule"
+      ],
+      "wrong": [
+        "das Buch",
+        "die Orange",
+        "der Fisch"
+      ]
+    },
+    {
+      "target": "essbar",
+      "correct": [
+        "der Käse"
+      ],
+      "wrong": [
+        "die Nudel",
+        "das Müsli",
+        "die Gurke"
+      ]
+    },
+    {
+      "target": "essbar",
+      "correct": [
+        "die Orange"
+      ],
+      "wrong": [
+        "die Gurke",
+        "der Fisch",
+        "die Nudel"
+      ]
+    },
+    {
+      "target": "essbar",
+      "correct": [
+        "der Quark"
+      ],
+      "wrong": [
+        "das Buch",
+        "die Gurke",
+        "die Orange"
+      ]
+    }
+  ]
+}
