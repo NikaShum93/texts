@@ -1,0 +1,182 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/65a66a0db3c06500207bb5f3/2a06877d-ad0e-49dd-b276-87a6b3beeebf.png",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    }
+  },
+  "finalFeedback": "🎉 Молодец!",
+  "feedbackImage": "",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "120 : 40",
+      "correct": [
+        "3"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "360 : 60",
+      "correct": [
+        "6"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "180 : 90",
+      "correct": [
+        "2"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "160 : 80",
+      "correct": [
+        "2"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "140 : 20",
+      "correct": [
+        "7"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "270 : 30",
+      "correct": [
+        "9"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "150 : 50",
+      "correct": [
+        "3"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "210 : 70",
+      "correct": [
+        "3"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "240 : 60",
+      "correct": [
+        "4"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "200 : 40",
+      "correct": [
+        "5"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "320 : 80",
+      "correct": [
+        "4"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "280 : 40",
+      "correct": [
+        "7"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "350 : 50",
+      "correct": [
+        "7"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "300 : 60",
+      "correct": [
+        "5"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "450 : 90",
+      "correct": [
+        "5"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "400 : 80",
+      "correct": [
+        "5"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "560 : 70",
+      "correct": [
+        "8"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "480 : 60",
+      "correct": [
+        "8"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "540 : 60",
+      "correct": [
+        "9"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "630 : 90",
+      "correct": [
+        "7"
+      ],
+      "wrong": []
+    }
+  ]
+}
