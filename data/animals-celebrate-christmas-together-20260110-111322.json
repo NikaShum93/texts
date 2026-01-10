@@ -1,0 +1,102 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Mountains of Christmas",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": true,
+  "bubbleSize": 128,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/3xnwQsW6/Dizai-n-bez-nazvania-(3).png",
+    "bubbleSize": 128,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#7df9ff",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Animals celebrate Christmas together.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The streets shine with colourful lights every night.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Families decorate their homes with garlands.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "A huge Christmas tree stands in the main square.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Shops sell warm drinks, cookies, and holiday gifts.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Kids write letters to Santa.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Snow falls and covers the rooftops.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Friends exchange presents.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The city’s musicians play cheerful Christmas songs.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Everyone drinks hot chocolate when they feel cold.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The mayor lights up the big Christmas tree.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Families watch Christmas parades and laugh together.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
