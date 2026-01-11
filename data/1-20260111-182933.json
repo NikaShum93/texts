@@ -1,0 +1,72 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#000000",
+  "speed": 5,
+  "style": {
+    "shape": "rounded",
+    "pad": 34,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/s2Fg5LKc/Chat-GPT-Image-11-anv-2026-g-18-27-21.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": true,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 200
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Имена прилагательные во множественном числе",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Отличная работа!",
+  "levels": [
+    {
+      "target": "1",
+      "correct": [
+        "снежные",
+        "морозные",
+        "тихие",
+        "яркие",
+        "холодные",
+        "длинные",
+        "короткие",
+        "быстрые",
+        "медленные",
+        "весёлые",
+        "громкие",
+        "спокойные",
+        "чистые",
+        "тёплые",
+        "хмурые",
+        "солнечные",
+        "мягкие",
+        "широкие",
+        "далёкие",
+        "высокие"
+      ],
+      "wrong": [
+        "сладкий",
+        "красная",
+        "новое",
+        "старый",
+        "зелёная",
+        "сухое",
+        "мокрый",
+        "узкая",
+        "круглое",
+        "смелый"
+      ],
+      "timer": 40
+    }
+  ]
+}
