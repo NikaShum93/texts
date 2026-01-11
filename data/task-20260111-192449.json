@@ -1,0 +1,66 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": false,
+  "bubbleSize": 70,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/GbtwPMFfi88AAAAi/boldog-kar%C3%A1csonyt-bell.gif",
+    "bubbleSize": 70,
+    "task": {
+      "bgColor": "rgba(97,121,88,0.95)",
+      "borderColor": "#2c543b",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#ffffff",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": false
+    }
+  },
+  "finalFeedback": "🎉 Молодец!",
+  "feedbackImage": "",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "type": "image",
+      "image": "https://img.genially.com/61eb172fe320a80012b16542/4c694e50-b5b9-49e4-9cfb-6cfcbfe53634.png"
+    },
+    {
+      "type": "image",
+      "image": "https://img.genially.com/61eb172fe320a80012b16542/940ba42c-7526-4f07-b5fa-15b7d13d7b3a.png"
+    },
+    {
+      "type": "image",
+      "image": "https://img.genially.com/61eb172fe320a80012b16542/855b2d2f-ba4c-4e8b-8cc8-ca2d1730aed0.png"
+    },
+    {
+      "type": "image",
+      "image": "https://img.genially.com/61eb172fe320a80012b16542/90da115b-ed98-48d1-ab57-0d272144b4bc.png"
+    },
+    {
+      "type": "image",
+      "image": "https://img.genially.com/61eb172fe320a80012b16542/47039117-a5b8-4ce8-aad6-cfc0fbdf6cbe.png"
+    },
+    {
+      "type": "image",
+      "image": "https://img.genially.com/61eb172fe320a80012b16542/b3d517bb-352e-4a90-8e50-ed6abfa3b945.png"
+    }
+  ]
+}
