@@ -1,0 +1,237 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 36,
+  "textColor": "#280eec",
+  "speed": 5,
+  "questionFont": "Roboto",
+  "questionFontSize": 36,
+  "style": {
+    "shape": "rounded",
+    "pad": 35,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/xCjjF5np/if.png",
+    "bgImages": [
+      "https://i.postimg.cc/xCjjF5np/if.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": true,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Articles",
+    "btnText": "START"
+  },
+  "direction": "down",
+  "finalFeedback": "WOW!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "I have ___ cat at home.",
+      "correct": [
+        "a"
+      ],
+      "wrong": [
+        "zero article",
+        "the"
+      ]
+    },
+    {
+      "target": "She wants to be ___ doctor.",
+      "correct": [
+        "a"
+      ],
+      "wrong": [
+        "zero article",
+        "the"
+      ]
+    },
+    {
+      "target": "We saw ___ movie you told us about.",
+      "correct": [
+        "the"
+      ],
+      "wrong": [
+        "zero article",
+        "a"
+      ]
+    },
+    {
+      "target": "He goes to ___ school every day.",
+      "correct": [
+        "zero article"
+      ],
+      "wrong": [
+        "the",
+        "a"
+      ]
+    },
+    {
+      "target": "There is ___ apple on the table.",
+      "correct": [
+        "an"
+      ],
+      "wrong": [
+        "zero article",
+        "the"
+      ]
+    },
+    {
+      "target": "___ sun is very bright today.",
+      "correct": [
+        "the"
+      ],
+      "wrong": [
+        "zero article",
+        "an"
+      ]
+    },
+    {
+      "target": "I like ___ music.",
+      "correct": [
+        "zero article"
+      ],
+      "wrong": [
+        "the",
+        "a"
+      ]
+    },
+    {
+      "target": "She bought ___ umbrella because it was raining.",
+      "correct": [
+        "an"
+      ],
+      "wrong": [
+        "zero article",
+        "the"
+      ]
+    },
+    {
+      "target": "They live near ___ river.",
+      "correct": [
+        "a"
+      ],
+      "wrong": [
+        "zero article",
+        "the"
+      ]
+    },
+    {
+      "target": "___ dogs are very friendly animals.",
+      "correct": [
+        "zero article"
+      ],
+      "wrong": [
+        "the",
+        "a"
+      ]
+    },
+    {
+      "target": "I need ___ help with my homework.",
+      "correct": [
+        "zero article"
+      ],
+      "wrong": [
+        "the",
+        "a"
+      ]
+    },
+    {
+      "target": "He opened ___ door slowly.",
+      "correct": [
+        "the"
+      ],
+      "wrong": [
+        "zero article",
+        "an"
+      ]
+    },
+    {
+      "target": "We usually eat ___ breakfast at 8 a.m.",
+      "correct": [
+        "zero article"
+      ],
+      "wrong": [
+        "the",
+        "a"
+      ]
+    },
+    {
+      "target": "She is ___ best student in the class.",
+      "correct": [
+        "the"
+      ],
+      "wrong": [
+        "zero article",
+        "a"
+      ]
+    },
+    {
+      "target": "There is ___ hospital next to my house.",
+      "correct": [
+        "a"
+      ],
+      "wrong": [
+        "zero article",
+        "the"
+      ]
+    },
+    {
+      "target": "I play ___ football after school.",
+      "correct": [
+        "zero article"
+      ],
+      "wrong": [
+        "the",
+        "a"
+      ]
+    },
+    {
+      "target": "___ teacher is in the classroom now.",
+      "correct": [
+        "the"
+      ],
+      "wrong": [
+        "zero article",
+        "an"
+      ]
+    },
+    {
+      "target": "He has ___ idea!",
+      "correct": [
+        "an"
+      ],
+      "wrong": [
+        "zero article",
+        "the"
+      ]
+    },
+    {
+      "target": "We visited ___ museum yesterday.",
+      "correct": [
+        "a"
+      ],
+      "wrong": [
+        "zero article",
+        "the"
+      ]
+    },
+    {
+      "target": "She drinks ___ water every morning.",
+      "correct": [
+        "zero article"
+      ],
+      "wrong": [
+        "the",
+        "a"
+      ]
+    }
+  ]
+}
