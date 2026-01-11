@@ -1,0 +1,40 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 18,
+  "textColor": "#ffffff",
+  "speed": 10,
+  "style": {
+    "shape": "circle",
+    "pad": 22,
+    "bgColor": "#ffffff",
+    "bgImages": [],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Словарные слова",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Отличная работа!",
+  "levels": [
+    {
+      "target": "Словарные слова",
+      "correct": [
+        "https://postimg.cc/21rGD7hY][img]https://i.postimg.cc/21rGD7hY/Chat-GPT-Image-11-anv-2026-g-11-18-26.png"
+      ],
+      "wrong": [],
+      "timer": 60
+    }
+  ]
+}
