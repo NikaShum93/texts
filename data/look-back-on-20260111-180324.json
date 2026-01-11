@@ -1,0 +1,34 @@
+{
+  "listA": [
+    "look back on",
+    "think of",
+    "come across",
+    "stumble upon",
+    "set off for",
+    "light up",
+    "walk through",
+    "fly over",
+    "peek into",
+    "run around",
+    "sit by",
+    "gaze at"
+  ],
+  "listB": [
+    "your happiest New Year’s Eve",
+    "a talking polar bear",
+    "an old key half-buried in snow",
+    "a tiny door behind a frozen waterfall",
+    "the Ice Castle under the Northern Lights",
+    "a forest glowing with floating lanterns",
+    "a tunnel made of sparkling icicles",
+    "a village sleeping under starry snow",
+    "a snow globe that shows another world",
+    "a garden of frost-covered flowers",
+    "a fireplace with blue flames",
+    "dancing snow sprites in the moonlight"
+  ],
+  "freeMode": false,
+  "feedback": "Well done!",
+  "language": "en",
+  "mathMode": false
+}
