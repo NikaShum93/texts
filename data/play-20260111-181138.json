@@ -1,0 +1,147 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Caveat",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 100,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/5e7dfe50a2d3eb0fbde37fb5/992a95dd-98d4-41c2-9470-c24032810d82.png",
+    "bubbleSize": 100,
+    "task": {
+      "bgColor": "rgba(233,196,155,1)",
+      "borderColor": "#8c5508",
+      "textColor": "#462807",
+      "fontSize": 25,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 25,
+      "neon": true
+    }
+  },
+  "finalFeedback": "Thank you!",
+  "feedbackImage": "https://ai-image.genially.com/6579cd1f2ed98a001453…b3f29ef0d2c3c6db7fbe/6963bd05c4680e76f8efc19a.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "play",
+      "correct": [
+        "plays"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "read",
+      "correct": [
+        "reads"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "like",
+      "correct": [
+        "likes"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "run",
+      "correct": [
+        "runs"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "eat",
+      "correct": [
+        "eats"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "drink",
+      "correct": [
+        "drinks"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "jump",
+      "correct": [
+        "jumps"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "sleep",
+      "correct": [
+        "sleeps"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "sing",
+      "correct": [
+        "sings"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "write",
+      "correct": [
+        "writes"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "draw",
+      "correct": [
+        "draws"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "swim",
+      "correct": [
+        "swims"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "help",
+      "correct": [
+        "helps"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "love",
+      "correct": [
+        "loves"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "watch",
+      "correct": [
+        "watches"
+      ],
+      "wrong": []
+    }
+  ]
+}
