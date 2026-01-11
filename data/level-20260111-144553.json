@@ -1,0 +1,71 @@
+{
+  "language": "ru",
+  "font": "Montserrat",
+  "fontSize": 23,
+  "textColor": "#ffffff",
+  "speed": 2,
+  "style": {
+    "shape": "circle",
+    "pad": 20,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/T1gDTQ5N/Chat-GPT-Image-11-anv-2026-g-14-39-55-Photoroom.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 210
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Словарные снежинки",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Отличная работа!",
+  "levels": [
+    {
+      "target": "Словарные снежинки",
+      "correct": [
+        "https://i.postimg.cc/4xhSp83Y/Chat-GPT-Image-11-anv-2026-g-11-18-26.png",
+        "https://i.postimg.cc/qvC52m77/Chat-GPT-Image-11-anv-2026-g-11-19-35.png",
+        "https://i.postimg.cc/Gms5vMmN/Chat-GPT-Image-11-anv-2026-g-11-22-09.png",
+        "https://i.postimg.cc/tgF4JQnR/Chat-GPT-Image-11-anv-2026-g-11-24-39.png",
+        "https://i.postimg.cc/Dz1w0k4v/Chat-GPT-Image-11-anv-2026-g-11-26-01.png",
+        "https://i.postimg.cc/nhyLncrx/Chat-GPT-Image-11-anv-2026-g-11-27-35.png",
+        "https://i.postimg.cc/W1F3RJ2G/Chat-GPT-Image-11-anv-2026-g-11-28-45.png",
+        "https://i.postimg.cc/CL8gLk2T/Chat-GPT-Image-11-anv-2026-g-11-42-54.png",
+        "https://i.postimg.cc/DyGTyLMj/Chat-GPT-Image-11-anv-2026-g-11-48-12.png",
+        "https://i.postimg.cc/KvT2vBHD/Chat-GPT-Image-11-anv-2026-g-11-49-48.png",
+        "https://i.postimg.cc/QNwD3000/Chat-GPT-Image-11-anv-2026-g-11-51-36.png",
+        "https://i.postimg.cc/mZJ4s88N/Chat-GPT-Image-11-anv-2026-g-11-53-26.png",
+        "https://i.postimg.cc/xjhQ2ttq/Chat-GPT-Image-11-anv-2026-g-12-29-58.png",
+        "https://i.postimg.cc/ZnGzx5Cf/Chat-GPT-Image-11-anv-2026-g-12-32-51.png",
+        "https://i.postimg.cc/GtWnxmHq/Chat-GPT-Image-11-anv-2026-g-12-34-01.png",
+        "https://i.postimg.cc/prwMJLpZ/Chat-GPT-Image-11-anv-2026-g-12-35-54.png",
+        "https://i.postimg.cc/NF3vkj58/Chat-GPT-Image-11-anv-2026-g-12-37-09.png",
+        "https://i.postimg.cc/sxkC4gvW/Chat-GPT-Image-11-anv-2026-g-12-44-44.png",
+        "https://i.postimg.cc/vTJwtZc1/Chat-GPT-Image-11-anv-2026-g-12-44-49.png",
+        "https://i.postimg.cc/PJpkDwr8/Chat-GPT-Image-11-anv-2026-g-12-44-52.png",
+        "https://i.postimg.cc/zvb1hgXn/Chat-GPT-Image-11-anv-2026-g-12-54-16.png",
+        "https://i.postimg.cc/7hGyz2Y4/Chat-GPT-Image-11-anv-2026-g-13-01-42.png",
+        "https://i.postimg.cc/8cJVv6PQ/Chat-GPT-Image-11-anv-2026-g-13-58-22.png",
+        "https://i.postimg.cc/W3fvtnjb/Chat-GPT-Image-11-anv-2026-g-14-02-59.png",
+        "https://i.postimg.cc/Qtn3VbsX/Chat-GPT-Image-11-anv-2026-g-14-04-30.png",
+        "https://i.postimg.cc/ydrHWPBC/Chat-GPT-Image-11-anv-2026-g-14-06-14.png",
+        "https://i.postimg.cc/85nSsHDD/Chat-GPT-Image-11-anv-2026-g-14-07-58.png",
+        "https://i.postimg.cc/xCF2qRYQ/Chat-GPT-Image-11-anv-2026-g-14-09-23.png",
+        "https://i.postimg.cc/3RwhKqsq/Chat-GPT-Image-11-anv-2026-g-14-11-15.png",
+        "https://i.postimg.cc/4xhSp83Y/Chat-GPT-Image-11-anv-2026-g-11-18-26.png"
+      ],
+      "wrong": [],
+      "timer": 60
+    }
+  ]
+}
