@@ -1,0 +1,34 @@
+{
+  "listA": [
+    "look back on",
+    "think of",
+    "come across",
+    "stumble upon",
+    "set off for",
+    "light up",
+    "walk through",
+    "fly over",
+    "peek into",
+    "run around",
+    "sit by",
+    "gaze at"
+  ],
+  "listB": [
+    "New Year’s Eve",
+    "a talking polar bear",
+    "an old key",
+    "a tiny door",
+    "the Ice Castle",
+    "a forest with floating lanterns",
+    "a tunnel of sparkling icicles",
+    "a village",
+    "a snow globe",
+    "a garden",
+    "a fireplace",
+    "dancing snow"
+  ],
+  "freeMode": false,
+  "feedback": "Well done!",
+  "language": "en",
+  "mathMode": false
+}
