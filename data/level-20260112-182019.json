@@ -1,0 +1,62 @@
+{
+  "language": "ru",
+  "font": "Rubik",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 2,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://img.genially.com/65a66a0db3c06500207bb5f3/ef308ec8-c389-406c-ba8b-8869b4c82329.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Игра \"Снегопад\"",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Отличная работа!",
+  "levels": [
+    {
+      "target": "слоги со звуками [з], [з`]",
+      "correct": [
+        "за",
+        "зо",
+        "зу",
+        "зы",
+        "зи",
+        "аз",
+        "оз",
+        "уз",
+        "ыз",
+        "из"
+      ],
+      "wrong": [
+        "са",
+        "со",
+        "су",
+        "сы",
+        "си",
+        "ас",
+        "ос",
+        "ус",
+        "ыс",
+        "ис"
+      ],
+      "timer": 60
+    }
+  ]
+}
