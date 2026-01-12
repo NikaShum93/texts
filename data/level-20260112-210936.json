@@ -1,0 +1,203 @@
+{
+  "language": "ru",
+  "font": "Montserrat",
+  "fontSize": 40,
+  "textColor": "#0c1488",
+  "speed": 1,
+  "questionFont": "Montserrat",
+  "questionFontSize": 50,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/J0jVjF54/115.png\nhttps://i.postimg.cc/28xgmhcj/116.png",
+    "bgImages": [
+      "https://i.postimg.cc/J0jVjF54/115.png",
+      "https://i.postimg.cc/28xgmhcj/116.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Игра \" Хоккей\"",
+    "btnText": "Старт"
+  },
+  "direction": "random",
+  "finalFeedback": "Отличная игра!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "_ол",
+      "correct": [
+        "П"
+      ],
+      "wrong": [
+        "Б",
+        "Б",
+        "Б"
+      ]
+    },
+    {
+      "target": "_ант",
+      "correct": [
+        "Б"
+      ],
+      "wrong": [
+        "П",
+        "П",
+        "П"
+      ]
+    },
+    {
+      "target": "_лины",
+      "correct": [
+        "Б"
+      ],
+      "wrong": [
+        "П",
+        "П",
+        "П"
+      ]
+    },
+    {
+      "target": "_удка",
+      "correct": [
+        "Б"
+      ],
+      "wrong": [
+        "П",
+        "П",
+        "П"
+      ]
+    },
+    {
+      "target": "_латок",
+      "correct": [
+        "П"
+      ],
+      "wrong": [
+        "Б",
+        "Б",
+        "Б"
+      ]
+    },
+    {
+      "target": "_лузка",
+      "correct": [
+        "Б"
+      ],
+      "wrong": [
+        "П",
+        "П",
+        "П"
+      ]
+    },
+    {
+      "target": "_альто",
+      "correct": [
+        "П"
+      ],
+      "wrong": [
+        "Б",
+        "Б",
+        "Б"
+      ]
+    },
+    {
+      "target": "_елка",
+      "correct": [
+        "Б"
+      ],
+      "wrong": [
+        "П",
+        "П",
+        "П"
+      ]
+    },
+    {
+      "target": "_акет",
+      "correct": [
+        "П"
+      ],
+      "wrong": [
+        "Б",
+        "Б",
+        "Б"
+      ]
+    },
+    {
+      "target": "_укашка",
+      "correct": [
+        "Б"
+      ],
+      "wrong": [
+        "П",
+        "П",
+        "П"
+      ]
+    },
+    {
+      "target": "_агаж",
+      "correct": [
+        "Б"
+      ],
+      "wrong": [
+        "П",
+        "П",
+        "П"
+      ]
+    },
+    {
+      "target": "_алет",
+      "correct": [
+        "Б"
+      ],
+      "wrong": [
+        "П",
+        "П",
+        "П"
+      ]
+    },
+    {
+      "target": "_олёт",
+      "correct": [
+        "П"
+      ],
+      "wrong": [
+        "Б",
+        "Б",
+        "Б"
+      ]
+    },
+    {
+      "target": "_алец",
+      "correct": [
+        "П"
+      ],
+      "wrong": [
+        "Б",
+        "Б",
+        "Б"
+      ]
+    },
+    {
+      "target": "_альма",
+      "correct": [
+        "П"
+      ],
+      "wrong": [
+        "Б",
+        "Б",
+        "Б"
+      ]
+    }
+  ]
+}
