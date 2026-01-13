@@ -1,0 +1,112 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 128,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/D_si8GTbHK8AAAAi/cat-cats.gif",
+    "bubbleSize": 128,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 25,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 25,
+      "neon": true
+    }
+  },
+  "finalFeedback": "🎉все правильно!",
+  "feedbackImage": "",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Су[м]ка",
+      "correct": [
+        "сумка"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "ко[в'][о]р",
+      "correct": [
+        "ковёр"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "[л']ипа",
+      "correct": [
+        "липа"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "[л]апа",
+      "correct": [
+        "лапа"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "плава[т']",
+      "correct": [
+        "плавать"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "плавае[т]",
+      "correct": [
+        "плавает"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "пы[л']",
+      "correct": [
+        "пыль"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "по[л]",
+      "correct": [
+        "пол"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "[м'][о]л",
+      "correct": [
+        "мёл"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "[м'][э][л']",
+      "correct": [
+        "мель"
+      ],
+      "wrong": []
+    }
+  ]
+}
