@@ -1,0 +1,480 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 50,
+  "textColor": "#ffffff",
+  "speed": 2,
+  "questionFont": "PT Sans",
+  "questionFontSize": 40,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/65a66a0db3c06500207bb5f3/849bff09-72dc-40b0-b830-924f7f753370.png\nhttps://img.genially.com/65a66a0db3c06500207bb5f3/e1a6cfb8-20af-4e7a-a67b-dd33db4acb24.png\nhttps://img.genially.com/65a66a0db3c06500207bb5f3/21d772ac-70d2-4675-b619-191504d2f9b8.png\nhttps://img.genially.com/65a66a0db3c06500207bb5f3/544ad2d3-e49f-4552-a0cc-064ffa9e4cc8.png",
+    "bgImages": [
+      "https://img.genially.com/65a66a0db3c06500207bb5f3/849bff09-72dc-40b0-b830-924f7f753370.png",
+      "https://img.genially.com/65a66a0db3c06500207bb5f3/e1a6cfb8-20af-4e7a-a67b-dd33db4acb24.png",
+      "https://img.genially.com/65a66a0db3c06500207bb5f3/21d772ac-70d2-4675-b619-191504d2f9b8.png",
+      "https://img.genially.com/65a66a0db3c06500207bb5f3/544ad2d3-e49f-4552-a0cc-064ffa9e4cc8.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Игра \"Математический каток\"",
+    "btnText": "Начать"
+  },
+  "direction": "random",
+  "finalFeedback": "Отличная работа!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "4 · 17 + 3 · 5",
+      "correct": [
+        "83"
+      ],
+      "wrong": [
+        "17",
+        "106",
+        "42"
+      ]
+    },
+    {
+      "target": "6 · 12 − 4 · 8",
+      "correct": [
+        "40"
+      ],
+      "wrong": [
+        "162",
+        "112",
+        "83"
+      ]
+    },
+    {
+      "target": "5 · 14 + 7 · 6",
+      "correct": [
+        "112"
+      ],
+      "wrong": [
+        "172",
+        "23",
+        "160"
+      ]
+    },
+    {
+      "target": "8 · 9 − 5 · 11",
+      "correct": [
+        "17"
+      ],
+      "wrong": [
+        "51",
+        "146",
+        "140"
+      ]
+    },
+    {
+      "target": "3 · 18 + 4 · 13",
+      "correct": [
+        "106"
+      ],
+      "wrong": [
+        "6",
+        "13",
+        "181"
+      ]
+    },
+    {
+      "target": "7 · 15 − 6 · 9",
+      "correct": [
+        "51"
+      ],
+      "wrong": [
+        "151",
+        "31",
+        "162"
+      ]
+    },
+    {
+      "target": "5 · 16 + 8 · 7",
+      "correct": [
+        "136"
+      ],
+      "wrong": [
+        "181",
+        "20",
+        "83"
+      ]
+    },
+    {
+      "target": "9 · 11 − 4 · 12",
+      "correct": [
+        "51"
+      ],
+      "wrong": [
+        "23",
+        "36",
+        "146"
+      ]
+    },
+    {
+      "target": "6 · 13 + 5 · 9",
+      "correct": [
+        "123"
+      ],
+      "wrong": [
+        "136",
+        "145",
+        "13"
+      ]
+    },
+    {
+      "target": "4 · 19 − 7 · 8",
+      "correct": [
+        "20"
+      ],
+      "wrong": [
+        "83",
+        "30",
+        "17"
+      ]
+    },
+    {
+      "target": "8 · 14 + 3 · 11",
+      "correct": [
+        "145"
+      ],
+      "wrong": [
+        "51",
+        "151",
+        "150"
+      ]
+    },
+    {
+      "target": "5 · 17 − 6 · 12",
+      "correct": [
+        "13"
+      ],
+      "wrong": [
+        "164",
+        "158",
+        "31"
+      ]
+    },
+    {
+      "target": "7 · 12 + 4 · 15",
+      "correct": [
+        "144"
+      ],
+      "wrong": [
+        "31",
+        "132",
+        "150"
+      ]
+    },
+    {
+      "target": "6 · 16 − 5 · 13",
+      "correct": [
+        "31"
+      ],
+      "wrong": [
+        "51",
+        "40",
+        "36"
+      ]
+    },
+    {
+      "target": "4 · 21 + 6 · 8",
+      "correct": [
+        "132"
+      ],
+      "wrong": [
+        "172",
+        "30",
+        "158"
+      ]
+    },
+    {
+      "target": "9 · 13 − 7 · 11",
+      "correct": [
+        "40"
+      ],
+      "wrong": [
+        "150",
+        "20",
+        "30"
+      ]
+    },
+    {
+      "target": "5 · 19 + 4 · 14",
+      "correct": [
+        "151"
+      ],
+      "wrong": [
+        "40",
+        "6",
+        "136"
+      ]
+    },
+    {
+      "target": "8 · 12 − 6 · 11",
+      "correct": [
+        "30"
+      ],
+      "wrong": [
+        "83",
+        "144",
+        "17"
+      ]
+    },
+    {
+      "target": "3 · 22 + 5 · 13",
+      "correct": [
+        "131"
+      ],
+      "wrong": [
+        "48",
+        "36",
+        "51"
+      ]
+    },
+    {
+      "target": "7 · 14 − 4 · 17",
+      "correct": [
+        "30"
+      ],
+      "wrong": [
+        "17",
+        "51",
+        "181"
+      ]
+    },
+    {
+      "target": "6 · 15 + 8 · 9",
+      "correct": [
+        "162"
+      ],
+      "wrong": [
+        "40",
+        "112",
+        "136"
+      ]
+    },
+    {
+      "target": "5 · 18 − 7 · 12",
+      "correct": [
+        "6"
+      ],
+      "wrong": [
+        "44",
+        "123",
+        "136"
+      ]
+    },
+    {
+      "target": "4 · 23 + 3 · 16",
+      "correct": [
+        "140"
+      ],
+      "wrong": [
+        "83",
+        "23",
+        "131"
+      ]
+    },
+    {
+      "target": "9 · 14 − 6 · 13",
+      "correct": [
+        "48"
+      ],
+      "wrong": [
+        "140",
+        "40",
+        "17"
+      ]
+    },
+    {
+      "target": "7 · 13 + 5 · 11",
+      "correct": [
+        "146"
+      ],
+      "wrong": [
+        "132",
+        "44",
+        "131"
+      ]
+    },
+    {
+      "target": "8 · 15 − 4 · 19",
+      "correct": [
+        "44"
+      ],
+      "wrong": [
+        "23",
+        "42",
+        "145"
+      ]
+    },
+    {
+      "target": "6 · 17 + 7 · 8",
+      "correct": [
+        "158"
+      ],
+      "wrong": [
+        "51",
+        "106",
+        "123"
+      ]
+    },
+    {
+      "target": "5 · 21 − 8 · 11",
+      "correct": [
+        "17"
+      ],
+      "wrong": [
+        "106",
+        "51",
+        "40"
+      ]
+    },
+    {
+      "target": "4 · 24 + 6 · 9",
+      "correct": [
+        "150"
+      ],
+      "wrong": [
+        "144",
+        "172",
+        "13"
+      ]
+    },
+    {
+      "target": "7 · 16 − 5 · 14",
+      "correct": [
+        "42"
+      ],
+      "wrong": [
+        "185",
+        "40",
+        "158"
+      ]
+    },
+    {
+      "target": "8 · 13 + 4 · 17",
+      "correct": [
+        "172"
+      ],
+      "wrong": [
+        "48",
+        "181",
+        "146"
+      ]
+    },
+    {
+      "target": "6 · 19 − 7 · 13",
+      "correct": [
+        "23"
+      ],
+      "wrong": [
+        "136",
+        "123",
+        "20"
+      ]
+    },
+    {
+      "target": "5 · 22 + 3 · 18",
+      "correct": [
+        "164"
+      ],
+      "wrong": [
+        "150",
+        "106",
+        "13"
+      ]
+    },
+    {
+      "target": "9 · 12 − 5 · 15",
+      "correct": [
+        "33"
+      ],
+      "wrong": [
+        "144",
+        "112",
+        "131"
+      ]
+    },
+    {
+      "target": "7 · 17 + 6 · 11",
+      "correct": [
+        "185"
+      ],
+      "wrong": [
+        "23",
+        "51",
+        "33"
+      ]
+    },
+    {
+      "target": "8 · 14 − 4 · 21",
+      "correct": [
+        "28"
+      ],
+      "wrong": [
+        "112",
+        "40",
+        "40"
+      ]
+    },
+    {
+      "target": "4 · 25 + 5 · 12",
+      "correct": [
+        "160"
+      ],
+      "wrong": [
+        "106",
+        "136",
+        "31"
+      ]
+    },
+    {
+      "target": "6 · 18 − 8 · 9",
+      "correct": [
+        "36"
+      ],
+      "wrong": [
+        "51",
+        "144",
+        "181"
+      ]
+    },
+    {
+      "target": "7 · 15 + 4 · 19",
+      "correct": [
+        "181"
+      ],
+      "wrong": [
+        "162",
+        "106",
+        "150"
+      ]
+    },
+    {
+      "target": "9 · 16 − 6 · 17",
+      "correct": [
+        "42"
+      ],
+      "wrong": [
+        "136",
+        "51",
+        "33"
+      ]
+    }
+  ]
+}
