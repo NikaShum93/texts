@@ -1,0 +1,182 @@
+{
+  "language": "ru",
+  "font": "Montserrat",
+  "fontSize": 35,
+  "textColor": "#a00357",
+  "speed": 1,
+  "questionFont": "Montserrat",
+  "questionFontSize": 50,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/VvxGS16Y/124.png\nhttps://i.postimg.cc/0NzVCbwd/126.png\nhttps://i.postimg.cc/6Q4hvgkZ/127.png",
+    "bgImages": [
+      "https://i.postimg.cc/VvxGS16Y/124.png",
+      "https://i.postimg.cc/0NzVCbwd/126.png",
+      "https://i.postimg.cc/6Q4hvgkZ/127.png"
+    ],
+    "borderOn": true,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": true,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Игра \" Все на балет!\"",
+    "btnText": "Начать"
+  },
+  "direction": "up",
+  "finalFeedback": "Отличная работа!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "_ети",
+      "correct": [
+        "д"
+      ],
+      "wrong": [
+        "т",
+        "т",
+        "т"
+      ]
+    },
+    {
+      "target": "_вор",
+      "correct": [
+        "д"
+      ],
+      "wrong": [
+        "т",
+        "т",
+        "т"
+      ]
+    },
+    {
+      "target": "_ыква",
+      "correct": [
+        "т"
+      ],
+      "wrong": [
+        "д",
+        "д",
+        "д"
+      ]
+    },
+    {
+      "target": "_анк",
+      "correct": [
+        "т"
+      ],
+      "wrong": [
+        "д",
+        "д",
+        "д"
+      ]
+    },
+    {
+      "target": "_рава",
+      "correct": [
+        "т"
+      ],
+      "wrong": [
+        "д",
+        "д",
+        "д"
+      ]
+    },
+    {
+      "target": "_руба",
+      "correct": [
+        "т"
+      ],
+      "wrong": [
+        "д",
+        "д",
+        "д"
+      ]
+    },
+    {
+      "target": "_иван",
+      "correct": [
+        "д"
+      ],
+      "wrong": [
+        "т",
+        "т",
+        "т"
+      ]
+    },
+    {
+      "target": "_вери",
+      "correct": [
+        "д"
+      ],
+      "wrong": [
+        "т",
+        "т",
+        "т"
+      ]
+    },
+    {
+      "target": "_айна",
+      "correct": [
+        "т"
+      ],
+      "wrong": [
+        "д",
+        "д",
+        "д"
+      ]
+    },
+    {
+      "target": "_акси",
+      "correct": [
+        "т"
+      ],
+      "wrong": [
+        "д",
+        "д",
+        "д"
+      ]
+    },
+    {
+      "target": "_анец",
+      "correct": [
+        "т"
+      ],
+      "wrong": [
+        "д",
+        "д",
+        "д"
+      ]
+    },
+    {
+      "target": "_орога",
+      "correct": [
+        "д"
+      ],
+      "wrong": [
+        "т",
+        "т",
+        "т"
+      ]
+    },
+    {
+      "target": "_арелка",
+      "correct": [
+        "т"
+      ],
+      "wrong": [
+        "д",
+        "д",
+        "д"
+      ]
+    }
+  ]
+}
