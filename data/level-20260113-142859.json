@@ -1,0 +1,157 @@
+{
+  "language": "ru",
+  "font": "Lobster",
+  "fontSize": 24,
+  "textColor": "#232323",
+  "speed": 3,
+  "questionFont": "Lobster",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 65,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/66f6a02112d6e70015eac0ef/2f902975-1126-47f7-bc6b-74305b742669.png",
+    "bgImages": [
+      "https://img.genially.com/66f6a02112d6e70015eac0ef/2f902975-1126-47f7-bc6b-74305b742669.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 170
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Балет",
+    "btnText": ""
+  },
+  "direction": "random",
+  "finalFeedback": "",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "(крест)накрест",
+      "correct": [
+        "дефис"
+      ],
+      "wrong": [
+        "слитно",
+        "раздельно"
+      ]
+    },
+    {
+      "target": "(в)последствии",
+      "correct": [
+        "слитно"
+      ],
+      "wrong": [
+        "дефис",
+        "раздельно"
+      ]
+    },
+    {
+      "target": "(в)попыхах",
+      "correct": [
+        "слитно"
+      ],
+      "wrong": [
+        "дефис",
+        "раздельно"
+      ]
+    },
+    {
+      "target": "(на)тощак",
+      "correct": [
+        "слитно"
+      ],
+      "wrong": [
+        "дефис",
+        "раздельно"
+      ]
+    },
+    {
+      "target": "(по)немногу",
+      "correct": [
+        "слитно"
+      ],
+      "wrong": [
+        "дефис",
+        "раздельно"
+      ]
+    },
+    {
+      "target": "бок(о)бок",
+      "correct": [
+        "раздельно"
+      ],
+      "wrong": [
+        "слитно",
+        "дефис"
+      ]
+    },
+    {
+      "target": "точь(в)точь",
+      "correct": [
+        "дефис"
+      ],
+      "wrong": [
+        "слитно",
+        "раздельно"
+      ]
+    },
+    {
+      "target": "(по)осеннему свежо",
+      "correct": [
+        "дефис"
+      ],
+      "wrong": [
+        "слитно",
+        "раздельно"
+      ]
+    },
+    {
+      "target": "свистел (по)птичьи",
+      "correct": [
+        "дефис"
+      ],
+      "wrong": [
+        "слитно",
+        "раздельно"
+      ]
+    },
+    {
+      "target": "(с)разбегу",
+      "correct": [
+        "раздельно"
+      ],
+      "wrong": [
+        "слитно",
+        "дефис"
+      ]
+    },
+    {
+      "target": "(на)смех",
+      "correct": [
+        "раздельно"
+      ],
+      "wrong": [
+        "слитно",
+        "дефис"
+      ]
+    },
+    {
+      "target": "(само)собой",
+      "correct": [
+        "раздельно"
+      ],
+      "wrong": [
+        "слитно",
+        "дефис"
+      ]
+    }
+  ]
+}
