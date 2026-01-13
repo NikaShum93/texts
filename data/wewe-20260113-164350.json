@@ -1,0 +1,114 @@
+{
+  "language": "en",
+  "font": "Open Sans",
+  "fontSize": 20,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "questionFont": "Montserrat",
+  "questionFontSize": 22,
+  "style": {
+    "shape": "rounded",
+    "pad": 27,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/6573f8946d6d76001fe95399/df9acef9-769e-40ff-91eb-6641484eb7d8.png",
+    "bgImages": [
+      "https://img.genially.com/6573f8946d6d76001fe95399/df9acef9-769e-40ff-91eb-6641484eb7d8.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 260
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Choose the right phrasal verb!",
+    "btnText": "Start!"
+  },
+  "direction": "down",
+  "finalFeedback": "Well done!!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "wewe",
+      "correct": [
+        "rtr"
+      ],
+      "wrong": [
+        "5yr",
+        "34343",
+        "fwwwf"
+      ]
+    },
+    {
+      "target": "weewe",
+      "correct": [
+        "fwwwf"
+      ],
+      "wrong": [
+        "5yr",
+        "34343",
+        "rtr"
+      ]
+    },
+    {
+      "target": "wewe",
+      "correct": [
+        "34343"
+      ],
+      "wrong": [
+        "sfsf",
+        "sfdf",
+        "fwwwf"
+      ]
+    },
+    {
+      "target": "weewe",
+      "correct": [
+        "dff"
+      ],
+      "wrong": [
+        "rtr",
+        "5yr",
+        "34343"
+      ]
+    },
+    {
+      "target": "wewe",
+      "correct": [
+        "5yr"
+      ],
+      "wrong": [
+        "rtr",
+        "sfdf",
+        "sfsf"
+      ]
+    },
+    {
+      "target": "wewe",
+      "correct": [
+        "sfdf"
+      ],
+      "wrong": [
+        "dff",
+        "rtr",
+        "fwwwf"
+      ]
+    },
+    {
+      "target": "weeeewe",
+      "correct": [
+        "sfsf"
+      ],
+      "wrong": [
+        "5yr",
+        "dff",
+        "fwwwf"
+      ]
+    }
+  ]
+}
