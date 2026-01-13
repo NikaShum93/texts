@@ -1,0 +1,187 @@
+{
+  "language": "en",
+  "font": "Open Sans",
+  "fontSize": 20,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "questionFont": "Montserrat",
+  "questionFontSize": 22,
+  "style": {
+    "shape": "rounded",
+    "pad": 40,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/6573f8946d6d76001fe95399/df9acef9-769e-40ff-91eb-6641484eb7d8.png",
+    "bgImages": [
+      "https://img.genially.com/6573f8946d6d76001fe95399/df9acef9-769e-40ff-91eb-6641484eb7d8.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 260
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Choose the right phrasal verb!",
+    "btnText": "Start!"
+  },
+  "direction": "down",
+  "finalFeedback": "Well done!!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "_____ does Princess Lyra live?",
+      "correct": [
+        "Where"
+      ],
+      "wrong": [
+        "When",
+        "Why"
+      ]
+    },
+    {
+      "target": "_____ do the animals live in the forest?",
+      "correct": [
+        "Where"
+      ],
+      "wrong": [
+        "When",
+        "What"
+      ]
+    },
+    {
+      "target": "_____ does Princess Lyra talk to every day?",
+      "correct": [
+        "Who"
+      ],
+      "wrong": [
+        "Where",
+        "What"
+      ]
+    },
+    {
+      "target": "_____ is Princess Lyra’s castle made of?",
+      "correct": [
+        "What"
+      ],
+      "wrong": [
+        "Where",
+        "When"
+      ]
+    },
+    {
+      "target": "_____ do the birds sing in the morning?",
+      "correct": [
+        "When"
+      ],
+      "wrong": [
+        "Who",
+        "Which"
+      ]
+    },
+    {
+      "target": "_____ is Princess Lyra kind to animals?",
+      "correct": [
+        "Why"
+      ],
+      "wrong": [
+        "Where",
+        "When"
+      ]
+    },
+    {
+      "target": "_____ are Princess Lyra’s animal friends?",
+      "correct": [
+        "Who"
+      ],
+      "wrong": [
+        "When",
+        "Where"
+      ]
+    },
+    {
+      "target": "_____ does the fox help Princess Lyra?",
+      "correct": [
+        "How"
+      ],
+      "wrong": [
+        "Where",
+        "What"
+      ]
+    },
+    {
+      "target": "_____ is the magic forest special?",
+      "correct": [
+        "Why"
+      ],
+      "wrong": [
+        "Who",
+        "When"
+      ]
+    },
+    {
+      "target": "_____ do the rabbits eat in the forest?",
+      "correct": [
+        "What"
+      ],
+      "wrong": [
+        "Who",
+        "When"
+      ]
+    },
+    {
+      "target": "_____ is Princess Lyra’s best animal friend?",
+      "correct": [
+        "Who"
+      ],
+      "wrong": [
+        "What",
+        "Where"
+      ]
+    },
+    {
+      "target": "_____ does the owl read with Lyra?",
+      "correct": [
+        "When"
+      ],
+      "wrong": [
+        "Who",
+        "Where"
+      ]
+    },
+    {
+      "target": "_____ are the animals happy in the castle?",
+      "correct": [
+        "Why"
+      ],
+      "wrong": [
+        "When",
+        "Where"
+      ]
+    },
+    {
+      "target": "_____ do Princess Lyra and the animals do together?",
+      "correct": [
+        "What"
+      ],
+      "wrong": [
+        "Who",
+        "When"
+      ]
+    },
+    {
+      "target": "_____ is the forest castle?",
+      "correct": [
+        "Where"
+      ],
+      "wrong": [
+        "When",
+        "How"
+      ]
+    }
+  ]
+}
