@@ -1,0 +1,114 @@
+{
+  "language": "en",
+  "font": "Open Sans",
+  "fontSize": 20,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "questionFont": "Montserrat",
+  "questionFontSize": 22,
+  "style": {
+    "shape": "rounded",
+    "pad": 12,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/6573f8946d6d76001fe95399/94c44765-3492-41a2-baca-213fe6c185f6.png",
+    "bgImages": [
+      "https://img.genially.com/6573f8946d6d76001fe95399/94c44765-3492-41a2-baca-213fe6c185f6.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 190
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Choose the right phrasal verb!",
+    "btnText": "Start!"
+  },
+  "direction": "down",
+  "finalFeedback": "Well done!!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "wewe",
+      "correct": [
+        "rtr"
+      ],
+      "wrong": [
+        "fwwwf",
+        "34343",
+        "sfsf"
+      ]
+    },
+    {
+      "target": "weewe",
+      "correct": [
+        "fwwwf"
+      ],
+      "wrong": [
+        "dff",
+        "34343",
+        "sfsf"
+      ]
+    },
+    {
+      "target": "wewe",
+      "correct": [
+        "34343"
+      ],
+      "wrong": [
+        "5yr",
+        "dff",
+        "rtr"
+      ]
+    },
+    {
+      "target": "weewe",
+      "correct": [
+        "dff"
+      ],
+      "wrong": [
+        "5yr",
+        "rtr",
+        "fwwwf"
+      ]
+    },
+    {
+      "target": "wewe",
+      "correct": [
+        "5yr"
+      ],
+      "wrong": [
+        "rtr",
+        "34343",
+        "dff"
+      ]
+    },
+    {
+      "target": "wewe",
+      "correct": [
+        "sfdf"
+      ],
+      "wrong": [
+        "sfsf",
+        "5yr",
+        "34343"
+      ]
+    },
+    {
+      "target": "weeeewe",
+      "correct": [
+        "sfsf"
+      ],
+      "wrong": [
+        "rtr",
+        "fwwwf",
+        "sfdf"
+      ]
+    }
+  ]
+}
