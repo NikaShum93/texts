@@ -1,0 +1,63 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 2,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 0,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Буква Ь",
+    "btnText": ""
+  },
+  "direction": "up",
+  "finalFeedback": "",
+  "levels": [
+    {
+      "target": "медали с Ь",
+      "correct": [
+        "https://i.postimg.cc/DzfBSkHs/12.png",
+        "https://i.postimg.cc/N0GpKqS7/13.png",
+        "https://i.postimg.cc/Gp3q4wVz/14.png",
+        "https://i.postimg.cc/3wrnk5Vf/15.png",
+        "https://i.postimg.cc/VNsDJQpH/16.png",
+        "https://i.postimg.cc/VNsDJQpp/17.png",
+        "https://i.postimg.cc/HLWBrDRf/18.png",
+        "https://i.postimg.cc/W4pXdLCB/19.png",
+        "https://i.postimg.cc/s2fwMdbF/20.png",
+        "https://i.postimg.cc/DzC5sp3C/21.png",
+        "https://i.postimg.cc/CKvJDrpQ/22.png",
+        "https://i.postimg.cc/tgrDPvGw/23.png"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/c4YDjcf5/1.png",
+        "https://i.postimg.cc/DwPxfyjq/10.png",
+        "https://i.postimg.cc/bvY3ZcWS/11.png",
+        "https://i.postimg.cc/RZBPznRM/2.png",
+        "https://i.postimg.cc/dVYWKTBJ/3.png",
+        "https://i.postimg.cc/6pXHNG0t/4.png",
+        "https://i.postimg.cc/SxhZpzrQ/5.png",
+        "https://i.postimg.cc/zGFxDXt1/6.png",
+        "https://i.postimg.cc/dVj5QtHq/7.png",
+        "https://i.postimg.cc/Mpm9ZKPp/8.png",
+        "https://i.postimg.cc/x136jTxX/9.png"
+      ],
+      "timer": 60
+    }
+  ]
+}
