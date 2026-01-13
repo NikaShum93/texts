@@ -1,0 +1,480 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 40,
+  "textColor": "#ffffff",
+  "speed": 2,
+  "questionFont": "PT Sans",
+  "questionFontSize": 40,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/65a66a0db3c06500207bb5f3/849bff09-72dc-40b0-b830-924f7f753370.png\nhttps://img.genially.com/65a66a0db3c06500207bb5f3/e1a6cfb8-20af-4e7a-a67b-dd33db4acb24.png\nhttps://img.genially.com/65a66a0db3c06500207bb5f3/21d772ac-70d2-4675-b619-191504d2f9b8.png\nhttps://img.genially.com/65a66a0db3c06500207bb5f3/544ad2d3-e49f-4552-a0cc-064ffa9e4cc8.png",
+    "bgImages": [
+      "https://img.genially.com/65a66a0db3c06500207bb5f3/849bff09-72dc-40b0-b830-924f7f753370.png",
+      "https://img.genially.com/65a66a0db3c06500207bb5f3/e1a6cfb8-20af-4e7a-a67b-dd33db4acb24.png",
+      "https://img.genially.com/65a66a0db3c06500207bb5f3/21d772ac-70d2-4675-b619-191504d2f9b8.png",
+      "https://img.genially.com/65a66a0db3c06500207bb5f3/544ad2d3-e49f-4552-a0cc-064ffa9e4cc8.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Игра \"Математический каток\"",
+    "btnText": "Начать"
+  },
+  "direction": "random",
+  "finalFeedback": "Отличная работа!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "47 + 28",
+      "correct": [
+        "75"
+      ],
+      "wrong": [
+        "93",
+        "28",
+        "93"
+      ]
+    },
+    {
+      "target": "63 − 27",
+      "correct": [
+        "36"
+      ],
+      "wrong": [
+        "92",
+        "83",
+        "37"
+      ]
+    },
+    {
+      "target": "35 + 48",
+      "correct": [
+        "83"
+      ],
+      "wrong": [
+        "27",
+        "36",
+        "37"
+      ]
+    },
+    {
+      "target": "82 − 45",
+      "correct": [
+        "37"
+      ],
+      "wrong": [
+        "36",
+        "27",
+        "28"
+      ]
+    },
+    {
+      "target": "56 + 37",
+      "correct": [
+        "93"
+      ],
+      "wrong": [
+        "27",
+        "26",
+        "91"
+      ]
+    },
+    {
+      "target": "91 − 58",
+      "correct": [
+        "33"
+      ],
+      "wrong": [
+        "37",
+        "91",
+        "28"
+      ]
+    },
+    {
+      "target": "44 + 29",
+      "correct": [
+        "73"
+      ],
+      "wrong": [
+        "37",
+        "83",
+        "27"
+      ]
+    },
+    {
+      "target": "73 − 36",
+      "correct": [
+        "37"
+      ],
+      "wrong": [
+        "75",
+        "96",
+        "26"
+      ]
+    },
+    {
+      "target": "68 + 25",
+      "correct": [
+        "93"
+      ],
+      "wrong": [
+        "83",
+        "26",
+        "27"
+      ]
+    },
+    {
+      "target": "54 − 28",
+      "correct": [
+        "26"
+      ],
+      "wrong": [
+        "37",
+        "27",
+        "93"
+      ]
+    },
+    {
+      "target": "39 + 46",
+      "correct": [
+        "85"
+      ],
+      "wrong": [
+        "91",
+        "35",
+        "93"
+      ]
+    },
+    {
+      "target": "85 − 47",
+      "correct": [
+        "38"
+      ],
+      "wrong": [
+        "75",
+        "35",
+        "36"
+      ]
+    },
+    {
+      "target": "57 + 34",
+      "correct": [
+        "91"
+      ],
+      "wrong": [
+        "73",
+        "84",
+        "26"
+      ]
+    },
+    {
+      "target": "62 − 39",
+      "correct": [
+        "23"
+      ],
+      "wrong": [
+        "37",
+        "83",
+        "36"
+      ]
+    },
+    {
+      "target": "48 + 43",
+      "correct": [
+        "91"
+      ],
+      "wrong": [
+        "36",
+        "93",
+        "26"
+      ]
+    },
+    {
+      "target": "96 − 68",
+      "correct": [
+        "28"
+      ],
+      "wrong": [
+        "75",
+        "92",
+        "37"
+      ]
+    },
+    {
+      "target": "75 + 18",
+      "correct": [
+        "93"
+      ],
+      "wrong": [
+        "27",
+        "91",
+        "26"
+      ]
+    },
+    {
+      "target": "81 − 54",
+      "correct": [
+        "27"
+      ],
+      "wrong": [
+        "83",
+        "94",
+        "92"
+      ]
+    },
+    {
+      "target": "29 + 55",
+      "correct": [
+        "84"
+      ],
+      "wrong": [
+        "37",
+        "28",
+        "26"
+      ]
+    },
+    {
+      "target": "70 − 43",
+      "correct": [
+        "27"
+      ],
+      "wrong": [
+        "36",
+        "75",
+        "84"
+      ]
+    },
+    {
+      "target": "66 + 27",
+      "correct": [
+        "93"
+      ],
+      "wrong": [
+        "92",
+        "27",
+        "75"
+      ]
+    },
+    {
+      "target": "94 − 57",
+      "correct": [
+        "37"
+      ],
+      "wrong": [
+        "28",
+        "84",
+        "92"
+      ]
+    },
+    {
+      "target": "38 + 46",
+      "correct": [
+        "84"
+      ],
+      "wrong": [
+        "75",
+        "36",
+        "38"
+      ]
+    },
+    {
+      "target": "52 − 35",
+      "correct": [
+        "17"
+      ],
+      "wrong": [
+        "28",
+        "91",
+        "37"
+      ]
+    },
+    {
+      "target": "77 + 19",
+      "correct": [
+        "96"
+      ],
+      "wrong": [
+        "93",
+        "73",
+        "26"
+      ]
+    },
+    {
+      "target": "83 − 48",
+      "correct": [
+        "35"
+      ],
+      "wrong": [
+        "91",
+        "38",
+        "75"
+      ]
+    },
+    {
+      "target": "49 + 34",
+      "correct": [
+        "83"
+      ],
+      "wrong": [
+        "94",
+        "37",
+        "26"
+      ]
+    },
+    {
+      "target": "65 − 29",
+      "correct": [
+        "36"
+      ],
+      "wrong": [
+        "26",
+        "75",
+        "93"
+      ]
+    },
+    {
+      "target": "58 + 36",
+      "correct": [
+        "94"
+      ],
+      "wrong": [
+        "96",
+        "93",
+        "28"
+      ]
+    },
+    {
+      "target": "72 − 46",
+      "correct": [
+        "26"
+      ],
+      "wrong": [
+        "37",
+        "35",
+        "33"
+      ]
+    },
+    {
+      "target": "45 + 38",
+      "correct": [
+        "83"
+      ],
+      "wrong": [
+        "37",
+        "36",
+        "27"
+      ]
+    },
+    {
+      "target": "90 − 63",
+      "correct": [
+        "27"
+      ],
+      "wrong": [
+        "28",
+        "75",
+        "36"
+      ]
+    },
+    {
+      "target": "67 + 25",
+      "correct": [
+        "92"
+      ],
+      "wrong": [
+        "93",
+        "93",
+        "38"
+      ]
+    },
+    {
+      "target": "84 − 56",
+      "correct": [
+        "28"
+      ],
+      "wrong": [
+        "96",
+        "23",
+        "26"
+      ]
+    },
+    {
+      "target": "36 + 47",
+      "correct": [
+        "83"
+      ],
+      "wrong": [
+        "93",
+        "37",
+        "93"
+      ]
+    },
+    {
+      "target": "71 − 44",
+      "correct": [
+        "27"
+      ],
+      "wrong": [
+        "28",
+        "96",
+        "83"
+      ]
+    },
+    {
+      "target": "59 + 33",
+      "correct": [
+        "92"
+      ],
+      "wrong": [
+        "83",
+        "84",
+        "85"
+      ]
+    },
+    {
+      "target": "86 − 59",
+      "correct": [
+        "27"
+      ],
+      "wrong": [
+        "28",
+        "93",
+        "85"
+      ]
+    },
+    {
+      "target": "46 + 37",
+      "correct": [
+        "83"
+      ],
+      "wrong": [
+        "93",
+        "73",
+        "94"
+      ]
+    },
+    {
+      "target": "93 − 65",
+      "correct": [
+        "28"
+      ],
+      "wrong": [
+        "91",
+        "75",
+        "83"
+      ]
+    }
+  ]
+}
