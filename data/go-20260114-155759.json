@@ -1,0 +1,140 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Bangers",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 120,
+  "sounds": {
+    "pop": "https://zvukogram.com/zvuk/33211/",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/5e7dfe50a2d3eb0fbde37fb5/1e895aa0-9644-4704-b7f2-7f6f46e5f102.png",
+    "bubbleSize": 120,
+    "task": {
+      "bgColor": "rgba(254,187,93,1)",
+      "borderColor": "#b73701",
+      "textColor": "#9e2800",
+      "fontSize": 26,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#992e00",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 26,
+      "neon": true
+    }
+  },
+  "finalFeedback": "Well Done!",
+  "feedbackImage": "https://ai-image.genially.com/6579cd1f2ed98a001453…8868b665ccc8ae3e8282/69678e5b5bbd9a473f3a0bfc.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "go",
+      "correct": [
+        "went, gone"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "come",
+      "correct": [
+        "came, come"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "see",
+      "correct": [
+        "saw, seen"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "eat",
+      "correct": [
+        "ate, eaten"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "drink",
+      "correct": [
+        "drank, drunk"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "do",
+      "correct": [
+        "did, done"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "have",
+      "correct": [
+        "had, had"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "make",
+      "correct": [
+        "made, made"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "get",
+      "correct": [
+        "got, got"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "run",
+      "correct": [
+        "ran, run"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "take",
+      "correct": [
+        "took, taken"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "give",
+      "correct": [
+        "gave, given"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "find",
+      "correct": [
+        "found, found"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "say",
+      "correct": [
+        "said, said"
+      ],
+      "wrong": []
+    }
+  ]
+}
