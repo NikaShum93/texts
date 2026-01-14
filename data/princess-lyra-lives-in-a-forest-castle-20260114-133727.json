@@ -1,0 +1,127 @@
+{
+  "language": "en",
+  "font": "Open Sans",
+  "fontSize": 21,
+  "textColor": "#121212",
+  "speed": 3,
+  "questionFont": "Montserrat",
+  "questionFontSize": 22,
+  "style": {
+    "shape": "rounded",
+    "pad": 80,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/6573f8946d6d76001fe95399/b297f655-1982-4ebf-a6e4-f9fb33a0d245.png",
+    "bgImages": [
+      "https://img.genially.com/6573f8946d6d76001fe95399/b297f655-1982-4ebf-a6e4-f9fb33a0d245.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 260
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Choose the correct answer!",
+    "btnText": "Start!"
+  },
+  "direction": "random",
+  "finalFeedback": "Good job!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "Princess Lyra lives in a forest castle.",
+      "correct": [
+        "True"
+      ],
+      "wrong": [
+        "False"
+      ]
+    },
+    {
+      "target": "Lyra was born in a village.",
+      "correct": [
+        "False"
+      ],
+      "wrong": [
+        "True"
+      ]
+    },
+    {
+      "target": "Her mother was a powerful witch.",
+      "correct": [
+        "False"
+      ],
+      "wrong": [
+        "True"
+      ]
+    },
+    {
+      "target": "Lyra’s parents loved the forest and the animals.",
+      "correct": [
+        "True"
+      ],
+      "wrong": [
+        "False"
+      ]
+    },
+    {
+      "target": "A big storm came one night and Lyra's parents disappeared.",
+      "correct": [
+        "True"
+      ],
+      "wrong": [
+        "False"
+      ]
+    },
+    {
+      "target": "Lyra woke up in the castle the next morning.",
+      "correct": [
+        "False"
+      ],
+      "wrong": [
+        "True"
+      ]
+    },
+    {
+      "target": "Lyra was afraid when she woke up under the tree.",
+      "correct": [
+        "False"
+      ],
+      "wrong": [
+        "True"
+      ]
+    },
+    {
+      "target": "Lyra started to understand animals after the storm.",
+      "correct": [
+        "True"
+      ],
+      "wrong": [
+        "False"
+      ]
+    },
+    {
+      "target": "Lyra can turn objects into gold by touch.",
+      "correct": [
+        "False"
+      ],
+      "wrong": [
+        "True"
+      ]
+    },
+    {
+      "target": "Lyra hopes to find her parents one day.",
+      "correct": [
+        "True"
+      ],
+      "wrong": [
+        "False"
+      ]
+    }
+  ]
+}
