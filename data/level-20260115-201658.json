@@ -1,0 +1,280 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 50,
+  "textColor": "#0b0e60",
+  "speed": 4,
+  "questionFont": "PT Sans",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/65a66a0db3c06500207bb5f3/2ebb9404-6836-4439-8d49-677a43e3055f.png",
+    "bgImages": [
+      "https://img.genially.com/65a66a0db3c06500207bb5f3/2ebb9404-6836-4439-8d49-677a43e3055f.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Игра \"Снежки\"",
+    "btnText": "Начать"
+  },
+  "direction": "random",
+  "finalFeedback": "Отличная работа!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "в_р_бей",
+      "correct": [
+        "о"
+      ],
+      "wrong": [
+        "а"
+      ]
+    },
+    {
+      "target": "в_рона",
+      "correct": [
+        "о"
+      ],
+      "wrong": [
+        "а"
+      ]
+    },
+    {
+      "target": "п_нал",
+      "correct": [
+        "е"
+      ],
+      "wrong": [
+        "и"
+      ]
+    },
+    {
+      "target": "к_р_ндаш",
+      "correct": [
+        "а"
+      ],
+      "wrong": [
+        "о"
+      ]
+    },
+    {
+      "target": "с_рока",
+      "correct": [
+        "о"
+      ],
+      "wrong": [
+        "а"
+      ]
+    },
+    {
+      "target": "с_бака",
+      "correct": [
+        "о"
+      ],
+      "wrong": [
+        "а"
+      ]
+    },
+    {
+      "target": "п_льто",
+      "correct": [
+        "а"
+      ],
+      "wrong": [
+        "о"
+      ]
+    },
+    {
+      "target": "вес_ло",
+      "correct": [
+        "е"
+      ],
+      "wrong": [
+        "и"
+      ]
+    },
+    {
+      "target": "х_р_шо",
+      "correct": [
+        "о"
+      ],
+      "wrong": [
+        "а"
+      ]
+    },
+    {
+      "target": "уч_ник",
+      "correct": [
+        "е"
+      ],
+      "wrong": [
+        "и"
+      ]
+    },
+    {
+      "target": "уч_ница",
+      "correct": [
+        "е"
+      ],
+      "wrong": [
+        "и"
+      ]
+    },
+    {
+      "target": "учит_ль",
+      "correct": [
+        "е"
+      ],
+      "wrong": [
+        "и"
+      ]
+    },
+    {
+      "target": "д_ревня",
+      "correct": [
+        "е"
+      ],
+      "wrong": [
+        "и"
+      ]
+    },
+    {
+      "target": "п_тух",
+      "correct": [
+        "е"
+      ],
+      "wrong": [
+        "и"
+      ]
+    },
+    {
+      "target": "за_ц",
+      "correct": [
+        "я"
+      ],
+      "wrong": [
+        "е"
+      ]
+    },
+    {
+      "target": "к_рова",
+      "correct": [
+        "о"
+      ],
+      "wrong": [
+        "а"
+      ]
+    },
+    {
+      "target": "м_л_ко",
+      "correct": [
+        "о"
+      ],
+      "wrong": [
+        "а"
+      ]
+    },
+    {
+      "target": "кла_",
+      "correct": [
+        "сс"
+      ],
+      "wrong": [
+        "с"
+      ]
+    },
+    {
+      "target": "д_журный",
+      "correct": [
+        "е"
+      ],
+      "wrong": [
+        "и"
+      ]
+    },
+    {
+      "target": "р_бята",
+      "correct": [
+        "е"
+      ],
+      "wrong": [
+        "и"
+      ]
+    },
+    {
+      "target": "т_традь",
+      "correct": [
+        "е"
+      ],
+      "wrong": [
+        "и"
+      ]
+    },
+    {
+      "target": "м_дведь",
+      "correct": [
+        "е"
+      ],
+      "wrong": [
+        "и"
+      ]
+    },
+    {
+      "target": "р_бота",
+      "correct": [
+        "а"
+      ],
+      "wrong": [
+        "о"
+      ]
+    },
+    {
+      "target": "мальч_к",
+      "correct": [
+        "и"
+      ],
+      "wrong": [
+        "е"
+      ]
+    },
+    {
+      "target": "дев_чка",
+      "correct": [
+        "о"
+      ],
+      "wrong": [
+        "а"
+      ]
+    },
+    {
+      "target": "м_шина",
+      "correct": [
+        "а"
+      ],
+      "wrong": [
+        "о"
+      ]
+    },
+    {
+      "target": "М_сква",
+      "correct": [
+        "о"
+      ],
+      "wrong": [
+        "а"
+      ]
+    }
+  ]
+}
