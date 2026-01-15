@@ -1,0 +1,70 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Baloo 2",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/684ea2da1b51060014c50e97/2873d1b6-a54a-40ef-a9c6-f3bd7382d629.png",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(169,174,177,0.45)",
+      "borderColor": "#e2e8e9",
+      "textColor": "#1e0b0b",
+      "fontSize": 25,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#4c4c57",
+      "borderColor": "#bdb2a8",
+      "textColor": "#ffffff",
+      "fontSize": 25,
+      "neon": false
+    }
+  },
+  "finalFeedback": "Открывай клетку!",
+  "feedbackImage": "https://img.genially.com/684ea2da1b51060014c50e97/2873d1b6-a54a-40ef-a9c6-f3bd7382d629.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "В трёх одинаковых упаковках 27 конфет. Сколько упаковок нужно, чтобы разложить 45 конфет?",
+      "correct": [
+        "5"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "В 5 одинаковых банках 20 кг мёда. Сколько мёда в 4 банках?",
+      "correct": [
+        "16"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "В 3х одинаковых пачках 30 фломастеров. Сколько фломастеров в 5 пачках?",
+      "correct": [
+        "50"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "В пяти книжках-малышках 40 листов. Сколько таких же книжек будут иметь 56 листов?",
+      "correct": [
+        "7"
+      ],
+      "wrong": []
+    }
+  ]
+}
