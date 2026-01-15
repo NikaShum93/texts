@@ -1,0 +1,388 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 50,
+  "textColor": "#0b0e60",
+  "speed": 4,
+  "questionFont": "PT Sans",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/65a66a0db3c06500207bb5f3/2ebb9404-6836-4439-8d49-677a43e3055f.png",
+    "bgImages": [
+      "https://img.genially.com/65a66a0db3c06500207bb5f3/2ebb9404-6836-4439-8d49-677a43e3055f.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Игра \"Снежки\"",
+    "btnText": "Начать"
+  },
+  "direction": "random",
+  "finalFeedback": "Отличная работа!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "спасиб_",
+      "correct": [
+        "о"
+      ],
+      "wrong": [
+        "а"
+      ]
+    },
+    {
+      "target": "пр_щай",
+      "correct": [
+        "о"
+      ],
+      "wrong": [
+        "а"
+      ]
+    },
+    {
+      "target": "с_нтябрь",
+      "correct": [
+        "е"
+      ],
+      "wrong": [
+        "и"
+      ]
+    },
+    {
+      "target": "Род_на",
+      "correct": [
+        "и"
+      ],
+      "wrong": [
+        "е"
+      ]
+    },
+    {
+      "target": "вет_р",
+      "correct": [
+        "е"
+      ],
+      "wrong": [
+        "и"
+      ]
+    },
+    {
+      "target": "_зв_ни",
+      "correct": [
+        "и"
+      ],
+      "wrong": [
+        "е"
+      ]
+    },
+    {
+      "target": "скор_",
+      "correct": [
+        "о"
+      ],
+      "wrong": [
+        "а"
+      ]
+    },
+    {
+      "target": "быстр_",
+      "correct": [
+        "о"
+      ],
+      "wrong": [
+        "а"
+      ]
+    },
+    {
+      "target": "р_сунок",
+      "correct": [
+        "и"
+      ],
+      "wrong": [
+        "е"
+      ]
+    },
+    {
+      "target": "рис_вать",
+      "correct": [
+        "о"
+      ],
+      "wrong": [
+        "а"
+      ]
+    },
+    {
+      "target": "п_длежащее",
+      "correct": [
+        "о"
+      ],
+      "wrong": [
+        "а"
+      ]
+    },
+    {
+      "target": "сказу_мое",
+      "correct": [
+        "е"
+      ],
+      "wrong": [
+        "и"
+      ]
+    },
+    {
+      "target": "ябл_ня",
+      "correct": [
+        "о"
+      ],
+      "wrong": [
+        "а"
+      ]
+    },
+    {
+      "target": "ябл_к_",
+      "correct": [
+        "о"
+      ],
+      "wrong": [
+        "а"
+      ]
+    },
+    {
+      "target": "б_рёза",
+      "correct": [
+        "е"
+      ],
+      "wrong": [
+        "и"
+      ]
+    },
+    {
+      "target": "л_пата",
+      "correct": [
+        "о"
+      ],
+      "wrong": [
+        "а"
+      ]
+    },
+    {
+      "target": "яг_да",
+      "correct": [
+        "о"
+      ],
+      "wrong": [
+        "а"
+      ]
+    },
+    {
+      "target": "д_рога",
+      "correct": [
+        "о"
+      ],
+      "wrong": [
+        "а"
+      ]
+    },
+    {
+      "target": "_сина",
+      "correct": [
+        "о"
+      ],
+      "wrong": [
+        "а"
+      ]
+    },
+    {
+      "target": "до св_дания",
+      "correct": [
+        "и"
+      ],
+      "wrong": [
+        "е"
+      ]
+    },
+    {
+      "target": "сах_р",
+      "correct": [
+        "а"
+      ],
+      "wrong": [
+        "о"
+      ]
+    },
+    {
+      "target": "к_пуста",
+      "correct": [
+        "а"
+      ],
+      "wrong": [
+        "о"
+      ]
+    },
+    {
+      "target": "п_суда",
+      "correct": [
+        "о"
+      ],
+      "wrong": [
+        "а"
+      ]
+    },
+    {
+      "target": "_ктябрь",
+      "correct": [
+        "о"
+      ],
+      "wrong": [
+        "а"
+      ]
+    },
+    {
+      "target": "_лф_вит",
+      "correct": [
+        "а"
+      ],
+      "wrong": [
+        "о"
+      ]
+    },
+    {
+      "target": "н_ябрь",
+      "correct": [
+        "о"
+      ],
+      "wrong": [
+        "а"
+      ]
+    },
+    {
+      "target": "_дежда",
+      "correct": [
+        "о"
+      ],
+      "wrong": [
+        "а"
+      ]
+    },
+    {
+      "target": "л_гушка",
+      "correct": [
+        "я"
+      ],
+      "wrong": [
+        "и"
+      ]
+    },
+    {
+      "target": "земл_ника",
+      "correct": [
+        "я"
+      ],
+      "wrong": [
+        "е"
+      ]
+    },
+    {
+      "target": "сн_гирь",
+      "correct": [
+        "е"
+      ],
+      "wrong": [
+        "и"
+      ]
+    },
+    {
+      "target": "м_лина",
+      "correct": [
+        "а"
+      ],
+      "wrong": [
+        "о"
+      ]
+    },
+    {
+      "target": "м_л_ток",
+      "correct": [
+        "о"
+      ],
+      "wrong": [
+        "а"
+      ]
+    },
+    {
+      "target": "м_роз",
+      "correct": [
+        "о"
+      ],
+      "wrong": [
+        "а"
+      ]
+    },
+    {
+      "target": "ин_й",
+      "correct": [
+        "е"
+      ],
+      "wrong": [
+        "и"
+      ]
+    },
+    {
+      "target": "ур_жай",
+      "correct": [
+        "о"
+      ],
+      "wrong": [
+        "а"
+      ]
+    },
+    {
+      "target": "су_ота",
+      "correct": [
+        "бб"
+      ],
+      "wrong": [
+        "б"
+      ]
+    },
+    {
+      "target": "д_кабрь",
+      "correct": [
+        "е"
+      ],
+      "wrong": [
+        "и"
+      ]
+    },
+    {
+      "target": "меб_ль",
+      "correct": [
+        "е"
+      ],
+      "wrong": [
+        "и"
+      ]
+    },
+    {
+      "target": "к_ньки",
+      "correct": [
+        "о"
+      ],
+      "wrong": [
+        "а"
+      ]
+    }
+  ]
+}
