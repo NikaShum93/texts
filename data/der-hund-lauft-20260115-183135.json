@@ -1,0 +1,140 @@
+{
+  "language": "de",
+  "lang": "de",
+  "font": "Fredoka",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 120,
+  "sounds": {
+    "pop": "https://zvukogram.com/zvuk/33211/",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/5e7dfe50a2d3eb0fbde37fb5/1e895aa0-9644-4704-b7f2-7f6f46e5f102.png",
+    "bubbleSize": 120,
+    "task": {
+      "bgColor": "rgba(254,187,93,1)",
+      "borderColor": "#b73701",
+      "textColor": "#9e2800",
+      "fontSize": 26,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#992e00",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 26,
+      "neon": true
+    }
+  },
+  "finalFeedback": "Well Done!",
+  "feedbackImage": "https://ai-image.genially.com/6579cd1f2ed98a001453…8868b665ccc8ae3e8282/69678e5b5bbd9a473f3a0bfc.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Der Hund läuft.",
+      "correct": [
+        "Der Hund ist gelaufen."
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Das Kind lacht.",
+      "correct": [
+        "Das Kind hat gelacht."
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Ich spiele Ball.",
+      "correct": [
+        "Ich habe Ball gespielt."
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Die Katze schläft.",
+      "correct": [
+        "Die Katze hat geschlafen."
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Wir essen Brot.",
+      "correct": [
+        "Wir haben Brot gegessen."
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Der Vogel fliegt.",
+      "correct": [
+        "Der Vogel ist geflogen."
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Sie malt ein Bild.",
+      "correct": [
+        "Sie hat ein Bild gemalt."
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Er liest ein Buch.",
+      "correct": [
+        "Er hat ein Buch gelesen."
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Das Baby schläft.",
+      "correct": [
+        "Das Baby hat geschlafen."
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Ich trinke Wasser.",
+      "correct": [
+        "Ich habe Wasser getrunken."
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Wir gehen zur Schule.",
+      "correct": [
+        "Wir sind zur Schule gegangen."
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Der Fisch schwimmt.",
+      "correct": [
+        "Der Fisch ist geschwommen."
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Sie hört Musik.",
+      "correct": [
+        "Sie hat Musik gehört."
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Papa kocht das Essen.",
+      "correct": [
+        "Papa hat das Essen gekocht."
+      ],
+      "wrong": []
+    }
+  ]
+}
