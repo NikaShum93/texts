@@ -1,0 +1,158 @@
+{
+  "language": "ru",
+  "font": "Montserrat",
+  "fontSize": 60,
+  "textColor": "#031a8c",
+  "speed": 1,
+  "questionFont": "Montserrat",
+  "questionFontSize": 50,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/TYXBY5Ct/photo-2026-01-16-18-21-04-Photoroom.png",
+    "bgImages": [
+      "https://i.postimg.cc/TYXBY5Ct/photo-2026-01-16-18-21-04-Photoroom.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Игра \"Футбол\".",
+    "btnText": "Начать"
+  },
+  "direction": "random",
+  "finalFeedback": "Молодец!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "_ода",
+      "correct": [
+        "В"
+      ],
+      "wrong": [
+        "Ф",
+        "Ф",
+        "Ф"
+      ]
+    },
+    {
+      "target": "_рукты",
+      "correct": [
+        "Ф"
+      ],
+      "wrong": [
+        "В",
+        "В",
+        "В"
+      ]
+    },
+    {
+      "target": "_етер",
+      "correct": [
+        "В"
+      ],
+      "wrong": [
+        "Ф",
+        "Ф",
+        "Ф"
+      ]
+    },
+    {
+      "target": "_игура",
+      "correct": [
+        "Ф"
+      ],
+      "wrong": [
+        "В",
+        "В",
+        "В"
+      ]
+    },
+    {
+      "target": "_ильм",
+      "correct": [
+        "Ф"
+      ],
+      "wrong": [
+        "В",
+        "В",
+        "В"
+      ]
+    },
+    {
+      "target": "_лакон",
+      "correct": [
+        "Ф"
+      ],
+      "wrong": [
+        "В",
+        "В",
+        "В"
+      ]
+    },
+    {
+      "target": "_ратарь",
+      "correct": [
+        "В"
+      ],
+      "wrong": [
+        "Ф",
+        "Ф",
+        "Ф"
+      ]
+    },
+    {
+      "target": "_онарь",
+      "correct": [
+        "Ф"
+      ],
+      "wrong": [
+        "В",
+        "В",
+        "В"
+      ]
+    },
+    {
+      "target": "_орота",
+      "correct": [
+        "В"
+      ],
+      "wrong": [
+        "Ф",
+        "Ф",
+        "Ф"
+      ]
+    },
+    {
+      "target": "_оротник",
+      "correct": [
+        "В"
+      ],
+      "wrong": [
+        "Ф",
+        "Ф",
+        "Ф"
+      ]
+    },
+    {
+      "target": "_окус",
+      "correct": [
+        "Ф"
+      ],
+      "wrong": [
+        "В",
+        "В",
+        "В"
+      ]
+    }
+  ]
+}
