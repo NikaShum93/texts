@@ -1,0 +1,91 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/64233afb55129a0017751c8e/c7a82e0c-74c8-45e4-bfc0-95cbe1e26a16.gif",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    }
+  },
+  "finalFeedback": "🎉Молодец!",
+  "feedbackImage": "",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "дом -",
+      "correct": [
+        "том"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "день -",
+      "correct": [
+        "тень"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "дочка -",
+      "correct": [
+        "точка"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "корка -",
+      "correct": [
+        "горка"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "гость -",
+      "correct": [
+        "кость"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "удочка -",
+      "correct": [
+        "уточка"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "коса -",
+      "correct": [
+        "коза"
+      ],
+      "wrong": []
+    }
+  ]
+}
