@@ -1,0 +1,147 @@
+{
+  "language": "ru",
+  "font": "Montserrat",
+  "fontSize": 60,
+  "textColor": "#031a8c",
+  "speed": 1,
+  "questionFont": "Montserrat",
+  "questionFontSize": 50,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/TYXBY5Ct/photo-2026-01-16-18-21-04-Photoroom.png",
+    "bgImages": [
+      "https://i.postimg.cc/TYXBY5Ct/photo-2026-01-16-18-21-04-Photoroom.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Игра \"Футбол\".",
+    "btnText": "Начать"
+  },
+  "direction": "random",
+  "finalFeedback": "Молодец!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "ци_ра",
+      "correct": [
+        "Ф"
+      ],
+      "wrong": [
+        "В",
+        "В",
+        "В"
+      ]
+    },
+    {
+      "target": "ке_ир",
+      "correct": [
+        "Ф"
+      ],
+      "wrong": [
+        "В",
+        "В",
+        "В"
+      ]
+    },
+    {
+      "target": "про_од",
+      "correct": [
+        "В"
+      ],
+      "wrong": [
+        "Ф",
+        "Ф",
+        "Ф"
+      ]
+    },
+    {
+      "target": "с_ёкла",
+      "correct": [
+        "В"
+      ],
+      "wrong": [
+        "Ф",
+        "Ф",
+        "Ф"
+      ]
+    },
+    {
+      "target": "сара_ан",
+      "correct": [
+        "Ф"
+      ],
+      "wrong": [
+        "В",
+        "В",
+        "В"
+      ]
+    },
+    {
+      "target": "ко_ёр",
+      "correct": [
+        "В"
+      ],
+      "wrong": [
+        "Ф",
+        "Ф",
+        "Ф"
+      ]
+    },
+    {
+      "target": "сли_а",
+      "correct": [
+        "В"
+      ],
+      "wrong": [
+        "Ф",
+        "Ф",
+        "Ф"
+      ]
+    },
+    {
+      "target": "соло_ей",
+      "correct": [
+        "В"
+      ],
+      "wrong": [
+        "Ф",
+        "Ф",
+        "Ф"
+      ]
+    },
+    {
+      "target": "сал_етка",
+      "correct": [
+        "Ф"
+      ],
+      "wrong": [
+        "В",
+        "В",
+        "В"
+      ]
+    },
+    {
+      "target": "пер_ый",
+      "correct": [
+        "В"
+      ],
+      "wrong": [
+        "Ф",
+        "Ф",
+        "Ф"
+      ]
+    }
+  ]
+}
