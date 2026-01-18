@@ -1,0 +1,246 @@
+{
+  "language": "ru",
+  "font": "Montserrat",
+  "fontSize": 60,
+  "textColor": "#ffffff",
+  "speed": 1,
+  "questionFont": "Montserrat",
+  "questionFontSize": 50,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/BvWSKtXr/143.png",
+    "bgImages": [
+      "https://i.postimg.cc/BvWSKtXr/143.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Игра \"Баскетбол\".",
+    "btnText": "Старт"
+  },
+  "direction": "random",
+  "finalFeedback": "Отличная работа!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "_аз",
+      "correct": [
+        "Г"
+      ],
+      "wrong": [
+        "К",
+        "К",
+        "К"
+      ]
+    },
+    {
+      "target": "_лаза",
+      "correct": [
+        "Г"
+      ],
+      "wrong": [
+        "К",
+        "К",
+        "К"
+      ]
+    },
+    {
+      "target": "_ласс",
+      "correct": [
+        "К"
+      ],
+      "wrong": [
+        "Г",
+        "Г",
+        "Г"
+      ]
+    },
+    {
+      "target": "_от",
+      "correct": [
+        "К"
+      ],
+      "wrong": [
+        "Г",
+        "Г",
+        "Г"
+      ]
+    },
+    {
+      "target": "_рыша",
+      "correct": [
+        "К"
+      ],
+      "wrong": [
+        "Г",
+        "Г",
+        "Г"
+      ]
+    },
+    {
+      "target": "_амень",
+      "correct": [
+        "К"
+      ],
+      "wrong": [
+        "Г",
+        "Г",
+        "Г"
+      ]
+    },
+    {
+      "target": "_рафин",
+      "correct": [
+        "Г"
+      ],
+      "wrong": [
+        "К",
+        "К",
+        "К"
+      ]
+    },
+    {
+      "target": "_усты",
+      "correct": [
+        "К"
+      ],
+      "wrong": [
+        "Г",
+        "Г",
+        "Г"
+      ]
+    },
+    {
+      "target": "_артина",
+      "correct": [
+        "К"
+      ],
+      "wrong": [
+        "Г",
+        "Г",
+        "Г"
+      ]
+    },
+    {
+      "target": "_итара",
+      "correct": [
+        "Г"
+      ],
+      "wrong": [
+        "К",
+        "К",
+        "К"
+      ]
+    },
+    {
+      "target": "_олова",
+      "correct": [
+        "Г"
+      ],
+      "wrong": [
+        "К",
+        "К",
+        "К"
+      ]
+    },
+    {
+      "target": "_ресло",
+      "correct": [
+        "К"
+      ],
+      "wrong": [
+        "Г",
+        "Г",
+        "Г"
+      ]
+    },
+    {
+      "target": "_ровать",
+      "correct": [
+        "К"
+      ],
+      "wrong": [
+        "Г",
+        "Г",
+        "Г"
+      ]
+    },
+    {
+      "target": "_лобус",
+      "correct": [
+        "Г"
+      ],
+      "wrong": [
+        "К",
+        "К",
+        "К"
+      ]
+    },
+    {
+      "target": "_воздь",
+      "correct": [
+        "Г"
+      ],
+      "wrong": [
+        "К",
+        "К",
+        "К"
+      ]
+    },
+    {
+      "target": "_араж",
+      "correct": [
+        "Г"
+      ],
+      "wrong": [
+        "К",
+        "К",
+        "К"
+      ]
+    },
+    {
+      "target": "_исть",
+      "correct": [
+        "К"
+      ],
+      "wrong": [
+        "Г",
+        "Г",
+        "Г"
+      ]
+    },
+    {
+      "target": "_орабль",
+      "correct": [
+        "К"
+      ],
+      "wrong": [
+        "Г",
+        "Г",
+        "Г"
+      ]
+    },
+    {
+      "target": "_онцерт",
+      "correct": [
+        "К"
+      ],
+      "wrong": [
+        "Г",
+        "Г",
+        "Г"
+      ]
+    }
+  ]
+}
