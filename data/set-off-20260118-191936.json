@@ -1,0 +1,38 @@
+{
+  "listA": [
+    "set off",
+    "get on",
+    "get off",
+    "take off",
+    "get into",
+    "get out of",
+    "break down",
+    "get in",
+    "check in",
+    "get away",
+    "go on"
+  ],
+  "listB": [
+    "start a journey",
+    "enter (a train",
+    "bus",
+    "boat",
+    "plane)",
+    "leave (a train",
+    "bus",
+    "boat",
+    "plane)",
+    "start flying",
+    "enter (a car)",
+    "leave (a car)",
+    "stop working (for a motor or type of transport)",
+    "arrive",
+    "show your ticket/give your bags to an official at an airport",
+    "go somewhere different to have a rest or holiday",
+    "continue"
+  ],
+  "freeMode": true,
+  "feedback": "Great job! You win!",
+  "language": "en",
+  "mathMode": false
+}
