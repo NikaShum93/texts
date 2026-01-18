@@ -1,0 +1,32 @@
+{
+  "listA": [
+    "set",
+    "get",
+    "get",
+    "take",
+    "get",
+    "get",
+    "break",
+    "get",
+    "check",
+    "get",
+    "go"
+  ],
+  "listB": [
+    "off",
+    "on",
+    "off",
+    "off",
+    "into",
+    "out of",
+    "down",
+    "in",
+    "in",
+    "away",
+    "on"
+  ],
+  "freeMode": true,
+  "feedback": "Great job! You win!",
+  "language": "en",
+  "mathMode": false
+}
