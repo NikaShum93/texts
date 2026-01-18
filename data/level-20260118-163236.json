@@ -1,0 +1,268 @@
+{
+  "language": "ru",
+  "font": "Montserrat",
+  "fontSize": 60,
+  "textColor": "#ffffff",
+  "speed": 1,
+  "questionFont": "Montserrat",
+  "questionFontSize": 50,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/BvWSKtXr/143.png",
+    "bgImages": [
+      "https://i.postimg.cc/BvWSKtXr/143.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Игра \"Баскетбол\".",
+    "btnText": "Старт"
+  },
+  "direction": "random",
+  "finalFeedback": "Отличная работа!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "ш_ола",
+      "correct": [
+        "К"
+      ],
+      "wrong": [
+        "Г",
+        "Г",
+        "Г"
+      ]
+    },
+    {
+      "target": "о_но",
+      "correct": [
+        "К"
+      ],
+      "wrong": [
+        "Г",
+        "Г",
+        "Г"
+      ]
+    },
+    {
+      "target": "ва_он",
+      "correct": [
+        "Г"
+      ],
+      "wrong": [
+        "К",
+        "К",
+        "К"
+      ]
+    },
+    {
+      "target": "у_сус",
+      "correct": [
+        "К"
+      ],
+      "wrong": [
+        "Г",
+        "Г",
+        "Г"
+      ]
+    },
+    {
+      "target": "ще_а",
+      "correct": [
+        "К"
+      ],
+      "wrong": [
+        "Г",
+        "Г",
+        "Г"
+      ]
+    },
+    {
+      "target": "у_оль",
+      "correct": [
+        "Г"
+      ],
+      "wrong": [
+        "К",
+        "К",
+        "К"
+      ]
+    },
+    {
+      "target": "лав_а",
+      "correct": [
+        "К"
+      ],
+      "wrong": [
+        "Г",
+        "Г",
+        "Г"
+      ]
+    },
+    {
+      "target": "доро_а",
+      "correct": [
+        "Г"
+      ],
+      "wrong": [
+        "К",
+        "К",
+        "К"
+      ]
+    },
+    {
+      "target": "я_оды",
+      "correct": [
+        "Г"
+      ],
+      "wrong": [
+        "К",
+        "К",
+        "К"
+      ]
+    },
+    {
+      "target": "вз_ляд",
+      "correct": [
+        "Г"
+      ],
+      "wrong": [
+        "К",
+        "К",
+        "К"
+      ]
+    },
+    {
+      "target": "бел_а",
+      "correct": [
+        "К"
+      ],
+      "wrong": [
+        "Г",
+        "Г",
+        "Г"
+      ]
+    },
+    {
+      "target": "су_робы",
+      "correct": [
+        "Г"
+      ],
+      "wrong": [
+        "К",
+        "К",
+        "К"
+      ]
+    },
+    {
+      "target": "сумер_и",
+      "correct": [
+        "К"
+      ],
+      "wrong": [
+        "Г",
+        "Г",
+        "Г"
+      ]
+    },
+    {
+      "target": "выстав_а",
+      "correct": [
+        "К"
+      ],
+      "wrong": [
+        "Г",
+        "Г",
+        "Г"
+      ]
+    },
+    {
+      "target": "салфет_а",
+      "correct": [
+        "К"
+      ],
+      "wrong": [
+        "Г",
+        "Г",
+        "Г"
+      ]
+    },
+    {
+      "target": "раду_а",
+      "correct": [
+        "Г"
+      ],
+      "wrong": [
+        "К",
+        "К",
+        "К"
+      ]
+    },
+    {
+      "target": "кни_а",
+      "correct": [
+        "Г"
+      ],
+      "wrong": [
+        "К",
+        "К",
+        "К"
+      ]
+    },
+    {
+      "target": "раз_овор",
+      "correct": [
+        "Г"
+      ],
+      "wrong": [
+        "К",
+        "К",
+        "К"
+      ]
+    },
+    {
+      "target": "нау_а",
+      "correct": [
+        "К"
+      ],
+      "wrong": [
+        "Г",
+        "Г",
+        "Г"
+      ]
+    },
+    {
+      "target": "се_унда",
+      "correct": [
+        "К"
+      ],
+      "wrong": [
+        "Г",
+        "Г",
+        "Г"
+      ]
+    },
+    {
+      "target": "а_ула",
+      "correct": [
+        "К"
+      ],
+      "wrong": [
+        "Г",
+        "Г",
+        "Г"
+      ]
+    }
+  ]
+}
