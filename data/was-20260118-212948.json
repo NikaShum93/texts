@@ -1,0 +1,80 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#3a5eee",
+    "bgImages": [],
+    "bgImage": "",
+    "borderOn": true,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": true,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Was/were",
+    "btnText": "Start"
+  },
+  "direction": "down",
+  "finalFeedback": "",
+  "levels": [
+    {
+      "target": "was",
+      "correct": [
+        "cat",
+        "girl",
+        "she",
+        "he",
+        "teacher",
+        "elephant",
+        "tiger",
+        "snake",
+        "spider"
+      ],
+      "wrong": [
+        "they",
+        "we",
+        "apples",
+        "bananas",
+        "zebras",
+        "birds",
+        "pens"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "were",
+      "correct": [
+        "they",
+        "we",
+        "apples",
+        "bananas",
+        "zebras",
+        "birds",
+        "pens"
+      ],
+      "wrong": [
+        "cat",
+        "girl",
+        "she",
+        "he",
+        "teacher",
+        "elephant",
+        "tiger",
+        "snake",
+        "spider"
+      ],
+      "timer": 30
+    }
+  ]
+}
