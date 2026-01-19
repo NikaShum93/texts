@@ -1,0 +1,142 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Mountains of Christmas",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/64233afb55129a0017751c8e/6059fb92-5a10-4ffb-92de-2485898eea7a.png",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(249,201,67,1)",
+      "borderColor": "#ffd7c2",
+      "textColor": "#db4d00",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    }
+  },
+  "finalFeedback": "You have all the bottles!",
+  "feedbackImage": "https://img.genially.com/64233afb55129a0017751c8e/6059fb92-5a10-4ffb-92de-2485898eea7a.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Judy played a game.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Nick walked to work.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Judy opened the door.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Nick cleaned his desk.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Judy liked the job.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Nick lived in Zootopia.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Judy stopped the car.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Nick planned a joke.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Judy studied at school.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Nick carried a bag.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Judy did not play games.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Nick did not walk home.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Judy did not open doors.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Nick did not clean desks.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Judy did not like work.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Nick did not live downtown.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Judy did not stop cars.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Nick did not plan jokes.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Judy did not study English.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Nick did not carry bags.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
