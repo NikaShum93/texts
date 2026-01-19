@@ -1,0 +1,54 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 0,
+    "imgBox": 180
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Едопад",
+    "btnText": "START"
+  },
+  "direction": "down",
+  "finalFeedback": "Well done",
+  "levels": [
+    {
+      "target": "Uncountable",
+      "correct": [
+        "https://media.tenor.com/zL5pkv2MIIYAAAAi/milk.gif",
+        "https://media.tenor.com/eJe1nnSLOJQAAAAi/strawberry-juice-juice.gif",
+        "https://media.tenor.com/VYWcfesOdF8AAAAi/biscuit-cookie.gif",
+        "https://media.tenor.com/WBj9p0cgq4AAAAAi/tortas-de-cumplea%C3%B1os.gif",
+        "https://media.tenor.com/exCQpO8_5hAAAAAi/onion-food.gif",
+        "https://media.tenor.com/iSVoSzAHTQ4AAAAi/cut-of-meat-food.gif",
+        "https://media.tenor.com/r6lL6t_9vPQAAAAi/food-comida.gif",
+        "https://media.tenor.com/i5JhUAUvk4IAAAAi/cheese-food.gif",
+        "https://media.tenor.com/owOhT69ktXMAAAAi/bread-food.gif",
+        "https://media.tenor.com/G2TjTD5QZD0AAAAi/salt-food.gif"
+      ],
+      "wrong": [
+        "https://media.tenor.com/vXxKljuL1lsAAAAi/egg-food.gif",
+        "https://media.tenor.com/lp3Djymen_oAAAAi/kstr-kochstrasse.gif",
+        "https://media.tenor.com/F2PjYZeqkt8AAAAi/tomato.gif",
+        "https://media.tenor.com/VgdofdIl5QQAAAAi/carrot-karotte.gif"
+      ],
+      "timer": 45
+    }
+  ]
+}
