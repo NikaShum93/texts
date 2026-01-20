@@ -1,0 +1,40 @@
+{
+  "listA": [
+    "go",
+    "eat",
+    "see",
+    "take",
+    "come",
+    "make",
+    "give",
+    "find",
+    "think",
+    "buy",
+    "speak",
+    "write",
+    "drink",
+    "drive",
+    "choose"
+  ],
+  "listB": [
+    "went",
+    "ate",
+    "saw",
+    "took",
+    "came",
+    "made",
+    "gave",
+    "found",
+    "thought",
+    "bought",
+    "spoke",
+    "wrote",
+    "drank",
+    "drove",
+    "chose"
+  ],
+  "freeMode": false,
+  "feedback": "Well done!",
+  "language": "en",
+  "mathMode": false
+}
