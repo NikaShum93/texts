@@ -1,0 +1,138 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 24,
+  "textColor": "#000000",
+  "speed": 3,
+  "questionFont": "Roboto",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/NFmKdQQw/5.png\nhttps://i.postimg.cc/MGnKszYr/4.png\nhttps://i.postimg.cc/cCgR0qZm/1.png",
+    "bgImages": [
+      "https://i.postimg.cc/NFmKdQQw/5.png",
+      "https://i.postimg.cc/MGnKszYr/4.png",
+      "https://i.postimg.cc/cCgR0qZm/1.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 260
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Present Continuous",
+    "btnText": "Catch some fish!"
+  },
+  "direction": "random",
+  "finalFeedback": "Well done!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "The cat is ... milk.",
+      "correct": [
+        "drinking"
+      ],
+      "wrong": [
+        "drink",
+        "drinkking"
+      ]
+    },
+    {
+      "target": "Two cats ... on the sofa.",
+      "correct": [
+        "are sleeping"
+      ],
+      "wrong": [
+        "is sleeping",
+        "are sleepping",
+        "eatting",
+        "is eatting"
+      ]
+    },
+    {
+      "target": "The cat ... its food now.",
+      "correct": [
+        "is eating"
+      ],
+      "wrong": [
+        "is playing",
+        "playing"
+      ]
+    },
+    {
+      "target": "The kittens ... with a ball.",
+      "correct": [
+        "are playing"
+      ],
+      "wrong": [
+        "The kittens are",
+        "The kittens"
+      ]
+    },
+    {
+      "target": "... having a nap?",
+      "correct": [
+        "Are the kittens"
+      ],
+      "wrong": [
+        "not drinking",
+        "isn't drinking"
+      ]
+    },
+    {
+      "target": "The cats ... water from the bowl.",
+      "correct": [
+        "aren't drinking"
+      ],
+      "wrong": [
+        "looking",
+        "is looks"
+      ]
+    },
+    {
+      "target": "The cat ... at the window.",
+      "correct": [
+        "is looking"
+      ],
+      "wrong": [
+        "are hideing",
+        "hiding"
+      ]
+    },
+    {
+      "target": "Three cats ... under the table.",
+      "correct": [
+        "are hiding"
+      ],
+      "wrong": [
+        "is siting",
+        "siting"
+      ]
+    },
+    {
+      "target": "The kitten ...  on the chair.",
+      "correct": [
+        "is sitting"
+      ],
+      "wrong": [
+        "Is",
+        "Do"
+      ]
+    },
+    {
+      "target": "... the cats cleaning their paws.",
+      "correct": [
+        "Are"
+      ],
+      "wrong": []
+    }
+  ]
+}
