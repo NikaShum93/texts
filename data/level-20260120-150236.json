@@ -1,0 +1,55 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 2,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 0,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Буква Ш",
+    "btnText": "Играть"
+  },
+  "direction": "up",
+  "finalFeedback": "",
+  "levels": [
+    {
+      "target": "шарики с буквой Ш",
+      "correct": [
+        "https://i.postimg.cc/50YhYDKL/1.png",
+        "https://i.postimg.cc/LXcrzvGz/2.png",
+        "https://i.postimg.cc/XJRTwxt8/3.png",
+        "https://i.postimg.cc/1tkLpMbM/4.png",
+        "https://i.postimg.cc/852qhwxK/5.png",
+        "https://i.postimg.cc/nzy6vTNW/6.png",
+        "https://i.postimg.cc/DZ9tq5tV/7.png",
+        "https://i.postimg.cc/qq2WQydY/8.png"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/gj3148WY/10.png",
+        "https://i.postimg.cc/6qCFznX5/11.png",
+        "https://i.postimg.cc/vT5CXfs4/12.png",
+        "https://i.postimg.cc/HnbF3Xg8/13.png",
+        "https://i.postimg.cc/59vcxdF3/14.png",
+        "https://i.postimg.cc/dQdMqPT6/15.png",
+        "https://i.postimg.cc/yx02nczM/9.png"
+      ],
+      "timer": 60
+    }
+  ]
+}
