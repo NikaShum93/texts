@@ -1,0 +1,126 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Fredoka",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 100,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/5e7dfe50a2d3eb0fbde37fb5/1ff18c9d-4889-4bef-bb08-fc7e78a14dfc.png",
+    "bubbleSize": 100,
+    "task": {
+      "bgColor": "rgba(242,177,180,1)",
+      "borderColor": "#b40404",
+      "textColor": "#890101",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#f99f9f",
+      "borderColor": "#980101",
+      "textColor": "#ec3232",
+      "fontSize": 22,
+      "neon": true
+    }
+  },
+  "finalFeedback": "Well Done!",
+  "feedbackImage": "https://ai-image.genially.com/6579cd1f2ed98a001453…da9ee3bfa30014d0b56f/69706f158f0af1a65055be65.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "It is a red flower. People give it to show love.",
+      "correct": [
+        "a rose"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "It shows love. We draw it on cards.",
+      "correct": [
+        "a heart"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "You give this to make someone happy.",
+      "correct": [
+        "a gift"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Cupid uses this to shoot love.",
+      "correct": [
+        "an arrow"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "It is a short text with nice words or rhymes.",
+      "correct": [
+        "a poem"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "It is sweet food. We eat it at parties.",
+      "correct": [
+        "a cake"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "It is a soft toy. Many children hug it.",
+      "correct": [
+        "teddy"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "They are big and full of air. They can fly.",
+      "correct": [
+        "balloons"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "He is the little angel of love.",
+      "correct": [
+        "cupid"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "You do this with your lips to show love.",
+      "correct": [
+        "a kiss"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "They are sweet and made from cocoa.",
+      "correct": [
+        "chocolates"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "You write a message in this and give it to someone.",
+      "correct": [
+        "a card"
+      ],
+      "wrong": []
+    }
+  ]
+}
