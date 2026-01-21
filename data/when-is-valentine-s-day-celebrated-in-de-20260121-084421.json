@@ -1,0 +1,142 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Baloo 2",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 100,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/5e7dfe50a2d3eb0fbde37fb5/1ff18c9d-4889-4bef-bb08-fc7e78a14dfc.png",
+    "bubbleSize": 100,
+    "task": {
+      "bgColor": "rgba(243,150,164,1)",
+      "borderColor": "#a4041c",
+      "textColor": "#7e0202",
+      "fontSize": 26,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#e38282",
+      "borderColor": "#800000",
+      "textColor": "#d10a0a",
+      "fontSize": 26,
+      "neon": true
+    }
+  },
+  "finalFeedback": "Well Done!",
+  "feedbackImage": "https://ai-image.genially.com/6579cd1f2ed98a001453…da9ee3bfa30014d0b56f/6970676a58e44d835f21c5bc.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 3,
+  "tasks": [
+    {
+      "question": "When is Valentine’s Day celebrated in Denmark?",
+      "correct": [
+        "14 February"
+      ],
+      "wrong": [
+        "12 June",
+        "14 March"
+      ]
+    },
+    {
+      "question": "What special letter do some people send in Denmark?",
+      "correct": [
+        "Gækkebrev"
+      ],
+      "wrong": [
+        "Love card",
+        "Birthday letter"
+      ]
+    },
+    {
+      "question": "When is Valentine’s Day in Brazil?",
+      "correct": [
+        "12 June"
+      ],
+      "wrong": [
+        "14 February",
+        "14 March"
+      ]
+    },
+    {
+      "question": "What is Valentine’s Day called in Brazil?",
+      "correct": [
+        "Dia dos Namorados"
+      ],
+      "wrong": [
+        "White Day",
+        "Valentine’s Festival"
+      ]
+    },
+    {
+      "question": "Who usually gives chocolate on Valentine’s Day in South Korea?",
+      "correct": [
+        "Girls"
+      ],
+      "wrong": [
+        "Teachers",
+        "Boys"
+      ]
+    },
+    {
+      "question": "What happens on White Day in South Korea?",
+      "correct": [
+        "Boys give gifts or chocolate"
+      ],
+      "wrong": [
+        "Girls give gifts",
+        "Everyone eats cake"
+      ]
+    },
+    {
+      "question": "What flower is very popular on Valentine’s Day in Germany?",
+      "correct": [
+        "Red roses"
+      ],
+      "wrong": [
+        "Snowdrops",
+        "Tulips"
+      ]
+    },
+    {
+      "question": "Which country celebrates Valentine’s Day one month later with White Day?",
+      "correct": [
+        "South Korea"
+      ],
+      "wrong": [
+        "Brazil",
+        "Germany"
+      ]
+    },
+    {
+      "question": "Which country does NOT celebrate Valentine’s Day on 14 February?",
+      "correct": [
+        "Brazil"
+      ],
+      "wrong": [
+        "Denmark",
+        "Germany"
+      ]
+    },
+    {
+      "question": "What is Valentine’s Day about in all countries?",
+      "correct": [
+        "Love, friendship, and kindness"
+      ],
+      "wrong": [
+        "Sports and games",
+        "School and homework"
+      ]
+    }
+  ]
+}
