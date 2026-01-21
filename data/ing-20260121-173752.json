@@ -1,0 +1,98 @@
+{
+  "language": "en",
+  "font": "Playfair Display",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "style": {
+    "shape": "rect",
+    "pad": 85,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/Kj93cpWB/банан_фио.png",
+      "https://i.postimg.cc/d3QTYc52/банан_ж.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 0,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#e5c93e",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 170
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Present Continuous",
+    "btnText": "Start!"
+  },
+  "direction": "down",
+  "finalFeedback": "Good job!",
+  "levels": [
+    {
+      "target": "+ing",
+      "correct": [
+        "walk",
+        "work",
+        "eat",
+        "drink",
+        "play",
+        "fly",
+        "snow",
+        "sleep"
+      ],
+      "wrong": [
+        "run",
+        "swim",
+        "make",
+        "bake",
+        "put",
+        "sit",
+        "write"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "-e + -ing",
+      "correct": [
+        "make",
+        "bake",
+        "write",
+        "dance",
+        "type",
+        "chase"
+      ],
+      "wrong": [
+        "eat",
+        "sit",
+        "run",
+        "play",
+        "snow",
+        "clean",
+        "watch",
+        "wash"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "double consonant + -ing",
+      "correct": [
+        "sit",
+        "swim",
+        "put",
+        "drop"
+      ],
+      "wrong": [
+        "work",
+        "fly",
+        "make",
+        "write",
+        "sleep",
+        "fix"
+      ],
+      "timer": 30
+    }
+  ]
+}
