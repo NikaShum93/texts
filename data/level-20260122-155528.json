@@ -1,0 +1,81 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 30,
+  "textColor": "#ffffff",
+  "speed": 2,
+  "questionFont": "PT Sans",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 30,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/65a66a0db3c06500207bb5f3/af45f120-9923-4edc-999a-7121bf36efdf.png",
+    "bgImages": [
+      "https://img.genially.com/65a66a0db3c06500207bb5f3/af45f120-9923-4edc-999a-7121bf36efdf.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Игра \"Хоккей\"",
+    "btnText": "Старт"
+  },
+  "direction": "random",
+  "finalFeedback": "Супер!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "Мама купила свежий хлеб в магазине.",
+      "correct": [
+        "И.п."
+      ],
+      "wrong": [
+        "В.п",
+        "Д.п.",
+        "Р.п."
+      ]
+    },
+    {
+      "target": "Дети играли во дворе с мячом.",
+      "correct": [
+        "В.п"
+      ],
+      "wrong": [
+        "И.п.",
+        "Д.п.",
+        "Р.п."
+      ]
+    },
+    {
+      "target": "Книга лежит на столе.",
+      "correct": [
+        "Р.п."
+      ],
+      "wrong": [
+        "В.п",
+        "И.п.",
+        "Д.п."
+      ]
+    },
+    {
+      "target": "Учитель рассказывал ученикам о космосе.",
+      "correct": [
+        "Д.п."
+      ],
+      "wrong": [
+        "И.п.",
+        "Р.п.",
+        "В.п"
+      ]
+    }
+  ]
+}
