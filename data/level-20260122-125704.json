@@ -1,0 +1,255 @@
+{
+  "language": "ru",
+  "font": "Cormorant",
+  "fontSize": 28,
+  "textColor": "#000000",
+  "speed": 4,
+  "questionFont": "Cormorant",
+  "questionFontSize": 28,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#ffffff",
+    "bgImage": "",
+    "bgImages": [],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": true,
+    "glow": true,
+    "glowColor": "#ffffff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Битва ПРЕ и ПРИ",
+    "btnText": ""
+  },
+  "direction": "down",
+  "finalFeedback": "",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "пр...митивный ответ",
+      "correct": [
+        "и"
+      ],
+      "wrong": [
+        "е",
+        "е",
+        "е"
+      ]
+    },
+    {
+      "target": "старый пр...вратник",
+      "correct": [
+        "и"
+      ],
+      "wrong": [
+        "е",
+        "е",
+        "е"
+      ]
+    },
+    {
+      "target": "камень пр...ткновения",
+      "correct": [
+        "е"
+      ],
+      "wrong": [
+        "и",
+        "и",
+        "и"
+      ]
+    },
+    {
+      "target": "пр...клонный возраст",
+      "correct": [
+        "е"
+      ],
+      "wrong": [
+        "и",
+        "и",
+        "и"
+      ]
+    },
+    {
+      "target": "пр...ватный разговор",
+      "correct": [
+        "и"
+      ],
+      "wrong": [
+        "е",
+        "е",
+        "е"
+      ]
+    },
+    {
+      "target": "пр...видение",
+      "correct": [
+        "и"
+      ],
+      "wrong": [
+        "е",
+        "е",
+        "е"
+      ]
+    },
+    {
+      "target": "пр...вратный смысл",
+      "correct": [
+        "е"
+      ],
+      "wrong": [
+        "и",
+        "и",
+        "и"
+      ]
+    },
+    {
+      "target": "пр...пона",
+      "correct": [
+        "е"
+      ],
+      "wrong": [
+        "и",
+        "и",
+        "и"
+      ]
+    },
+    {
+      "target": "пр...тензии",
+      "correct": [
+        "е"
+      ],
+      "wrong": [
+        "и",
+        "и",
+        "и"
+      ]
+    },
+    {
+      "target": "пр...дел к дому",
+      "correct": [
+        "и"
+      ],
+      "wrong": [
+        "е",
+        "е",
+        "е"
+      ]
+    },
+    {
+      "target": "пр...тендент на пост",
+      "correct": [
+        "е"
+      ],
+      "wrong": [
+        "и",
+        "и",
+        "и"
+      ]
+    },
+    {
+      "target": "пр...дел терпению",
+      "correct": [
+        "е"
+      ],
+      "wrong": [
+        "и",
+        "и",
+        "и"
+      ]
+    },
+    {
+      "target": "пр...емник царя",
+      "correct": [
+        "е"
+      ],
+      "wrong": [
+        "и",
+        "и",
+        "и"
+      ]
+    },
+    {
+      "target": "пр...творить окно",
+      "correct": [
+        "и"
+      ],
+      "wrong": [
+        "е",
+        "е",
+        "е"
+      ]
+    },
+    {
+      "target": "беспр...цедентный",
+      "correct": [
+        "е"
+      ],
+      "wrong": [
+        "и",
+        "и",
+        "и"
+      ]
+    },
+    {
+      "target": "беспр...страстно",
+      "correct": [
+        "и"
+      ],
+      "wrong": [
+        "е",
+        "е",
+        "е"
+      ]
+    },
+    {
+      "target": "пр...вередливость",
+      "correct": [
+        "и"
+      ],
+      "wrong": [
+        "е",
+        "е",
+        "е"
+      ]
+    },
+    {
+      "target": "пр...ломление света",
+      "correct": [
+        "е"
+      ],
+      "wrong": [
+        "и",
+        "и",
+        "и"
+      ]
+    },
+    {
+      "target": "пр...мудрый старец",
+      "correct": [
+        "е"
+      ],
+      "wrong": [
+        "и",
+        "и",
+        "и"
+      ]
+    },
+    {
+      "target": "без пр...крас",
+      "correct": [
+        "и"
+      ],
+      "wrong": [
+        "е",
+        "е",
+        "е"
+      ]
+    }
+  ]
+}
