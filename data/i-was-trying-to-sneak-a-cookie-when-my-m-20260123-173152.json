@@ -1,0 +1,117 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Baloo 2",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.imgur.com/YgbEKPS.png",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 25,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 25,
+      "neon": true
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "I was trying to sneak a cookie when my mom walked in.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She was drawing a picture of her teacher with funny hair.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They were playing hide-and-seek in the library (very quietly!).",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "He was pretending to be a superhero during math class.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We were building a huge tower of books when it crashed down.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My friend was telling a really long story about his pet hamster.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The teacher was explaining something important, but I was daydreaming about pizza.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I was practicing my dance moves in the kitchen when my dad started cooking.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She was writing a secret message to her best friend in class.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They were arguing about who was the best video game player.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "He was trying to juggle apples and dropped them all over the floor.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We were making a silly movie with our phones.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My sister was singing very loudly in the bathroom.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The dog was chasing its tail in circles.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I was reading a comic book under my desk when the teacher asked a question.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
