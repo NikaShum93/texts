@@ -1,0 +1,167 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.imgur.com/YgbEKPS.png",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 25,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 25,
+      "neon": true
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "I … my homework when my little brother … my favorite pen.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She … a funny story while the teacher … the lesson.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They … football in the park when it … to rain.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "He … a terrible drawing of his teacher, and she … it!",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We … a pizza party while our parents … a movie.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My friend … his lunch when a bird … it from his hand.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The class … very loudly when the principal … into the room.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I … to the music when I … over my own feet and fell.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She … a new video game while her mom … dinner.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They … a secret plan to swap the salt and sugar when the teacher … them.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "He … a silly face during the school photo when the photographer … \"Cheese!\".",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We … a treasure hunt in the garden when we … a giant worm.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My sister … her room when she … a box of old toys.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The dog … my sandwich while I … a phone call.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I … a joke to my friend, and he … so hard he almost fell off his chair.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She … a song in the shower when the doorbell … .",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They … a fort in the living room when their dad … home.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "He … a really bad impression of the headmaster when the headmaster … right behind him.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We … a board game when the power … out.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My brother … to build a robot when he … out of batteries.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The cat … on my textbook while I … for the test.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I … a funny meme to my best friend when my mom … me.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She … a cake for her friend’s birthday when she … the recipe wrong.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They … a dance competition in the school hall when the music … .",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "He … a really cool trick on his skateboard when he … and scraped his knee.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
