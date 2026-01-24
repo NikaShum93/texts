@@ -1,0 +1,82 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Mountains of Christmas",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://github.com/NikaShum93/sound/raw/refs/heads/main/minecraft-sheep2.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/IxfjwiiibJ8AAAAi/home-sheep-home-shaun-the-sheep.gif",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(255,255,255,1)",
+      "borderColor": "#a7ecb9",
+      "textColor": "#000000",
+      "fontSize": 28,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#ffffff",
+      "borderColor": "#ffee00",
+      "textColor": "#000000",
+      "fontSize": 28,
+      "neon": true
+    }
+  },
+  "finalFeedback": "You got all the sheep!",
+  "feedbackImage": "https://media.tenor.com/N-AN4oJDPiAAAAAi/emoji-emoji-day.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Where did you run yesterday? — I ran to...",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What did you eat for breakfast? — I ate...",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What did you drink for lunch? — I drank...",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "How many hours did you sleep last night? — I slept...",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What did you give your friend for his birthday? — I gave...",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What did you buy at the shop yesterday? — I bought...",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Where did you fly last summer? — I flew to...",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What did you take to school today? — I took...",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
