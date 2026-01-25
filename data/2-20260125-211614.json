@@ -1,0 +1,46 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 28,
+  "textColor": "#f4e2e2",
+  "speed": 5,
+  "style": {
+    "shape": "rounded",
+    "pad": 24,
+    "bgColor": "#f78d8d",
+    "bgImages": [
+      "https://i.postimg.cc/4dSNfvq9/Gemini-Generated-Image-fw3bkdfw3bkdfw3b.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ff0000",
+    "borderWidth": 5,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#1ae6f4",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 210
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "начать",
+    "btnText": "текст"
+  },
+  "direction": "down",
+  "finalFeedback": "молодец",
+  "levels": [
+    {
+      "target": "2",
+      "correct": [
+        "1+1",
+        "2-0"
+      ],
+      "wrong": [
+        "2+1",
+        "2-2"
+      ],
+      "timer": 30
+    }
+  ]
+}
