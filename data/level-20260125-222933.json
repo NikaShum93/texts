@@ -1,0 +1,43 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 4,
+  "style": {
+    "shape": "rounded",
+    "pad": 75,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/vZj2b4Hc/1.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 120
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "",
+    "btnText": ""
+  },
+  "direction": "down",
+  "finalFeedback": "",
+  "levels": [
+    {
+      "target": "звук С",
+      "correct": [
+        "https://i.postimg.cc/qqbXwFNm/2.png",
+        "https://i.postimg.cc/6qjLcP8b/3.png"
+      ],
+      "wrong": [],
+      "timer": 30
+    }
+  ]
+}
