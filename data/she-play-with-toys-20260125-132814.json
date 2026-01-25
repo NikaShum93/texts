@@ -1,0 +1,112 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Mountains of Christmas",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://github.com/NikaShum93/sound/raw/refs/heads/main/minecraft-sheep2.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/IxfjwiiibJ8AAAAi/home-sheep-home-shaun-the-sheep.gif",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(255,255,255,1)",
+      "borderColor": "#a7ecb9",
+      "textColor": "#000000",
+      "fontSize": 28,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#ffffff",
+      "borderColor": "#ffee00",
+      "textColor": "#000000",
+      "fontSize": 28,
+      "neon": true
+    }
+  },
+  "finalFeedback": "You got all the sheep!",
+  "feedbackImage": "https://media.tenor.com/N-AN4oJDPiAAAAAi/emoji-emoji-day.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "She ____ (play) with toys.",
+      "correct": [
+        "plays"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "He ____ (eat) an apple.",
+      "correct": [
+        "eats"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "My brother ____ (go) to bed.",
+      "correct": [
+        "goes"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The dog ____ (run) fast.",
+      "correct": [
+        "runs"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Anna ____ (read) a book.",
+      "correct": [
+        "reads"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Dad ____ (drive) a car.",
+      "correct": [
+        "drives"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The baby ____ (sleep).",
+      "correct": [
+        "sleeps"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Tom ____ (try) to help.",
+      "correct": [
+        "tries"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "My sister ____ (make) a cake.",
+      "correct": [
+        "makes"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "He ____ (wash) the car.",
+      "correct": [
+        "washes"
+      ],
+      "wrong": []
+    }
+  ]
+}
