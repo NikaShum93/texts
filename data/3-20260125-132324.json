@@ -1,0 +1,85 @@
+{
+  "language": "ru",
+  "font": "Cormorant",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 2,
+  "style": {
+    "shape": "rounded",
+    "pad": 2,
+    "bgColor": "#47a0cd",
+    "bgImages": [
+      "https://img.genially.com/68e8baf3a1432a001f894ae7/7dcda7c2-ec8e-4999-806d-e4afbe7fc892.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#001299",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 80
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Устный счет",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Отличная работа!",
+  "levels": [
+    {
+      "target": "3",
+      "correct": [
+        "2+1",
+        "1+2",
+        "0+3",
+        "3+0"
+      ],
+      "wrong": [
+        "1+4",
+        "4+1",
+        "2+2",
+        "3+1"
+      ],
+      "timer": 60
+    },
+    {
+      "target": "4",
+      "correct": [
+        "2+2",
+        "3+1",
+        "1+3",
+        "0+4",
+        "4+0"
+      ],
+      "wrong": [
+        "2+3",
+        "3+2",
+        "1+2",
+        "5+1"
+      ],
+      "timer": 60
+    },
+    {
+      "target": "5",
+      "correct": [
+        "3+2",
+        "2+3",
+        "4+1",
+        "1+4",
+        "0+5"
+      ],
+      "wrong": [
+        "2+2",
+        "1+5",
+        "3+1",
+        "5+1",
+        "4+2"
+      ],
+      "timer": 60
+    }
+  ]
+}
