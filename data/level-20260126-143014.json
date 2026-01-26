@@ -1,0 +1,52 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "style": {
+    "shape": "rounded",
+    "pad": 4,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/vZj2b4Hc/1.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 110
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "",
+    "btnText": "ЛОВИ СНЕЖИНКИ"
+  },
+  "direction": "down",
+  "finalFeedback": "МОЛОДЕЦ!",
+  "levels": [
+    {
+      "target": "Поймай снежинки со звуком [Ш]",
+      "correct": [
+        "https://i.postimg.cc/NjsZLMVw/1.png",
+        "https://i.postimg.cc/t4q87Tfs/10.png",
+        "https://i.postimg.cc/P5X0NxcP/11.png",
+        "https://i.postimg.cc/BnSRt6y0/2.png",
+        "https://i.postimg.cc/JzrStng8/3.png",
+        "https://i.postimg.cc/0ykhrQ39/4.png",
+        "https://i.postimg.cc/zGz43BMD/5.png",
+        "https://i.postimg.cc/K8GC4zVv/6.png",
+        "https://i.postimg.cc/HkYFjxKk/7.png",
+        "https://i.postimg.cc/XYjtXJhq/8.png",
+        "https://i.postimg.cc/dVsgD1XD/9.png"
+      ],
+      "wrong": [],
+      "timer": 149
+    }
+  ]
+}
