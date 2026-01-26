@@ -1,0 +1,53 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 2,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 0,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Буква Ж",
+    "btnText": ""
+  },
+  "direction": "up",
+  "finalFeedback": "",
+  "levels": [
+    {
+      "target": "с буквой Ж",
+      "correct": [
+        "https://i.postimg.cc/15M9YtdV/1.png",
+        "https://i.postimg.cc/cLHsqWqf/3.png",
+        "https://i.postimg.cc/pLT2NvNz/4.png",
+        "https://i.postimg.cc/2S6zpYpv/5.png",
+        "https://i.postimg.cc/L8XHdSdP/6.png",
+        "https://i.postimg.cc/pLT2NvNk/7.png",
+        "https://i.postimg.cc/P5xtGHG4/8.png"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/wjv6KzKf/10.png",
+        "https://i.postimg.cc/y8b7sGBv/11.png",
+        "https://i.postimg.cc/bwBqp585/12.png",
+        "https://i.postimg.cc/9QncCkVg/13.png",
+        "https://i.postimg.cc/g2TGm7d5/14.png",
+        "https://i.postimg.cc/DwZ2VhV6/9.png"
+      ],
+      "timer": 60
+    }
+  ]
+}
