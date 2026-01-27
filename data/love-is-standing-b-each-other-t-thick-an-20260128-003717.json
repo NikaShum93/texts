@@ -1,0 +1,187 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 50,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/656427f3b4e82f0019d59fb5/16236171-3cd1-4127-903c-6ccf51c2abab.gif",
+    "bubbleSize": 50,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    }
+  },
+  "finalFeedback": "🎉 I love you! Switch on the lights and look around!",
+  "feedbackImage": "https://img.genially.com/656427f3b4e82f0019d59fb5/4b72dc96-783c-4bc1-9a08-d7798ff4b97c.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Love is standing b_ each other t_ _ _ _ _ _ thick and thin.",
+      "correct": [
+        "by",
+        "through"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Love is holding on t_ hope when everything else falls a_ _ _ _.",
+      "correct": [
+        "to",
+        "apart"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Love is growing t_ _ _ _ _ _ _ over time, not just side b_ side.",
+      "correct": [
+        "together",
+        "by"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Love is letting go of pride f_ _ the sake of peace.",
+      "correct": [
+        "for"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Love is showing u_ for someone even when it’s inconvenient.",
+      "correct": [
+        "up"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Love is believing i_ someone long before they believe i_ themselves.",
+      "correct": [
+        "in",
+        "in"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Love is listening w_ _ _ _ _ _ jumping to conclusions.",
+      "correct": [
+        "without"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Love is forgiving someone f_ _ the same mistake more than once.",
+      "correct": [
+        "for"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Love is building a life a_ _ _ _ _ shared dreams, not just shared space.",
+      "correct": [
+        "around"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Love is staying calm during arguments i_ _ _ _ _ _ of winning them.",
+      "correct": [
+        "instead"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Love is caring a_ _ _ _ the little things that matter t_ your partner.",
+      "correct": [
+        "about",
+        "to"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Love is being honest w_ _ _ the partner, even when the truth is hard to hear.",
+      "correct": [
+        "with"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Love is giving someone room to grow without pulling them b_ _ _.",
+      "correct": [
+        "back"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Love is remembering the good days d_ _ _ _ _ the worst ones.",
+      "correct": [
+        "during"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Love is choosing patience o_ _ _ reaction, again and again.",
+      "correct": [
+        "over"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Love is supporting someone’s goals, even if they don’t align w_ _ _ yours.",
+      "correct": [
+        "with"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Love is staying loyal d_ _ _ _ _ _ temptation or distance.",
+      "correct": [
+        "despite"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Love is finding joy i_ ordinary moments spent together.",
+      "correct": [
+        "in"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Love is carrying each other’s burdens w_ _ _ _ _ _ being asked.",
+      "correct": [
+        "without"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Love is still loving someone who’s passed a_ _ _ — but never really left your heart.",
+      "correct": [
+        "away"
+      ],
+      "wrong": []
+    }
+  ]
+}
