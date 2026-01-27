@@ -1,0 +1,92 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Fredoka",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 90,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/684ea2da1b51060014c50e97/fcb73711-1eda-42c9-bf22-891eee8146a8.png",
+    "bubbleSize": 90,
+    "task": {
+      "bgColor": "rgba(240,165,36,1)",
+      "borderColor": "#ffffff",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": false
+    },
+    "feedback": {
+      "bgColor": "#ffbb00",
+      "borderColor": "#fcfcfc",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    }
+  },
+  "finalFeedback": "Ура! Поздравляю!",
+  "feedbackImage": "https://img.genially.com/684ea2da1b51060014c50e97/766880d6-d5dc-4ce0-8eeb-a6c908cc665a.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "в глубок_й канав_",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "в дремуч_м лесу",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "к стар_й беседк_",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "на мокр_м песк_",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "от весен____ дождя",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "перед зимн_й стуж_й",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "из сладк_й клюквы",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "для лучш____ друга",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "в зимн_й вечер",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "по зелён_му полю",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
