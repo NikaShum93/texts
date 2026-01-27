@@ -1,0 +1,62 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 4,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/vZj2b4Hc/1.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 110
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "СНЕГОПАД",
+    "btnText": "начать"
+  },
+  "direction": "down",
+  "finalFeedback": "",
+  "levels": [
+    {
+      "target": "поймай снежинки со звуком Ш",
+      "correct": [
+        "https://i.postimg.cc/NjbbBdDx/1.png",
+        "https://i.postimg.cc/vZXXb0XG/10.png",
+        "https://i.postimg.cc/fR55D85z/11.png",
+        "https://i.postimg.cc/K8QQx0fN/2.png",
+        "https://i.postimg.cc/NjbbBdDp/3.png",
+        "https://i.postimg.cc/BnNN4mpp/4.png",
+        "https://i.postimg.cc/XYxx4sLD/5.png",
+        "https://i.postimg.cc/fR55D8Cp/6.png",
+        "https://i.postimg.cc/kgwwqTsL/7.png",
+        "https://i.postimg.cc/7ZXXwKX8/8.png",
+        "https://i.postimg.cc/vZXXb0Xw/9.png"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/4df8prdR/(22).png",
+        "https://i.postimg.cc/85pyLqCq/(23).png",
+        "https://i.postimg.cc/nzFdq6z8/(24).png",
+        "https://i.postimg.cc/JnrTj9hf/(25).png",
+        "https://i.postimg.cc/0Qkt7LQs/(4).png",
+        "https://i.postimg.cc/nzFdq6zx/(4).png",
+        "https://i.postimg.cc/k4JjWk43/(49).png",
+        "https://i.postimg.cc/yd1f0wds/image.png",
+        "https://i.postimg.cc/V6KKgDr9/(1).png"
+      ],
+      "timer": 60
+    }
+  ]
+}
