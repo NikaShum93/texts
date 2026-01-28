@@ -1,0 +1,102 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Fredoka",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/fk4hxjjG/2.png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(188,19,254,1)",
+      "borderColor": "#a982f2",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#bc39fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    }
+  },
+  "finalFeedback": "🎉 Amazing!",
+  "feedbackImage": "",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Dipper ______ got a blue hat.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Mabel ______ got a colorful sweater.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Grunkle Stan ______ got a mystery shop.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Wendy ______ got red hair.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Soos ______ got a big smile.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Bill Cipher ______ got one eye.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Dipper and Mabel ______ got a strange journal.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The twins ______ got many adventures.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They ______ got a big secret.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The kids ______ got a map.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Tourists ______ got cameras.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "People in Gravity Falls ______ got many secrets.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
