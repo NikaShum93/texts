@@ -1,0 +1,87 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Bangers",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/hPtJMN7v/w.png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(249,46,150,0.8)",
+      "borderColor": "#b938fa",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#fb58c0",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    }
+  },
+  "finalFeedback": "Good job!",
+  "feedbackImage": "",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "This is Mike. I meet ___ at the bus stop every morning.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She always helps me with ___ homework.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My dog follows me everywhere. ___ is very friendly.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I love my grandparents. We visit ___ every Sunday.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "John calls Mary every day. He usually calls ___ after school.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Mia and Sue are students. The teacher often asks ___ questions.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My mom loves when I tidy up ___ room.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I really like them, ___ are very kind.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Sonya is my cat. ___ always sleeps next to me on the sofa.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
