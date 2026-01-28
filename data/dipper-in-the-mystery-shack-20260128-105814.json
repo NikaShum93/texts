@@ -1,0 +1,102 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/sx6fFhz3/photo-2026-01-28-10-49-06.jpg",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(115,201,69,0.85)",
+      "borderColor": "#fefb21",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#ccfa00",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Dipper ______ in the Mystery Shack.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Mabel ______ very happy yesterday.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Grunkle Stan ______ at the shop in the morning.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Bill Cipher ______ very dangerous.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The twins ______ in the forest last night.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Dipper and Mabel ______ scared.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The journals ______ on the table.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The tourists ______ in Gravity Falls last summer.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Wendy ______ at work yesterday.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Soos ______ very kind.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The kids ______ tired after the adventure.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The secrets ______ everywhere in the town.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
