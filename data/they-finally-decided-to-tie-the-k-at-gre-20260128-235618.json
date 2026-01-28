@@ -1,0 +1,98 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Patrick Hand",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 70,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/656427f3b4e82f0019d59fb5/8f7fd066-6fc3-424e-9d06-0217bed3940d.gif",
+    "bubbleSize": 70,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    }
+  },
+  "finalFeedback": "🎉 Grab the red teddy!",
+  "feedbackImage": "https://img.genially.com/656427f3b4e82f0019d59fb5/01029a09-8896-4f62-8d96-4c6df728cbab.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "They finally decided to tie the k_ _ _ at Gretna Green.",
+      "correct": [
+        "knot"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "It wasn’t love at first s_ _ _ _ — but something deeper: recognition, like two puzzle pieces clicking into place.",
+      "correct": [
+        "sight"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Finding each other in a village of 300 people? It felt m_ _ _ _ to be.",
+      "correct": [
+        "meant"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Their vows weren’t just poetry — they promised to stand by each other through thick and t_ _ _.",
+      "correct": [
+        "thin"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "By the second sunset, Liam was head over h_ _ _ _ — and didn’t even care how cliché it sounded.",
+      "correct": [
+        "heels"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Ella always wore her h_ _ _ _ on her sleeve — especially when she talked about Gretna Green legends.",
+      "correct": [
+        "heart"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "When they kissed over the anvil, they sealed their f_ _ _ — not with words, but with silence.",
+      "correct": [
+        "fate"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "They didn’t follow tradition — they wrote their own love s_ _ _ _, one sunset at a time.",
+      "correct": [
+        "story"
+      ],
+      "wrong": []
+    }
+  ]
+}
