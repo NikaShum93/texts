@@ -1,0 +1,96 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/T1bVPgdc/4.png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(79,172,254,0.75)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#03d9ff",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 2,
+  "tasks": [
+    {
+      "question": "We are on holiday. You ___ get up early this week.",
+      "correct": [
+        "don't have to"
+      ],
+      "wrong": [
+        "have to"
+      ]
+    },
+    {
+      "question": "I can't go to the park. I ___ help my mum with the chores.",
+      "correct": [
+        "have to"
+      ],
+      "wrong": [
+        "don't have to"
+      ]
+    },
+    {
+      "question": "Mike ___ walk to school. He can take the school bus.",
+      "correct": [
+        "doesn't have to"
+      ],
+      "wrong": [
+        "has to"
+      ]
+    },
+    {
+      "question": "We ___ write a text on Yuri Gagarin. Where can I find some information?",
+      "correct": [
+        "have to"
+      ],
+      "wrong": [
+        "don't have to"
+      ]
+    },
+    {
+      "question": "They ___ come with us. They can stay at home.",
+      "correct": [
+        "don't have to"
+      ],
+      "wrong": [
+        "have to"
+      ]
+    },
+    {
+      "question": "I ___ leave now. I've got a piano lesson.",
+      "correct": [
+        "have to"
+      ],
+      "wrong": [
+        "don't have to"
+      ]
+    }
+  ]
+}
