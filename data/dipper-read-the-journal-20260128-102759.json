@@ -1,0 +1,112 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/htWdGkxC/1.png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(254,48,154,1)",
+      "borderColor": "#e838f5",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#fe309a",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Dipper _____ (read) the journal.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Mabel ____ (wear) a colorful sweater.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Soos ______ (work) in the Mystery Shack.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The twins _____ (look) for clues.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Dipper and Mabel bel ____(watch) TV.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Dipper _____ (not/sleep) now.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Grunkle Stan ____ (not/tell) the truth.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Wendy ____ (not/help) at the shop right now.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The tourists _____ (not/take) photos today.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "hotos today.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "_____ Dipper _______ (write) in the journal?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "______ Mabel _______ (make) a new sweater?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "_____ the kids _______ (have) fun in Gravity Falls?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "_____ the kids ______ (play) near the Mystery Shack?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
