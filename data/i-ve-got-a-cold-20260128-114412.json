@@ -1,0 +1,77 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/yYyywhkF/Dizai-n-bez-nazvania-(4).png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(251,88,192,0.6)",
+      "borderColor": "#b938fa",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#03d9ff",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "I've got a cold.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I've got a headache.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I've got a stomachache.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I've got a toothache.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My arm hurts.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My leg hurts.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My back hurts.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
