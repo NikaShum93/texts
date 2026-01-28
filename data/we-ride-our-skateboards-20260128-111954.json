@@ -1,0 +1,87 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/MTN0xdS1/3.png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(254,48,154,0.8)",
+      "borderColor": "#5655ff",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#c8fa00",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    }
+  },
+  "finalFeedback": "🎉 Great job!",
+  "feedbackImage": "",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 2,
+  "tasks": [
+    {
+      "question": "We ___ ride our skateboards.",
+      "correct": [
+        "mustn't"
+      ],
+      "wrong": [
+        "must"
+      ]
+    },
+    {
+      "question": "We ___ pick flowers.",
+      "correct": [
+        "mustn't"
+      ],
+      "wrong": [
+        "must"
+      ]
+    },
+    {
+      "question": "We ___ keep off the grass.",
+      "correct": [
+        "must"
+      ],
+      "wrong": [
+        "mustn't"
+      ]
+    },
+    {
+      "question": "We ___ drop litter.",
+      "correct": [
+        "mustn't"
+      ],
+      "wrong": [
+        "must"
+      ]
+    },
+    {
+      "question": "We ___ keep our dogs on a lead.",
+      "correct": [
+        "must"
+      ],
+      "wrong": [
+        "mustn't"
+      ]
+    }
+  ]
+}
