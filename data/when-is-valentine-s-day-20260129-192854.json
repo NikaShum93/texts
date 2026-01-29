@@ -1,0 +1,102 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Fredoka",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 150,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/5e7dfe50a2d3eb0fbde37fb5/eb0577f7-6ca0-4df3-bd24-956f2f40f561.png",
+    "bubbleSize": 150,
+    "task": {
+      "bgColor": "rgba(242,177,180,1)",
+      "borderColor": "#b40404",
+      "textColor": "#890101",
+      "fontSize": 30,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#f99f9f",
+      "borderColor": "#980101",
+      "textColor": "#ec3232",
+      "fontSize": 30,
+      "neon": true
+    }
+  },
+  "finalFeedback": "Well Done!",
+  "feedbackImage": "https://ai-image.genially.com/6579cd1f2ed98a001453…da9ee3bfa30014d0b56f/69706f158f0af1a65055be65.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "When is Valentine’s Day?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do you like the color red? Why? / Why not?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What are some good Valentine’s Day gifts to give to people?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Is love more important than money? Why? / Why not?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Is friendship important? Why? / Why not?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What is the difference between “like” and “love”?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Can animals fall in love?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
