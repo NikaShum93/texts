@@ -1,0 +1,92 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Mountains of Christmas",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 78,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/Eavb48su9zcAAAAi/cash-money.gif",
+    "bubbleSize": 78,
+    "task": {
+      "bgColor": "rgba(248,255,245,1)",
+      "borderColor": "#2bff00",
+      "textColor": "#0b5b18",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#163a09",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    }
+  },
+  "finalFeedback": "You will be rich! Yay!",
+  "feedbackImage": "https://media.tenor.com/Eavb48su9zcAAAAi/cash-money.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "When was the last time you splashed out on a new console or a Collector's Edition? What did you buy?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "How much did you fork out on in-game skins or Battle Passes last month?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Have you ever felt like a game studio ripped you off with a buggy release? What happened?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do you find it hard to save up for a new GPU? Are you saving up for any upcoming releases at the moment?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Have you ever lent a friend some in-game currency or a physical disk and they haven't paid you back?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "When buying a pro gaming chair, do you usually pay in full, or put down a deposit and pay it off slowly?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "When was the last time you and your friends chipped in to buy a private server or a gift for a teammate?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What sites or stores do you normally shop around for when looking for the best game discounts?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What are some ways to avoid running up debts on your parents' credit card with microtransactions?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Are you trying to cut back on buying too many indie games on Steam sales at the moment?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
