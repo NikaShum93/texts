@@ -1,0 +1,92 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 140,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/W49vTnjK/Dizai-n-bez-nazvania-(7).png",
+    "bubbleSize": 140,
+    "task": {
+      "bgColor": "rgba(61,80,97,0.65)",
+      "borderColor": "#ffffff",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e72378",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/wBjCfmLY/Dizai-n-bez-nazvania-(8).png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "I ___ at home yesterday.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She ___ very happy after the exam.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "It ___ cold last night.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My brother ___ late for school.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The movie ___ interesting.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We ___ in the park on Sunday.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They ___ tired after work.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "You ___ very kind to me.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The children ___ in the classroom.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My parents ___ at the supermarket.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
