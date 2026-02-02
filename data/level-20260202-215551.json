@@ -1,0 +1,87 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 25,
+  "textColor": "#ffffff",
+  "speed": 4,
+  "questionFont": "PT Sans",
+  "questionFontSize": 30,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/62728927e0105b0018763bee/adc04fd5-71b6-4e01-97b4-34ae6f8f7df5.png",
+    "bgImages": [
+      "https://img.genially.com/62728927e0105b0018763bee/adc04fd5-71b6-4e01-97b4-34ae6f8f7df5.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 180
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Магическая химия",
+    "btnText": "Похимичим!"
+  },
+  "direction": "random",
+  "finalFeedback": "Молодец! Следующая цифра 8.",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "В каком состоянии находится вода, если она превратилась в лед?",
+      "correct": [
+        "твердое"
+      ],
+      "wrong": [
+        "жидкое",
+        "газообразное"
+      ]
+    },
+    {
+      "target": "Почему железный гвоздь тонет в воде, а огромный деревянный корабль — нет?",
+      "correct": [
+        "Тяжелее воды"
+      ],
+      "wrong": [
+        "Корабль умеет плавать",
+        "корабль привязан"
+      ]
+    },
+    {
+      "target": "Что притягивает к себе железные предметы?",
+      "correct": [
+        "магнит"
+      ],
+      "wrong": [
+        "батарейка",
+        "зеркало"
+      ]
+    },
+    {
+      "target": "Из чего состоят облака на самом деле?",
+      "correct": [
+        "капли воды"
+      ],
+      "wrong": [
+        "вата",
+        "пух"
+      ]
+    },
+    {
+      "target": "Какой газ мы вдыхаем из воздуха, чтобы жить?",
+      "correct": [
+        "кислород"
+      ],
+      "wrong": [
+        "углекислый",
+        "азот"
+      ]
+    }
+  ]
+}
