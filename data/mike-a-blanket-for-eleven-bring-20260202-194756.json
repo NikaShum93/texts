@@ -1,0 +1,112 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Mountains of Christmas",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 158,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/3ea30f9b-a37b-4f26-a4ca-c0264c268137.png",
+    "bubbleSize": 158,
+    "task": {
+      "bgColor": "rgba(134,14,56,0.7)",
+      "borderColor": "#ff0000",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e72323",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Mike ____ a blanket for Eleven. (bring)",
+      "correct": [
+        "brought"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Dustin ____ a strange creature in his trash can. (catch)",
+      "correct": [
+        "caught"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "That new walkie-talkie ____ twenty dollars. (cost)",
+      "correct": [
+        "cost"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Will ____ his bicycle in the woods. (lose)",
+      "correct": [
+        "lost"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Mike ____ Eleven a secret. (tell)",
+      "correct": [
+        "told"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Eleven ____ a bus to find her mother. (take)",
+      "correct": [
+        "took"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Lucas ____ a new slingshot for the fight. (get)",
+      "correct": [
+        "got"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Joyce ____ Christmas lights for her house. (buy)",
+      "correct": [
+        "bought"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Hopper ____ his cat every morning. (feed)",
+      "correct": [
+        "fed"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The kids ____ the bullies at the school. (fight)",
+      "correct": [
+        "fought"
+      ],
+      "wrong": []
+    }
+  ]
+}
