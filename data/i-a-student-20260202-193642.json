@@ -1,0 +1,142 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Creepster",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/4bff966a-1cb6-4829-a307-a31ce740c77c.png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(72,122,91,0.8)",
+      "borderColor": "#00ff1e",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e723d6",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    }
+  },
+  "finalFeedback": "🎉 Amazing!",
+  "feedbackImage": "https://img.genially.com/69280f411dd3350008276459/4bff966a-1cb6-4829-a307-a31ce740c77c.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 3,
+  "tasks": [
+    {
+      "question": "I ___ a student.",
+      "correct": [
+        "am"
+      ],
+      "wrong": [
+        "is",
+        "are"
+      ]
+    },
+    {
+      "question": "She ___ my best friend.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "am",
+        "are"
+      ]
+    },
+    {
+      "question": "They ___ from Spain.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "is",
+        "am"
+      ]
+    },
+    {
+      "question": "He ___ very tall.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "am",
+        "are"
+      ]
+    },
+    {
+      "question": "We ___ happy today.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "is",
+        "am"
+      ]
+    },
+    {
+      "question": "It ___ cold outside.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "am",
+        "are"
+      ]
+    },
+    {
+      "question": "You ___ my teacher.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "is",
+        "am"
+      ]
+    },
+    {
+      "question": "My brother ___ 10 years old.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "am",
+        "are"
+      ]
+    },
+    {
+      "question": "The cats ___ in the garden.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "am",
+        "is"
+      ]
+    },
+    {
+      "question": "I ___ not tired.",
+      "correct": [
+        "am"
+      ],
+      "wrong": [
+        "is",
+        "are"
+      ]
+    }
+  ]
+}
