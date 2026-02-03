@@ -1,0 +1,167 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/3ea30f9b-a37b-4f26-a4ca-c0264c268137.png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(114,14,3,0.6)",
+      "borderColor": "#ff0000",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#ff0000",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://img.genially.com/69280f411dd3350008276459/3ea30f9b-a37b-4f26-a4ca-c0264c268137.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 3,
+  "tasks": [
+    {
+      "question": "If Eleven (use) too much of her psychic energy, she (become) extremely exhausted.",
+      "correct": [
+        "uses / will become"
+      ],
+      "wrong": [
+        "will use / will become",
+        "would use / became"
+      ]
+    },
+    {
+      "question": "",
+      "correct": [
+        "didn't follow / wouldn't find"
+      ],
+      "wrong": [
+        "won't follow / don't find",
+        "won't follow / won't find"
+      ]
+    },
+    {
+      "question": "If the kids (not follow) the compass, they (not find) the gate to the Upside Down.",
+      "correct": [
+        "translates / will understand"
+      ],
+      "wrong": [
+        "translate / would understand",
+        "translated / understood"
+      ]
+    },
+    {
+      "question": "",
+      "correct": [
+        "lived / would never ride"
+      ],
+      "wrong": [
+        "live / will never ride",
+        "had lived / would have never ridden"
+      ]
+    },
+    {
+      "question": "If Murray (translate) the Russian code correctly, Hopper and Joyce (understand) the plan.",
+      "correct": [
+        "didn't care / wouldn't risk"
+      ],
+      "wrong": [
+        "doesn't care / won't risk",
+        "hadn't cared / wouldn't have risked"
+      ]
+    },
+    {
+      "question": "",
+      "correct": [
+        "had / would probably use"
+      ],
+      "wrong": [
+        "has / will probably use",
+        "had / used"
+      ]
+    },
+    {
+      "question": "",
+      "correct": [
+        "were / would understand"
+      ],
+      "wrong": [
+        "had been / would have understood",
+        "is / will understand"
+      ]
+    },
+    {
+      "question": "If I (live) in Hawkins, I (never ride) my bike alone at night, but thankfully I live in a safe city.",
+      "correct": [
+        "took / would meet"
+      ],
+      "wrong": [
+        "took / met",
+        "would take / met"
+      ]
+    },
+    {
+      "question": "",
+      "correct": [
+        "hadn't stopped / would have escaped"
+      ],
+      "wrong": [
+        "didn't stop / would escape",
+        "hasn't stopped / will escape"
+      ]
+    },
+    {
+      "question": "If Steve (not care) about the kids, he (not risk) his life to protect them, but we all know he is actually a great babysitter.",
+      "correct": [
+        "hadn't sacrificed / would have killed"
+      ],
+      "wrong": [
+        "didn't sacrifice / would kill",
+        "hadn't sacrificed / would had killed"
+      ]
+    },
+    {
+      "question": "If Dustin (have) superpowers like El, he (probably use) them to get free chocolate pudding, but unfortunately, he has to rely on his brain instead.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "If the Mind Flayer (be) human, it (understand) the concept of mercy, but since it is a monster from another dimension, it only wants to destroy.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "If Will (take) the shortcut home, he (meet) the Demogorgon.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "If Bob (not stop) to look at Joyce, he (escape) the laboratory alive.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "If Billy (not sacrifice) himself, the monster (kill) El in the shopping mall.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
