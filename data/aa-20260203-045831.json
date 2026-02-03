@@ -1,0 +1,78 @@
+{
+  "language": "en",
+  "font": "Playfair Display",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 2,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [],
+    "bgImage": "",
+    "borderOn": true,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": true,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Let's read!",
+    "btnText": "Start!"
+  },
+  "direction": "down",
+  "finalFeedback": "Good job!",
+  "levels": [
+    {
+      "target": "Aa",
+      "correct": [
+        "at",
+        "an",
+        "as",
+        "ap",
+        "pa",
+        "sa",
+        "ta",
+        "na"
+      ],
+      "wrong": [
+        "in",
+        "no",
+        "r",
+        "gi",
+        "po",
+        "to",
+        "so"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "Ii",
+      "correct": [
+        "in",
+        "ip",
+        "is",
+        "it",
+        "ti",
+        "si",
+        "pi",
+        "ni"
+      ],
+      "wrong": [
+        "as",
+        "na",
+        "no",
+        "on",
+        "so",
+        "na",
+        "an"
+      ],
+      "timer": 30
+    }
+  ]
+}
