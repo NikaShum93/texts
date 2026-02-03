@@ -1,0 +1,92 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/7ecd11b3-6e3c-49d8-8483-ba4ca5665a01.png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(151,29,195,1)",
+      "borderColor": "#e100ff",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#c623e7",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    }
+  },
+  "finalFeedback": "🎉 Perfect!",
+  "feedbackImage": "",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Wednesday (play) _______ the cello. She loves music.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Enid (not / wear) _______ black clothes. She likes pink.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Thing (help) _______ Wednesday. He is a good friend.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The students (not / go) _______ to a normal school. Nevermore is special.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Xavier (draw) _______ a picture in his book.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Tyler (not / work) _______ in a shop. He works in a cafe.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Wednesday (not / smile) _______ at the party. She is very serious.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Eugene (look) _______ at his bees.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Bianca (swim) _______ in the water. She is a siren.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Pugsley (not / visit) _______ the school today. He is at home.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
