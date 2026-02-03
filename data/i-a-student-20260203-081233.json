@@ -1,0 +1,142 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/3331cf95-bdf6-4586-a05b-3914e0d02b47.png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(255,139,77,0.65)",
+      "borderColor": "#ffc800",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 3,
+  "tasks": [
+    {
+      "question": "I ____ a student.",
+      "correct": [
+        "am"
+      ],
+      "wrong": [
+        "is",
+        "are"
+      ]
+    },
+    {
+      "question": "He ____ my friend.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "am",
+        "are"
+      ]
+    },
+    {
+      "question": "She ____ at home.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "am",
+        "are"
+      ]
+    },
+    {
+      "question": "It ____ a big cat.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "am",
+        "are"
+      ]
+    },
+    {
+      "question": "We ____ in the park.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "am",
+        "is"
+      ]
+    },
+    {
+      "question": "You ____ clever.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "am",
+        "is"
+      ]
+    },
+    {
+      "question": "They ____ happy.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "am",
+        "is"
+      ]
+    },
+    {
+      "question": "The book ____ on the desk.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "am",
+        "are"
+      ]
+    },
+    {
+      "question": "My toys ____ in the box.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "am",
+        "is"
+      ]
+    },
+    {
+      "question": "The sky ____ blue.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "am",
+        "are"
+      ]
+    }
+  ]
+}
