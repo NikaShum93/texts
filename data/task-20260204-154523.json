@@ -1,0 +1,75 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Neucha",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 66,
+  "sounds": {
+    "pop": "<!--dle_audio_begin:https://zvukipro.com/uploads/files/2019-08/1565951409_1539613136_8bit-synth-synth-bubble.mp3-->",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/66163aeabaa20300158fc6a8/8ae891e3-dcf7-467f-84db-1ba1eeb0d8aa.png",
+    "bubbleSize": 66,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 20,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#fff714",
+      "textColor": "#ffffff",
+      "fontSize": 20,
+      "neon": true
+    }
+  },
+  "finalFeedback": "🎉Отличная работа!",
+  "feedbackImage": "https://media.tenor.com/EU2KDaTpQU4AAAAi/waytogo-awesome.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Как зовут кошку?",
+      "correct": [
+        "Сима"
+      ],
+      "wrong": [
+        "Барсик",
+        "Килька",
+        "Шпунька"
+      ]
+    },
+    {
+      "question": "Как зовут мужа?",
+      "correct": [
+        "Илья"
+      ],
+      "wrong": [
+        "Киляяя",
+        "Винтик",
+        "Бармолей"
+      ]
+    },
+    {
+      "question": "Как зовут меня?",
+      "correct": [
+        "Настя"
+      ],
+      "wrong": [
+        "Хастик",
+        "Рома",
+        "Терминатор"
+      ]
+    }
+  ]
+}
