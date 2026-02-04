@@ -1,0 +1,56 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 2,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [],
+    "bgImage": "",
+    "borderOn": true,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": true,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 0,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "",
+    "btnText": ""
+  },
+  "direction": "up",
+  "finalFeedback": "",
+  "levels": [
+    {
+      "target": "йогурты с буквой Й",
+      "correct": [
+        "https://i.postimg.cc/t4k2RC3W/(2).png",
+        "https://i.postimg.cc/433wYkPb/(3).png",
+        "https://i.postimg.cc/s22KMdmP/(4).png",
+        "https://i.postimg.cc/zffpyZ7F/(5).png",
+        "https://i.postimg.cc/fbb5VnCv/(6).png",
+        "https://i.postimg.cc/fbb5VnCF/(7).png",
+        "https://i.postimg.cc/433wYkPD/(8).png",
+        "https://i.postimg.cc/W3Fn7GQk/image.png"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/W44SdLSc/(10).png",
+        "https://i.postimg.cc/ZqqjWtjJ/(11).png",
+        "https://i.postimg.cc/5tkgv7kf/(12).png",
+        "https://i.postimg.cc/9fNbT8NV/(13).png",
+        "https://i.postimg.cc/CK67DP6x/(14).png",
+        "https://i.postimg.cc/g0BsRSBw/(15).png",
+        "https://i.postimg.cc/ZqDH37D8/(16).png",
+        "https://i.postimg.cc/KYYQ1SQX/(9).png"
+      ],
+      "timer": 60
+    }
+  ]
+}
