@@ -1,0 +1,222 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Mountains of Christmas",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/64233afb55129a0017751c8e/0e1a6186-dbb9-4834-88ef-cd1cc2ed5aa0.png",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(212,247,238,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#1ea9b3",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#dbdbff",
+      "borderColor": "#e67e22",
+      "textColor": "#9c00f0",
+      "fontSize": 22,
+      "neon": true
+    }
+  },
+  "finalFeedback": "Thank you! Now I'm free!",
+  "feedbackImage": "https://img.genially.com/64233afb55129a0017751c8e/0e1a6186-dbb9-4834-88ef-cd1cc2ed5aa0.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 2,
+  "tasks": [
+    {
+      "question": "stop",
+      "correct": [
+        "stopped"
+      ],
+      "wrong": [
+        "stoped"
+      ]
+    },
+    {
+      "question": "plan",
+      "correct": [
+        "planned"
+      ],
+      "wrong": [
+        "planed"
+      ]
+    },
+    {
+      "question": "drop",
+      "correct": [
+        "dropped"
+      ],
+      "wrong": [
+        "droped"
+      ]
+    },
+    {
+      "question": "shop",
+      "correct": [
+        "shopped"
+      ],
+      "wrong": [
+        "shoped"
+      ]
+    },
+    {
+      "question": "slip",
+      "correct": [
+        "slipped"
+      ],
+      "wrong": [
+        "sliped"
+      ]
+    },
+    {
+      "question": "grab",
+      "correct": [
+        "grabbed"
+      ],
+      "wrong": [
+        "grabed"
+      ]
+    },
+    {
+      "question": "hug",
+      "correct": [
+        "hugged"
+      ],
+      "wrong": [
+        "huged"
+      ]
+    },
+    {
+      "question": "rob",
+      "correct": [
+        "robbed"
+      ],
+      "wrong": [
+        "robed"
+      ]
+    },
+    {
+      "question": "beg",
+      "correct": [
+        "begged"
+      ],
+      "wrong": [
+        "beged"
+      ]
+    },
+    {
+      "question": "chat",
+      "correct": [
+        "chatted"
+      ],
+      "wrong": [
+        "chated"
+      ]
+    },
+    {
+      "question": "clap",
+      "correct": [
+        "clapped"
+      ],
+      "wrong": [
+        "claped"
+      ]
+    },
+    {
+      "question": "step",
+      "correct": [
+        "stepped"
+      ],
+      "wrong": [
+        "steped"
+      ]
+    },
+    {
+      "question": "skip",
+      "correct": [
+        "skipped"
+      ],
+      "wrong": [
+        "skiped"
+      ]
+    },
+    {
+      "question": "swim",
+      "correct": [
+        "swam"
+      ],
+      "wrong": [
+        "swimmed"
+      ]
+    },
+    {
+      "question": "run",
+      "correct": [
+        "ran"
+      ],
+      "wrong": [
+        "runned"
+      ]
+    },
+    {
+      "question": "sit",
+      "correct": [
+        "sat"
+      ],
+      "wrong": [
+        "sitted"
+      ]
+    },
+    {
+      "question": "get",
+      "correct": [
+        "got"
+      ],
+      "wrong": [
+        "getted"
+      ]
+    },
+    {
+      "question": "forget",
+      "correct": [
+        "forgot"
+      ],
+      "wrong": [
+        "forgetted"
+      ]
+    },
+    {
+      "question": "open",
+      "correct": [
+        "opened"
+      ],
+      "wrong": [
+        "openned"
+      ]
+    },
+    {
+      "question": "clean",
+      "correct": [
+        "cleaned"
+      ],
+      "wrong": [
+        "cleanned"
+      ]
+    }
+  ]
+}
