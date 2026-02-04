@@ -1,0 +1,50 @@
+{
+  "language": "ru",
+  "font": "Montserrat",
+  "fontSize": 20,
+  "textColor": "#000000",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#ffffff",
+    "bgImages": [
+      "https://i.postimg.cc/ncRkv3L3/blue-spring-flower-garden.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 0,
+    "imgBox": 190
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Поймай \"дополнительный\" предлог",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Супер!",
+  "levels": [
+    {
+      "target": "ббббб",
+      "correct": [
+        "ии",
+        "ттт",
+        "ттт",
+        "ллл"
+      ],
+      "wrong": [
+        "лл",
+        "ээ",
+        "ээ",
+        "хх"
+      ],
+      "timer": 60
+    }
+  ]
+}
