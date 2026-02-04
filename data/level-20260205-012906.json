@@ -1,0 +1,53 @@
+{
+  "language": "ru",
+  "font": "Montserrat",
+  "fontSize": 20,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 40,
+    "bgColor": "#ffffff",
+    "bgImages": [
+      "https://i.postimg.cc/ncRkv3L3/blue-spring-flower-garden.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 180
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Поймай \"дополнительный\" предлог",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Супер!",
+  "levels": [
+    {
+      "target": "предлоги, присоединяющие обособленное дополнение",
+      "correct": [
+        "кроме",
+        "вместо",
+        "помимо",
+        "включая",
+        "исключая",
+        "за исключением",
+        "наряду с",
+        "сверх"
+      ],
+      "wrong": [
+        "вопреки",
+        "несмотря на",
+        "невзирая на"
+      ],
+      "timer": 40
+    }
+  ]
+}
