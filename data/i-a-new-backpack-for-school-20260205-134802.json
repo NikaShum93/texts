@@ -1,0 +1,142 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Caveat",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/ZB9kXOjfhasAAAAi/cat-kitty.gif",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(255,77,240,1)",
+      "borderColor": "#bb00ff",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#7f4d89",
+      "borderColor": "#8e23e7",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://media.tenor.com/ZwYQ-8NwBIwAAAAi/cat-kitty.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "I _________ a new backpack for school.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She _________ two brothers and a sister.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We _________ a lot of homework today.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Tom _________ a dog and a cat.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They _________ a big house near the park.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My best friend _________ blue eyes.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "You _________ a very good idea!",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Anna _________ a bike, but she hasn’t got a helmet.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My parents _________ a small garden behind the house.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The baby _________ a toy in his hands.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I _________ a cold today.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "He _________ a new phone from his parents.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We _________ English lessons on Mondays.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My sister _________ long hair.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "You _________ a lot of friends at school.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The teacher _________ a loud voice.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They _________ enough money for the trip.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Mark _________ an interesting hobby.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Our class _________ a test tomorrow.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The dog _________ a long tail.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
