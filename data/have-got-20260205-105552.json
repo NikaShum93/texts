@@ -1,0 +1,59 @@
+{
+  "language": "en",
+  "font": "Poppins",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [],
+    "bgImage": "",
+    "borderOn": true,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#ff0088",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "",
+    "btnText": "Start"
+  },
+  "direction": "down",
+  "finalFeedback": "Good job!",
+  "levels": [
+    {
+      "target": "Have got",
+      "correct": [
+        "I _________ a new backpack for school.",
+        "She _________ two brothers and a sister.",
+        "We _________ a lot of homework today.",
+        "Tom _________ a dog and a cat.",
+        "They _________ a big house near the park.",
+        "My best friend _________ blue eyes.",
+        "You _________ a very good idea!",
+        "Anna _________ a bike, but she hasn’t got a helmet.",
+        "My parents _________ a small garden behind the house.",
+        "The baby _________ a toy in his hands.",
+        "I _________ a cold today.",
+        "He _________ a new phone from his parents.",
+        "We _________ English lessons on Mondays.",
+        "My sister _________ long hair.",
+        "You _________ a lot of friends at school.",
+        "The teacher _________ a loud voice.",
+        "They _________ enough money for the trip.",
+        "Mark _________ an interesting hobby.",
+        "Our class _________ a test tomorrow.",
+        "The dog _________ a long tail."
+      ],
+      "wrong": [],
+      "timer": 30
+    }
+  ]
+}
