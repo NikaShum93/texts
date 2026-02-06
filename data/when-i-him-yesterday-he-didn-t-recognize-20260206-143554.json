@@ -1,0 +1,178 @@
+{
+  "language": "en",
+  "font": "Montserrat",
+  "fontSize": 26,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "questionFont": "Montserrat",
+  "questionFontSize": 30,
+  "style": {
+    "shape": "rounded",
+    "pad": 50,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/Rhnfh9nv/1.png\nhttps://i.postimg.cc/0jJmjxJM/2.png",
+    "bgImages": [
+      "https://i.postimg.cc/Rhnfh9nv/1.png",
+      "https://i.postimg.cc/0jJmjxJM/2.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 150
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "IRREGULAR VERBS",
+    "btnText": "START"
+  },
+  "direction": "random",
+  "finalFeedback": "GREAT JOB",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "When I ___ him yesterday, he didn’t recognize me.",
+      "correct": [
+        "met"
+      ],
+      "wrong": [
+        "meet",
+        "have met"
+      ]
+    },
+    {
+      "target": "They ___ any mistakes in the test.",
+      "correct": [
+        "didn’t make"
+      ],
+      "wrong": [
+        "didn’t made",
+        "didn’t make"
+      ]
+    },
+    {
+      "target": "Where ___ you ___ the tickets?",
+      "correct": [
+        "did / buy"
+      ],
+      "wrong": [
+        "did / bought",
+        "do / buy"
+      ]
+    },
+    {
+      "target": "He ___ up late because his alarm didn’t ring.",
+      "correct": [
+        "got"
+      ],
+      "wrong": [
+        "get",
+        "getted"
+      ]
+    },
+    {
+      "target": "We ___ the bus, so we walked home.",
+      "correct": [
+        "missed"
+      ],
+      "wrong": [
+        "miss",
+        "have missed"
+      ]
+    },
+    {
+      "target": "She ___ me the truth only after I asked again.",
+      "correct": [
+        "told"
+      ],
+      "wrong": [
+        "tells",
+        "telled"
+      ]
+    },
+    {
+      "target": "I ___ understand the question at first.",
+      "correct": [
+        "didn’t"
+      ],
+      "wrong": [
+        "did",
+        "don't"
+      ]
+    },
+    {
+      "target": "He ___ to explain, but no one listened.",
+      "correct": [
+        "tried"
+      ],
+      "wrong": [
+        "trying",
+        "try"
+      ]
+    },
+    {
+      "target": "She ___ the answer, but she didn’t say anything.",
+      "correct": [
+        "knew"
+      ],
+      "wrong": [
+        "known",
+        "knows"
+      ]
+    },
+    {
+      "target": "We ___ why he was angry at that time.",
+      "correct": [
+        "didn’t understand"
+      ],
+      "wrong": [
+        "haven’t understood",
+        "don’t understand"
+      ]
+    },
+    {
+      "target": "How long ___ it ___ to finish the test?",
+      "correct": [
+        "did / take"
+      ],
+      "wrong": [
+        "does / take",
+        "did / took"
+      ]
+    },
+    {
+      "target": "He ___ very tired after the long trip.",
+      "correct": [
+        "felt"
+      ],
+      "wrong": [
+        "feel",
+        "feels"
+      ]
+    },
+    {
+      "target": "We ___ a taxi because the buses stopped running.",
+      "correct": [
+        "took"
+      ],
+      "wrong": [
+        "take",
+        "taked"
+      ]
+    },
+    {
+      "target": "She ___ the bag on the chair and sat down.",
+      "correct": [
+        "put"
+      ],
+      "wrong": [
+        "putted",
+        "has put"
+      ]
+    }
+  ]
+}
