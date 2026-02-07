@@ -1,0 +1,68 @@
+{
+  "language": "en",
+  "font": "Playfair Display",
+  "fontSize": 27,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "style": {
+    "shape": "circle",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [],
+    "bgImage": "",
+    "borderOn": true,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": true,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Alphabet Game!",
+    "btnText": "Start!"
+  },
+  "direction": "down",
+  "finalFeedback": "Good!",
+  "levels": [
+    {
+      "target": "Ss",
+      "correct": [
+        "Ss",
+        "Ss",
+        "Ss",
+        "Ss",
+        "Ss",
+        "Ss",
+        "Ss",
+        "Ss",
+        "Ss",
+        "Ss",
+        "Ss",
+        "Ss"
+      ],
+      "wrong": [
+        "Dd",
+        "Bb",
+        "Cc",
+        "Tt",
+        "Dd",
+        "Bb",
+        "Cc",
+        "Tt",
+        "Dd",
+        "Bb",
+        "Cc",
+        "Tt",
+        "Dd",
+        "Bb",
+        "Cc",
+        "Tt"
+      ],
+      "timer": 45
+    }
+  ]
+}
