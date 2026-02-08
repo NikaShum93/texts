@@ -1,0 +1,64 @@
+{
+  "language": "en",
+  "font": "Lobster",
+  "fontSize": 27,
+  "textColor": "#901e24",
+  "speed": 5,
+  "style": {
+    "shape": "circle",
+    "pad": 22,
+    "bgColor": "#e4dddd",
+    "bgImages": [],
+    "bgImage": "",
+    "borderOn": true,
+    "borderColor": "#d973a9",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": true,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Present Simple adverbs",
+    "btnText": "Start!"
+  },
+  "direction": "down",
+  "finalFeedback": "Well done!",
+  "levels": [
+    {
+      "target": "adverbs of frequency",
+      "correct": [
+        "usually",
+        "always",
+        "often",
+        "never",
+        "sometimes",
+        "usually",
+        "always",
+        "often",
+        "never",
+        "sometimes"
+      ],
+      "wrong": [
+        "now",
+        "yesterday",
+        "ago",
+        "today",
+        "right now",
+        "last month",
+        "tomorrow",
+        "now",
+        "yesterday",
+        "ago",
+        "today",
+        "right now",
+        "last month",
+        "tomorrow"
+      ],
+      "timer": 45
+    }
+  ]
+}
