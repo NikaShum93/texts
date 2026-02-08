@@ -1,0 +1,263 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Comfortaa",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 106,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://github.com/kgbgamelab/sounds/raw/refs/heads/main/festive-fanfare.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/cnC-YVSXNeAAAAAi/frugitofficial-frugit.gif",
+    "bubbleSize": 106,
+    "task": {
+      "bgColor": "rgba(255,189,215,0.8)",
+      "borderColor": "#fbff00",
+      "textColor": "#900985",
+      "fontSize": 24,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#ffffff",
+      "borderColor": "#fac400",
+      "textColor": "#b35000",
+      "fontSize": 24,
+      "neon": true,
+      "imageSize": 420
+    }
+  },
+  "finalFeedback": "Какой же ты молодец!",
+  "feedbackImage": "https://media.tenor.com/C-ZraRpWG2sAAAAi/cat-flowers.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Я иду к (мама).",
+      "correct": [
+        "маме"
+      ],
+      "wrong": [
+        "мама",
+        "маму",
+        "мамой"
+      ]
+    },
+    {
+      "question": "У меня нет (время).",
+      "correct": [
+        "времени"
+      ],
+      "wrong": [
+        "время",
+        "временем",
+        "времена"
+      ]
+    },
+    {
+      "question": "Мы говорили о (погода).",
+      "correct": [
+        "погоде"
+      ],
+      "wrong": [
+        "погода",
+        "погоду",
+        "погодой"
+      ]
+    },
+    {
+      "question": "Книга лежит на (стол).",
+      "correct": [
+        "столе"
+      ],
+      "wrong": [
+        "стол",
+        "стола",
+        "столу"
+      ]
+    },
+    {
+      "question": "Я вижу (собака).",
+      "correct": [
+        "собаку"
+      ],
+      "wrong": [
+        "собака",
+        "собаки",
+        "собакой"
+      ]
+    },
+    {
+      "question": "Подарок для (друг).",
+      "correct": [
+        "друга"
+      ],
+      "wrong": [
+        "другу",
+        "другом",
+        "друге"
+      ]
+    },
+    {
+      "question": "Я горжусь (брат).",
+      "correct": [
+        "братом"
+      ],
+      "wrong": [
+        "брат",
+        "брата",
+        "брате"
+      ]
+    },
+    {
+      "question": "Мы приехали из (город).",
+      "correct": [
+        "города"
+      ],
+      "wrong": [
+        "город",
+        "городу",
+        "городом"
+      ]
+    },
+    {
+      "question": "Учитель доволен (ученик).",
+      "correct": [
+        "учеником"
+      ],
+      "wrong": [
+        "ученик",
+        "ученика",
+        "ученику"
+      ]
+    },
+    {
+      "question": "Я думаю о (поездка).",
+      "correct": [
+        "поездке"
+      ],
+      "wrong": [
+        "поездка",
+        "поездку",
+        "поездкой"
+      ]
+    },
+    {
+      "question": "Дети играют без (мяч).",
+      "correct": [
+        "мяча"
+      ],
+      "wrong": [
+        "мяч",
+        "мячу",
+        "мячом"
+      ]
+    },
+    {
+      "question": "Мы подошли к (школа).",
+      "correct": [
+        "школе"
+      ],
+      "wrong": [
+        "школу",
+        "школы",
+        "школой"
+      ]
+    },
+    {
+      "question": "Я читаю о (космос).",
+      "correct": [
+        "космосе"
+      ],
+      "wrong": [
+        "космос",
+        "космоса",
+        "космосом"
+      ]
+    },
+    {
+      "question": "Она мечтает о (море).",
+      "correct": [
+        "море"
+      ],
+      "wrong": [
+        "море",
+        "моря",
+        "морем"
+      ]
+    },
+    {
+      "question": "Мы встретились возле (магазин).",
+      "correct": [
+        "магазина"
+      ],
+      "wrong": [
+        "магазин",
+        "магазину",
+        "магазином"
+      ]
+    },
+    {
+      "question": "Письмо от (подруга).",
+      "correct": [
+        "подруги"
+      ],
+      "wrong": [
+        "подруга",
+        "подругу",
+        "подругой"
+      ]
+    },
+    {
+      "question": "Я интересуюсь (история).",
+      "correct": [
+        "историей"
+      ],
+      "wrong": [
+        "историю",
+        "истории",
+        "историей"
+      ]
+    },
+    {
+      "question": "Он боится (темнота).",
+      "correct": [
+        "темноты"
+      ],
+      "wrong": [
+        "темнота",
+        "темноте",
+        "темнотой"
+      ]
+    },
+    {
+      "question": "Разговор с (врач).",
+      "correct": [
+        "врачом"
+      ],
+      "wrong": [
+        "врач",
+        "врача",
+        "враче"
+      ]
+    },
+    {
+      "question": "Мы ждали около (станция).",
+      "correct": [
+        "станции"
+      ],
+      "wrong": [
+        "станция",
+        "станцию",
+        "станцией"
+      ]
+    }
+  ]
+}
