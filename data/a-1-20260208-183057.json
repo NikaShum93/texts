@@ -1,0 +1,50 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://github.com/kgbgamelab/sounds/raw/refs/heads/main/festive-fanfare.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/3gE520j0eiwAAAAi/meow-zhe.gif",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(245,183,232,1)",
+      "borderColor": "#fff700",
+      "textColor": "#b00c8d",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://media.tenor.com/C-ZraRpWG2sAAAAi/cat-flowers.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "$ a_1 $",
+      "correct": [
+        "$ \\frac{3}{4} $"
+      ],
+      "wrong": []
+    }
+  ]
+}
