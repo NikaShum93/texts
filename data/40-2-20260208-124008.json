@@ -1,0 +1,140 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 45,
+  "textColor": "#f1f0ee",
+  "speed": 3,
+  "questionFont": "PT Sans",
+  "questionFontSize": 39,
+  "style": {
+    "shape": "rounded",
+    "pad": 67,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/T2CLQsGy/20260208-0059-Image-Generation-simple-compose-01kgx1sze9ffdtd93ks9s10bh2.png",
+    "bgImages": [
+      "https://i.postimg.cc/T2CLQsGy/20260208-0059-Image-Generation-simple-compose-01kgx1sze9ffdtd93ks9s10bh2.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 260
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Лови парашютиста",
+    "btnText": "Летим!"
+  },
+  "direction": "down",
+  "finalFeedback": "Супер! Ты молодец!!!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "40 · 2 =",
+      "correct": [
+        "80"
+      ],
+      "wrong": [
+        "42",
+        "20",
+        "60"
+      ]
+    },
+    {
+      "target": "40 : 2 =",
+      "correct": [
+        "20"
+      ],
+      "wrong": [
+        "80",
+        "12",
+        "2"
+      ]
+    },
+    {
+      "target": "10 · 7 =",
+      "correct": [
+        "70"
+      ],
+      "wrong": [
+        "17",
+        "7"
+      ]
+    },
+    {
+      "target": "3 · 30 =",
+      "correct": [
+        "90"
+      ],
+      "wrong": [
+        "33",
+        "10",
+        "60"
+      ]
+    },
+    {
+      "target": "Увеличь 20 в 5 раз.",
+      "correct": [
+        "100"
+      ],
+      "wrong": [
+        "25",
+        "105"
+      ]
+    },
+    {
+      "target": "Уменьши 100 в 2 раза.",
+      "correct": [
+        "50"
+      ],
+      "wrong": [
+        "98",
+        "5"
+      ]
+    },
+    {
+      "target": "Сумму 10 и 20 увеличь в 3 раза.",
+      "correct": [
+        "90"
+      ],
+      "wrong": [
+        "60",
+        "33"
+      ]
+    },
+    {
+      "target": "Произведение 5 и 6 уменьши в 3 раза.",
+      "correct": [
+        "10"
+      ],
+      "wrong": [
+        "33",
+        "8"
+      ]
+    },
+    {
+      "target": "20*2*2=",
+      "correct": [
+        "80"
+      ],
+      "wrong": [
+        "24",
+        "60"
+      ]
+    },
+    {
+      "target": "80:4:2=",
+      "correct": [
+        "10"
+      ],
+      "wrong": [
+        "42",
+        "20"
+      ]
+    }
+  ]
+}
