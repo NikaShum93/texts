@@ -1,0 +1,147 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 45,
+  "textColor": "#f1f0ee",
+  "speed": 3,
+  "questionFont": "PT Sans",
+  "questionFontSize": 39,
+  "style": {
+    "shape": "rounded",
+    "pad": 67,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/T2CLQsGy/20260208-0059-Image-Generation-simple-compose-01kgx1sze9ffdtd93ks9s10bh2.png",
+    "bgImages": [
+      "https://i.postimg.cc/T2CLQsGy/20260208-0059-Image-Generation-simple-compose-01kgx1sze9ffdtd93ks9s10bh2.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 260
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Лови парашютиста",
+    "btnText": "Летим!"
+  },
+  "direction": "down",
+  "finalFeedback": "Супер! Ты молодец!!!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "Делимое 6846, делитель 2. Найдите частное.",
+      "correct": [
+        "2423"
+      ],
+      "wrong": [
+        "1200",
+        "3121",
+        "3000"
+      ]
+    },
+    {
+      "target": "Найдите частное чисел 7777 и 1.",
+      "correct": [
+        "7777"
+      ],
+      "wrong": [
+        "3000",
+        "1200",
+        "6666"
+      ]
+    },
+    {
+      "target": "Какое число разделили на 2 и получили 1500?",
+      "correct": [
+        "3000"
+      ],
+      "wrong": [
+        "2423",
+        "7777",
+        "6666"
+      ]
+    },
+    {
+      "target": "9363 разделите на 3.",
+      "correct": [
+        "3121"
+      ],
+      "wrong": [
+        "280",
+        "1200",
+        "600"
+      ]
+    },
+    {
+      "target": "Во сколько раз число 555 больше числа 111?",
+      "correct": [
+        "5"
+      ],
+      "wrong": [
+        "1200",
+        "600",
+        "3121"
+      ]
+    },
+    {
+      "target": "Я задумала число, умножила его на 4 и получила 64 000. Какое число я задумала?",
+      "correct": [
+        "16000"
+      ],
+      "wrong": [
+        "5",
+        "600",
+        "6666"
+      ]
+    },
+    {
+      "target": "Какое число увеличили в 3 раза, если получили 3600?",
+      "correct": [
+        "1200"
+      ],
+      "wrong": [
+        "2423",
+        "600",
+        "3121"
+      ]
+    },
+    {
+      "target": "Найдите произведение чисел 40 и 70. Уменьшите его в 10 раз.",
+      "correct": [
+        "280"
+      ],
+      "wrong": [
+        "7777",
+        "2423",
+        "3000"
+      ]
+    },
+    {
+      "target": "Частное чисел 4500 и 900 увеличьте на 120.",
+      "correct": [
+        "600"
+      ],
+      "wrong": [
+        "3000",
+        "7777",
+        "2423"
+      ]
+    },
+    {
+      "target": "Найдите делимое, если делитель равен 2, а частное 3333.",
+      "correct": [
+        "6666"
+      ],
+      "wrong": [
+        "600",
+        "3000",
+        "7777"
+      ]
+    }
+  ]
+}
