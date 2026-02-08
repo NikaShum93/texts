@@ -1,0 +1,143 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 40,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "questionFont": "PT Sans",
+  "questionFontSize": 39,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/T2CLQsGy/20260208-0059-Image-Generation-simple-compose-01kgx1sze9ffdtd93ks9s10bh2.png",
+    "bgImages": [
+      "https://i.postimg.cc/T2CLQsGy/20260208-0059-Image-Generation-simple-compose-01kgx1sze9ffdtd93ks9s10bh2.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 230
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Лови парашютиста",
+    "btnText": "Летим!"
+  },
+  "direction": "down",
+  "finalFeedback": "Супер! Ты молодец!!!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "Из восьми десятков вычти десяток. Какое число получилось?",
+      "correct": [
+        "70"
+      ],
+      "wrong": [
+        "79",
+        "90"
+      ]
+    },
+    {
+      "target": "90 – 20 – 30 – 40 =",
+      "correct": [
+        "0"
+      ],
+      "wrong": [
+        "10",
+        "20",
+        "80"
+      ]
+    },
+    {
+      "target": "Из числа 89 вычти пять десятков.",
+      "correct": [
+        "39"
+      ],
+      "wrong": [
+        "84",
+        "49"
+      ]
+    },
+    {
+      "target": "53-12=",
+      "correct": [
+        "41"
+      ],
+      "wrong": [
+        "65",
+        "42",
+        "40"
+      ]
+    },
+    {
+      "target": "69-24=",
+      "correct": [
+        "45"
+      ],
+      "wrong": [
+        "93",
+        "46",
+        "44"
+      ]
+    },
+    {
+      "target": "88-77=",
+      "correct": [
+        "11"
+      ],
+      "wrong": [
+        "21",
+        "1"
+      ]
+    },
+    {
+      "target": "47-15=",
+      "correct": [
+        "32"
+      ],
+      "wrong": [
+        "62",
+        "33"
+      ]
+    },
+    {
+      "target": "56+12=",
+      "correct": [
+        "68"
+      ],
+      "wrong": [
+        "44",
+        "69",
+        "67"
+      ]
+    },
+    {
+      "target": "24+23=",
+      "correct": [
+        "47"
+      ],
+      "wrong": [
+        "1",
+        "48",
+        "46"
+      ]
+    },
+    {
+      "target": "87+12=",
+      "correct": [
+        "99"
+      ],
+      "wrong": [
+        "75",
+        "89",
+        "96"
+      ]
+    }
+  ]
+}
