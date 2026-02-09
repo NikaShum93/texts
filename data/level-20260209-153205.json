@@ -1,0 +1,58 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 2,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [],
+    "bgImage": "",
+    "borderOn": true,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": true,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 0,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Буква Ю",
+    "btnText": ""
+  },
+  "direction": "up",
+  "finalFeedback": "",
+  "levels": [
+    {
+      "target": "юбочки с буквой Ю",
+      "correct": [
+        "https://i.postimg.cc/rpnYrWFK/(2).png",
+        "https://i.postimg.cc/d0HSydt7/(3).png",
+        "https://i.postimg.cc/nzXSYzCF/(4).png",
+        "https://i.postimg.cc/XvHDCF7y/(5).png",
+        "https://i.postimg.cc/857XB5jc/(6).png",
+        "https://i.postimg.cc/dV9fJpbm/(7).png",
+        "https://i.postimg.cc/1z5jXMSK/(8).png",
+        "https://i.postimg.cc/R0VDhGmG/(9).png",
+        "https://i.postimg.cc/W4Wfkrbp/image.png"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/k5XpGwCc/(10).png",
+        "https://i.postimg.cc/HLshn3mB/(11).png",
+        "https://i.postimg.cc/7LYWhX4F/(12).png",
+        "https://i.postimg.cc/SKTtM8Qv/(13).png",
+        "https://i.postimg.cc/3wJcN97H/(14).png",
+        "https://i.postimg.cc/MGKFHtxk/(15).png",
+        "https://i.postimg.cc/s260hSDd/(16).png",
+        "https://i.postimg.cc/bvCFtbNf/(17).png",
+        "https://i.postimg.cc/9f8N7TFV/(18).png"
+      ],
+      "timer": 60
+    }
+  ]
+}
