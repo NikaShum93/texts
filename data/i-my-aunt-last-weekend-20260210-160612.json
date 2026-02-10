@@ -1,0 +1,133 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Caveat",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 130,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/cb4a5fff-48e2-4d52-80c3-4f3243f7e533.png",
+    "bubbleSize": 130,
+    "task": {
+      "bgColor": "rgba(250,217,0,0.7)",
+      "borderColor": "#fff700",
+      "textColor": "#ffffff",
+      "fontSize": 30,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#ffdf0f",
+      "borderColor": "#fff71a",
+      "textColor": "#000000",
+      "fontSize": 30,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Thank you!",
+  "feedbackImage": "https://img.genially.com/69280f411dd3350008276459/789cde42-43da-4cc3-84df-13c66363681f.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 2,
+  "tasks": [
+    {
+      "question": "I ___ my aunt last weekend.",
+      "correct": [
+        "visited"
+      ],
+      "wrong": [
+        "visit"
+      ]
+    },
+    {
+      "question": "We ___ the test on time.",
+      "correct": [
+        "didn’t finish"
+      ],
+      "wrong": [
+        "didn’t finished"
+      ]
+    },
+    {
+      "question": "Did she ___ you yesterday?",
+      "correct": [
+        "call"
+      ],
+      "wrong": [
+        "called"
+      ]
+    },
+    {
+      "question": "They ___ basketball after school.",
+      "correct": [
+        "played"
+      ],
+      "wrong": [
+        "play"
+      ]
+    },
+    {
+      "question": "He ___ the film.",
+      "correct": [
+        "didn’t like"
+      ],
+      "wrong": [
+        "didn’t liked"
+      ]
+    },
+    {
+      "question": "Did you ___ early yesterday?",
+      "correct": [
+        "wake up"
+      ],
+      "wrong": [
+        "woke up"
+      ]
+    },
+    {
+      "question": "My brother ___ a new phone.",
+      "correct": [
+        "bought"
+      ],
+      "wrong": [
+        "buyed"
+      ]
+    },
+    {
+      "question": "We ___ to the party.",
+      "correct": [
+        "didn’t go"
+      ],
+      "wrong": [
+        "didn’t went"
+      ]
+    },
+    {
+      "question": "Did they ___ anything in class?",
+      "correct": [
+        "learn"
+      ],
+      "wrong": [
+        "learnt"
+      ]
+    },
+    {
+      "question": "She ___ English last night.",
+      "correct": [
+        "studied"
+      ],
+      "wrong": [
+        "study"
+      ]
+    }
+  ]
+}
