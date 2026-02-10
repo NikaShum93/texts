@@ -1,0 +1,93 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Caveat",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 118,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/63af25ba-25aa-45cb-b42e-dfaf64a5ae8b.png",
+    "bubbleSize": 118,
+    "task": {
+      "bgColor": "rgba(255,87,202,0.7)",
+      "borderColor": "#ff00dd",
+      "textColor": "#ffffff",
+      "fontSize": 30,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#ff0f77",
+      "borderColor": "#ff1a88",
+      "textColor": "#ffffff",
+      "fontSize": 30,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 You are amazing!",
+  "feedbackImage": "https://img.genially.com/69280f411dd3350008276459/85bf588d-3d36-4162-b9d8-e8a7cf2c767d.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 2,
+  "tasks": [
+    {
+      "question": "Do you like Valentine’s Day? Why or why not?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What do people usually do on Valentine’s Day?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do you celebrate Valentine’s Day in your country?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Who do people often give gifts to on Valentine’s Day?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What is a popular gift for Valentine’s Day?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do you prefer chocolates or flowers?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Have you ever received a Valentine’s Day card?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do you think Valentine’s Day is romantic or boring?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Where do couples often go on Valentine’s Day?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do you like to spend Valentine’s Day with friends, family, or a partner?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
