@@ -1,0 +1,93 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Caveat",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 150,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/de7000d7-1603-4d7b-87e6-d6ef3622ec26.png",
+    "bubbleSize": 150,
+    "task": {
+      "bgColor": "rgba(255,87,202,0.7)",
+      "borderColor": "#ff00dd",
+      "textColor": "#ffffff",
+      "fontSize": 30,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#ff0f77",
+      "borderColor": "#ff1a88",
+      "textColor": "#ffffff",
+      "fontSize": 30,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 You are amazing!",
+  "feedbackImage": "https://img.genially.com/69280f411dd3350008276459/a8180a5d-602d-4921-9e32-7d08e10b1334.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 2,
+  "tasks": [
+    {
+      "question": "Do you like Valentine’s Day?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Is Valentine’s Day in February?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do people give flowers on Valentine’s Day?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do people give chocolate on Valentine’s Day?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do you say “I love you” on Valentine’s Day?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do you get a card on Valentine’s Day?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Is Valentine’s Day for love?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do couples go to a restaurant on Valentine’s Day?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do you see hearts on Valentine’s Day?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do you celebrate Valentine’s Day yes or no?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
