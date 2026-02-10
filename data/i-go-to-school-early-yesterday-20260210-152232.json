@@ -1,0 +1,113 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Caveat",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 114,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/f414f2a3-8735-4fab-a930-18daa017d88e.png",
+    "bubbleSize": 114,
+    "task": {
+      "bgColor": "rgba(250,217,0,0.7)",
+      "borderColor": "#fff700",
+      "textColor": "#ffffff",
+      "fontSize": 30,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#ffdf0f",
+      "borderColor": "#fff71a",
+      "textColor": "#000000",
+      "fontSize": 30,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Thank you!",
+  "feedbackImage": "https://img.genially.com/69280f411dd3350008276459/e57b41e3-ab13-4e8f-8485-3d55d954413c.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "I (go) to school early yesterday.",
+      "correct": [
+        "went"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "She (watch) a film yesterday.",
+      "correct": [
+        "watched"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We (play) football after class.",
+      "correct": [
+        "played"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "He (eat) lunch at home.",
+      "correct": [
+        "ate"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "They (visit) their grandparents on Sunday.",
+      "correct": [
+        "visited"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I (buy) a new bag last week.",
+      "correct": [
+        "bought"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "My friend (call) me in the evening.",
+      "correct": [
+        "called"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We (study) English two days ago.",
+      "correct": [
+        "studied"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "She (clean) her room yesterday.",
+      "correct": [
+        "cleaned"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "It (rain) a lot last weekend.",
+      "correct": [
+        "rained"
+      ],
+      "wrong": []
+    }
+  ]
+}
