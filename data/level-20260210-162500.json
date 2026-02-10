@@ -1,0 +1,56 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 2,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [],
+    "bgImage": "",
+    "borderOn": true,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": true,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 0,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Буква Ц",
+    "btnText": ""
+  },
+  "direction": "up",
+  "finalFeedback": "",
+  "levels": [
+    {
+      "target": "цветочки с буквой Ц",
+      "correct": [
+        "https://i.postimg.cc/kgj4HZNX/(2).png",
+        "https://i.postimg.cc/43mdR5wv/(3).png",
+        "https://i.postimg.cc/rpKm2JQ6/(4).png",
+        "https://i.postimg.cc/7Lf6rVXX/(5).png",
+        "https://i.postimg.cc/GpH2nQzX/(6).png",
+        "https://i.postimg.cc/FK8KrLn2/(7).png",
+        "https://i.postimg.cc/N0S0sHzw/(8).png",
+        "https://i.postimg.cc/HxMkVkqV/image.png"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/Zq2qbdMm/(10).png",
+        "https://i.postimg.cc/1z2zmqj9/(11).png",
+        "https://i.postimg.cc/wBZBqmGv/(12).png",
+        "https://i.postimg.cc/1z2zmqj4/(13).png",
+        "https://i.postimg.cc/TPFPdD4p/(14).png",
+        "https://i.postimg.cc/W4C4NkHD/(15).png",
+        "https://i.postimg.cc/9fKfm7nT/(16).png",
+        "https://i.postimg.cc/wBZBqmGH/(9).png"
+      ],
+      "timer": 60
+    }
+  ]
+}
