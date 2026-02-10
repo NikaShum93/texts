@@ -1,0 +1,93 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Caveat",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": true,
+  "bubbleSize": 130,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/c3c7eb27-e9cf-42d9-9148-e23e1b0b9c89.png",
+    "bubbleSize": 130,
+    "task": {
+      "bgColor": "rgba(250,217,0,0.7)",
+      "borderColor": "#fff700",
+      "textColor": "#ffffff",
+      "fontSize": 30,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#ffdf0f",
+      "borderColor": "#fff71a",
+      "textColor": "#000000",
+      "fontSize": 30,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Thank you!",
+  "feedbackImage": "https://img.genially.com/69280f411dd3350008276459/21301d15-caac-4030-810a-64e33d0ef9f0.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Did you finish your homework yesterday?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I did not understand the lesson.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Did she cook dinner last night?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She didn’t go to work on Monday.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Did they travel by bus?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We didn’t have time to eat breakfast.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Did he meet his teacher after class?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Did we win the game?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "He bought the ticket.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They watched TV in the evening.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
