@@ -1,0 +1,92 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 45,
+  "textColor": "#1e1a1a",
+  "speed": 2,
+  "style": {
+    "shape": "rounded",
+    "pad": 45,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://media.tenor.com/qbbQeX1-q00AAAAi/silver-star-sticker-julee-san-gif.gif"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 210
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Звездопад",
+    "btnText": "Лови!"
+  },
+  "direction": "down",
+  "finalFeedback": "Отличная работа!",
+  "levels": [
+    {
+      "target": "Поймай парные согласные",
+      "correct": [
+        "б",
+        "п",
+        "д",
+        "т",
+        "ж",
+        "ш",
+        "з",
+        "с",
+        "г",
+        "к",
+        "в",
+        "ф"
+      ],
+      "wrong": [
+        "р",
+        "л",
+        "м",
+        "н",
+        "ц",
+        "ч",
+        "й",
+        "ю"
+      ],
+      "timer": 58
+    },
+    {
+      "target": "Поймай слова с орфограммой",
+      "correct": [
+        "дуб",
+        "зуб",
+        "лев",
+        "сев",
+        "луг",
+        "лавка",
+        "шапка",
+        "ложка",
+        "лапка",
+        "лук",
+        "шкаф",
+        "столб",
+        "гроздь",
+        "гвоздь"
+      ],
+      "wrong": [
+        "дом",
+        "лом",
+        "гном",
+        "стол",
+        "стул",
+        "футбол",
+        "ложа",
+        "лапа"
+      ],
+      "timer": 30
+    }
+  ]
+}
