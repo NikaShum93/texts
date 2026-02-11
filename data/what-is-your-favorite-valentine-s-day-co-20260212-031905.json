@@ -1,0 +1,118 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Poppins",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/dlW_Jl4ChU8AAAAi/bullishterriers-bull-terrier.gif",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(255,255,255,1)",
+      "borderColor": "#000000",
+      "textColor": "#ff0066",
+      "fontSize": 22,
+      "neon": false
+    },
+    "feedback": {
+      "bgColor": "#ff0066",
+      "borderColor": "#000000",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "Happy Valentine's Day! Your teacher loves you! You're the best!",
+  "feedbackImage": "https://media.tenor.com/dlW_Jl4ChU8AAAAi/bullishterriers-bull-terrier.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "What is your favorite Valentine’s Day color: red or pink? Why?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do you like eating chocolate or gummy hearts more?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Who is your best friend? What do you like to do together?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Is Valentine’s Day only for romantic love or also for friends and family?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What is the best gift: a box of sweets, a big toy, or a beautiful card?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "If you were a Cupid, who would you shoot with a love arrow? (Maybe two teachers or cartoon characters?)",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What does a \"love potion\" smell like? (Flowers, strawberries, or maybe pizza?)",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Can you name 3 things that are always red?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "If you could design a new candy for this holiday, what shape and taste would it be?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Imagine you have a flying heart. Where would you fly with it?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What is the best movie or cartoon about friendship and love?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What makes a person a \"good friend\"? (Give 2-3 adjectives).",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do you like making handmade Valentine cards or buying them in a shop?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What is the kindest thing you did for someone this week?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What is your favorite love song or a song that makes you happy?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
