@@ -1,0 +1,143 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Poppins",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 112,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/dlW_Jl4ChU8AAAAi/bullishterriers-bull-terrier.gif",
+    "bubbleSize": 112,
+    "task": {
+      "bgColor": "rgba(255,255,255,1)",
+      "borderColor": "#ffee00",
+      "textColor": "#ff0066",
+      "fontSize": 28,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#ff0066",
+      "borderColor": "#ffd700",
+      "textColor": "#ffffff",
+      "fontSize": 28,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "Happy Valentine's Day! Your teacher loves you! You're the best!",
+  "feedbackImage": "https://media.tenor.com/dlW_Jl4ChU8AAAAi/bullishterriers-bull-terrier.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "What is your favorite toy?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What is your favorite animal?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What is your favorite food?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Who is your favorite superhero?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What is your favorite fruit?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What is your favorite day of the week?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What is your favorite game?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What is your favorite drink?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Draw your favorite hobby!",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Dance like your favorite animal!",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Show your favorite color in the room!",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Mime eating your favorite food!",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Write the name of your best friend!",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Find your favorite book and show it!",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Sing a line from your favorite song!",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What is your favorite school subject?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What is your favorite season?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Show your favorite toy!",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Draw your favorite animal!",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What is your favorite movie?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
