@@ -1,0 +1,108 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Bangers",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/2309ea1c-ee0d-48c9-9f1f-1baac5cc2ae4.png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(232,194,59,1)",
+      "borderColor": "#fff700",
+      "textColor": "#ffffff",
+      "fontSize": 30,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#ffd91a",
+      "borderColor": "#ffea00",
+      "textColor": "#000000",
+      "fontSize": 30,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "...Надо на врача",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I __ got a dog.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "You __ got a blue bag.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "He __ got a bike.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She __ got long hair.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "It __ got four legs.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We __ got a big house.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They __ got a cat.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Tom __ got a red ball.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Anna __ got a little sister.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The horse __ got a long tail.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My friend __ got a new book.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The children __ got funny hats.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
