@@ -1,0 +1,108 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 156,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/f97eeae1-60dd-4cd3-8b54-53b282e7f008.png",
+    "bubbleSize": 156,
+    "task": {
+      "bgColor": "rgba(152,27,27,1)",
+      "borderColor": "#ff0000",
+      "textColor": "#ffffff",
+      "fontSize": 29,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#951818",
+      "borderColor": "#e72323",
+      "textColor": "#ffffff",
+      "fontSize": 29,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "I ___ a pirate today.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They ____ in the house.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I ___ in a big castle.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "You ____ very brave.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "He ____ a superhero.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "You ____ my best friend.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "He ____ in the garden.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She ____ very smart.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "It ____ a little monster.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She ____ a princess.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We ____ in a magic forest.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They ____ happy animals.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We ____ at school",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
