@@ -1,0 +1,137 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 30,
+  "textColor": "#9f2b04",
+  "speed": 4,
+  "questionFont": "PT Sans",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://ai-image.genially.com/65a66a3448e2b6001400e1d7/698caa996050bf6ad80a9972/698f3257f46a2e4d899688aa.png",
+    "bgImages": [
+      "https://ai-image.genially.com/65a66a3448e2b6001400e1d7/698caa996050bf6ad80a9972/698f3257f46a2e4d899688aa.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 170
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Математический диктант \"Масленица\"  3 класс",
+    "btnText": "Начать"
+  },
+  "direction": "random",
+  "finalFeedback": "Отличная работа!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "Найди произведение чисел 8 и 7.",
+      "correct": [
+        "56"
+      ],
+      "wrong": [
+        "54",
+        "57"
+      ]
+    },
+    {
+      "target": "Найди частное чисел 24 и 6.",
+      "correct": [
+        "4"
+      ],
+      "wrong": [
+        "3",
+        "5"
+      ]
+    },
+    {
+      "target": "Увеличь 9 в 7 раз.",
+      "correct": [
+        "63"
+      ],
+      "wrong": [
+        "62",
+        "67"
+      ]
+    },
+    {
+      "target": "Уменьши 30 в 5 раз.",
+      "correct": [
+        "6"
+      ],
+      "wrong": [
+        "7",
+        "5"
+      ]
+    },
+    {
+      "target": "Во сколько раз 40 больше, чем 8?",
+      "correct": [
+        "5"
+      ],
+      "wrong": [
+        "4",
+        "6"
+      ]
+    },
+    {
+      "target": "Во сколько раз 8 меньше, чем 24?",
+      "correct": [
+        "3"
+      ],
+      "wrong": [
+        "4",
+        "5"
+      ]
+    },
+    {
+      "target": "Между какими числами находится число 40?",
+      "correct": [
+        "39 и 41"
+      ],
+      "wrong": [
+        "40 и 41",
+        "39 и 40"
+      ]
+    },
+    {
+      "target": "Сумма двух чисел равна 100. Одно слагаемое 25. Чему равно другое слагаемое?",
+      "correct": [
+        "75"
+      ],
+      "wrong": [
+        "65",
+        "85"
+      ]
+    },
+    {
+      "target": "В одном классе 40 учеников, а во втором 36. На сколько меньше учеников во втором классе, чем в первом?",
+      "correct": [
+        "4"
+      ],
+      "wrong": [
+        "5",
+        "6"
+      ]
+    },
+    {
+      "target": "Дед и внук поймали 36 рыб. Дед поймал 19 рыб. Сколько рыб поймал внук?",
+      "correct": [
+        "17"
+      ],
+      "wrong": [
+        "18",
+        "19"
+      ]
+    }
+  ]
+}
