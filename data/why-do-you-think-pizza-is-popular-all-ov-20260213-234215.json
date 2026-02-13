@@ -1,0 +1,93 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 146,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/b7439ad6-2303-460e-abd7-070313d6b923.png",
+    "bubbleSize": 146,
+    "task": {
+      "bgColor": "rgba(255,216,20,0.9)",
+      "borderColor": "#fbff00",
+      "textColor": "#ffffff",
+      "fontSize": 27,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#ffd500",
+      "borderColor": "#fff700",
+      "textColor": "#ffffff",
+      "fontSize": 27,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Amazing!",
+  "feedbackImage": "https://img.genially.com/69280f411dd3350008276459/525cc12d-e548-4d89-955b-36da16ccebc6.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Why do you think pizza is popular all over the world?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do you think traditional food is important for a country? Why?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What Italian food would you like to try? Why?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Is food in your country healthy? Why / Why not?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do you prefer homemade food or restaurant food? Why?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "How often do you eat international food?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Can food tell us something about a country’s culture?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What food do tourists usually try in your country?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Is pizza different in different countries? How?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "If you could create a new pizza, what ingredients would you choose?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
