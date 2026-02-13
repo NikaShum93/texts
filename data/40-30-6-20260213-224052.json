@@ -1,0 +1,102 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 35,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "questionFont": "PT Sans",
+  "questionFontSize": 35,
+  "style": {
+    "shape": "rounded",
+    "pad": 40,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/KYRK2Xrz/20260213-2231-Image-Generation-simple-compose-01khc7rkgcep09qwsnh61vjq85.png",
+    "bgImages": [
+      "https://i.postimg.cc/KYRK2Xrz/20260213-2231-Image-Generation-simple-compose-01khc7rkgcep09qwsnh61vjq85.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 170
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Блинопёк",
+    "btnText": "Лови блинчики"
+  },
+  "direction": "down",
+  "finalFeedback": "Ох, и наедимся теперь!!!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "Из числа 40 вычесть разность чисел 30 и 6.",
+      "correct": [
+        "16"
+      ],
+      "wrong": [
+        "4",
+        "16",
+        "14"
+      ]
+    },
+    {
+      "target": "К разности чисел 60 и 9 прибавить 20.",
+      "correct": [
+        "71"
+      ],
+      "wrong": [
+        "89",
+        "31",
+        "70"
+      ]
+    },
+    {
+      "target": "Из суммы чисел 48 и 7 вычесть 9.",
+      "correct": [
+        "46"
+      ],
+      "wrong": [
+        "50",
+        "32",
+        "45"
+      ]
+    },
+    {
+      "target": "Из числа 70 вычесть сумму чисел 25 и 8.",
+      "correct": [
+        "37"
+      ],
+      "wrong": [
+        "53",
+        "47",
+        "27"
+      ]
+    },
+    {
+      "target": "Число ______ меньше 33 на 21.",
+      "correct": [
+        "12"
+      ],
+      "wrong": [
+        "54",
+        "11"
+      ]
+    },
+    {
+      "target": "Если 45 увеличить на ______, то получится 59.",
+      "correct": [
+        "14"
+      ],
+      "wrong": [
+        "13",
+        "15",
+        "24"
+      ]
+    }
+  ]
+}
