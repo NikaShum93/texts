@@ -1,0 +1,92 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Mountains of Christmas",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 76,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/684ea2da1b51060014c50e97/37ad147c-5bd4-4b46-aae4-8070178a5b42.png",
+    "bubbleSize": 76,
+    "task": {
+      "bgColor": "rgba(98,52,14,1)",
+      "borderColor": "#f7f7f7",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 340
+    }
+  },
+  "finalFeedback": "Ура!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Мама шила (юбка).",
+      "correct": [
+        "юбку"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Дети ловят (бабочка).",
+      "correct": [
+        "бабочку"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Мы получили (телеграмма).",
+      "correct": [
+        "телеграмму"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Ученик потерял (закладка).",
+      "correct": [
+        "закладку"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Наседка зовёт (цыплята).",
+      "correct": [
+        "цыплят"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Кот слизал (сметана).",
+      "correct": [
+        "сметану"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Я узнал нашего (щенок).",
+      "correct": [
+        "щенка"
+      ],
+      "wrong": []
+    }
+  ]
+}
