@@ -1,0 +1,49 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "style": {
+    "shape": "circle",
+    "pad": 22,
+    "bgColor": "#f00505",
+    "bgImages": [],
+    "bgImage": "",
+    "borderOn": true,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": true,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "",
+    "btnText": ""
+  },
+  "direction": "down",
+  "finalFeedback": "",
+  "levels": [
+    {
+      "target": "2",
+      "correct": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "wrong": [
+        "1",
+        "3",
+        "5",
+        "7",
+        "9"
+      ],
+      "timer": 30
+    }
+  ]
+}
