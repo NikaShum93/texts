@@ -1,0 +1,155 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Baloo 2",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 150,
+  "sounds": {
+    "pop": "https://drive.google.com/file/d/1pY3WovnaadDp-EZ1IPV4fkbh1pciElf9/view?usp=sharing",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/5e7dfe50a2d3eb0fbde37fb5/f31259f9-8cbb-49d4-a261-303fa7c1aba4.png",
+    "bubbleSize": 150,
+    "task": {
+      "bgColor": "rgba(254,180,77,1)",
+      "borderColor": "#ff7b00",
+      "textColor": "#ffffff",
+      "fontSize": 30,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 30,
+      "neon": true,
+      "imageSize": 400
+    }
+  },
+  "finalFeedback": "🎉 Yummy!",
+  "feedbackImage": "https://img.genially.com/5e7dfe50a2d3eb0fbde37fb5/41aecaaf-bab1-4a44-a4c4-8395885862ac.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "When was the last time you ... dinner?",
+      "correct": [
+        "cooked"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "How often do you ... to the gym?",
+      "correct": [
+        "go"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Did you ... TV yesterday evening?",
+      "correct": [
+        "watch"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "What are you ... right now?",
+      "correct": [
+        "doing"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Have you ever ... another country?",
+      "correct": [
+        "visited"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "When did you last ... your best friend (звонить)?",
+      "correct": [
+        "call"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "How many cups of coffee have you ... today?",
+      "correct": [
+        "drunk"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "What time did you ... up this morning?",
+      "correct": [
+        "get"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "How often do you ... your room (убирать)?",
+      "correct": [
+        "clean"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "What did you ... for breakfast today?",
+      "correct": [
+        "eat"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Where ... you last Saturday?",
+      "correct": [
+        "were"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "How long have you ... in your city?",
+      "correct": [
+        "lived"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Do you usually ... books before bed?",
+      "correct": [
+        "read"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "What were you ... at 8 p.m. yesterday?",
+      "correct": [
+        "doing"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Will you ... English tomorrow?",
+      "correct": [
+        "study"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Have you ... any good films recently?",
+      "correct": [
+        "seen"
+      ],
+      "wrong": []
+    }
+  ]
+}
