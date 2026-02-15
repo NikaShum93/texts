@@ -1,0 +1,65 @@
+{
+  "language": "en",
+  "font": "Open Sans",
+  "fontSize": 40,
+  "textColor": "#ffffff",
+  "speed": 2,
+  "style": {
+    "shape": "rounded",
+    "pad": 50,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/tRM8XcKw/1.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 260
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Irregular fish",
+    "btnText": "Start!"
+  },
+  "direction": "down",
+  "finalFeedback": "Now the seal is full! Well done!",
+  "levels": [
+    {
+      "target": "irregular verbs",
+      "correct": [
+        "drink",
+        "be",
+        "give",
+        "get",
+        "have",
+        "give",
+        "leave",
+        "meet",
+        "put",
+        "read",
+        "spend",
+        "swim",
+        "take",
+        "go",
+        "sit"
+      ],
+      "wrong": [
+        "stay",
+        "visit",
+        "plan",
+        "like",
+        "love",
+        "explore",
+        "travel",
+        "try"
+      ],
+      "timer": 60
+    }
+  ]
+}
