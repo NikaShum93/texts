@@ -1,0 +1,48 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [],
+    "bgImage": "",
+    "borderOn": true,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": true,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Игра листопад",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Отличная работа",
+  "levels": [
+    {
+      "target": "буква а",
+      "correct": [
+        "ла",
+        "ба",
+        "за",
+        "га"
+      ],
+      "wrong": [
+        "ли",
+        "би",
+        "зи",
+        "хи"
+      ],
+      "timer": 30
+    }
+  ]
+}
