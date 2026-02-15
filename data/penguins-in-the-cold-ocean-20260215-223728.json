@@ -1,0 +1,125 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 17,
+  "textColor": "#000000",
+  "speed": 3,
+  "questionFont": "Roboto",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 30,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/yYqStYDs/8.png",
+    "bgImages": [
+      "https://i.postimg.cc/yYqStYDs/8.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 0,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 260
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Let's add some marshmallows to the coffee!",
+    "btnText": "start"
+  },
+  "direction": "random",
+  "finalFeedback": "Enjoy the coffee! :)",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "Penguins ... in the cold ocean.",
+      "correct": [
+        "swam"
+      ],
+      "wrong": [
+        "swimmed",
+        "swim",
+        "swimed"
+      ]
+    },
+    {
+      "target": "The scientists ... Antarctica last year.",
+      "correct": [
+        "visited"
+      ],
+      "wrong": [
+        "visit",
+        "visitted",
+        "visittet"
+      ]
+    },
+    {
+      "target": "The explorers ... any trees there.",
+      "correct": [
+        "didn't find"
+      ],
+      "wrong": [
+        "didn't found",
+        "not found",
+        "didn't finded"
+      ]
+    },
+    {
+      "target": "The weather ... very quickly.",
+      "correct": [
+        "changed"
+      ],
+      "wrong": [
+        "changd",
+        "changd",
+        "change"
+      ]
+    },
+    {
+      "target": "Did the penguins ... fish every day?",
+      "correct": [
+        "eat"
+      ],
+      "wrong": [
+        "ate",
+        "ated",
+        "eatted"
+      ]
+    },
+    {
+      "target": "Did the wind ... in the evening?",
+      "correct": [
+        "stop"
+      ],
+      "wrong": [
+        "stopped",
+        "stoped",
+        "stopp"
+      ]
+    },
+    {
+      "target": "The baby penguin ... on the ice but stood up quickly.",
+      "correct": [
+        "fell"
+      ],
+      "wrong": [
+        "felt",
+        "feel",
+        "falled"
+      ]
+    },
+    {
+      "target": "... the scientists ... photos of the icebergs?",
+      "correct": [
+        "Did...take"
+      ],
+      "wrong": [
+        "Did...took",
+        "Does...take",
+        "Did ... taked"
+      ]
+    }
+  ]
+}
