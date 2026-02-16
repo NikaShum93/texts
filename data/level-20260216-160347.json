@@ -1,0 +1,90 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 40,
+  "textColor": "#ffffff",
+  "speed": 1,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://ai-image.genially.com/65a66a3448e2b6001400e1d7/6992f4610ebe4076f3d130ff/6992f517e3459b400cdb32a8.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Игра \"Блинчик\"",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Молодец!",
+  "levels": [
+    {
+      "target": "слоги с буквой д",
+      "correct": [
+        "ДА",
+        "ДО",
+        "ДУ",
+        "ДЫ",
+        "ДИ",
+        "АД",
+        "ОД",
+        "УД",
+        "ЫД",
+        "ИД"
+      ],
+      "wrong": [
+        "МА",
+        "СО",
+        "РУ",
+        "ХУ",
+        "МИ",
+        "ИС",
+        "ЫР",
+        "ОХ",
+        "УК",
+        "ОГ",
+        "АВ"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "Поймай все слова с буквой Д",
+      "correct": [
+        "ДОМ",
+        "ДЫМ",
+        "ДАР",
+        "ДУШ",
+        "САД",
+        "ВОДА",
+        "САДЫ",
+        "СИДИ",
+        "ИДИ",
+        "ДВА"
+      ],
+      "wrong": [
+        "СОМ",
+        "ГРОМ",
+        "ТОК",
+        "КОТ",
+        "ВАШ",
+        "ИВА",
+        "НОГА",
+        "ГУСИ",
+        "РОГА"
+      ],
+      "timer": 60
+    }
+  ]
+}
