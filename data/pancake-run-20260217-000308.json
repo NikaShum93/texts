@@ -1,0 +1,157 @@
+{
+  "lang": "en",
+  "mode": "input",
+  "math": false,
+  "transparentBg": false,
+  "randomQuestions": true,
+  "ui": {
+    "title": "PANCAKE RUN",
+    "start": "PLAY",
+    "again": "AGAIN",
+    "gameover": "GAME OVER",
+    "scoreLabel": "Score:"
+  },
+  "gameplay": {
+    "winQuestions": 10
+  },
+  "assets": {
+    "hero": "https://img.genially.com/64233afb55129a0017751c8e/bf25cecd-8697-422c-912f-62c631abb728.png",
+    "mirrorHero": true,
+    "obstacles": {
+      "ground": [
+        "🌲",
+        "🪨",
+        "🪵",
+        "🌵"
+      ],
+      "good": [
+        "🍏",
+        "🍓",
+        "🍌",
+        "🍒",
+        "🫐"
+      ],
+      "bad": [
+        "🦅",
+        "🧱",
+        "🚁",
+        "⛈️"
+      ]
+    }
+  },
+  "sounds": {
+    "mus": "",
+    "ding": "",
+    "buzz": "",
+    "coin": "",
+    "crash": "",
+    "win": ""
+  },
+  "tasks": [
+    {
+      "question": "The Olympic Games ___ (hold) every four years.",
+      "correct": [
+        "are held"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Bread ___ (sell) in most grocery stores.",
+      "correct": [
+        "is sold"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "This song ___ (write) by a famous pop star.",
+      "correct": [
+        "is written"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "English ___ (speak) as a first language in many countries.",
+      "correct": [
+        "is spoken"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The best films ___ (show) at the cinema.",
+      "correct": [
+        "are shown"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Gold ___ (find) deep underground in some regions.",
+      "correct": [
+        "is found"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Traditional stories ___ (tell) to children at bedtime.",
+      "correct": [
+        "are told"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "A lot of tea ___ (drink) in Great Britain.",
+      "correct": [
+        "is drunk"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "New buildings ___ (build) in the city center every year.",
+      "correct": [
+        "are built"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Beautiful photos ___ (take) with this professional camera.",
+      "correct": [
+        "are taken"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The winner ___ (choose) by a jury of experts.",
+      "correct": [
+        "is chosen"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Uniforms ___ (wear) by students in many private schools.",
+      "correct": [
+        "are worn"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Newspapers ___ (read) by millions of people online.",
+      "correct": [
+        "are read"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Milk ___ (keep) in the fridge to stay fresh.",
+      "correct": [
+        "is kept"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Lost keys ___ (find) by the hotel staff every day.",
+      "correct": [
+        "are found"
+      ],
+      "wrong": []
+    }
+  ]
+}
