@@ -1,0 +1,188 @@
+{
+  "lang": "ru",
+  "mode": "choice",
+  "math": false,
+  "transparentBg": true,
+  "randomQuestions": false,
+  "ui": {
+    "title": "SHEEP RUN",
+    "start": "ИГРАТЬ",
+    "again": "ЕЩЁ РАЗ",
+    "gameover": "ИГРА ОКОНЧЕНА",
+    "scoreLabel": "Счёт: ",
+    "fontSize": 6
+  },
+  "gameplay": {
+    "winQuestions": 10
+  },
+  "assets": {
+    "hero": "https://media.tenor.com/RyF8iVDEf3cAAAAi/16bit-80s.gif",
+    "mirrorHero": false,
+    "heroBobbing": false,
+    "obstacles": {
+      "ground": [
+        "🌲",
+        "🪨",
+        "🪵",
+        "🌵"
+      ],
+      "good": [
+        "🌾",
+        "🌽",
+        "🍀",
+        "🍎"
+      ],
+      "bad": [
+        "🦅",
+        "🧱",
+        "🚁",
+        "⛈️"
+      ]
+    }
+  },
+  "sounds": {
+    "mus": "https://raw.githubusercontent.com/kgbgamelab/audioplayer/main/Baa%20Dash.mp3",
+    "ding": "https://assets.mixkit.co/active_storage/sfx/2000/2000-preview.mp3",
+    "buzz": "https://assets.mixkit.co/active_storage/sfx/257/257-preview.mp3",
+    "coin": "https://assets.mixkit.co/active_storage/sfx/2019/2019-preview.mp3",
+    "crash": "https://assets.mixkit.co/active_storage/sfx/2042/2042-preview.mp3",
+    "win": "https://assets.mixkit.co/active_storage/sfx/2018/2018-preview.mp3"
+  },
+  "tasks": [
+    {
+      "question": "The Olympic Games ___ (hold) every four years.",
+      "correct": [
+        "are held"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Bread ___ (sell) in most grocery stores.",
+      "correct": [
+        "is sold"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "This song ___ (write) by a famous pop star.",
+      "correct": [
+        "is written"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "English ___ (speak) as a first language in many countries.",
+      "correct": [
+        "is spoken"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "The best films ___ (show) at the cinema.",
+      "correct": [
+        "are shown"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Gold ___ (find) deep underground in some regions.",
+      "correct": [
+        "is found"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Traditional stories ___ (tell) to children at bedtime.",
+      "correct": [
+        "are told"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "A lot of tea ___ (drink) in Great Britain.",
+      "correct": [
+        "is drunk"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "New buildings ___ (build) in the city center every year.",
+      "correct": [
+        "are built"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Beautiful photos ___ (take) with this professional camera.",
+      "correct": [
+        "are taken"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "The winner ___ (choose) by a jury of experts.",
+      "correct": [
+        "is chosen"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Uniforms ___ (wear) by students in many private schools.",
+      "correct": [
+        "are worn"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Newspapers ___ (read) by millions of people online.",
+      "correct": [
+        "are read"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Milk ___ (keep) in the fridge to stay fresh.",
+      "correct": [
+        "is kept"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Lost keys ___ (find) by the hotel staff every day.",
+      "correct": [
+        "are found"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    }
+  ]
+}
