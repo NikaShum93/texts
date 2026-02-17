@@ -1,0 +1,109 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Comfortaa",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 82,
+  "sounds": {
+    "pop": "https://github.com/nastyaraay-collab/-/raw/refs/heads/main/1.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/66163aeabaa20300158fc6a8/8ae891e3-dcf7-467f-84db-1ba1eeb0d8aa.png",
+    "bubbleSize": 82,
+    "task": {
+      "bgColor": "rgba(4,202,251,0.85)",
+      "borderColor": "#f5fe81",
+      "textColor": "#140b0b",
+      "fontSize": 20,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#ffffff",
+      "borderColor": "#00e67a",
+      "textColor": "#171616",
+      "fontSize": 20,
+      "neon": true,
+      "imageSize": 210
+    }
+  },
+  "finalFeedback": "Прекрасная работа!",
+  "feedbackImage": "https://media.tenor.com/EKUNdZ53C7UAAAAi/tonibear-bear.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Бабушка закончила печь пирожки в 22 ч 30 мин. Сколько времени бабушка пекла пирожки, если она начала их печь в 19 ч 50 мин?",
+      "correct": [
+        "2 ч 40 мин"
+      ],
+      "wrong": [
+        "2 ч 30 мин",
+        "2 ч 20 мин",
+        "2 ч 10 мин"
+      ]
+    },
+    {
+      "question": "Мама закончила готовить ужин в 19 ч 20 мин. Сколько времени у неё заняло приготовление ужина, если она начала готовить в 17 ч 40 мин?",
+      "correct": [
+        "1 ч 40 мин"
+      ],
+      "wrong": [
+        "1 ч 30 мин",
+        "1 ч 20 мин",
+        "1 ч 10 мин"
+      ]
+    },
+    {
+      "question": "Камилла с сестрой пошли в цирк. Сколько длилось представление, если оно началось в 17 ч 50 мин, а закончилось в 19 ч 10 мин?",
+      "correct": [
+        "1 ч 20 мин"
+      ],
+      "wrong": [
+        "2 ч 40 мин",
+        "1 ч 40 мин",
+        "2 ч 20 мин"
+      ]
+    },
+    {
+      "question": "Бегун пробежал дистанцию за 1 час 36 минут и финишировал в 13 часов 23 минуты. Сколько было времени, когда бегун стартовал?",
+      "correct": [
+        "11 ч 47 мин"
+      ],
+      "wrong": [
+        "12 ч 13 мин",
+        "11 ч 13 мин",
+        "12 ч 47 мин"
+      ]
+    },
+    {
+      "question": "Маша с родителями вышла из дома в 12 часов 50 минут, а домой они вернулись в 14 часов 25 минут. Сколько времени продолжалась прогулка?",
+      "correct": [
+        "1 ч 35 мин"
+      ],
+      "wrong": [
+        "1 ч 25 мин",
+        "2 ч 25 мин",
+        "2 ч 35 мин"
+      ]
+    },
+    {
+      "question": "Сергей с родителями едут на выходные к бабушке. Дорога занимает 2 ч 30 мин. Во сколько им нужно выехать из дома, чтобы приехать в 22 ч 20 мин?",
+      "correct": [
+        "19 ч 50 мин"
+      ],
+      "wrong": [
+        "20 ч 50 мин",
+        "20 ч 10 мин",
+        "19 ч 10 мин"
+      ]
+    }
+  ]
+}
