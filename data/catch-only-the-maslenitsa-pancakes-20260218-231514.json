@@ -1,0 +1,63 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "style": {
+    "shape": "rounded",
+    "pad": 37,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://img.genially.com/67961b32a116fb001568a75e/0a509833-9524-454d-9846-7c2546554f02.png"
+    ],
+    "bgImage": "",
+    "borderOn": true,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 170
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Game Maslenitsa pancakes",
+    "btnText": "START GAME"
+  },
+  "direction": "down",
+  "finalFeedback": "You are a Pancake Master!",
+  "levels": [
+    {
+      "target": "Catch only the Maslenitsa pancakes!",
+      "correct": [
+        "Pancake",
+        "Flour",
+        "Milk",
+        "Egg",
+        "Honey",
+        "Jam",
+        "Spring",
+        "Butter",
+        "Sugar",
+        "Sun",
+        "Holiday"
+      ],
+      "wrong": [
+        "Car",
+        "Bus",
+        "Robot",
+        "Pen",
+        "Book",
+        "Lamp",
+        "Ball",
+        "Star",
+        "Box",
+        "Plane"
+      ],
+      "timer": 30
+    }
+  ]
+}
