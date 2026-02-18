@@ -1,0 +1,202 @@
+{
+  "language": "ru",
+  "font": "Lobster",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 4,
+  "questionFont": "Lobster",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 34,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/66f6a02112d6e70015eac0ef/893369f1-db57-41b3-a9c6-207d3c15b2fa.png",
+    "bgImages": [
+      "https://img.genially.com/66f6a02112d6e70015eac0ef/893369f1-db57-41b3-a9c6-207d3c15b2fa.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 130
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "",
+    "btnText": ""
+  },
+  "direction": "random",
+  "finalFeedback": "",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "колебл...щийся",
+      "correct": [
+        "У(Ю)"
+      ],
+      "wrong": [
+        "А(Я)",
+        "А(Я)",
+        "А(Я)"
+      ]
+    },
+    {
+      "target": "пол...щий",
+      "correct": [
+        "У(Ю)"
+      ],
+      "wrong": [
+        "А(Я)",
+        "А(Я)",
+        "А(Я)"
+      ]
+    },
+    {
+      "target": "завис...щий",
+      "correct": [
+        "А(Я)"
+      ],
+      "wrong": [
+        "У(Ю)",
+        "У(Ю)",
+        "У(Ю)"
+      ]
+    },
+    {
+      "target": "кле...щий",
+      "correct": [
+        "А(Я)"
+      ],
+      "wrong": [
+        "У(Ю)",
+        "У(Ю)",
+        "У(Ю)"
+      ]
+    },
+    {
+      "target": "блещ...щий",
+      "correct": [
+        "У(Ю)"
+      ],
+      "wrong": [
+        "А(Я)",
+        "А(Я)",
+        "А(Я)"
+      ]
+    },
+    {
+      "target": "та...щий",
+      "correct": [
+        "У(Ю)"
+      ],
+      "wrong": [
+        "А(Я)",
+        "А(Я)",
+        "А(Я)"
+      ]
+    },
+    {
+      "target": "курлыч...щий",
+      "correct": [
+        "У(Ю)"
+      ],
+      "wrong": [
+        "А(Я)",
+        "А(Я)",
+        "А(Я)"
+      ]
+    },
+    {
+      "target": "дыш...щий",
+      "correct": [
+        "А(Я)"
+      ],
+      "wrong": [
+        "У(Ю)",
+        "У(Ю)",
+        "У(Ю)"
+      ]
+    },
+    {
+      "target": "таратор...щий",
+      "correct": [
+        "А(Я)"
+      ],
+      "wrong": [
+        "У(Ю)",
+        "У(Ю)",
+        "У(Ю)"
+      ]
+    },
+    {
+      "target": "се...щий",
+      "correct": [
+        "У(Ю)"
+      ],
+      "wrong": [
+        "А(Я)",
+        "А(Я)",
+        "А(Я)"
+      ]
+    },
+    {
+      "target": "дав...щий",
+      "correct": [
+        "А(Я)"
+      ],
+      "wrong": [
+        "У(Ю)",
+        "У(Ю)",
+        "У(Ю)"
+      ]
+    },
+    {
+      "target": "стел...щийся",
+      "correct": [
+        "У(Ю)"
+      ],
+      "wrong": [
+        "А(Я)",
+        "А(Я)",
+        "А(Я)"
+      ]
+    },
+    {
+      "target": "пил...щий",
+      "correct": [
+        "А(Я)"
+      ],
+      "wrong": [
+        "У(Ю)",
+        "У(Ю)",
+        "У(Ю)"
+      ]
+    },
+    {
+      "target": "беле...щий",
+      "correct": [
+        "У(Ю)"
+      ],
+      "wrong": [
+        "А(Я)",
+        "А(Я)",
+        "А(Я)"
+      ]
+    },
+    {
+      "target": "пен...щийся",
+      "correct": [
+        "А(Я)"
+      ],
+      "wrong": [
+        "У(Ю)",
+        "У(Ю)",
+        "У(Ю)"
+      ]
+    }
+  ]
+}
