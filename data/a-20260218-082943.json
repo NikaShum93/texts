@@ -1,0 +1,104 @@
+{
+  "language": "en",
+  "font": "Montserrat",
+  "fontSize": 24,
+  "textColor": "#112a53",
+  "speed": 7,
+  "style": {
+    "shape": "rounded",
+    "pad": 59,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/DfYr7Sc1/9a4b6cc8-5372-4ce9-b4f2-67f2c2f29845-removalai-preview.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 2,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 180
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "A or An?",
+    "btnText": "Start!"
+  },
+  "direction": "down",
+  "finalFeedback": "Well done!",
+  "levels": [
+    {
+      "target": "A",
+      "correct": [
+        "apple",
+        "ear",
+        "egg",
+        "elephant",
+        "ostrich",
+        "island",
+        "owl",
+        "eye",
+        "orange",
+        "umbrella",
+        "ant",
+        "ice-cream"
+      ],
+      "wrong": [
+        "dog",
+        "tomato",
+        "desk",
+        "cat",
+        "mouse",
+        "table",
+        "bed",
+        "chair",
+        "cake",
+        "book",
+        "ball",
+        "rabbit",
+        "parrot",
+        "car",
+        "hat"
+      ],
+      "timer": 45
+    },
+    {
+      "target": "AN",
+      "correct": [
+        "dog",
+        "tomato",
+        "desk",
+        "cat",
+        "mouse",
+        "table",
+        "bed",
+        "chair",
+        "cake",
+        "book",
+        "ball",
+        "rabbit",
+        "parrot",
+        "car",
+        "hat"
+      ],
+      "wrong": [
+        "apple",
+        "ear",
+        "egg",
+        "elephant",
+        "ostrich",
+        "island",
+        "owl",
+        "eye",
+        "orange",
+        "umbrella",
+        "ant",
+        "ice-cream"
+      ],
+      "timer": 30
+    }
+  ]
+}
