@@ -1,0 +1,157 @@
+{
+  "language": "en",
+  "font": "Montserrat",
+  "fontSize": 27,
+  "textColor": "#080808",
+  "speed": 4,
+  "questionFont": "Roboto",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 40,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/cJQFg1w3/blin.png",
+    "bgImages": [
+      "https://i.postimg.cc/cJQFg1w3/blin.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 0,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 180
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "PAST SIMPLE",
+    "btnText": "START"
+  },
+  "direction": "down",
+  "finalFeedback": "WELL DONE!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "She _______ her grandmother yesterday.",
+      "correct": [
+        "visited"
+      ],
+      "wrong": [
+        "went",
+        "sees"
+      ]
+    },
+    {
+      "target": "They _______ go to the park last Sunday.",
+      "correct": [
+        "did not"
+      ],
+      "wrong": [
+        "did",
+        "go"
+      ]
+    },
+    {
+      "target": "_______ you _______ the movie last night?",
+      "correct": [
+        "Did, see"
+      ],
+      "wrong": [
+        "Did, watched",
+        "Do, see"
+      ]
+    },
+    {
+      "target": "We _______ football in the afternoon.",
+      "correct": [
+        "played"
+      ],
+      "wrong": [
+        "plays",
+        "playing"
+      ]
+    },
+    {
+      "target": "He _______ study for the test.",
+      "correct": [
+        "did not"
+      ],
+      "wrong": [
+        "didn’t",
+        "don’t"
+      ]
+    },
+    {
+      "target": "_______ you _______ the party?",
+      "correct": [
+        "Did, enjoy"
+      ],
+      "wrong": [
+        "Did, enjoying",
+        "Does, enjoyed"
+      ]
+    },
+    {
+      "target": "The students _______ their homework on time.",
+      "correct": [
+        "finished"
+      ],
+      "wrong": [
+        "finishing",
+        "finishes"
+      ]
+    },
+    {
+      "target": "She _______ call her friend last weekend.",
+      "correct": [
+        "did not"
+      ],
+      "wrong": [
+        "don't",
+        "wasn’t"
+      ]
+    },
+    {
+      "target": "_______ they _______ at the airport early?",
+      "correct": [
+        "Did, arrive"
+      ],
+      "wrong": [
+        "Did, coming",
+        "Do, arrive"
+      ]
+    },
+    {
+      "target": "I _______ the book last week.",
+      "correct": [
+        "read"
+      ],
+      "wrong": [
+        "reading",
+        "readed"
+      ]
+    },
+    {
+      "target": "We _______ travel to another country last summer.",
+      "correct": [
+        "did not"
+      ],
+      "wrong": [
+        "doesn't",
+        "didn't"
+      ]
+    },
+    {
+      "target": "_______ you _______ breakfast this morning?",
+      "correct": [
+        "Did, have"
+      ],
+      "wrong": [
+        "Does, have",
+        "Do, had"
+      ]
+    }
+  ]
+}
