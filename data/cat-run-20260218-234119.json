@@ -1,0 +1,916 @@
+{
+  "lang": "en",
+  "mode": "choice",
+  "math": false,
+  "transparentBg": false,
+  "randomQuestions": true,
+  "ui": {
+    "title": "CAT RUN",
+    "start": "PLAY",
+    "again": "AGAIN",
+    "gameover": "GAME OVER",
+    "scoreLabel": "Score: ",
+    "fontSize": 8.5
+  },
+  "gameplay": {
+    "winQuestions": 10
+  },
+  "assets": {
+    "hero": "https://media.tenor.com/RyF8iVDEf3cAAAAi/16bit-80s.gif",
+    "mirrorHero": false,
+    "heroBobbing": false,
+    "obstacles": {
+      "ground": [
+        "🌲",
+        "🪨",
+        "🪵",
+        "🌵"
+      ],
+      "good": [
+        "🍤",
+        "🍗",
+        "🌭"
+      ],
+      "bad": [
+        "🦅",
+        "🧱",
+        "🚁",
+        "⛈️"
+      ]
+    }
+  },
+  "sounds": {
+    "mus": "https://raw.githubusercontent.com/kgbgamelab/audioplayer/main/Baa%20Dash.mp3",
+    "ding": "https://assets.mixkit.co/active_storage/sfx/2000/2000-preview.mp3",
+    "buzz": "https://assets.mixkit.co/active_storage/sfx/257/257-preview.mp3",
+    "coin": "https://assets.mixkit.co/active_storage/sfx/2019/2019-preview.mp3",
+    "crash": "https://assets.mixkit.co/active_storage/sfx/2042/2042-preview.mp3",
+    "win": "https://assets.mixkit.co/active_storage/sfx/2018/2018-preview.mp3"
+  },
+  "tasks": [
+    {
+      "question": "Dog ___ fast.",
+      "correct": [
+        "runs"
+      ],
+      "wrong": [
+        "run"
+      ]
+    },
+    {
+      "question": "Cat ___ milk.",
+      "correct": [
+        "drinks"
+      ],
+      "wrong": [
+        "drink"
+      ]
+    },
+    {
+      "question": "Boy ___ football.",
+      "correct": [
+        "plays"
+      ],
+      "wrong": [
+        "play"
+      ]
+    },
+    {
+      "question": "Girl ___ English.",
+      "correct": [
+        "learns"
+      ],
+      "wrong": [
+        "learn"
+      ]
+    },
+    {
+      "question": "He ___ pizza.",
+      "correct": [
+        "likes"
+      ],
+      "wrong": [
+        "like"
+      ]
+    },
+    {
+      "question": "She ___ apples.",
+      "correct": [
+        "eats"
+      ],
+      "wrong": [
+        "eat"
+      ]
+    },
+    {
+      "question": "Tom ___ to school.",
+      "correct": [
+        "goes"
+      ],
+      "wrong": [
+        "go"
+      ]
+    },
+    {
+      "question": "Anna ___ at home.",
+      "correct": [
+        "stays"
+      ],
+      "wrong": [
+        "stay"
+      ]
+    },
+    {
+      "question": "Dad ___ coffee.",
+      "correct": [
+        "drinks"
+      ],
+      "wrong": [
+        "drink"
+      ]
+    },
+    {
+      "question": "Mom ___ tea.",
+      "correct": [
+        "drinks"
+      ],
+      "wrong": [
+        "drink"
+      ]
+    },
+    {
+      "question": "Bird ___ in the sky.",
+      "correct": [
+        "flies"
+      ],
+      "wrong": [
+        "fly"
+      ]
+    },
+    {
+      "question": "Fish ___ in water.",
+      "correct": [
+        "swims"
+      ],
+      "wrong": [
+        "swim"
+      ]
+    },
+    {
+      "question": "Teacher ___ English.",
+      "correct": [
+        "teaches"
+      ],
+      "wrong": [
+        "teach"
+      ]
+    },
+    {
+      "question": "Student ___ homework.",
+      "correct": [
+        "does"
+      ],
+      "wrong": [
+        "do"
+      ]
+    },
+    {
+      "question": "Cat ___ on the chair.",
+      "correct": [
+        "sits"
+      ],
+      "wrong": [
+        "sit"
+      ]
+    },
+    {
+      "question": "Dog ___ on the floor.",
+      "correct": [
+        "sleeps"
+      ],
+      "wrong": [
+        "sleep"
+      ]
+    },
+    {
+      "question": "He ___ TV.",
+      "correct": [
+        "watches"
+      ],
+      "wrong": [
+        "watch"
+      ]
+    },
+    {
+      "question": "She ___ music.",
+      "correct": [
+        "likes"
+      ],
+      "wrong": [
+        "like"
+      ]
+    },
+    {
+      "question": "Boy ___ a bike.",
+      "correct": [
+        "has"
+      ],
+      "wrong": [
+        "have"
+      ]
+    },
+    {
+      "question": "Girl ___ a doll.",
+      "correct": [
+        "has"
+      ],
+      "wrong": [
+        "have"
+      ]
+    },
+    {
+      "question": "Sun ___ hot.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are"
+      ]
+    },
+    {
+      "question": "Wind ___ cold.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are"
+      ]
+    },
+    {
+      "question": "Lion ___ meat.",
+      "correct": [
+        "eats"
+      ],
+      "wrong": [
+        "eat"
+      ]
+    },
+    {
+      "question": "Cow ___ grass.",
+      "correct": [
+        "eats"
+      ],
+      "wrong": [
+        "eat"
+      ]
+    },
+    {
+      "question": "He ___ to music.",
+      "correct": [
+        "listens"
+      ],
+      "wrong": [
+        "listen"
+      ]
+    },
+    {
+      "question": "She ___ books.",
+      "correct": [
+        "reads"
+      ],
+      "wrong": [
+        "read"
+      ]
+    },
+    {
+      "question": "Baby ___ milk.",
+      "correct": [
+        "drinks"
+      ],
+      "wrong": [
+        "drink"
+      ]
+    },
+    {
+      "question": "Child ___ juice.",
+      "correct": [
+        "drinks"
+      ],
+      "wrong": [
+        "drink"
+      ]
+    },
+    {
+      "question": "Tom ___ tennis.",
+      "correct": [
+        "plays"
+      ],
+      "wrong": [
+        "play"
+      ]
+    },
+    {
+      "question": "Anna ___ chess.",
+      "correct": [
+        "plays"
+      ],
+      "wrong": [
+        "play"
+      ]
+    },
+    {
+      "question": "Dad ___ a car.",
+      "correct": [
+        "drives"
+      ],
+      "wrong": [
+        "drive"
+      ]
+    },
+    {
+      "question": "Mom ___ a bag.",
+      "correct": [
+        "carries"
+      ],
+      "wrong": [
+        "carry"
+      ]
+    },
+    {
+      "question": "Cat ___ mice.",
+      "correct": [
+        "likes"
+      ],
+      "wrong": [
+        "like"
+      ]
+    },
+    {
+      "question": "Dog ___ bones.",
+      "correct": [
+        "likes"
+      ],
+      "wrong": [
+        "like"
+      ]
+    },
+    {
+      "question": "Teacher ___ questions.",
+      "correct": [
+        "asks"
+      ],
+      "wrong": [
+        "ask"
+      ]
+    },
+    {
+      "question": "Student ___ answers.",
+      "correct": [
+        "gives"
+      ],
+      "wrong": [
+        "give"
+      ]
+    },
+    {
+      "question": "Boy ___ fast.",
+      "correct": [
+        "runs"
+      ],
+      "wrong": [
+        "run"
+      ]
+    },
+    {
+      "question": "Girl ___ fast.",
+      "correct": [
+        "runs"
+      ],
+      "wrong": [
+        "run"
+      ]
+    },
+    {
+      "question": "He ___ a ball.",
+      "correct": [
+        "throws"
+      ],
+      "wrong": [
+        "throw"
+      ]
+    },
+    {
+      "question": "She ___ a kite.",
+      "correct": [
+        "flies"
+      ],
+      "wrong": [
+        "fly"
+      ]
+    },
+    {
+      "question": "Bird ___ a nest.",
+      "correct": [
+        "builds"
+      ],
+      "wrong": [
+        "build"
+      ]
+    },
+    {
+      "question": "Spider ___ a web.",
+      "correct": [
+        "makes"
+      ],
+      "wrong": [
+        "make"
+      ]
+    },
+    {
+      "question": "He ___ breakfast.",
+      "correct": [
+        "eats"
+      ],
+      "wrong": [
+        "eat"
+      ]
+    },
+    {
+      "question": "She ___ dinner.",
+      "correct": [
+        "cooks"
+      ],
+      "wrong": [
+        "cook"
+      ]
+    },
+    {
+      "question": "Tom ___ his room.",
+      "correct": [
+        "cleans"
+      ],
+      "wrong": [
+        "clean"
+      ]
+    },
+    {
+      "question": "Anna ___ her bed.",
+      "correct": [
+        "makes"
+      ],
+      "wrong": [
+        "make"
+      ]
+    },
+    {
+      "question": "Dog ___ at night.",
+      "correct": [
+        "barks"
+      ],
+      "wrong": [
+        "bark"
+      ]
+    },
+    {
+      "question": "Cat ___ at night.",
+      "correct": [
+        "sleeps"
+      ],
+      "wrong": [
+        "sleep"
+      ]
+    },
+    {
+      "question": "He ___ a game.",
+      "correct": [
+        "plays"
+      ],
+      "wrong": [
+        "play"
+      ]
+    },
+    {
+      "question": "She ___ a game.",
+      "correct": [
+        "plays"
+      ],
+      "wrong": [
+        "play"
+      ]
+    },
+    {
+      "question": "Boy ___ water.",
+      "correct": [
+        "drinks"
+      ],
+      "wrong": [
+        "drink"
+      ]
+    },
+    {
+      "question": "Girl ___ water.",
+      "correct": [
+        "drinks"
+      ],
+      "wrong": [
+        "drink"
+      ]
+    },
+    {
+      "question": "Teacher ___ the lesson.",
+      "correct": [
+        "starts"
+      ],
+      "wrong": [
+        "start"
+      ]
+    },
+    {
+      "question": "Student ___ the lesson.",
+      "correct": [
+        "learns"
+      ],
+      "wrong": [
+        "learn"
+      ]
+    },
+    {
+      "question": "Mom ___ dinner.",
+      "correct": [
+        "cooks"
+      ],
+      "wrong": [
+        "cook"
+      ]
+    },
+    {
+      "question": "Dad ___ dinner.",
+      "correct": [
+        "eats"
+      ],
+      "wrong": [
+        "eat"
+      ]
+    },
+    {
+      "question": "Sun ___ in the sky.",
+      "correct": [
+        "shines"
+      ],
+      "wrong": [
+        "shine"
+      ]
+    },
+    {
+      "question": "Moon ___ at night.",
+      "correct": [
+        "shines"
+      ],
+      "wrong": [
+        "shine"
+      ]
+    },
+    {
+      "question": "He ___ a book.",
+      "correct": [
+        "reads"
+      ],
+      "wrong": [
+        "read"
+      ]
+    },
+    {
+      "question": "She ___ a book.",
+      "correct": [
+        "reads"
+      ],
+      "wrong": [
+        "read"
+      ]
+    },
+    {
+      "question": "Dog ___ the ball.",
+      "correct": [
+        "catches"
+      ],
+      "wrong": [
+        "catch"
+      ]
+    },
+    {
+      "question": "Cat ___ the toy.",
+      "correct": [
+        "likes"
+      ],
+      "wrong": [
+        "like"
+      ]
+    },
+    {
+      "question": "Bird ___ early.",
+      "correct": [
+        "wakes"
+      ],
+      "wrong": [
+        "wake"
+      ]
+    },
+    {
+      "question": "Sun ___ early.",
+      "correct": [
+        "rises"
+      ],
+      "wrong": [
+        "rise"
+      ]
+    },
+    {
+      "question": "Boy ___ to music.",
+      "correct": [
+        "listens"
+      ],
+      "wrong": [
+        "listen"
+      ]
+    },
+    {
+      "question": "Girl ___ to music.",
+      "correct": [
+        "listens"
+      ],
+      "wrong": [
+        "listen"
+      ]
+    },
+    {
+      "question": "Dad ___ TV.",
+      "correct": [
+        "watches"
+      ],
+      "wrong": [
+        "watch"
+      ]
+    },
+    {
+      "question": "Mom ___ TV.",
+      "correct": [
+        "watches"
+      ],
+      "wrong": [
+        "watch"
+      ]
+    },
+    {
+      "question": "Teacher ___ the class.",
+      "correct": [
+        "helps"
+      ],
+      "wrong": [
+        "help"
+      ]
+    },
+    {
+      "question": "Student ___ the teacher.",
+      "correct": [
+        "helps"
+      ],
+      "wrong": [
+        "help"
+      ]
+    },
+    {
+      "question": "Dog ___ loud.",
+      "correct": [
+        "barks"
+      ],
+      "wrong": [
+        "bark"
+      ]
+    },
+    {
+      "question": "Cat ___ loud.",
+      "correct": [
+        "meows"
+      ],
+      "wrong": [
+        "meow"
+      ]
+    },
+    {
+      "question": "Boy ___ fast.",
+      "correct": [
+        "runs"
+      ],
+      "wrong": [
+        "run"
+      ]
+    },
+    {
+      "question": "Train ___ fast.",
+      "correct": [
+        "runs"
+      ],
+      "wrong": [
+        "run"
+      ]
+    },
+    {
+      "question": "Mom ___ breakfast.",
+      "correct": [
+        "makes"
+      ],
+      "wrong": [
+        "make"
+      ]
+    },
+    {
+      "question": "Dad ___ breakfast.",
+      "correct": [
+        "makes"
+      ],
+      "wrong": [
+        "make"
+      ]
+    },
+    {
+      "question": "Cat ___ fish.",
+      "correct": [
+        "likes"
+      ],
+      "wrong": [
+        "like"
+      ]
+    },
+    {
+      "question": "Dog ___ fish.",
+      "correct": [
+        "likes"
+      ],
+      "wrong": [
+        "like"
+      ]
+    },
+    {
+      "question": "Boy ___ homework.",
+      "correct": [
+        "does"
+      ],
+      "wrong": [
+        "do"
+      ]
+    },
+    {
+      "question": "Girl ___ homework.",
+      "correct": [
+        "does"
+      ],
+      "wrong": [
+        "do"
+      ]
+    },
+    {
+      "question": "He ___ a friend.",
+      "correct": [
+        "has"
+      ],
+      "wrong": [
+        "have"
+      ]
+    },
+    {
+      "question": "She ___ a friend.",
+      "correct": [
+        "has"
+      ],
+      "wrong": [
+        "have"
+      ]
+    },
+    {
+      "question": "Tom ___ English.",
+      "correct": [
+        "studies"
+      ],
+      "wrong": [
+        "study"
+      ]
+    },
+    {
+      "question": "Anna ___ English.",
+      "correct": [
+        "studies"
+      ],
+      "wrong": [
+        "study"
+      ]
+    },
+    {
+      "question": "Bird ___ high.",
+      "correct": [
+        "flies"
+      ],
+      "wrong": [
+        "fly"
+      ]
+    },
+    {
+      "question": "Plane ___ high.",
+      "correct": [
+        "flies"
+      ],
+      "wrong": [
+        "fly"
+      ]
+    },
+    {
+      "question": "Dad ___ the car.",
+      "correct": [
+        "drives"
+      ],
+      "wrong": [
+        "drive"
+      ]
+    },
+    {
+      "question": "Mom ___ the car.",
+      "correct": [
+        "drives"
+      ],
+      "wrong": [
+        "drive"
+      ]
+    },
+    {
+      "question": "Boy ___ the door.",
+      "correct": [
+        "opens"
+      ],
+      "wrong": [
+        "open"
+      ]
+    },
+    {
+      "question": "Girl ___ the door.",
+      "correct": [
+        "opens"
+      ],
+      "wrong": [
+        "open"
+      ]
+    },
+    {
+      "question": "Dog ___ happy.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are"
+      ]
+    },
+    {
+      "question": "Cat ___ happy.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are"
+      ]
+    },
+    {
+      "question": "Sun ___ bright.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are"
+      ]
+    },
+    {
+      "question": "Star ___ bright.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are"
+      ]
+    },
+    {
+      "question": "He ___ school.",
+      "correct": [
+        "likes"
+      ],
+      "wrong": [
+        "like"
+      ]
+    },
+    {
+      "question": "She ___ school.",
+      "correct": [
+        "likes"
+      ],
+      "wrong": [
+        "like"
+      ]
+    }
+  ]
+}
