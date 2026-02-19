@@ -1,0 +1,184 @@
+{
+  "lang": "ru",
+  "mode": "choice",
+  "math": true,
+  "transparentBg": false,
+  "randomQuestions": true,
+  "ui": {
+    "title": "SHEEP RUN",
+    "start": "СТАРТ",
+    "again": "ПОВТОР",
+    "gameover": "Игра окончена",
+    "scoreLabel": "СЧЕТ: ",
+    "fontSize": 7
+  },
+  "gameplay": {
+    "winQuestions": 10
+  },
+  "assets": {
+    "hero": "https://media.tenor.com/LXCa8c_ODiEAAAAi/12.gif",
+    "mirrorHero": true,
+    "heroBobbing": true,
+    "obstacles": {
+      "ground": [
+        "🌲",
+        "🌵"
+      ],
+      "good": [
+        "🌾",
+        "🌽",
+        "🍀",
+        "🍎"
+      ],
+      "bad": [
+        "🦅",
+        "🧱"
+      ]
+    }
+  },
+  "sounds": {
+    "mus": "https://raw.githubusercontent.com/kgbgamelab/audioplayer/main/Baa%20Dash.mp3",
+    "ding": "https://assets.mixkit.co/active_storage/sfx/2000/2000-preview.mp3",
+    "buzz": "https://assets.mixkit.co/active_storage/sfx/257/257-preview.mp3",
+    "coin": "https://assets.mixkit.co/active_storage/sfx/2019/2019-preview.mp3",
+    "crash": "https://assets.mixkit.co/active_storage/sfx/2042/2042-preview.mp3",
+    "win": "https://assets.mixkit.co/active_storage/sfx/2018/2018-preview.mp3"
+  },
+  "tasks": [
+    {
+      "question": "5 – 2",
+      "correct": [
+        "3"
+      ],
+      "wrong": [
+        "4"
+      ]
+    },
+    {
+      "question": "6 – 4",
+      "correct": [
+        "2"
+      ],
+      "wrong": [
+        "3"
+      ]
+    },
+    {
+      "question": "2 + 3",
+      "correct": [
+        "5"
+      ],
+      "wrong": [
+        "6"
+      ]
+    },
+    {
+      "question": "8 – 4",
+      "correct": [
+        "4"
+      ],
+      "wrong": [
+        "5"
+      ]
+    },
+    {
+      "question": "4 + 3",
+      "correct": [
+        "7"
+      ],
+      "wrong": [
+        "8"
+      ]
+    },
+    {
+      "question": "1 + 5",
+      "correct": [
+        "6"
+      ],
+      "wrong": [
+        "7"
+      ]
+    },
+    {
+      "question": "6 + 3",
+      "correct": [
+        "9"
+      ],
+      "wrong": [
+        "8"
+      ]
+    },
+    {
+      "question": "5 – это 3 и",
+      "correct": [
+        "2"
+      ],
+      "wrong": [
+        "4"
+      ]
+    },
+    {
+      "question": "6 – это 4 и",
+      "correct": [
+        "2"
+      ],
+      "wrong": [
+        "3"
+      ]
+    },
+    {
+      "question": "7 – это 4 и",
+      "correct": [
+        "3"
+      ],
+      "wrong": [
+        "2"
+      ]
+    },
+    {
+      "question": "8 – это 5 и",
+      "correct": [
+        "3"
+      ],
+      "wrong": [
+        "4"
+      ]
+    },
+    {
+      "question": "8 – это 7 и",
+      "correct": [
+        "1"
+      ],
+      "wrong": [
+        "2"
+      ]
+    },
+    {
+      "question": "4 – это 3 и",
+      "correct": [
+        "1"
+      ],
+      "wrong": [
+        "2"
+      ]
+    },
+    {
+      "question": "10 – это 2 и",
+      "correct": [
+        "8"
+      ],
+      "wrong": [
+        "7"
+      ]
+    },
+    {
+      "question": "9 - 5",
+      "correct": [
+        "4"
+      ],
+      "wrong": [
+        "5"
+      ]
+    }
+  ]
+}
