@@ -1,0 +1,60 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [],
+    "bgImage": "",
+    "borderOn": true,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": true,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 0,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Буква Щ",
+    "btnText": ""
+  },
+  "direction": "up",
+  "finalFeedback": "",
+  "levels": [
+    {
+      "target": "щиты с буквой Щ",
+      "correct": [
+        "https://i.postimg.cc/rwxnv35F/(12).png",
+        "https://i.postimg.cc/P5Y3B915/(13).png",
+        "https://i.postimg.cc/YCYnJZQS/(14).png",
+        "https://i.postimg.cc/HkXZfRbn/(15).png",
+        "https://i.postimg.cc/sg76tq5B/(16).png",
+        "https://i.postimg.cc/FH3W280d/(17).png",
+        "https://i.postimg.cc/MpVPhN1R/(18).png",
+        "https://i.postimg.cc/KYbqFf5z/(19).png",
+        "https://i.postimg.cc/nLxRZ21M/(20).png",
+        "https://i.postimg.cc/9f28VbBr/image.png"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/jSPgGmyK/(10).png",
+        "https://i.postimg.cc/0yDWLF7k/(11).png",
+        "https://i.postimg.cc/jdG33twM/(2).png",
+        "https://i.postimg.cc/dtzNNwZM/(3).png",
+        "https://i.postimg.cc/vHp22bxM/(4).png",
+        "https://i.postimg.cc/bNKVVpSj/(5).png",
+        "https://i.postimg.cc/8PqXXNfG/(6).png",
+        "https://i.postimg.cc/jSPgGmPG/(7).png",
+        "https://i.postimg.cc/VknG3pXy/(8).png",
+        "https://i.postimg.cc/RZKsjywB/(9).png"
+      ],
+      "timer": 60
+    }
+  ]
+}
