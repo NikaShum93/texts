@@ -1,0 +1,163 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Patrick Hand",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://github.com/kristeachme/sounds/raw/refs/heads/main/cartoon-bubble-pop-01-.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/BQctJC3r/Dizajn-bez-nazvania-(15).png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(253,255,117,0.95)",
+      "borderColor": "#ceff1f",
+      "textColor": "#040101",
+      "fontSize": 25,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#f5ff66",
+      "borderColor": "#e0ff47",
+      "textColor": "#0f0000",
+      "fontSize": 25,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "You're a super pancake catcher!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 3,
+  "tasks": [
+    {
+      "question": "I ______ my homework, so I can go out now.",
+      "correct": [
+        "have finished"
+      ],
+      "wrong": [
+        "finished",
+        "has finished"
+      ]
+    },
+    {
+      "question": "Kate ______ to Paris in 2022.",
+      "correct": [
+        "went"
+      ],
+      "wrong": [
+        "has gone",
+        "has went"
+      ]
+    },
+    {
+      "question": "Tom ______ just ______ his project.",
+      "correct": [
+        "has / finished"
+      ],
+      "wrong": [
+        "did / finish",
+        "has / finish"
+      ]
+    },
+    {
+      "question": "I ______ that book yet.",
+      "correct": [
+        "haven't read"
+      ],
+      "wrong": [
+        "didn't read",
+        "haven't readed"
+      ]
+    },
+    {
+      "question": "______ you ever ______ a famous person?",
+      "correct": [
+        "Have / met"
+      ],
+      "wrong": [
+        "Did / meet",
+        "Have / meet"
+      ]
+    },
+    {
+      "question": "She ______ her keys, so she can't open the door.",
+      "correct": [
+        "has lost"
+      ],
+      "wrong": [
+        "lost",
+        "have lost"
+      ]
+    },
+    {
+      "question": "I ______ my friend since Monday.",
+      "correct": [
+        "haven't seen"
+      ],
+      "wrong": [
+        "didn't see",
+        "haven't saw"
+      ]
+    },
+    {
+      "question": "We ______ our grandparents two days ago.",
+      "correct": [
+        "visited"
+      ],
+      "wrong": [
+        "have visited",
+        "has visited"
+      ]
+    },
+    {
+      "question": "She ______ her room yet.",
+      "correct": [
+        "hasn't cleaned"
+      ],
+      "wrong": [
+        "didn't clean",
+        "hasn't clean"
+      ]
+    },
+    {
+      "question": "I ______ my best friend for five years.",
+      "correct": [
+        "have known"
+      ],
+      "wrong": [
+        "knew",
+        "have knew"
+      ]
+    },
+    {
+      "question": "She ______ her leg when she was skiing last winter.",
+      "correct": [
+        "broke"
+      ],
+      "wrong": [
+        "has broken",
+        "has broke"
+      ]
+    },
+    {
+      "question": "What time ______ she ______ home yesterday?",
+      "correct": [
+        "did / get"
+      ],
+      "wrong": [
+        "has / got",
+        "did / got"
+      ]
+    }
+  ]
+}
