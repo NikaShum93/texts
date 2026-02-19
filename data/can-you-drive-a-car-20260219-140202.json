@@ -1,0 +1,58 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://tenor.com/ru/view/sweetland-cafe-pancakes-tortitas-gif-10044564441281868296",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(255,182,56,0.6)",
+      "borderColor": "#fff700",
+      "textColor": "#fa7900",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Can you drive a car?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Can your father drive a car?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Can your granny drive a car?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
