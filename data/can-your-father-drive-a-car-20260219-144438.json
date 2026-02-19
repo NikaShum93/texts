@@ -1,0 +1,93 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Poppins",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": true,
+  "bubbleSize": 100,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/64233afb55129a0017751c8e/8d0a0780-9006-44f3-ad36-8ff901b3aa41.gif",
+    "bubbleSize": 100,
+    "task": {
+      "bgColor": "rgba(255,182,56,0.8)",
+      "borderColor": "#fff700",
+      "textColor": "#fa7900",
+      "fontSize": 25,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 25,
+      "neon": true,
+      "imageSize": 420
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Can your father drive a car ?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Can you write Russian texts ?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Can your mum write in English ?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Can your granfather skate ?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Can your mum ski very well ?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Can your parents sing ?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Can your parents play tennis well ?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Can your grandparents dance ?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Can your friend speak English ?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Can your friend count well ?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
