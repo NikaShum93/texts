@@ -1,0 +1,122 @@
+{
+  "language": "en",
+  "font": "Special Elite",
+  "fontSize": 25,
+  "textColor": "#ffffff",
+  "speed": 4,
+  "style": {
+    "shape": "rounded",
+    "pad": 60,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://img.genially.com/637bc05fc1a94e0019f0ea74/9678f1a2-eb28-4f69-8e30-30ad8721b101.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 220
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "CATCH THE SOCK!",
+    "btnText": "START"
+  },
+  "direction": "down",
+  "finalFeedback": "Thanks! Dobby is a free elf now! :)",
+  "levels": [
+    {
+      "target": "ORDINAL NUMBERS",
+      "correct": [
+        "the fourth",
+        "the twenty-second",
+        "the eleventh",
+        "the thirty-fifth",
+        "the first",
+        "the nineteenth",
+        "the forty-third",
+        "the seventh",
+        "the twelfth",
+        "the fifty-eighth",
+        "the third",
+        "the twenty-sixth",
+        "the eighth",
+        "the sixtieth",
+        "the fifteenth",
+        "the ninety-second",
+        "the second",
+        "the thirty-ninth",
+        "the tenth",
+        "the sixty-fourth"
+      ],
+      "wrong": [
+        "forty-two",
+        "seventeen",
+        "nine",
+        "thirty",
+        "twelve",
+        "fifty-five",
+        "eight",
+        "twenty-one",
+        "fourteen",
+        "sixty",
+        "three",
+        "ninety",
+        "eleven",
+        "twenty-eight",
+        "five"
+      ],
+      "timer": 105
+    },
+    {
+      "target": "CORRECT ORDINAL NUMBERS",
+      "correct": [
+        "the fourth",
+        "the thirteenth",
+        "the fourteenth",
+        "the ninth",
+        "the thirty-fifth",
+        "the first",
+        "the nineteenth",
+        "the forty",
+        "the sixth",
+        "the twelfth",
+        "the fifty-eighth",
+        "the third",
+        "the twentieth",
+        "the eighth",
+        "the sixtieth",
+        "the fifteenth",
+        "the ninetieth",
+        "the second",
+        "the thirty-ninth",
+        "the tenth",
+        "the fifth",
+        "the fifteenth"
+      ],
+      "wrong": [
+        "the twelveth",
+        "the fourty-third",
+        "the nineth",
+        "the fiveth",
+        "the threeth",
+        "the twenty-fiveth",
+        "the eightth",
+        "the ninteenth",
+        "the fourtieth",
+        "the sixtheen",
+        "the seconed",
+        "the twenty-nineth",
+        "the threetieth",
+        "the ninetyeth",
+        "the eightieth"
+      ],
+      "timer": 105
+    }
+  ]
+}
