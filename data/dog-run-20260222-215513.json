@@ -1,0 +1,206 @@
+{
+  "lang": "en",
+  "mode": "choice",
+  "math": false,
+  "transparentBg": false,
+  "randomQuestions": true,
+  "ui": {
+    "title": "DOG RUN",
+    "start": "PLAY",
+    "again": "AGAIN",
+    "gameover": "GAME OVER",
+    "scoreLabel": "Score: ",
+    "fontSize": 8
+  },
+  "gameplay": {
+    "winQuestions": 17,
+    "diffBaseSpawnMs": 12500,
+    "diffBaseMoveSpeed": 7.5,
+    "diffMedMult": 0.88,
+    "diffHardMult": 0.76
+  },
+  "assets": {
+    "hero": "https://media.tenor.com/f5IqNksAcW0AAAAi/woof-running.gif",
+    "mirrorHero": false,
+    "heroBobbing": true,
+    "obstacles": {
+      "ground": [
+        "🌵",
+        "🚕",
+        "⚽",
+        "🛴",
+        "🔥"
+      ],
+      "good": [
+        "🍗",
+        "🥩",
+        "🍖",
+        "🦴"
+      ],
+      "bad": []
+    }
+  },
+  "sounds": {
+    "mus": "",
+    "ding": "https://assets.mixkit.co/active_storage/sfx/2000/2000-preview.mp3",
+    "buzz": "https://assets.mixkit.co/active_storage/sfx/257/257-preview.mp3",
+    "coin": "https://assets.mixkit.co/active_storage/sfx/2019/2019-preview.mp3",
+    "crash": "https://assets.mixkit.co/active_storage/sfx/2042/2042-preview.mp3",
+    "win": "https://assets.mixkit.co/active_storage/sfx/2018/2018-preview.mp3"
+  },
+  "tasks": [
+    {
+      "question": "Can you swim? ✅",
+      "correct": [
+        "Yes, I can."
+      ],
+      "wrong": [
+        "No, I can't."
+      ]
+    },
+    {
+      "question": "Can a bird fly?",
+      "correct": [
+        "Yes, it can."
+      ],
+      "wrong": [
+        "No, it can’t."
+      ]
+    },
+    {
+      "question": "Can a fish walk?",
+      "correct": [
+        "No, it can’t."
+      ],
+      "wrong": [
+        "Yes, it can."
+      ]
+    },
+    {
+      "question": "Can Jane play football? ❌",
+      "correct": [
+        "No, she can’t."
+      ],
+      "wrong": [
+        "Yes, she can."
+      ]
+    },
+    {
+      "question": "Are you a student?",
+      "correct": [
+        "Yes, I am."
+      ],
+      "wrong": [
+        "No, I'm not."
+      ]
+    },
+    {
+      "question": "Is it cold today? ✅",
+      "correct": [
+        "Yes, it is."
+      ],
+      "wrong": [
+        "No, it isn't."
+      ]
+    },
+    {
+      "question": "Is your teacher kind? ✅",
+      "correct": [
+        "Yes, she is."
+      ],
+      "wrong": [
+        "No, she isn't."
+      ]
+    },
+    {
+      "question": "Are mice big animals?",
+      "correct": [
+        "No, they aren't."
+      ],
+      "wrong": [
+        "Yes, they are."
+      ]
+    },
+    {
+      "question": "Have you got a pet? ❌",
+      "correct": [
+        "No, I haven't."
+      ],
+      "wrong": [
+        "Yes, I have."
+      ]
+    },
+    {
+      "question": "Has your friend got a bike? ✅",
+      "correct": [
+        "Yes, he has."
+      ],
+      "wrong": [
+        "No, he hasn’t."
+      ]
+    },
+    {
+      "question": "Has a snake got legs?",
+      "correct": [
+        "No, it hasn't."
+      ],
+      "wrong": [
+        "Yes, it has."
+      ]
+    },
+    {
+      "question": "Have we got English today?",
+      "correct": [
+        "Yes, we have."
+      ],
+      "wrong": [
+        "No, we haven't."
+      ]
+    },
+    {
+      "question": "Can a dog climb a tree?",
+      "correct": [
+        "No, it can't."
+      ],
+      "wrong": [
+        "No, it hasn't."
+      ]
+    },
+    {
+      "question": "Are you happy today?",
+      "correct": [
+        "Yes, I am."
+      ],
+      "wrong": [
+        "Yes, I can."
+      ]
+    },
+    {
+      "question": "Have you got a best friend?",
+      "correct": [
+        "Yes, I have."
+      ],
+      "wrong": [
+        "Yes, I am."
+      ]
+    },
+    {
+      "question": "Has your teacher got glasses?",
+      "correct": [
+        "Yes, she has."
+      ],
+      "wrong": [
+        "Yes, she is."
+      ]
+    },
+    {
+      "question": "Is your schoolbag blue?",
+      "correct": [
+        "No, it isn't."
+      ],
+      "wrong": [
+        "No, it hasn't."
+      ]
+    }
+  ]
+}
