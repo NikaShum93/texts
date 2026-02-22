@@ -1,0 +1,34 @@
+{
+  "listA": [
+    "be",
+    "go",
+    "see",
+    "take",
+    "make",
+    "come",
+    "get",
+    "give",
+    "find",
+    "think",
+    "buy",
+    "write"
+  ],
+  "listB": [
+    "was / were",
+    "went",
+    "saw",
+    "took",
+    "made",
+    "came",
+    "got",
+    "gave",
+    "found",
+    "thought",
+    "bought",
+    "wrote"
+  ],
+  "freeMode": false,
+  "feedback": "Well done!",
+  "language": "en",
+  "mathMode": false
+}
