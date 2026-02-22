@@ -1,0 +1,93 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Fredoka",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/b207e2ee-59c8-47f0-998f-8c5a734f8a10.png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(240,199,51,0.9)",
+      "borderColor": "#fff700",
+      "textColor": "#ffffff",
+      "fontSize": 30,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 30,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://img.genially.com/69280f411dd3350008276459/38ecab46-2990-4d9f-906a-18604b9d3105.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "image",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "What time do you wake up on school days?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What do you eat for breakfast?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do you walk to school or go by car or bus?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What do you do after school?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do you do your homework in the afternoon or in the evening?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What games do you like to play with your friends?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do you help your parents at home? What do you do?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What time do you have dinner?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do you watch TV or read a book before bed?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What time do you go to sleep?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
