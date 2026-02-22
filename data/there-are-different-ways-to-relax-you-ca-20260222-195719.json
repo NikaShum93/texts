@@ -1,0 +1,167 @@
+{
+  "language": "en",
+  "font": "Indie Flower",
+  "fontSize": 25,
+  "textColor": "#050000",
+  "speed": 4,
+  "questionFont": "Indie Flower",
+  "questionFontSize": 30,
+  "style": {
+    "shape": "rounded",
+    "pad": 70,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/63gkk9N0/Chat-GPT-Image-22-fevr-2026-g-13-32-38.png",
+    "bgImages": [
+      "https://i.postimg.cc/63gkk9N0/Chat-GPT-Image-22-fevr-2026-g-13-32-38.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 220
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "SUCH AS/ FOR EXAMPLE/ INCLUDING",
+    "btnText": "START"
+  },
+  "direction": "random",
+  "finalFeedback": "GREAT JOB!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "There are different ways to relax. _____, you can read a book or listen to music.",
+      "correct": [
+        "For example"
+      ],
+      "wrong": [
+        "Including",
+        "Such as"
+      ]
+    },
+    {
+      "target": "We visited some European countries, _____ France and Italy.",
+      "correct": [
+        "such as"
+      ],
+      "wrong": [
+        "including",
+        "for example"
+      ]
+    },
+    {
+      "target": "I like outdoor activities, _____ hiking and cycling.",
+      "correct": [
+        "such as"
+      ],
+      "wrong": [
+        "including",
+        "for example"
+      ]
+    },
+    {
+      "target": "He enjoys winter sports, _____ skiing and snowboarding.",
+      "correct": [
+        "such as"
+      ],
+      "wrong": [
+        "including",
+        "for example"
+      ]
+    },
+    {
+      "target": "Teenagers use social media a lot. _____, they share photos and videos every day.",
+      "correct": [
+        "For example"
+      ],
+      "wrong": [
+        "Including",
+        "Such as"
+      ]
+    },
+    {
+      "target": "Many countries have unusual traditions, _____ people throw tomatoes during festivals.",
+      "correct": [
+        "for example"
+      ],
+      "wrong": [
+        "including",
+        "such as"
+      ]
+    },
+    {
+      "target": "There are many ways to help the environment, _____ you can recycle plastic bottles.",
+      "correct": [
+        "for example"
+      ],
+      "wrong": [
+        "including",
+        "such as"
+      ]
+    },
+    {
+      "target": "Ann packed several things for the trip, _____ her laptop and a camera.",
+      "correct": [
+        "including"
+      ],
+      "wrong": [
+        "such as",
+        "for example"
+      ]
+    },
+    {
+      "target": "Many European cities, _____ Rome and Madrid, are popular with tourists.",
+      "correct": [
+        "including"
+      ],
+      "wrong": [
+        "such as",
+        "for example"
+      ]
+    },
+    {
+      "target": "The museum shows different types of art, _____ modern paintings and sculptures.",
+      "correct": [
+        "including"
+      ],
+      "wrong": [
+        "such as",
+        "for example"
+      ]
+    },
+    {
+      "target": "The hotel provides many services, _____ free breakfast and Wi-Fi.",
+      "correct": [
+        "including"
+      ],
+      "wrong": [
+        "such as",
+        "for example"
+      ]
+    },
+    {
+      "target": "I enjoy watching films, _____ comedies and action movies.",
+      "correct": [
+        "such as"
+      ],
+      "wrong": [
+        "including",
+        "for example"
+      ]
+    },
+    {
+      "target": "Certain jobs, _____ doctors and firefighters, are very demanding.",
+      "correct": [
+        "such as"
+      ],
+      "wrong": [
+        "including",
+        "for example"
+      ]
+    }
+  ]
+}
