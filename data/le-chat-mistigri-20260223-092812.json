@@ -1,0 +1,89 @@
+{
+  "lang": "fr",
+  "mode": "choice",
+  "math": true,
+  "transparentBg": true,
+  "randomQuestions": true,
+  "ui": {
+    "title": "le chat Mistigri",
+    "start": "JOUER",
+    "again": "REJOUER",
+    "gameover": "FIN DE PARTIE",
+    "scoreLabel": "Score : ",
+    "fontSize": 12
+  },
+  "gameplay": {
+    "winQuestions": 10,
+    "diffBaseSpawnMs": 4500,
+    "diffBaseMoveSpeed": 2.9,
+    "diffMedMult": 0.88,
+    "diffHardMult": 0.76
+  },
+  "assets": {
+    "hero": "https://img.genially.com/64baaa4e66c9ac00128b1592/5ea11636-a8b5-481d-be98-c073bcff7815.png",
+    "mirrorHero": false,
+    "heroBobbing": true,
+    "obstacles": {
+      "ground": [
+        "🌲"
+      ],
+      "good": [],
+      "bad": []
+    }
+  },
+  "sounds": {
+    "mus": "https://raw.githubusercontent.com/kgbgamelab/audioplayer/main/Baa%20Dash.mp3",
+    "ding": "https://assets.mixkit.co/active_storage/sfx/2000/2000-preview.mp3",
+    "buzz": "https://assets.mixkit.co/active_storage/sfx/257/257-preview.mp3",
+    "coin": "https://assets.mixkit.co/active_storage/sfx/2019/2019-preview.mp3",
+    "crash": "https://assets.mixkit.co/active_storage/sfx/2042/2042-preview.mp3",
+    "win": "https://assets.mixkit.co/active_storage/sfx/2018/2018-preview.mp3"
+  },
+  "tasks": [
+    {
+      "question": "un portr__t",
+      "correct": [
+        "ai"
+      ],
+      "wrong": [
+        "oi"
+      ]
+    },
+    {
+      "question": "un pal__s",
+      "correct": [
+        "ai"
+      ],
+      "wrong": [
+        "ui"
+      ]
+    },
+    {
+      "question": "une m__son",
+      "correct": [
+        "ai"
+      ],
+      "wrong": [
+        "oi"
+      ]
+    },
+    {
+      "question": "une fr__se",
+      "correct": [
+        "ai"
+      ],
+      "wrong": [
+        "au"
+      ]
+    },
+    {
+      "question": "une ch__se",
+      "correct": [
+        "ai"
+      ],
+      "wrong": [
+        "ou"
+      ]
+    }
+  ]
+}
