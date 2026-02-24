@@ -1,0 +1,103 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/8abf693d-5913-492a-92d3-53fb20aba4d8.png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(227,227,227,0.4)",
+      "borderColor": "#696969",
+      "textColor": "#ffffff",
+      "fontSize": 26,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#d6d6d6",
+      "borderColor": "#707070",
+      "textColor": "#000000",
+      "fontSize": 26,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "I am playing with my dog.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She is reading a book.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They are watching TV.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We are drawing a picture.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "He isn't sleeping now.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They aren't eating breakfast.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She isn't running in the park.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Are you listening to the teacher?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Is he playing football now?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Are they doing their homework?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We aren't cleaning our room.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Is it raining outside?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
