@@ -1,0 +1,147 @@
+{
+  "lang": "en",
+  "mode": "choice",
+  "math": false,
+  "transparentBg": false,
+  "randomQuestions": true,
+  "ui": {
+    "title": "SHEEP RUN",
+    "start": "PLAY",
+    "again": "AGAIN",
+    "gameover": "GAME OVER",
+    "scoreLabel": "Score: ",
+    "fontSize": 8
+  },
+  "gameplay": {
+    "winQuestions": 10,
+    "diffBaseSpawnMs": 8500,
+    "diffBaseMoveSpeed": 6,
+    "diffMedMult": 0.88,
+    "diffHardMult": 0.76
+  },
+  "assets": {
+    "hero": "🦙",
+    "mirrorHero": true,
+    "heroBobbing": true,
+    "obstacles": {
+      "ground": [
+        "🌲",
+        "🪨",
+        "🪵",
+        "🌵"
+      ],
+      "good": [
+        "🌾",
+        "🌽",
+        "🍀",
+        "🍎"
+      ],
+      "bad": [
+        "🦅",
+        "🧱",
+        "🚁",
+        "⛈️"
+      ]
+    }
+  },
+  "sounds": {
+    "mus": "https://raw.githubusercontent.com/kgbgamelab/audioplayer/main/Baa%20Dash.mp3",
+    "ding": "https://assets.mixkit.co/active_storage/sfx/2000/2000-preview.mp3",
+    "buzz": "https://assets.mixkit.co/active_storage/sfx/257/257-preview.mp3",
+    "coin": "https://assets.mixkit.co/active_storage/sfx/2019/2019-preview.mp3",
+    "crash": "https://assets.mixkit.co/active_storage/sfx/2042/2042-preview.mp3",
+    "win": "https://assets.mixkit.co/active_storage/sfx/2018/2018-preview.mp3"
+  },
+  "tasks": [
+    {
+      "question": "Work place: ____",
+      "correct": [
+        "airport"
+      ],
+      "wrong": [
+        "doctor"
+      ]
+    },
+    {
+      "question": "Myfather works ____  the grocery store.",
+      "correct": [
+        "in"
+      ],
+      "wrong": [
+        "on"
+      ]
+    },
+    {
+      "question": "_____ your mum work in the fire station?",
+      "correct": [
+        "Does"
+      ],
+      "wrong": [
+        "Do"
+      ]
+    },
+    {
+      "question": "Where does he _____?",
+      "correct": [
+        "work"
+      ],
+      "wrong": [
+        "works"
+      ]
+    },
+    {
+      "question": "Does she work in a shop?",
+      "correct": [
+        "Yes, she does."
+      ],
+      "wrong": [
+        "Yes, she do."
+      ]
+    },
+    {
+      "question": "My dad _____in an office.",
+      "correct": [
+        "works"
+      ],
+      "wrong": [
+        "work"
+      ]
+    },
+    {
+      "question": "I ____playing basketball.",
+      "correct": [
+        "like"
+      ],
+      "wrong": [
+        "likes"
+      ]
+    },
+    {
+      "question": "You need a _____to play baseball.",
+      "correct": [
+        "bat and a helmet"
+      ],
+      "wrong": [
+        "racket"
+      ]
+    },
+    {
+      "question": "You need  ______for playing volleyball.",
+      "correct": [
+        "a net and a volleyball"
+      ],
+      "wrong": [
+        "a net and goggles"
+      ]
+    },
+    {
+      "question": "My dad leaves his work ___3 o'clock.",
+      "correct": [
+        "at"
+      ],
+      "wrong": [
+        "in"
+      ]
+    }
+  ]
+}
