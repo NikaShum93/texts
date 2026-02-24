@@ -1,0 +1,52 @@
+{
+  "language": "ru",
+  "font": "Cormorant",
+  "fontSize": 24,
+  "textColor": "#131113",
+  "speed": 1,
+  "style": {
+    "shape": "rounded",
+    "pad": 120,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.yapx.ru/dCEdf.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Падежи",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Превосходно!",
+  "levels": [
+    {
+      "target": "И.п.",
+      "correct": [
+        "Лапа медведя",
+        "повстречать медведя",
+        "зёрнышки для воробья",
+        "смотрели на воробья",
+        "потрогать журавля"
+      ],
+      "wrong": [
+        "нос журавля",
+        "пришел без зайца",
+        "догнать зайца",
+        "разглядеть барана",
+        "отойти от барана"
+      ],
+      "timer": 40
+    }
+  ]
+}
