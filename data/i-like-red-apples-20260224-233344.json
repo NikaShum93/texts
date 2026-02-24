@@ -1,0 +1,113 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/2866cfe3-66e0-4fb3-b6e6-aec591e68669.png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(87,182,255,0.7)",
+      "borderColor": "#009dff",
+      "textColor": "#ffffff",
+      "fontSize": 26,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#00b3ff",
+      "borderColor": "#0055ff",
+      "textColor": "#ffffff",
+      "fontSize": 26,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "I like red apples.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She plays with her doll.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They go to school.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We always read books.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "He eats breakfast at home.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do you like milk?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Does she have a cat?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do they play football?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I don't like broccoli.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She doesn't watch TV in the morning.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We don't run fast.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Does he live in a big house?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My brother likes ice cream.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The dog doesn't sleep on the bed.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
