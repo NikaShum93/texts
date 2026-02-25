@@ -1,0 +1,92 @@
+{
+  "language": "ru",
+  "font": "Lobster",
+  "fontSize": 24,
+  "textColor": "#0e0c0c",
+  "speed": 4,
+  "questionFont": "Lobster",
+  "questionFontSize": 35,
+  "style": {
+    "shape": "rounded",
+    "pad": 25,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.yapx.ru/dCajK.png",
+    "bgImages": [
+      "https://i.yapx.ru/dCajK.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Игра \"Снежки\"",
+    "btnText": "Играть!"
+  },
+  "direction": "random",
+  "finalFeedback": "Супер!",
+  "globalTimer": 50,
+  "levels": [
+    {
+      "target": "увидеть кошку?",
+      "correct": [
+        "В.п."
+      ],
+      "wrong": [
+        "П.п.",
+        "Р.п.",
+        "Р.п."
+      ]
+    },
+    {
+      "target": "куртка сына?",
+      "correct": [
+        "Р.п."
+      ],
+      "wrong": [
+        "В.п.",
+        "П.п.",
+        "Д.п."
+      ]
+    },
+    {
+      "target": "ложка меда?",
+      "correct": [
+        "Р.п."
+      ],
+      "wrong": [
+        "Д.п.",
+        "П.п.",
+        "В.п."
+      ]
+    },
+    {
+      "target": "книга о подвиге? помочь бабушке?",
+      "correct": [
+        "П.п."
+      ],
+      "wrong": [
+        "Р.п.",
+        "Д.п.",
+        "В.п."
+      ]
+    },
+    {
+      "target": "книга о подвиге? помочь бабушке?",
+      "correct": [
+        "Д.п."
+      ],
+      "wrong": [
+        "Р.п.",
+        "Р.п.",
+        "В.п."
+      ]
+    }
+  ]
+}
