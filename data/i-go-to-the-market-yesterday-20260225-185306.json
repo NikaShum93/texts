@@ -1,0 +1,138 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 30,
+  "textColor": "#fdfcfc",
+  "speed": 5,
+  "questionFont": "Roboto",
+  "questionFontSize": 40,
+  "style": {
+    "shape": "rounded",
+    "pad": 45,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/RFChCyCP/22.png\nhttps://i.postimg.cc/vB8T8kHb/23.png",
+    "bgImages": [
+      "https://i.postimg.cc/RFChCyCP/22.png",
+      "https://i.postimg.cc/vB8T8kHb/23.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 180
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Past Simple",
+    "btnText": "START"
+  },
+  "direction": "random",
+  "finalFeedback": "WELL DONE",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "I ____ (go) to the market yesterday.",
+      "correct": [
+        "went"
+      ],
+      "wrong": [
+        "go",
+        "going"
+      ]
+    },
+    {
+      "target": "She ____ (not/see) the movie last night.",
+      "correct": [
+        "did not/see"
+      ],
+      "wrong": [
+        "see",
+        "sawed"
+      ]
+    },
+    {
+      "target": "____ you ____ (take) your medicine this morning?",
+      "correct": [
+        "Did you take"
+      ],
+      "wrong": [
+        "take",
+        "taked"
+      ]
+    },
+    {
+      "target": "They ____ (come) to the party on Saturday.",
+      "correct": [
+        "came"
+      ],
+      "wrong": [
+        "come",
+        "coming"
+      ]
+    },
+    {
+      "target": "He ____ (not/find) his keys yesterday.",
+      "correct": [
+        "did not/find"
+      ],
+      "wrong": [
+        "find",
+        "founded"
+      ]
+    },
+    {
+      "target": "____ we ____ (eat) at that new restaurant last week?",
+      "correct": [
+        "Did we eat"
+      ],
+      "wrong": [
+        "eat",
+        "eated"
+      ]
+    },
+    {
+      "target": "My brother ____ (write) a letter to his friend.",
+      "correct": [
+        "wrote"
+      ],
+      "wrong": [
+        "write",
+        "writed"
+      ]
+    },
+    {
+      "target": "I ____ (not/know) the answer to the question.",
+      "correct": [
+        "did not/know"
+      ],
+      "wrong": [
+        "know",
+        "knowed"
+      ]
+    },
+    {
+      "target": "____ she ____ (begin) the project on time?",
+      "correct": [
+        "Did she begin"
+      ],
+      "wrong": [
+        "begin",
+        "beginned"
+      ]
+    },
+    {
+      "target": "The children ____ (drink) all the juice.",
+      "correct": [
+        "drank"
+      ],
+      "wrong": [
+        "drink",
+        "drinked"
+      ]
+    }
+  ]
+}
