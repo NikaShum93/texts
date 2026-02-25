@@ -1,0 +1,106 @@
+{
+  "language": "es",
+  "font": "Alegreya",
+  "fontSize": 26,
+  "textColor": "#ffffff",
+  "speed": 4,
+  "style": {
+    "shape": "rounded",
+    "pad": 30,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://files.catbox.moe/fulst3.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 210
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Animales",
+    "btnText": "START"
+  },
+  "direction": "down",
+  "finalFeedback": "¡Genial!",
+  "levels": [
+    {
+      "target": "los animales",
+      "correct": [
+        "https://files.catbox.moe/jvm2r6.png",
+        "https://files.catbox.moe/7z1h8f.png",
+        "https://files.catbox.moe/9qaamw.png",
+        "https://files.catbox.moe/grdqwu.png",
+        "https://files.catbox.moe/p94aql.png",
+        "https://files.catbox.moe/pd29o0.png",
+        "https://files.catbox.moe/dx21za.png"
+      ],
+      "wrong": [
+        "https://files.catbox.moe/ddydmi.png",
+        "https://files.catbox.moe/f7sn0m.png"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "los animales",
+      "correct": [
+        "https://files.catbox.moe/jvm2r6.png",
+        "https://files.catbox.moe/7z1h8f.png",
+        "https://files.catbox.moe/9qaamw.png",
+        "https://files.catbox.moe/grdqwu.png",
+        "https://files.catbox.moe/p94aql.png",
+        "https://files.catbox.moe/pd29o0.png",
+        "https://files.catbox.moe/dx21za.png"
+      ],
+      "wrong": [
+        "https://files.catbox.moe/uy8ihb.png",
+        "https://files.catbox.moe/0pk2rr.png",
+        "https://files.catbox.moe/2iob7k.png"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "los animales",
+      "correct": [
+        "https://files.catbox.moe/jvm2r6.png",
+        "https://files.catbox.moe/7z1h8f.png",
+        "https://files.catbox.moe/9qaamw.png",
+        "https://files.catbox.moe/grdqwu.png",
+        "https://files.catbox.moe/p94aql.png",
+        "https://files.catbox.moe/pd29o0.png",
+        "https://files.catbox.moe/dx21za.png"
+      ],
+      "wrong": [
+        "https://files.catbox.moe/9uoy27.png",
+        "https://files.catbox.moe/l6z3ix.png",
+        "https://files.catbox.moe/rcp6lu.png"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "los animales",
+      "correct": [
+        "https://files.catbox.moe/jvm2r6.png",
+        "https://files.catbox.moe/7z1h8f.png",
+        "https://files.catbox.moe/9qaamw.png",
+        "https://files.catbox.moe/grdqwu.png",
+        "https://files.catbox.moe/p94aql.png",
+        "https://files.catbox.moe/pd29o0.png",
+        "https://files.catbox.moe/dx21za.png"
+      ],
+      "wrong": [
+        "https://files.catbox.moe/3lr33j.png",
+        "https://files.catbox.moe/bl866r.png",
+        "https://files.catbox.moe/y0xgx1.png",
+        "https://files.catbox.moe/8vcwgt.png"
+      ],
+      "timer": 30
+    }
+  ]
+}
