@@ -1,0 +1,138 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 30,
+  "textColor": "#fdfcfc",
+  "speed": 5,
+  "questionFont": "Roboto",
+  "questionFontSize": 40,
+  "style": {
+    "shape": "rounded",
+    "pad": 45,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/RFChCyCP/22.png\nhttps://i.postimg.cc/vB8T8kHb/23.png",
+    "bgImages": [
+      "https://i.postimg.cc/RFChCyCP/22.png",
+      "https://i.postimg.cc/vB8T8kHb/23.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 180
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Past Simple",
+    "btnText": "START"
+  },
+  "direction": "random",
+  "finalFeedback": "WELL DONE",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "I ____ (finish) all my homework before dinner yesterday.",
+      "correct": [
+        "finished"
+      ],
+      "wrong": [
+        "finish",
+        "finishing"
+      ]
+    },
+    {
+      "target": "She ____ (not/attend) the meeting because she was sick.",
+      "correct": [
+        "did not/attend"
+      ],
+      "wrong": [
+        "attend",
+        "attended"
+      ]
+    },
+    {
+      "target": "____ they ____ (read) the new book I recommended last week?",
+      "correct": [
+        "Did they read"
+      ],
+      "wrong": [
+        "readed",
+        "reads"
+      ]
+    },
+    {
+      "target": "We ____ (travel) to three different countries during our last vacation.",
+      "correct": [
+        "traveled"
+      ],
+      "wrong": [
+        "travel",
+        "traveling"
+      ]
+    },
+    {
+      "target": "He ____ (not/understand) the instructions, so he asked for help.",
+      "correct": [
+        "did not/understand"
+      ],
+      "wrong": [
+        "understands",
+        "understanded"
+      ]
+    },
+    {
+      "target": "____ you ____ (meet) Sarah at the party on Saturday?",
+      "correct": [
+        "Did you meet"
+      ],
+      "wrong": [
+        "meet",
+        "meeting"
+      ]
+    },
+    {
+      "target": "My parents ____ (buy) a new house two months ago.",
+      "correct": [
+        "bought"
+      ],
+      "wrong": [
+        "buy",
+        "buied"
+      ]
+    },
+    {
+      "target": "I ____ (not/receive) your email yesterday.",
+      "correct": [
+        "did not/receive"
+      ],
+      "wrong": [
+        "receive",
+        "recieved"
+      ]
+    },
+    {
+      "target": "____ she ____ (watch) the entire series in one weekend?",
+      "correct": [
+        "Did she watch"
+      ],
+      "wrong": [
+        "watched",
+        "watching"
+      ]
+    },
+    {
+      "target": "They ____ (celebrate) their anniversary at a fancy restaurant.",
+      "correct": [
+        "celebrated"
+      ],
+      "wrong": [
+        "celebrate",
+        "celebrated"
+      ]
+    }
+  ]
+}
