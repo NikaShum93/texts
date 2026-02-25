@@ -1,0 +1,112 @@
+{
+  "lang": "fr",
+  "mode": "choice",
+  "math": false,
+  "transparentBg": false,
+  "randomQuestions": true,
+  "ui": {
+    "title": "être au présent ",
+    "start": "commencer",
+    "again": "encore",
+    "gameover": "GAME OVER",
+    "scoreLabel": "Score: ",
+    "fontSize": 8
+  },
+  "gameplay": {
+    "winQuestions": 7,
+    "diffBaseSpawnMs": 8500,
+    "diffBaseMoveSpeed": 6,
+    "diffMedMult": 0.88,
+    "diffHardMult": 0.76
+  },
+  "assets": {
+    "hero": "🐉",
+    "mirrorHero": true,
+    "heroBobbing": true,
+    "obstacles": {
+      "ground": [
+        "🌲",
+        "🌵"
+      ],
+      "good": [
+        "🍀"
+      ],
+      "bad": [
+        "🚁"
+      ]
+    }
+  },
+  "sounds": {
+    "mus": "https://raw.githubusercontent.com/kgbgamelab/audioplayer/main/Baa%20Dash.mp3",
+    "ding": "https://assets.mixkit.co/active_storage/sfx/2000/2000-preview.mp3",
+    "buzz": "https://assets.mixkit.co/active_storage/sfx/257/257-preview.mp3",
+    "coin": "https://assets.mixkit.co/active_storage/sfx/2019/2019-preview.mp3",
+    "crash": "https://assets.mixkit.co/active_storage/sfx/2042/2042-preview.mp3",
+    "win": "https://assets.mixkit.co/active_storage/sfx/2018/2018-preview.mp3"
+  },
+  "tasks": [
+    {
+      "question": "Ils ______ grands.",
+      "correct": [
+        "sont"
+      ],
+      "wrong": [
+        "suis"
+      ]
+    },
+    {
+      "question": "Vous ______ beau.",
+      "correct": [
+        "êtes"
+      ],
+      "wrong": [
+        "et"
+      ]
+    },
+    {
+      "question": "Elle ______ blonde.",
+      "correct": [
+        "est"
+      ],
+      "wrong": [
+        "avons"
+      ]
+    },
+    {
+      "question": "Tu ______ jeune.",
+      "correct": [
+        "es"
+      ],
+      "wrong": [
+        "sont"
+      ]
+    },
+    {
+      "question": "Elles ______ brunes.",
+      "correct": [
+        "sont"
+      ],
+      "wrong": [
+        "est"
+      ]
+    },
+    {
+      "question": "Je ______ gros.",
+      "correct": [
+        "suis"
+      ],
+      "wrong": [
+        "es"
+      ]
+    },
+    {
+      "question": "Nous ______ petits.",
+      "correct": [
+        "sommes"
+      ],
+      "wrong": [
+        "sont"
+      ]
+    }
+  ]
+}
