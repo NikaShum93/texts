@@ -1,0 +1,54 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 2,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": true,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 0,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Буква Ф",
+    "btnText": ""
+  },
+  "direction": "up",
+  "finalFeedback": "",
+  "levels": [
+    {
+      "target": "флаги с буквой Ф",
+      "correct": [
+        "https://i.postimg.cc/521qbkJV/(2).png",
+        "https://i.postimg.cc/bw8HpFPz/(3).png",
+        "https://i.postimg.cc/6pwLt1K5/(4).png",
+        "https://i.postimg.cc/Z5ZF4DmY/(5).png",
+        "https://i.postimg.cc/4xZbsFGf/(6).png",
+        "https://i.postimg.cc/YCkfMy70/(7).png",
+        "https://i.postimg.cc/pLZQTYVr/image.png"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/CxYHS60R/(10).png",
+        "https://i.postimg.cc/2SmFrXYZ/(11).png",
+        "https://i.postimg.cc/fRZjDgsX/(12).png",
+        "https://i.postimg.cc/nhZYpwxB/(13).png",
+        "https://i.postimg.cc/W1nm36p4/(14).png",
+        "https://i.postimg.cc/13PcsYSf/(8).png",
+        "https://i.postimg.cc/L8RB20Sh/(9).png"
+      ],
+      "timer": 60
+    }
+  ]
+}
