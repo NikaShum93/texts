@@ -1,0 +1,46 @@
+{
+  "language": "es",
+  "font": "Alegreya",
+  "fontSize": 26,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Animales",
+    "btnText": "START"
+  },
+  "direction": "down",
+  "finalFeedback": "¡Genial!",
+  "levels": [
+    {
+      "target": "Animales",
+      "correct": [
+        "https://files.catbox.moe/y2xa0z.png",
+        "https://files.catbox.moe/gr0i81.png",
+        "https://files.catbox.moe/p9wdpt.png",
+        "https://files.catbox.moe/jdtjj5.png",
+        "https://files.catbox.moe/v8ne4z.png"
+      ],
+      "wrong": [
+        "https://files.catbox.moe/5axcqe.png"
+      ],
+      "timer": 30
+    }
+  ]
+}
