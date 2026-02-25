@@ -1,0 +1,235 @@
+{
+  "language": "ru",
+  "font": "Lobster",
+  "fontSize": 24,
+  "textColor": "#0e0c0c",
+  "speed": 6,
+  "questionFont": "Lobster",
+  "questionFontSize": 35,
+  "style": {
+    "shape": "rounded",
+    "pad": 25,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.yapx.ru/dCajK.png",
+    "bgImages": [
+      "https://i.yapx.ru/dCajK.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Игра \"Снежки\"",
+    "btnText": "Играть!"
+  },
+  "direction": "random",
+  "finalFeedback": "Супер!",
+  "globalTimer": 100,
+  "levels": [
+    {
+      "target": "увидеть кошку",
+      "correct": [
+        "В.п."
+      ],
+      "wrong": [
+        "Т.п.",
+        "Д.п.",
+        "Д.п."
+      ]
+    },
+    {
+      "target": "куртка сына",
+      "correct": [
+        "Р.п."
+      ],
+      "wrong": [
+        "П.п.",
+        "Д.п.",
+        "П.п."
+      ]
+    },
+    {
+      "target": "ложка меда",
+      "correct": [
+        "Р.п."
+      ],
+      "wrong": [
+        "Д.п.",
+        "В.п.",
+        "П.п."
+      ]
+    },
+    {
+      "target": "книга о подвиге",
+      "correct": [
+        "П.п."
+      ],
+      "wrong": [
+        "В.п.",
+        "Р.п.",
+        "Т.п."
+      ]
+    },
+    {
+      "target": "помочь бабушке",
+      "correct": [
+        "Д.п."
+      ],
+      "wrong": [
+        "В.п.",
+        "Р.п.",
+        "П.п."
+      ]
+    },
+    {
+      "target": "книга о подвиге",
+      "correct": [
+        "П.п."
+      ],
+      "wrong": [
+        "В.п.",
+        "Т.п.",
+        "В.п."
+      ]
+    },
+    {
+      "target": "помочь бабушке",
+      "correct": [
+        "Д.п."
+      ],
+      "wrong": [
+        "Т.п.",
+        "В.п.",
+        "Р.п."
+      ]
+    },
+    {
+      "target": "идти по аллее",
+      "correct": [
+        "Д.п."
+      ],
+      "wrong": [
+        "Т.п.",
+        "П.п.",
+        "Р.п."
+      ]
+    },
+    {
+      "target": "приехать к другу",
+      "correct": [
+        "Д.п."
+      ],
+      "wrong": [
+        "В.п.",
+        "В.п.",
+        "В.п."
+      ]
+    },
+    {
+      "target": "мечтать о лете",
+      "correct": [
+        "П.п."
+      ],
+      "wrong": [
+        "В.п.",
+        "Д.п.",
+        "Д.п."
+      ]
+    },
+    {
+      "target": "лезть в лужу",
+      "correct": [
+        "В.п."
+      ],
+      "wrong": [
+        "Д.п.",
+        "П.п.",
+        "Р.п."
+      ]
+    },
+    {
+      "target": "занесло снегом",
+      "correct": [
+        "Т.п."
+      ],
+      "wrong": [
+        "Д.п.",
+        "В.п.",
+        "Д.п."
+      ]
+    },
+    {
+      "target": "грызёт орешки",
+      "correct": [
+        "В.п."
+      ],
+      "wrong": [
+        "Д.п.",
+        "Р.п.",
+        "Р.п."
+      ]
+    },
+    {
+      "target": "пишу ручкой",
+      "correct": [
+        "Т.п."
+      ],
+      "wrong": [
+        "В.п.",
+        "Д.п.",
+        "Д.п."
+      ]
+    },
+    {
+      "target": "напугал мышкой",
+      "correct": [
+        "Т.п."
+      ],
+      "wrong": [
+        "Р.п.",
+        "В.п.",
+        "В.п."
+      ]
+    },
+    {
+      "target": "подошёл к школе",
+      "correct": [
+        "Д.п."
+      ],
+      "wrong": [
+        "П.п.",
+        "Т.п.",
+        "П.п."
+      ]
+    },
+    {
+      "target": "пить чай",
+      "correct": [
+        "В.п."
+      ],
+      "wrong": [
+        "Т.п.",
+        "Р.п.",
+        "Р.п."
+      ]
+    },
+    {
+      "target": "одела куклу",
+      "correct": [
+        "В.п."
+      ],
+      "wrong": [
+        "Д.п.",
+        "П.п.",
+        "Р.п."
+      ]
+    }
+  ]
+}
