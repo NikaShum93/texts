@@ -1,0 +1,561 @@
+{
+  "lang": "en",
+  "mode": "input",
+  "math": false,
+  "transparentBg": false,
+  "randomQuestions": true,
+  "ui": {
+    "title": "ALIEN RUN",
+    "start": "PLAY",
+    "again": "AGAIN",
+    "gameover": "GAME OVER",
+    "scoreLabel": "Score: ",
+    "fontSize": 10.5
+  },
+  "gameplay": {
+    "winQuestions": 15,
+    "diffBaseSpawnMs": 8000,
+    "diffBaseMoveSpeed": 7,
+    "diffMedMult": 0.88,
+    "diffHardMult": 0.76
+  },
+  "assets": {
+    "hero": "https://media.tenor.com/CcCVFRjDVoUAAAAi/glorp-cat.gif",
+    "mirrorHero": false,
+    "heroBobbing": true,
+    "obstacles": {
+      "ground": [
+        "🌲",
+        "🪨",
+        "🪵",
+        "🌵"
+      ],
+      "good": [
+        "🍖",
+        "🍗",
+        "🐟",
+        "🦐"
+      ],
+      "bad": [
+        "🐶",
+        "🐺",
+        "🌧️",
+        "🌩️"
+      ]
+    }
+  },
+  "sounds": {
+    "mus": "https://raw.githubusercontent.com/kgbgamelab/audioplayer/main/Baa%20Dash.mp3",
+    "ding": "https://assets.mixkit.co/active_storage/sfx/2000/2000-preview.mp3",
+    "buzz": "https://assets.mixkit.co/active_storage/sfx/257/257-preview.mp3",
+    "coin": "https://assets.mixkit.co/active_storage/sfx/2019/2019-preview.mp3",
+    "crash": "https://assets.mixkit.co/active_storage/sfx/2042/2042-preview.mp3",
+    "win": "https://assets.mixkit.co/active_storage/sfx/2018/2018-preview.mp3"
+  },
+  "tasks": [
+    {
+      "question": "Build — built — ___",
+      "correct": [
+        "built"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Buy — bought — ___",
+      "correct": [
+        "bought"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Catch — caught — ___",
+      "correct": [
+        "caught"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Come — came — ___",
+      "correct": [
+        "come"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Cut — cut — ___",
+      "correct": [
+        "cut"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Deal — dealt — ___",
+      "correct": [
+        "dealt"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Do — did — ___",
+      "correct": [
+        "done"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Dream — dreamed — ___",
+      "correct": [
+        "dreamed"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Drink — drank — ___",
+      "correct": [
+        "drunk"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Drive — drove — ___",
+      "correct": [
+        "driven"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Eat — ate — ___",
+      "correct": [
+        "eaten"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Fall — fell — ___",
+      "correct": [
+        "fallen"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Feel — felt — ___",
+      "correct": [
+        "felt"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Fight — fought — ___",
+      "correct": [
+        "fought"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Fly — flew — ___",
+      "correct": [
+        "flown"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Forget — forgot — ___",
+      "correct": [
+        "forgotten"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Forgive — forgave — ___",
+      "correct": [
+        "forgiven"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Freeze — froze — ___",
+      "correct": [
+        "frozen"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Get — got — ___",
+      "correct": [
+        "got"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Hide — hid — ___",
+      "correct": [
+        "hidden"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Hold — held — ___",
+      "correct": [
+        "held"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Keep — kept — ___",
+      "correct": [
+        "kept"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Know — knew — ___",
+      "correct": [
+        "known"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Lay — laid — ___",
+      "correct": [
+        "laid"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Leave — left — ___",
+      "correct": [
+        "left"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Lie — lay — ___",
+      "correct": [
+        "lain"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Lose — lost — ___",
+      "correct": [
+        "lost"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Make — made — ___",
+      "correct": [
+        "made"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Mean — meant — ___",
+      "correct": [
+        "meant"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Meet — met — ___",
+      "correct": [
+        "met"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Pay — paid — ___",
+      "correct": [
+        "paid"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Read — read — ___",
+      "correct": [
+        "read"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Ride — rode — ___",
+      "correct": [
+        "ridden"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Rise — rose — ___",
+      "correct": [
+        "risen"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Run — ran — ___",
+      "correct": [
+        "run"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Say — said — ___",
+      "correct": [
+        "said"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "See — saw — ___",
+      "correct": [
+        "seen"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Seek — sought — ___",
+      "correct": [
+        "sought"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Send — sent — ___",
+      "correct": [
+        "sent"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Shake — shook — ___",
+      "correct": [
+        "shaken"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Shine — shone — ___",
+      "correct": [
+        "shone"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Sit — sat — ___",
+      "correct": [
+        "sat"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Sleep — slept — ___",
+      "correct": [
+        "slept"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Speak — spoke — ___",
+      "correct": [
+        "spoken"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Spend — spent — ___",
+      "correct": [
+        "spent"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Stand — stood — ___",
+      "correct": [
+        "stood"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Steal — stole — ___",
+      "correct": [
+        "stolen"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Swim — swam — ___",
+      "correct": [
+        "swum"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Take — took — ___",
+      "correct": [
+        "taken"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Teach — taught — ___",
+      "correct": [
+        "taught"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Tell — told — ___",
+      "correct": [
+        "told"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Think — thought — ___",
+      "correct": [
+        "thought"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Throw — threw — ___",
+      "correct": [
+        "thrown"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Understand — understood — ___",
+      "correct": [
+        "understood"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Win — won — ___",
+      "correct": [
+        "won"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    },
+    {
+      "question": "Write — wrote — ___",
+      "correct": [
+        "written"
+      ],
+      "wrong": [
+        "NO"
+      ]
+    }
+  ]
+}
