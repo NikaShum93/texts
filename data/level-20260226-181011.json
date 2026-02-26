@@ -1,0 +1,116 @@
+{
+  "language": "ru",
+  "font": "Marck Script",
+  "fontSize": 50,
+  "textColor": "#000000",
+  "speed": 5,
+  "questionFont": "Marck Script",
+  "questionFontSize": 30,
+  "style": {
+    "shape": "circle",
+    "pad": 30,
+    "bgColor": "#e392fe",
+    "bgImage": "https://i.postimg.cc/P5h7bbjR/Chat-GPT-Image-26-fevr-2026-g-07-47-00.png",
+    "bgImages": [
+      "https://i.postimg.cc/P5h7bbjR/Chat-GPT-Image-26-fevr-2026-g-07-47-00.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#f1c9fe",
+    "borderWidth": 0,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 170
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Падежи",
+    "btnText": "Начать"
+  },
+  "direction": "random",
+  "finalFeedback": "Супер!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "Вопросы И.п.",
+      "correct": [
+        "Кто?",
+        "Что?"
+      ],
+      "wrong": [
+        "Кого",
+        "Кого?",
+        "Чего?",
+        "Кому?",
+        "Чему?"
+      ]
+    },
+    {
+      "target": "Вопросы Р.п.",
+      "correct": [
+        "Кого?",
+        "Чего?"
+      ],
+      "wrong": [
+        "Кто?",
+        "Что?",
+        "Кем?",
+        "Чем?"
+      ]
+    },
+    {
+      "target": "Вопросы Д.п.",
+      "correct": [
+        "Кому?",
+        "Чему?"
+      ],
+      "wrong": [
+        "Кого?",
+        "Кем?",
+        "Чем?",
+        "Чего?"
+      ]
+    },
+    {
+      "target": "Вопросы В.п.",
+      "correct": [
+        "Кого?",
+        "Что?"
+      ],
+      "wrong": [
+        "Чего?",
+        "Кто?",
+        "Кем?",
+        "Чем?"
+      ]
+    },
+    {
+      "target": "Вопросы Т.п.",
+      "correct": [
+        "Кем?",
+        "Чем?"
+      ],
+      "wrong": [
+        "О ком?",
+        "Чём?",
+        "Чему?",
+        "Кому?"
+      ]
+    },
+    {
+      "target": "Вопросы П.п.",
+      "correct": [
+        "О ком?",
+        "О чём?"
+      ],
+      "wrong": [
+        "Чем?",
+        "Кем?",
+        "Чего?",
+        "Кому?"
+      ]
+    }
+  ]
+}
