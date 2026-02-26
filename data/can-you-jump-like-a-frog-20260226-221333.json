@@ -1,0 +1,113 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 142,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/ecc94006-0f93-4e91-aff8-a9128c6f1cea.png",
+    "bubbleSize": 142,
+    "task": {
+      "bgColor": "rgba(27,238,203,1)",
+      "borderColor": "#00ffe1",
+      "textColor": "#ffffff",
+      "fontSize": 30,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#0bbcb9",
+      "borderColor": "#23e7d9",
+      "textColor": "#ffffff",
+      "fontSize": 30,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Can you jump like a frog?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Can your mummy dance like a robot?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Can you swim like a fish?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Can your friends sing songs?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Can you stand on one leg?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Can your daddy cook pizza?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Can you draw a funny monster?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Can your teacher jump very high?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Can you touch your toes?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Can your best friend run very fast?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Can you fly to the moon?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Can your cat speak English?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Can you clap your hands ten times?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Can your grandma ride a bike?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
