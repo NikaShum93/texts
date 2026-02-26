@@ -1,0 +1,106 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Roboto",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 140,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/7a96003b-c00c-4a11-931e-f3c3f7a6afe7.png",
+    "bubbleSize": 140,
+    "task": {
+      "bgColor": "rgba(129,29,165,0.7)",
+      "borderColor": "#d400ff",
+      "textColor": "#ffffff",
+      "fontSize": 33,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#7f19d2",
+      "borderColor": "#a223e7",
+      "textColor": "#ffffff",
+      "fontSize": 33,
+      "neon": true,
+      "imageSize": 450
+    }
+  },
+  "finalFeedback": "You are a star!",
+  "feedbackImage": "https://img.genially.com/69280f411dd3350008276459/7dee3224-2f29-4cb6-b321-db31165be1d0.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 2,
+  "tasks": [
+    {
+      "question": "My book ___ new.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are"
+      ]
+    },
+    {
+      "question": "My pencils ___ old.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "is"
+      ]
+    },
+    {
+      "question": "My plane ___ big.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are"
+      ]
+    },
+    {
+      "question": "My trains ___ small.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "is"
+      ]
+    },
+    {
+      "question": "My kite ___ new.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are"
+      ]
+    },
+    {
+      "question": "My train ___ long.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are"
+      ]
+    },
+    {
+      "question": "My rulers ___ short.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "is"
+      ]
+    }
+  ]
+}
