@@ -1,0 +1,54 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 30,
+  "textColor": "#ffffff",
+  "speed": 1,
+  "style": {
+    "shape": "rounded",
+    "pad": 47,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://media.tenor.com/J2pIAEfPeHEAAAAi/eat.gif"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 180
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Покорми кота",
+    "btnText": "Мяу!"
+  },
+  "direction": "down",
+  "finalFeedback": "Отлично, все коты сыты!!!",
+  "levels": [
+    {
+      "target": "Корм для кота",
+      "correct": [
+        "Рыба",
+        "Вискас",
+        "Мясо",
+        "Курица",
+        "Паштет",
+        "Сосиска"
+      ],
+      "wrong": [
+        "Конфета",
+        "Халва",
+        "Зерно",
+        "Хлеб",
+        "Огурец",
+        "Яблоко"
+      ],
+      "timer": 30
+    }
+  ]
+}
