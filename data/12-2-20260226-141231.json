@@ -1,0 +1,136 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#0e0c0c",
+  "speed": 6,
+  "questionFont": "Cormorant",
+  "questionFontSize": 35,
+  "style": {
+    "shape": "rounded",
+    "pad": 79,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/bJGj6Lcg/7-edited-free-(carve-photos).png",
+    "bgImages": [
+      "https://i.postimg.cc/bJGj6Lcg/7-edited-free-(carve-photos).png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 150
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Игра \"Безумное чаепитие\"",
+    "btnText": "Играть!"
+  },
+  "direction": "random",
+  "finalFeedback": "Отлично!",
+  "globalTimer": 100,
+  "levels": [
+    {
+      "target": "12·2=",
+      "correct": [
+        "24"
+      ],
+      "wrong": [
+        "39",
+        "64",
+        "93"
+      ]
+    },
+    {
+      "target": "36·2=",
+      "correct": [
+        "72"
+      ],
+      "wrong": [
+        "98",
+        "96",
+        "24"
+      ]
+    },
+    {
+      "target": "31·3=",
+      "correct": [
+        "93"
+      ],
+      "wrong": [
+        "24",
+        "66",
+        "96"
+      ]
+    },
+    {
+      "target": "13·3=",
+      "correct": [
+        "39"
+      ],
+      "wrong": [
+        "96",
+        "72",
+        "24"
+      ]
+    },
+    {
+      "target": "18·2=",
+      "correct": [
+        "36"
+      ],
+      "wrong": [
+        "24",
+        "72",
+        "96"
+      ]
+    },
+    {
+      "target": "22·3=",
+      "correct": [
+        "66"
+      ],
+      "wrong": [
+        "64",
+        "39",
+        "96"
+      ]
+    },
+    {
+      "target": "16·4=",
+      "correct": [
+        "64"
+      ],
+      "wrong": [
+        "98",
+        "93",
+        "66"
+      ]
+    },
+    {
+      "target": "48·2=",
+      "correct": [
+        "96"
+      ],
+      "wrong": [
+        "24",
+        "39",
+        "72"
+      ]
+    },
+    {
+      "target": "14·7=",
+      "correct": [
+        "98"
+      ],
+      "wrong": [
+        "64",
+        "72",
+        "24"
+      ]
+    }
+  ]
+}
