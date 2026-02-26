@@ -1,0 +1,213 @@
+{
+  "language": "ru",
+  "font": "Marck Script",
+  "fontSize": 24,
+  "textColor": "#131010",
+  "speed": 3,
+  "questionFont": "Marck Script",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 3,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.yapx.ru/dC5GQ.png",
+    "bgImages": [
+      "https://i.yapx.ru/dC5GQ.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 220
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Игра \"Безумное чаепитие\"",
+    "btnText": "Играть\""
+  },
+  "direction": "down",
+  "finalFeedback": "Отлично!",
+  "globalTimer": 100,
+  "levels": [
+    {
+      "target": "12 · 2=",
+      "correct": [
+        "24"
+      ],
+      "wrong": [
+        "96",
+        "93",
+        "44"
+      ]
+    },
+    {
+      "target": "36 · 2=",
+      "correct": [
+        "72"
+      ],
+      "wrong": [
+        "80",
+        "36",
+        "88"
+      ]
+    },
+    {
+      "target": "31 · 3=",
+      "correct": [
+        "93"
+      ],
+      "wrong": [
+        "64",
+        "55",
+        "36"
+      ]
+    },
+    {
+      "target": "13 · 3=",
+      "correct": [
+        "39"
+      ],
+      "wrong": [
+        "74",
+        "96",
+        "36"
+      ]
+    },
+    {
+      "target": "18 · 2=",
+      "correct": [
+        "36"
+      ],
+      "wrong": [
+        "44",
+        "24",
+        "55"
+      ]
+    },
+    {
+      "target": "22 · 3=",
+      "correct": [
+        "66"
+      ],
+      "wrong": [
+        "36",
+        "71",
+        "55"
+      ]
+    },
+    {
+      "target": "16 · 4=",
+      "correct": [
+        "64"
+      ],
+      "wrong": [
+        "88",
+        "80",
+        "74"
+      ]
+    },
+    {
+      "target": "48 · 2=",
+      "correct": [
+        "96"
+      ],
+      "wrong": [
+        "64",
+        "24",
+        "57"
+      ]
+    },
+    {
+      "target": "14 · 7=",
+      "correct": [
+        "98"
+      ],
+      "wrong": [
+        "93",
+        "39",
+        "72"
+      ]
+    },
+    {
+      "target": "37 · 2 =",
+      "correct": [
+        "74"
+      ],
+      "wrong": [
+        "66",
+        "36",
+        "39"
+      ]
+    },
+    {
+      "target": "20 · 4 =",
+      "correct": [
+        "80"
+      ],
+      "wrong": [
+        "39",
+        "64",
+        "93"
+      ]
+    },
+    {
+      "target": "11 · 5 =",
+      "correct": [
+        "55"
+      ],
+      "wrong": [
+        "72",
+        "88",
+        "93"
+      ]
+    },
+    {
+      "target": "22 · 4 =",
+      "correct": [
+        "88"
+      ],
+      "wrong": [
+        "96",
+        "55",
+        "36"
+      ]
+    },
+    {
+      "target": "19 · 3 =",
+      "correct": [
+        "57"
+      ],
+      "wrong": [
+        "88",
+        "98",
+        "71"
+      ]
+    },
+    {
+      "target": "11 · 4 =",
+      "correct": [
+        "44"
+      ],
+      "wrong": [
+        "74",
+        "24",
+        "88"
+      ]
+    },
+    {
+      "target": "27 · 3",
+      "correct": [
+        "71"
+      ],
+      "wrong": [
+        "93",
+        "39",
+        "98"
+      ]
+    }
+  ]
+}
