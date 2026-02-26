@@ -1,0 +1,136 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#0e0c0c",
+  "speed": 6,
+  "questionFont": "Cormorant",
+  "questionFontSize": 35,
+  "style": {
+    "shape": "rounded",
+    "pad": 79,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.yapx.ru/dCzNu.png",
+    "bgImages": [
+      "https://i.yapx.ru/dCzNu.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 170
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Игра \"Поймай акулу\"",
+    "btnText": "Играть!"
+  },
+  "direction": "random",
+  "finalFeedback": "Отлично!",
+  "globalTimer": 100,
+  "levels": [
+    {
+      "target": "12·2=",
+      "correct": [
+        "24"
+      ],
+      "wrong": [
+        "93",
+        "36",
+        "98"
+      ]
+    },
+    {
+      "target": "36·2=",
+      "correct": [
+        "72"
+      ],
+      "wrong": [
+        "98",
+        "36",
+        "24"
+      ]
+    },
+    {
+      "target": "31·3=",
+      "correct": [
+        "93"
+      ],
+      "wrong": [
+        "96",
+        "24",
+        "72"
+      ]
+    },
+    {
+      "target": "13·3=",
+      "correct": [
+        "39"
+      ],
+      "wrong": [
+        "98",
+        "36",
+        "96"
+      ]
+    },
+    {
+      "target": "18·2=",
+      "correct": [
+        "36"
+      ],
+      "wrong": [
+        "66",
+        "24",
+        "72"
+      ]
+    },
+    {
+      "target": "22·3=",
+      "correct": [
+        "66"
+      ],
+      "wrong": [
+        "24",
+        "98",
+        "72"
+      ]
+    },
+    {
+      "target": "16·4=",
+      "correct": [
+        "64"
+      ],
+      "wrong": [
+        "98",
+        "24",
+        "39"
+      ]
+    },
+    {
+      "target": "48·2=",
+      "correct": [
+        "96"
+      ],
+      "wrong": [
+        "36",
+        "39",
+        "93"
+      ]
+    },
+    {
+      "target": "14·7=",
+      "correct": [
+        "98"
+      ],
+      "wrong": [
+        "39",
+        "96",
+        "66"
+      ]
+    }
+  ]
+}
