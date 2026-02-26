@@ -1,0 +1,213 @@
+{
+  "language": "ru",
+  "font": "Marck Script",
+  "fontSize": 24,
+  "textColor": "#131010",
+  "speed": 7,
+  "questionFont": "Marck Script",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 25,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.yapx.ru/dC5GQ.png",
+    "bgImages": [
+      "https://i.yapx.ru/dC5GQ.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 190
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Игра \"Мандариновый дождь\"",
+    "btnText": "Играть!"
+  },
+  "direction": "down",
+  "finalFeedback": "Отлично!",
+  "globalTimer": 350,
+  "levels": [
+    {
+      "target": "12 · 2=",
+      "correct": [
+        "24"
+      ],
+      "wrong": [
+        "96",
+        "36",
+        "44"
+      ]
+    },
+    {
+      "target": "36 · 2=",
+      "correct": [
+        "72"
+      ],
+      "wrong": [
+        "24",
+        "71",
+        "44"
+      ]
+    },
+    {
+      "target": "31 · 3=",
+      "correct": [
+        "93"
+      ],
+      "wrong": [
+        "24",
+        "72",
+        "39"
+      ]
+    },
+    {
+      "target": "13 · 3=",
+      "correct": [
+        "39"
+      ],
+      "wrong": [
+        "98",
+        "36",
+        "57"
+      ]
+    },
+    {
+      "target": "18 · 2=",
+      "correct": [
+        "36"
+      ],
+      "wrong": [
+        "44",
+        "74",
+        "64"
+      ]
+    },
+    {
+      "target": "22 · 3=",
+      "correct": [
+        "66"
+      ],
+      "wrong": [
+        "98",
+        "24",
+        "80"
+      ]
+    },
+    {
+      "target": "16 · 4=",
+      "correct": [
+        "64"
+      ],
+      "wrong": [
+        "66",
+        "93",
+        "55"
+      ]
+    },
+    {
+      "target": "48 · 2=",
+      "correct": [
+        "96"
+      ],
+      "wrong": [
+        "98",
+        "88",
+        "66"
+      ]
+    },
+    {
+      "target": "14 · 7=",
+      "correct": [
+        "98"
+      ],
+      "wrong": [
+        "39",
+        "44",
+        "64"
+      ]
+    },
+    {
+      "target": "37 · 2 =",
+      "correct": [
+        "74"
+      ],
+      "wrong": [
+        "36",
+        "66",
+        "71"
+      ]
+    },
+    {
+      "target": "20 · 4 =",
+      "correct": [
+        "80"
+      ],
+      "wrong": [
+        "93",
+        "72",
+        "55"
+      ]
+    },
+    {
+      "target": "11 · 5 =",
+      "correct": [
+        "55"
+      ],
+      "wrong": [
+        "80",
+        "64",
+        "66"
+      ]
+    },
+    {
+      "target": "22 · 4 =",
+      "correct": [
+        "88"
+      ],
+      "wrong": [
+        "64",
+        "93",
+        "44"
+      ]
+    },
+    {
+      "target": "19 · 3 =",
+      "correct": [
+        "57"
+      ],
+      "wrong": [
+        "93",
+        "96",
+        "74"
+      ]
+    },
+    {
+      "target": "11 · 4 =",
+      "correct": [
+        "44"
+      ],
+      "wrong": [
+        "39",
+        "93",
+        "55"
+      ]
+    },
+    {
+      "target": "27 · 3",
+      "correct": [
+        "71"
+      ],
+      "wrong": [
+        "96",
+        "64",
+        "66"
+      ]
+    }
+  ]
+}
