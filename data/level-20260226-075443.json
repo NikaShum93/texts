@@ -1,0 +1,51 @@
+{
+  "language": "ru",
+  "font": "Marck Script",
+  "fontSize": 30,
+  "textColor": "#000000",
+  "speed": 5,
+  "questionFont": "Marck Script",
+  "questionFontSize": 30,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/P5h7bbjR/Chat-GPT-Image-26-fevr-2026-g-07-47-00.png",
+    "bgImages": [
+      "https://i.postimg.cc/P5h7bbjR/Chat-GPT-Image-26-fevr-2026-g-07-47-00.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#000000",
+    "borderWidth": 1,
+    "shadow": true,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 200
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Падежи",
+    "btnText": "Начать"
+  },
+  "direction": "random",
+  "finalFeedback": "Супер!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "Вопросы И.П.",
+      "correct": [
+        "Кто?",
+        "Что?"
+      ],
+      "wrong": [
+        "Кого",
+        "Кого?",
+        "Чего?",
+        "Кому?",
+        "Чему?"
+      ]
+    }
+  ]
+}
