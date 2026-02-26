@@ -1,0 +1,136 @@
+{
+  "language": "ru",
+  "font": "Marck Script",
+  "fontSize": 24,
+  "textColor": "#131010",
+  "speed": 5,
+  "questionFont": "Marck Script",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.yapx.ru/dC3ia.png",
+    "bgImages": [
+      "https://i.yapx.ru/dC3ia.png"
+    ],
+    "borderOn": true,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": true,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 150
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Игра \"Безумное чаепитие\"",
+    "btnText": "Играть\""
+  },
+  "direction": "random",
+  "finalFeedback": "Отлично!",
+  "globalTimer": 100,
+  "levels": [
+    {
+      "target": "12 · 2=",
+      "correct": [
+        "24"
+      ],
+      "wrong": [
+        "98",
+        "96",
+        "64"
+      ]
+    },
+    {
+      "target": "36 · 2=",
+      "correct": [
+        "72"
+      ],
+      "wrong": [
+        "66",
+        "36",
+        "39"
+      ]
+    },
+    {
+      "target": "31 · 3=",
+      "correct": [
+        "93"
+      ],
+      "wrong": [
+        "39",
+        "96",
+        "24"
+      ]
+    },
+    {
+      "target": "13 · 3=",
+      "correct": [
+        "39"
+      ],
+      "wrong": [
+        "36",
+        "64",
+        "98"
+      ]
+    },
+    {
+      "target": "18 · 2=",
+      "correct": [
+        "36"
+      ],
+      "wrong": [
+        "72",
+        "98",
+        "96"
+      ]
+    },
+    {
+      "target": "22 · 3=",
+      "correct": [
+        "66"
+      ],
+      "wrong": [
+        "72",
+        "24",
+        "64"
+      ]
+    },
+    {
+      "target": "16 · 4=",
+      "correct": [
+        "64"
+      ],
+      "wrong": [
+        "98",
+        "24",
+        "72"
+      ]
+    },
+    {
+      "target": "48 · 2=",
+      "correct": [
+        "96"
+      ],
+      "wrong": [
+        "93",
+        "72",
+        "66"
+      ]
+    },
+    {
+      "target": "14 · 7=",
+      "correct": [
+        "98"
+      ],
+      "wrong": [
+        "36",
+        "64",
+        "24"
+      ]
+    }
+  ]
+}
