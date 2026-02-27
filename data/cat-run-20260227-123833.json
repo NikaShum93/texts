@@ -1,0 +1,147 @@
+{
+  "lang": "en",
+  "mode": "choice",
+  "math": false,
+  "transparentBg": false,
+  "randomQuestions": true,
+  "ui": {
+    "title": "CAT RUN",
+    "start": "PLAY",
+    "again": "AGAIN",
+    "gameover": "GAME OVER",
+    "scoreLabel": "Score: ",
+    "fontSize": 9
+  },
+  "gameplay": {
+    "winQuestions": 10,
+    "diffBaseSpawnMs": 5500,
+    "diffBaseMoveSpeed": 4.2,
+    "diffMedMult": 0.88,
+    "diffHardMult": 0.76
+  },
+  "assets": {
+    "hero": "https://i.pinimg.com/originals/7e/1f/59/7e1f59824f6c0e7c34815d340b538646.gif",
+    "mirrorHero": false,
+    "heroBobbing": false,
+    "obstacles": {
+      "ground": [
+        "🌲",
+        "🪨",
+        "🪵",
+        "🌵"
+      ],
+      "good": [
+        "🍤",
+        "🍩",
+        "🍗",
+        "🍕"
+      ],
+      "bad": [
+        "🛢️",
+        "🛸",
+        "🧱",
+        "🚁"
+      ]
+    }
+  },
+  "sounds": {
+    "mus": "https://raw.githubusercontent.com/kgbgamelab/audioplayer/main/Baa%20Dash.mp3",
+    "ding": "https://assets.mixkit.co/active_storage/sfx/2000/2000-preview.mp3",
+    "buzz": "https://assets.mixkit.co/active_storage/sfx/257/257-preview.mp3",
+    "coin": "https://assets.mixkit.co/active_storage/sfx/2019/2019-preview.mp3",
+    "crash": "https://assets.mixkit.co/active_storage/sfx/2042/2042-preview.mp3",
+    "win": "https://assets.mixkit.co/active_storage/sfx/2018/2018-preview.mp3"
+  },
+  "tasks": [
+    {
+      "question": "My mother _____ fish.",
+      "correct": [
+        "likes"
+      ],
+      "wrong": [
+        "like"
+      ]
+    },
+    {
+      "question": "I _____ balloons.",
+      "correct": [
+        "don't like"
+      ],
+      "wrong": [
+        "doesn't like"
+      ]
+    },
+    {
+      "question": "_____ you like chocolate?",
+      "correct": [
+        "Do"
+      ],
+      "wrong": [
+        "Does"
+      ]
+    },
+    {
+      "question": "_____ she like sweets?",
+      "correct": [
+        "Does"
+      ],
+      "wrong": [
+        "Do"
+      ]
+    },
+    {
+      "question": "She _____ nuts.",
+      "correct": [
+        "doesn't like"
+      ],
+      "wrong": [
+        "don't like"
+      ]
+    },
+    {
+      "question": "They _____ apples.",
+      "correct": [
+        "like"
+      ],
+      "wrong": [
+        "likes"
+      ]
+    },
+    {
+      "question": "We _____ sweets.",
+      "correct": [
+        "don't like"
+      ],
+      "wrong": [
+        "doesn't like"
+      ]
+    },
+    {
+      "question": "What _____ you like?",
+      "correct": [
+        "do"
+      ],
+      "wrong": [
+        "does"
+      ]
+    },
+    {
+      "question": "What _____ he like?",
+      "correct": [
+        "does"
+      ],
+      "wrong": [
+        "do"
+      ]
+    },
+    {
+      "question": "It _____ pastries.",
+      "correct": [
+        "doesn't like"
+      ],
+      "wrong": [
+        "don't like"
+      ]
+    }
+  ]
+}
