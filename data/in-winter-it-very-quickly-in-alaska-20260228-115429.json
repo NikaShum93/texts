@@ -1,0 +1,92 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 17,
+  "textColor": "#000000",
+  "speed": 3,
+  "questionFont": "Roboto",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 60,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/wvNGGNsQ/4.png",
+    "bgImages": [
+      "https://i.postimg.cc/wvNGGNsQ/4.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 0,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 260
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Let's feed the seals!",
+    "btnText": "start"
+  },
+  "direction": "random",
+  "finalFeedback": "Thank you :-)",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "In winter, it ... very quickly in Alaska.",
+      "correct": [
+        "gets cold"
+      ],
+      "wrong": [
+        "gets dark",
+        "get tired",
+        "get bored"
+      ]
+    },
+    {
+      "target": "In December, it ...  at three o’clock in the afternoon.",
+      "correct": [
+        "gets dark"
+      ],
+      "wrong": [
+        "gets cold",
+        "get tired",
+        "get lost"
+      ]
+    },
+    {
+      "target": "People ... after walking in deep snow.",
+      "correct": [
+        "get tired"
+      ],
+      "wrong": [
+        "gets dark",
+        "get bored",
+        "gets cold"
+      ]
+    },
+    {
+      "target": "Children sometimes ... when they stay inside during long snowstorms.",
+      "correct": [
+        "get bored"
+      ],
+      "wrong": [
+        "get lost",
+        "get tired",
+        "gets dark"
+      ]
+    },
+    {
+      "target": "Tourists can ...  in the forest if they don’t have a map.",
+      "correct": [
+        "get lost"
+      ],
+      "wrong": [
+        "get tired",
+        "get bored",
+        "gets cold"
+      ]
+    }
+  ]
+}
