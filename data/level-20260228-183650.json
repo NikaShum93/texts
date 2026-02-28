@@ -1,0 +1,50 @@
+{
+  "language": "ru",
+  "font": "Rubik",
+  "fontSize": 22,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "style": {
+    "shape": "rect",
+    "pad": 50,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/zfWPpqkz/ПОЛОЖЕНИЕ.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 130
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Поймай клевер и назови слово",
+    "btnText": "СТАРТ"
+  },
+  "direction": "up",
+  "finalFeedback": "СУПЕР!",
+  "levels": [
+    {
+      "target": "все картинки",
+      "correct": [
+        "https://i.postimg.cc/hvHdCRrH/22.png",
+        "https://i.postimg.cc/T2Sg2n60/23.png",
+        "https://i.postimg.cc/C5Wqvp7y/24.png",
+        "https://i.postimg.cc/1XLqW1Hk/25.png",
+        "https://i.postimg.cc/WzQk9c8c/26.png",
+        "https://i.postimg.cc/BbdKhfpv/27.png",
+        "https://i.postimg.cc/qq93mHwB/28.png",
+        "https://i.postimg.cc/90v7xHbF/29.png",
+        "https://i.postimg.cc/GtZyMnKL/30.png"
+      ],
+      "wrong": [],
+      "timer": 30
+    }
+  ]
+}
