@@ -1,0 +1,128 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 35,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "questionFont": "PT Sans",
+  "questionFontSize": 35,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/SKYfXQgL/101-(2).png\nhttps://i.postimg.cc/ZKYP8xfb/102-(2).png",
+    "bgImages": [
+      "https://i.postimg.cc/SKYfXQgL/101-(2).png",
+      "https://i.postimg.cc/ZKYP8xfb/102-(2).png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Букет для бабушки!",
+    "btnText": "Собирай!"
+  },
+  "direction": "up",
+  "finalFeedback": "Поздравь бабушку с 8 марта!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "13+4−2",
+      "correct": [
+        "15"
+      ],
+      "wrong": [
+        "16",
+        "19"
+      ]
+    },
+    {
+      "target": "4+7−9",
+      "correct": [
+        "2"
+      ],
+      "wrong": [
+        "1",
+        "3"
+      ]
+    },
+    {
+      "target": "14−11+17",
+      "correct": [
+        "20"
+      ],
+      "wrong": [
+        "19",
+        "18"
+      ]
+    },
+    {
+      "target": "14+6−8",
+      "correct": [
+        "12"
+      ],
+      "wrong": [
+        "13",
+        "11"
+      ]
+    },
+    {
+      "target": "6+9−8",
+      "correct": [
+        "7"
+      ],
+      "wrong": [
+        "9",
+        "8"
+      ]
+    },
+    {
+      "target": "19−14+12",
+      "correct": [
+        "17"
+      ],
+      "wrong": [
+        "18",
+        "16"
+      ]
+    },
+    {
+      "target": "12+8−6",
+      "correct": [
+        "14"
+      ],
+      "wrong": [
+        "13",
+        "15"
+      ]
+    },
+    {
+      "target": "7+5−6",
+      "correct": [
+        "6"
+      ],
+      "wrong": [
+        "7",
+        "5"
+      ]
+    },
+    {
+      "target": "20−17+13",
+      "correct": [
+        "16"
+      ],
+      "wrong": [
+        "15",
+        "17"
+      ]
+    }
+  ]
+}
