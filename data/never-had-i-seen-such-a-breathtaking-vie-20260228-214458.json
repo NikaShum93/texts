@@ -1,0 +1,118 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Never had I seen such a breathtaking view before.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Only after the report was published did they discover the error.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "So determined was she that nobody could discourage her.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Little did he know that the decision would affect his entire career.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Had I understood the consequences, I would have acted differently.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "At the top of the hill stood a small chapel.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She is more capable than am I.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "He was deeply offended, as was I.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Only if the board agrees will we approve the proposal.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Such was the violence of the storm that several houses were damaged.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Rarely do they question the manager’s authority.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Should you need further assistance, contact reception.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "In the doorway appeared a strange figure.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She reacted more calmly than did we.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Hardly had he finished speaking when the audience began to applaud.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
