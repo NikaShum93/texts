@@ -1,0 +1,169 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 35,
+  "textColor": "#ffffff",
+  "speed": 2,
+  "questionFont": "PT Sans",
+  "questionFontSize": 35,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/xT9LDsxS/image.png",
+    "bgImages": [
+      "https://i.postimg.cc/xT9LDsxS/image.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Букет для бабушки",
+    "btnText": "Собирай"
+  },
+  "direction": "up",
+  "finalFeedback": "Поздравь бабушку с 8 марта!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "15 × 8",
+      "correct": [
+        "120"
+      ],
+      "wrong": [
+        "348",
+        "960",
+        "890"
+      ]
+    },
+    {
+      "target": "87 × 4",
+      "correct": [
+        "348"
+      ],
+      "wrong": [
+        "890",
+        "462",
+        "120"
+      ]
+    },
+    {
+      "target": "68 × 10",
+      "correct": [
+        "680"
+      ],
+      "wrong": [
+        "720",
+        "470",
+        "120"
+      ]
+    },
+    {
+      "target": "18 × 6",
+      "correct": [
+        "108"
+      ],
+      "wrong": [
+        "470",
+        "890",
+        "720"
+      ]
+    },
+    {
+      "target": "94 × 5",
+      "correct": [
+        "470"
+      ],
+      "wrong": [
+        "348",
+        "120",
+        "108"
+      ]
+    },
+    {
+      "target": "72 × 10",
+      "correct": [
+        "720"
+      ],
+      "wrong": [
+        "348",
+        "680",
+        "890"
+      ]
+    },
+    {
+      "target": "24 × 9",
+      "correct": [
+        "216"
+      ],
+      "wrong": [
+        "348",
+        "680",
+        "348"
+      ]
+    },
+    {
+      "target": "66 × 7",
+      "correct": [
+        "462"
+      ],
+      "wrong": [
+        "216",
+        "720",
+        "890"
+      ]
+    },
+    {
+      "target": "96 × 10",
+      "correct": [
+        "960"
+      ],
+      "wrong": [
+        "462",
+        "120",
+        "680"
+      ]
+    },
+    {
+      "target": "46 × 7",
+      "correct": [
+        "322"
+      ],
+      "wrong": [
+        "108",
+        "216",
+        "720"
+      ]
+    },
+    {
+      "target": "58 × 6",
+      "correct": [
+        "348"
+      ],
+      "wrong": [
+        "120",
+        "462",
+        "322"
+      ]
+    },
+    {
+      "target": "89 × 10",
+      "correct": [
+        "890"
+      ],
+      "wrong": [
+        "322",
+        "216",
+        "680"
+      ]
+    }
+  ]
+}
