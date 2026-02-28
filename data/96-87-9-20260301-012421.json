@@ -1,0 +1,169 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 35,
+  "textColor": "#ffffff",
+  "speed": 2,
+  "questionFont": "PT Sans",
+  "questionFontSize": 35,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/xT9LDsxS/image.png",
+    "bgImages": [
+      "https://i.postimg.cc/xT9LDsxS/image.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Букет для бабушки",
+    "btnText": "Собирай"
+  },
+  "direction": "up",
+  "finalFeedback": "Поздравь бабушку с 8 марта!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "(96 − 87) : 9",
+      "correct": [
+        "1"
+      ],
+      "wrong": [
+        "10",
+        "2",
+        "8"
+      ]
+    },
+    {
+      "target": "5 · (4 : 2)",
+      "correct": [
+        "10"
+      ],
+      "wrong": [
+        "21",
+        "80",
+        "20"
+      ]
+    },
+    {
+      "target": "6 · 6 : 9",
+      "correct": [
+        "4"
+      ],
+      "wrong": [
+        "70",
+        "1",
+        "10"
+      ]
+    },
+    {
+      "target": "24 : 8 · 7",
+      "correct": [
+        "21"
+      ],
+      "wrong": [
+        "8",
+        "4",
+        "70"
+      ]
+    },
+    {
+      "target": "9 · 8 : 9",
+      "correct": [
+        "8"
+      ],
+      "wrong": [
+        "21",
+        "6",
+        "1"
+      ]
+    },
+    {
+      "target": "4 · 3 : 6",
+      "correct": [
+        "2"
+      ],
+      "wrong": [
+        "4",
+        "90",
+        "70"
+      ]
+    },
+    {
+      "target": "(29 + 1) : 5",
+      "correct": [
+        "6"
+      ],
+      "wrong": [
+        "1",
+        "10",
+        "70"
+      ]
+    },
+    {
+      "target": "49 : 7 · 5",
+      "correct": [
+        "35"
+      ],
+      "wrong": [
+        "6",
+        "80",
+        "20"
+      ]
+    },
+    {
+      "target": "40 · 2",
+      "correct": [
+        "80"
+      ],
+      "wrong": [
+        "1",
+        "10",
+        "2"
+      ]
+    },
+    {
+      "target": "40 : 2",
+      "correct": [
+        "20"
+      ],
+      "wrong": [
+        "8",
+        "90",
+        "21"
+      ]
+    },
+    {
+      "target": "10 · 7",
+      "correct": [
+        "70"
+      ],
+      "wrong": [
+        "8",
+        "1",
+        "90"
+      ]
+    },
+    {
+      "target": "3 · 30",
+      "correct": [
+        "90"
+      ],
+      "wrong": [
+        "4",
+        "8",
+        "21"
+      ]
+    }
+  ]
+}
