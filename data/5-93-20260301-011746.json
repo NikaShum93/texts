@@ -1,0 +1,158 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 35,
+  "textColor": "#ffffff",
+  "speed": 2,
+  "questionFont": "PT Sans",
+  "questionFontSize": 35,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/xT9LDsxS/image.png",
+    "bgImages": [
+      "https://i.postimg.cc/xT9LDsxS/image.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Букет для бабушки",
+    "btnText": "Собирай"
+  },
+  "direction": "up",
+  "finalFeedback": "Поздравь бабушку с 8 марта!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "5 + 93",
+      "correct": [
+        "98"
+      ],
+      "wrong": [
+        "48",
+        "43",
+        "84"
+      ]
+    },
+    {
+      "target": "86 − 38",
+      "correct": [
+        "48"
+      ],
+      "wrong": [
+        "19",
+        "98",
+        "53"
+      ]
+    },
+    {
+      "target": "16 + 27",
+      "correct": [
+        "43"
+      ],
+      "wrong": [
+        "47",
+        "87",
+        "19"
+      ]
+    },
+    {
+      "target": "55 − 36",
+      "correct": [
+        "19"
+      ],
+      "wrong": [
+        "43",
+        "47",
+        "53"
+      ]
+    },
+    {
+      "target": "69 + 18",
+      "correct": [
+        "87"
+      ],
+      "wrong": [
+        "19",
+        "78",
+        "98"
+      ]
+    },
+    {
+      "target": "71 − 24",
+      "correct": [
+        "47"
+      ],
+      "wrong": [
+        "19",
+        "87",
+        "98"
+      ]
+    },
+    {
+      "target": "34 + 44",
+      "correct": [
+        "78"
+      ],
+      "wrong": [
+        "87",
+        "19",
+        "59"
+      ]
+    },
+    {
+      "target": "90 − 37",
+      "correct": [
+        "53"
+      ],
+      "wrong": [
+        "78",
+        "87",
+        "19"
+      ]
+    },
+    {
+      "target": "47+29",
+      "correct": [
+        "76"
+      ],
+      "wrong": [
+        "87",
+        "53",
+        "43"
+      ]
+    },
+    {
+      "target": "36+48",
+      "correct": [
+        "84"
+      ],
+      "wrong": [
+        "43",
+        "19",
+        "53"
+      ]
+    },
+    {
+      "target": "88-29",
+      "correct": [
+        "59"
+      ],
+      "wrong": [
+        "98",
+        "48",
+        "43"
+      ]
+    }
+  ]
+}
