@@ -1,0 +1,62 @@
+{
+  "language": "ru",
+  "font": "Rubik",
+  "fontSize": 22,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "style": {
+    "shape": "rect",
+    "pad": 50,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/zfWPpqkz/POLOZENIE.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Поймай все шары со звуком [Р]",
+    "btnText": "СТАРТ"
+  },
+  "direction": "up",
+  "finalFeedback": "СУПЕР!",
+  "levels": [
+    {
+      "target": "картинки  со звуком [Р]",
+      "correct": [
+        "https://i.postimg.cc/yYrX22fG/1.png",
+        "https://i.postimg.cc/DwJdh5D9/10.png",
+        "https://i.postimg.cc/yYrX22Qz/2.png",
+        "https://i.postimg.cc/zXPS44tm/3.png",
+        "https://i.postimg.cc/Wbf6xx9Q/4.png",
+        "https://i.postimg.cc/dtSmggHJ/5.png",
+        "https://i.postimg.cc/J4dcSS6M/6.png",
+        "https://i.postimg.cc/3JbCzzSK/7.png",
+        "https://i.postimg.cc/fRtjs5F6/8.png",
+        "https://i.postimg.cc/CxBH0JXT/9.png"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/sf87f5rJ/11.png",
+        "https://i.postimg.cc/BZyHZ20T/12.png",
+        "https://i.postimg.cc/7hCzMZgW/13.png",
+        "https://i.postimg.cc/fy3djRxP/14.png",
+        "https://i.postimg.cc/J0yXczbv/15.png",
+        "https://i.postimg.cc/QCB7kdpP/16.png",
+        "https://i.postimg.cc/fy69HQKH/17.png",
+        "https://i.postimg.cc/T1ZDkv9t/18.png",
+        "https://i.postimg.cc/6qDvHx0m/19.png",
+        "https://i.postimg.cc/2yPZHNwM/20.png"
+      ],
+      "timer": 30
+    }
+  ]
+}
