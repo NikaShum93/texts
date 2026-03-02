@@ -1,0 +1,99 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 40,
+  "textColor": "#0d0c0c",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 55,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/KjK7pWGH/1.png",
+      "https://i.postimg.cc/Y0J65xjk/2.png",
+      "https://i.postimg.cc/sxtYkJ1g/3.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 150
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "СЛОГИ",
+    "btnText": "START"
+  },
+  "direction": "down",
+  "finalFeedback": "WELL DONE!",
+  "levels": [
+    {
+      "target": "Закрытый слог",
+      "correct": [
+        "Box",
+        "Ten",
+        "Gun",
+        "Not",
+        "Bot",
+        "Cat",
+        "Map",
+        "Mat",
+        "Cap",
+        "Cup",
+        "Sun",
+        "Dot",
+        "Six",
+        "Tent",
+        "Pot",
+        "Jump"
+      ],
+      "wrong": [
+        "Rise",
+        "Rose",
+        "Same",
+        "Vote",
+        "Tote",
+        "Game",
+        "Lime"
+      ],
+      "timer": 35
+    },
+    {
+      "target": "Открытый слог",
+      "correct": [
+        "Name",
+        "Cute",
+        "Tube",
+        "Flute",
+        "Nose",
+        "Rise",
+        "Rose",
+        "Same",
+        "Vote",
+        "Tote",
+        "Game",
+        "Lime",
+        "Crime",
+        "Bone",
+        "Nine",
+        "Time",
+        "Tune"
+      ],
+      "wrong": [
+        "Bot",
+        "Cat",
+        "Map",
+        "Mat",
+        "Cap",
+        "Cup",
+        "Sun"
+      ],
+      "timer": 33
+    }
+  ]
+}
