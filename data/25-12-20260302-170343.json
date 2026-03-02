@@ -1,0 +1,91 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "questionFont": "PT Sans",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 40,
+    "bgColor": "#f415ed",
+    "bgImage": "https://media.tenor.com/6zTJxEMKLiYAAAAi/floating-jellyfish-kids%27-choice-awards.gif",
+    "bgImages": [
+      "https://media.tenor.com/6zTJxEMKLiYAAAAi/floating-jellyfish-kids%27-choice-awards.gif"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": true,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 260
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Чтобы добыть часть рецепта, нужно поймать всех медуз!",
+    "btnText": ""
+  },
+  "direction": "random",
+  "finalFeedback": "Отличная работа!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "25+12=",
+      "correct": [
+        "37"
+      ],
+      "wrong": [
+        "47/45/36"
+      ]
+    },
+    {
+      "target": "48-16=",
+      "correct": [
+        "32"
+      ],
+      "wrong": [
+        "31/41/33"
+      ]
+    },
+    {
+      "target": "3*7=",
+      "correct": [
+        "21"
+      ],
+      "wrong": [
+        "27/24/18"
+      ]
+    },
+    {
+      "target": "18:2=",
+      "correct": [
+        "9"
+      ],
+      "wrong": [
+        "8/7/6"
+      ]
+    },
+    {
+      "target": "2*5=",
+      "correct": [
+        "10"
+      ],
+      "wrong": [
+        "8/12/6"
+      ]
+    },
+    {
+      "target": "15+13",
+      "correct": [
+        "28"
+      ],
+      "wrong": [
+        "25/26/27"
+      ]
+    }
+  ]
+}
