@@ -1,0 +1,83 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Fredoka",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": true,
+  "bubbleSize": 150,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/96f665a7-7fe3-4334-8f85-b2ace29cd72c.png",
+    "bubbleSize": 150,
+    "task": {
+      "bgColor": "rgba(153,135,21,0.8)",
+      "borderColor": "#e7c623",
+      "textColor": "#ffffff",
+      "fontSize": 26,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#998715",
+      "borderColor": "#e7c623",
+      "textColor": "#ffffff",
+      "fontSize": 26,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🧀 Great job! 🧀",
+  "feedbackImage": "https://img.genially.com/69280f411dd3350008276459/96f665a7-7fe3-4334-8f85-b2ace29cd72c.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 2,
+  "tasks": [
+    {
+      "question": "There are 20 mice under the house.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "There is a big TV in our living room.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "There are three rooms in our house.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "There are five red pencils and a cat in my bag.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "There is a red cup and two green cups on the table.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "There are two frogs and a spider in the sink.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "There is a wardrobe in my bedroom.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
