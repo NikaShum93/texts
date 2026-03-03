@@ -1,0 +1,81 @@
+{
+  "language": "ru",
+  "font": "Lobster",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 2,
+  "questionFont": "Lobster",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 25,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.yapx.ru/dFVEd.png",
+    "bgImages": [
+      "https://i.yapx.ru/dFVEd.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Игра \"Дорожные знаки\"",
+    "btnText": "Начать"
+  },
+  "direction": "up",
+  "finalFeedback": "Отличная работа!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "https://i.yapx.ru/dFUeT.png",
+      "correct": [
+        "Скользкая дорога"
+      ],
+      "wrong": [
+        "Дикие животные",
+        "Прочие опасности",
+        "Дорожные работы"
+      ]
+    },
+    {
+      "target": "https://i.yapx.ru/dFUfw.png",
+      "correct": [
+        "Дорожные работы"
+      ],
+      "wrong": [
+        "Скользкая дорога",
+        "Прочие опасности",
+        "Дикие животные"
+      ]
+    },
+    {
+      "target": "https://i.yapx.ru/dFUgE.png",
+      "correct": [
+        "Дикие животные"
+      ],
+      "wrong": [
+        "Дорожные работы",
+        "Скользкая дорога",
+        "Прочие опасности"
+      ]
+    },
+    {
+      "target": "https://i.yapx.ru/dFUiW.png",
+      "correct": [
+        "Прочие опасности"
+      ],
+      "wrong": [
+        "Скользкая дорога",
+        "Дикие животные",
+        "Дорожные работы"
+      ]
+    }
+  ]
+}
