@@ -1,0 +1,206 @@
+{
+  "language": "ru",
+  "font": "Lobster",
+  "fontSize": 30,
+  "textColor": "#ffffff",
+  "speed": 4,
+  "questionFont": "Lobster",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 60,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://radika1.link/2026/03/03/ChatGPT-Image-3-IYL_-2025-G_-03_24_54-no-bg-preview-carve.photoscb8a6c8d4f659f41.png\nhttps://radika1.link/2026/03/03/ChatGPT-Image-3-IYL_-2025-G_-03_25_58-no-bg-preview-carve.photosb718efa125155b1c.png\nhttps://s1.radikal.cloud/2026/03/03/ChatGPT-Image-3-IYL_-2025-G_-03_27_21-no-bg-preview-carve.photosa42a694653a5add9.png\nhttps://radika1.link/2026/03/03/ChatGPT-Image-3-IYL.-2025-G.-03_17_21-1b16d5d94c642c4a6.png\nhttps://radika1.link/2026/03/03/ChatGPT-Image-3-IYL.-2025-G.-03_17_29ff61d50f2d08f330.png",
+    "bgImages": [
+      "https://radika1.link/2026/03/03/ChatGPT-Image-3-IYL_-2025-G_-03_24_54-no-bg-preview-carve.photoscb8a6c8d4f659f41.png",
+      "https://radika1.link/2026/03/03/ChatGPT-Image-3-IYL_-2025-G_-03_25_58-no-bg-preview-carve.photosb718efa125155b1c.png",
+      "https://s1.radikal.cloud/2026/03/03/ChatGPT-Image-3-IYL_-2025-G_-03_27_21-no-bg-preview-carve.photosa42a694653a5add9.png",
+      "https://radika1.link/2026/03/03/ChatGPT-Image-3-IYL.-2025-G.-03_17_21-1b16d5d94c642c4a6.png",
+      "https://radika1.link/2026/03/03/ChatGPT-Image-3-IYL.-2025-G.-03_17_29ff61d50f2d08f330.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 260
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Игра \"Дорожные знаки\"",
+    "btnText": "Начать"
+  },
+  "direction": "up",
+  "finalFeedback": "Отличная работа!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "https://i.yapx.ru/dFUeT.png",
+      "correct": [
+        "Скользкая дорога"
+      ],
+      "wrong": [
+        "Дорожные работы",
+        "Подземный переход",
+        "Пешеходная зона"
+      ]
+    },
+    {
+      "target": "https://i.yapx.ru/dFUfw.png",
+      "correct": [
+        "Дорожные работы"
+      ],
+      "wrong": [
+        "Движение запрещено",
+        "Подземный переход",
+        "Подача звукового сигнала запрещена"
+      ]
+    },
+    {
+      "target": "https://i.yapx.ru/dFUgE.png",
+      "correct": [
+        "Дикие животные"
+      ],
+      "wrong": [
+        "Обгон запрещён",
+        "Дорожные работы",
+        "Движение запрещено"
+      ]
+    },
+    {
+      "target": "https://i.yapx.ru/dFUiW.png",
+      "correct": [
+        "Прочие опасности"
+      ],
+      "wrong": [
+        "Скользкая дорога",
+        "Парковка",
+        "Пешеходная дорожка"
+      ]
+    },
+    {
+      "target": "https://radika1.link/2026/03/03/i-10-edited-free-carve.photos0ccdd9efb70fef3a.png",
+      "correct": [
+        "Движение запрещено"
+      ],
+      "wrong": [
+        "Въезд запрещён",
+        "Дикие животные",
+        "Дорожные работы"
+      ]
+    },
+    {
+      "target": "https://radika1.link/2026/03/03/HORN_PROHIBITED-edited-free-carve.photosfe66252580557e2c.png",
+      "correct": [
+        "Подача звукового сигнала запрещена"
+      ],
+      "wrong": [
+        "Обгон запрещён",
+        "Прочие опасности",
+        "Въезд запрещён"
+      ]
+    },
+    {
+      "target": "https://radika1.link/2026/03/03/Slovenia_road_sign_II-28_svg-edited-free-carve.photose855ab7907c1ee24.png",
+      "correct": [
+        "Обгон запрещён"
+      ],
+      "wrong": [
+        "Прочие опасности",
+        "Пешеходная дорожка",
+        "Подача звукового сигнала запрещена"
+      ]
+    },
+    {
+      "target": "https://radika1.link/2026/03/03/PL_road_sign_B-2_svg-no-bg-preview-carve.photos7bac48f82b7f638a.png",
+      "correct": [
+        "Въезд запрещён"
+      ],
+      "wrong": [
+        "Велосипедная дорожка",
+        "Дикие животные",
+        "Дорожные работы"
+      ]
+    },
+    {
+      "target": "https://s1.radikal.cloud/2026/03/03/i-13-no-bg-preview-carve.photosd157873320ef07e8.png",
+      "correct": [
+        "Велосипедная дорожка"
+      ],
+      "wrong": [
+        "Скользкая дорога",
+        "Прочие опасности",
+        "Пешеходная зона"
+      ]
+    },
+    {
+      "target": "https://radika1.link/2026/03/03/375b1d21be489112b.png",
+      "correct": [
+        "Пешеходная дорожка"
+      ],
+      "wrong": [
+        "Подземный переход",
+        "Прочие опасности",
+        "Дикие животные"
+      ]
+    },
+    {
+      "target": "https://radika1.link/2026/03/03/2ba7e7b44f7307528.png",
+      "correct": [
+        "Пешеходный переход"
+      ],
+      "wrong": [
+        "Подземный переход",
+        "Велосипедная дорожка",
+        "Подача звукового сигнала запрещена"
+      ]
+    },
+    {
+      "target": "https://s2.radikal.cloud/2026/03/03/RU_road_sign_5.33.svg700468c0796047eb.png",
+      "correct": [
+        "Пешеходная зона"
+      ],
+      "wrong": [
+        "Подача звукового сигнала запрещена",
+        "Наземный переход",
+        "Движение запрещено"
+      ]
+    },
+    {
+      "target": "https://s1.radikal.cloud/2026/03/03/orig-4-edited-free-carve.photosf93e9e71627d697b.png",
+      "correct": [
+        "Парковка"
+      ],
+      "wrong": [
+        "Велосипедная дорожка",
+        "Движение запрещено",
+        "Скользкая дорога"
+      ]
+    },
+    {
+      "target": "https://s2.radikal.cloud/2026/03/03/i-16-edited-free-carve.photos2a1adb21f51a147b.png",
+      "correct": [
+        "Подземный переход"
+      ],
+      "wrong": [
+        "Пешеходная дорожка",
+        "Въезд запрещён",
+        "Дикие животные"
+      ]
+    },
+    {
+      "target": "https://radika1.link/2026/03/03/3d8409563d07edc8b0fecdbde1718423-edited-free-carve.photos-1b9c4c8fc6dbe1cb6.png",
+      "correct": [
+        "Наземный переход"
+      ],
+      "wrong": [
+        "Скользкая дорога",
+        "Велосипедная дорожка",
+        "Парковка"
+      ]
+    }
+  ]
+}
