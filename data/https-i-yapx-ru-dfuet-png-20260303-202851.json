@@ -1,0 +1,125 @@
+{
+  "language": "ru",
+  "font": "Lobster",
+  "fontSize": 30,
+  "textColor": "#ffffff",
+  "speed": 4,
+  "questionFont": "Lobster",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 41,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://radika1.link/2026/03/03/ChatGPT-Image-3-IYL_-2025-G_-03_24_54-no-bg-preview-carve.photoscb8a6c8d4f659f41.png",
+    "bgImages": [
+      "https://radika1.link/2026/03/03/ChatGPT-Image-3-IYL_-2025-G_-03_24_54-no-bg-preview-carve.photoscb8a6c8d4f659f41.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 260
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Игра \"Дорожные знаки\"",
+    "btnText": "Начать"
+  },
+  "direction": "up",
+  "finalFeedback": "Отличная работа!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "https://i.yapx.ru/dFUeT.png",
+      "correct": [
+        "Скользкая дорога"
+      ],
+      "wrong": [
+        "Дорожные работы",
+        "Прочие опасности",
+        "Дикие животные"
+      ]
+    },
+    {
+      "target": "https://i.yapx.ru/dFUfw.png",
+      "correct": [
+        "Дорожные работы"
+      ],
+      "wrong": [
+        "Обгон запрещён",
+        "Движение запрещено",
+        "Скользкая дорога"
+      ]
+    },
+    {
+      "target": "https://i.yapx.ru/dFUgE.png",
+      "correct": [
+        "Дикие животные"
+      ],
+      "wrong": [
+        "Скользкая дорога",
+        "Обгон запрещён",
+        "Въезд запрещён"
+      ]
+    },
+    {
+      "target": "https://i.yapx.ru/dFUiW.png",
+      "correct": [
+        "Прочие опасности"
+      ],
+      "wrong": [
+        "Въезд запрещён",
+        "Дорожные работы",
+        "Движение запрещено"
+      ]
+    },
+    {
+      "target": "https://radika1.link/2026/03/03/i-10-edited-free-carve.photos0ccdd9efb70fef3a.png",
+      "correct": [
+        "Движение запрещено"
+      ],
+      "wrong": [
+        "Дикие животные",
+        "Дорожные работы",
+        "Въезд запрещён"
+      ]
+    },
+    {
+      "target": "https://radika1.link/2026/03/03/HORN_PROHIBITED-edited-free-carve.photosfe66252580557e2c.png",
+      "correct": [
+        "Подача звукового сигнала запрещена"
+      ],
+      "wrong": [
+        "Движение запрещено",
+        "Въезд запрещён",
+        "Дорожные работы"
+      ]
+    },
+    {
+      "target": "https://radika1.link/2026/03/03/Slovenia_road_sign_II-28_svg-edited-free-carve.photose855ab7907c1ee24.png",
+      "correct": [
+        "Обгон запрещён"
+      ],
+      "wrong": [
+        "Подача звукового сигнала запрещена",
+        "Скользкая дорога",
+        "Въезд запрещён"
+      ]
+    },
+    {
+      "target": "https://radika1.link/2026/03/03/PL_road_sign_B-2_svg-no-bg-preview-carve.photos7bac48f82b7f638a.png",
+      "correct": [
+        "Въезд запрещён"
+      ],
+      "wrong": [
+        "Скользкая дорога",
+        "Обгон запрещён",
+        "Дорожные работы"
+      ]
+    }
+  ]
+}
