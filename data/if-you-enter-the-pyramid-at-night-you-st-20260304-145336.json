@@ -1,0 +1,193 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Mountains of Christmas",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": false,
+  "bubbleSize": 50,
+  "sounds": {
+    "pop": "https://files.catbox.moe/6wo57y.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/k5YgMn3V/pngw22ing-com.png",
+    "bubbleSize": 50,
+    "task": {
+      "bgColor": "rgba(245,167,0,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/bJMtV6t0/92f63b2d02bdb14e4aee2c180334b365-a408be65-d334-4078-bee6-74d6c392c7e4.jpg",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 3,
+  "tasks": [
+    {
+      "question": "If you enter the pyramid at night, you ______ strange sounds.",
+      "correct": [
+        "will hear"
+      ],
+      "wrong": [
+        "would hear",
+        "heard"
+      ]
+    },
+    {
+      "question": "If someone ______ the ancient door, the curse will begin.",
+      "correct": [
+        "breaks"
+      ],
+      "wrong": [
+        "will break",
+        "broke"
+      ]
+    },
+    {
+      "question": "If the tomb ______, the spirit of the pharaoh will wake up.",
+      "correct": [
+        "is opened"
+      ],
+      "wrong": [
+        "was opened",
+        "would open"
+      ]
+    },
+    {
+      "question": "If archaeologists ______ careful, they will discover hidden treasure.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "were",
+        "would be"
+      ]
+    },
+    {
+      "question": "If you ______ the golden mask, something bad will happen.",
+      "correct": [
+        "touch"
+      ],
+      "wrong": [
+        "touched",
+        "will touch"
+      ]
+    },
+    {
+      "question": "If the scientists ______ more information, they wouldn't break into the pyramids.",
+      "correct": [
+        "had"
+      ],
+      "wrong": [
+        "have",
+        "would have"
+      ]
+    },
+    {
+      "question": "If I found a secret chamber, I ______ excited and scared.",
+      "correct": [
+        "would feel"
+      ],
+      "wrong": [
+        "feel",
+        "will feel"
+      ]
+    },
+    {
+      "question": "If the pharaoh ______ angry, he would punish the thieves.",
+      "correct": [
+        "were"
+      ],
+      "wrong": [
+        "will be angry",
+        "would be angry"
+      ]
+    },
+    {
+      "question": "If people ______ the tomb, they will face the curse.",
+      "correct": [
+        "don't respect"
+      ],
+      "wrong": [
+        "won't respect",
+        "respected"
+      ]
+    },
+    {
+      "question": "If we ______ a mummy move, we would run away immediately.",
+      "correct": [
+        "saw"
+      ],
+      "wrong": [
+        "see",
+        "will see"
+      ]
+    },
+    {
+      "question": "If the pyramid walls ______, the secret will disappear forever.",
+      "correct": [
+        "fall"
+      ],
+      "wrong": [
+        "fell",
+        "would fall"
+      ]
+    },
+    {
+      "question": "If the curse is real, it ______ the treasure.",
+      "correct": [
+        "will protect"
+      ],
+      "wrong": [
+        "would protect",
+        "protects"
+      ]
+    },
+    {
+      "question": "If I ______ an explorer in Ancient Egypt, I would search for lost pyramids.",
+      "correct": [
+        "were"
+      ],
+      "wrong": [
+        "would be",
+        "will be"
+      ]
+    },
+    {
+      "question": "If someone ______ the jewels, the gods will be angry.",
+      "correct": [
+        "steals"
+      ],
+      "wrong": [
+        "stole",
+        "would steal"
+      ]
+    },
+    {
+      "question": "If the pharaoh were alive today, he ______ surprised by the modern world.",
+      "correct": [
+        "would be"
+      ],
+      "wrong": [
+        "will be",
+        "is"
+      ]
+    }
+  ]
+}
