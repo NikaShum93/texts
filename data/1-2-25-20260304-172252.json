@@ -1,0 +1,107 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 34,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "questionFont": "PT Sans",
+  "questionFontSize": 44,
+  "style": {
+    "shape": "rounded",
+    "pad": 30,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/68e8baf3a1432a001f894ae7/a1bccb67-62bd-4b5f-849c-5f53a158b3dc.png",
+    "bgImages": [
+      "https://img.genially.com/68e8baf3a1432a001f894ae7/a1bccb67-62bd-4b5f-849c-5f53a158b3dc.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 250
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "",
+    "btnText": ""
+  },
+  "direction": "random",
+  "finalFeedback": "",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "1сут. 2ч и 25ч",
+      "correct": [
+        ">"
+      ],
+      "wrong": [
+        "<",
+        "="
+      ]
+    },
+    {
+      "target": "6ч 16мин=...мин",
+      "correct": [
+        "376"
+      ],
+      "wrong": [
+        "136",
+        "76"
+      ]
+    },
+    {
+      "target": "190с и 3мин 20с",
+      "correct": [
+        "<"
+      ],
+      "wrong": [
+        ">",
+        "="
+      ]
+    },
+    {
+      "target": "4 нед. 3 сут.=...сут",
+      "correct": [
+        "31"
+      ],
+      "wrong": [
+        "21",
+        "35"
+      ]
+    },
+    {
+      "target": "4ч 45мин и 275мин",
+      "correct": [
+        ">"
+      ],
+      "wrong": [
+        "<",
+        "="
+      ]
+    },
+    {
+      "target": "1нед. 6сут. =...сут",
+      "correct": [
+        "13"
+      ],
+      "wrong": [
+        "7",
+        "14"
+      ]
+    },
+    {
+      "target": "3мин 5с и 180 с",
+      "correct": [
+        ">"
+      ],
+      "wrong": [
+        "<",
+        "="
+      ]
+    }
+  ]
+}
