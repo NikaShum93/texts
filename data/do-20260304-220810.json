@@ -1,0 +1,136 @@
+{
+  "language": "ru",
+  "font": "Marck Script",
+  "fontSize": 28,
+  "textColor": "#131010",
+  "speed": 4,
+  "questionFont": "Marck Script",
+  "questionFontSize": 35,
+  "style": {
+    "shape": "rounded",
+    "pad": 25,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.yapx.ru/dC5GQ.png",
+    "bgImages": [
+      "https://i.yapx.ru/dC5GQ.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 190
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Игра \"Мандариновый дождь\"",
+    "btnText": "Играть!"
+  },
+  "direction": "down",
+  "finalFeedback": "Отлично!",
+  "globalTimer": 180,
+  "levels": [
+    {
+      "target": "do",
+      "correct": [
+        "делать"
+      ],
+      "wrong": [
+        "говорить",
+        "получить",
+        "давать"
+      ]
+    },
+    {
+      "target": "take",
+      "correct": [
+        "брать"
+      ],
+      "wrong": [
+        "идти",
+        "иметь",
+        "получить"
+      ]
+    },
+    {
+      "target": "be",
+      "correct": [
+        "быть"
+      ],
+      "wrong": [
+        "идти",
+        "получить",
+        "делать"
+      ]
+    },
+    {
+      "target": "have",
+      "correct": [
+        "иметь"
+      ],
+      "wrong": [
+        "получить",
+        "давать",
+        "быть"
+      ]
+    },
+    {
+      "target": "go",
+      "correct": [
+        "идти"
+      ],
+      "wrong": [
+        "быть",
+        "иметь",
+        "давать"
+      ]
+    },
+    {
+      "target": "can",
+      "correct": [
+        "уметь"
+      ],
+      "wrong": [
+        "давать",
+        "получить",
+        "говорить"
+      ]
+    },
+    {
+      "target": "say",
+      "correct": [
+        "говорить"
+      ],
+      "wrong": [
+        "брать",
+        "уметь",
+        "делать"
+      ]
+    },
+    {
+      "target": "get",
+      "correct": [
+        "получить"
+      ],
+      "wrong": [
+        "делать",
+        "давать",
+        "говорить"
+      ]
+    },
+    {
+      "target": "give",
+      "correct": [
+        "давать"
+      ],
+      "wrong": [
+        "идти",
+        "брать",
+        "уметь"
+      ]
+    }
+  ]
+}
