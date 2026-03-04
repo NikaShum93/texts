@@ -1,0 +1,136 @@
+{
+  "language": "ru",
+  "font": "Marck Script",
+  "fontSize": 28,
+  "textColor": "#131010",
+  "speed": 4,
+  "questionFont": "Marck Script",
+  "questionFontSize": 35,
+  "style": {
+    "shape": "rounded",
+    "pad": 25,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.yapx.ru/dC5GQ.png",
+    "bgImages": [
+      "https://i.yapx.ru/dC5GQ.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 190
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Игра \"Мандариновый дождь\"",
+    "btnText": "Играть!"
+  },
+  "direction": "down",
+  "finalFeedback": "Отлично!",
+  "globalTimer": 180,
+  "levels": [
+    {
+      "target": "do-..-done",
+      "correct": [
+        "did"
+      ],
+      "wrong": [
+        "got",
+        "gave",
+        "took"
+      ]
+    },
+    {
+      "target": "take-..-taken",
+      "correct": [
+        "took"
+      ],
+      "wrong": [
+        "had",
+        "could",
+        "went"
+      ]
+    },
+    {
+      "target": "be-..-been",
+      "correct": [
+        "was,were"
+      ],
+      "wrong": [
+        "went",
+        "could",
+        "had"
+      ]
+    },
+    {
+      "target": "have-..-had",
+      "correct": [
+        "had"
+      ],
+      "wrong": [
+        "went",
+        "did",
+        "got"
+      ]
+    },
+    {
+      "target": "go-..-gone",
+      "correct": [
+        "went"
+      ],
+      "wrong": [
+        "had",
+        "did",
+        "said"
+      ]
+    },
+    {
+      "target": "can-..-could",
+      "correct": [
+        "could"
+      ],
+      "wrong": [
+        "had",
+        "took",
+        "did"
+      ]
+    },
+    {
+      "target": "say-..-said",
+      "correct": [
+        "said"
+      ],
+      "wrong": [
+        "had",
+        "could",
+        "did"
+      ]
+    },
+    {
+      "target": "get-..-gotten",
+      "correct": [
+        "got"
+      ],
+      "wrong": [
+        "did",
+        "had",
+        "could"
+      ]
+    },
+    {
+      "target": "give-..-given",
+      "correct": [
+        "gave"
+      ],
+      "wrong": [
+        "said",
+        "did",
+        "took"
+      ]
+    }
+  ]
+}
