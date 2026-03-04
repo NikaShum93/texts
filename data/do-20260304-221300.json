@@ -1,0 +1,136 @@
+{
+  "language": "ru",
+  "font": "Marck Script",
+  "fontSize": 28,
+  "textColor": "#131010",
+  "speed": 4,
+  "questionFont": "Marck Script",
+  "questionFontSize": 35,
+  "style": {
+    "shape": "rounded",
+    "pad": 25,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.yapx.ru/dC5GQ.png",
+    "bgImages": [
+      "https://i.yapx.ru/dC5GQ.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 190
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Игра \"Мандариновый дождь\"",
+    "btnText": "Играть!"
+  },
+  "direction": "down",
+  "finalFeedback": "Отлично!",
+  "globalTimer": 180,
+  "levels": [
+    {
+      "target": "do",
+      "correct": [
+        "did-done"
+      ],
+      "wrong": [
+        "took-taken",
+        "was,were-been",
+        "went-gone"
+      ]
+    },
+    {
+      "target": "take",
+      "correct": [
+        "took-taken"
+      ],
+      "wrong": [
+        "said-said",
+        "did-done",
+        "could-could"
+      ]
+    },
+    {
+      "target": "be",
+      "correct": [
+        "was,were-been"
+      ],
+      "wrong": [
+        "got-gotten",
+        "gave-given",
+        "had-had"
+      ]
+    },
+    {
+      "target": "have",
+      "correct": [
+        "had-had"
+      ],
+      "wrong": [
+        "gave-given",
+        "said-said",
+        "took-taken"
+      ]
+    },
+    {
+      "target": "go",
+      "correct": [
+        "went-gone"
+      ],
+      "wrong": [
+        "had-had",
+        "did-done",
+        "gave-given"
+      ]
+    },
+    {
+      "target": "can",
+      "correct": [
+        "could-could"
+      ],
+      "wrong": [
+        "did-done",
+        "said-said",
+        "went-gone"
+      ]
+    },
+    {
+      "target": "say",
+      "correct": [
+        "said-said"
+      ],
+      "wrong": [
+        "went-gone",
+        "had-had",
+        "was,were-been"
+      ]
+    },
+    {
+      "target": "get",
+      "correct": [
+        "got-gotten"
+      ],
+      "wrong": [
+        "did-done",
+        "took-taken",
+        "said-said"
+      ]
+    },
+    {
+      "target": "give",
+      "correct": [
+        "gave-given"
+      ],
+      "wrong": [
+        "went-gone",
+        "had-had",
+        "could-could"
+      ]
+    }
+  ]
+}
