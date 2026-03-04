@@ -1,0 +1,117 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 34,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "questionFont": "PT Sans",
+  "questionFontSize": 44,
+  "style": {
+    "shape": "rounded",
+    "pad": 70,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/68e8baf3a1432a001f894ae7/a1bccb67-62bd-4b5f-849c-5f53a158b3dc.png",
+    "bgImages": [
+      "https://img.genially.com/68e8baf3a1432a001f894ae7/a1bccb67-62bd-4b5f-849c-5f53a158b3dc.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 260
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Ловля желудей",
+    "btnText": ""
+  },
+  "direction": "random",
+  "finalFeedback": "",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "2 мин =...с",
+      "correct": [
+        "120"
+      ],
+      "wrong": [
+        "140",
+        "160"
+      ]
+    },
+    {
+      "target": "4 мин =...с",
+      "correct": [
+        "240"
+      ],
+      "wrong": [
+        "230",
+        "340"
+      ]
+    },
+    {
+      "target": "12 мин =...с",
+      "correct": [
+        "720"
+      ],
+      "wrong": [
+        "780",
+        "520"
+      ]
+    },
+    {
+      "target": "7 мин =...с",
+      "correct": [
+        "420"
+      ],
+      "wrong": [
+        "410",
+        "520"
+      ]
+    },
+    {
+      "target": "9 мин =...с",
+      "correct": [
+        "540"
+      ],
+      "wrong": [
+        "550",
+        "530"
+      ]
+    },
+    {
+      "target": "10 мин =...с",
+      "correct": [
+        "600"
+      ],
+      "wrong": [
+        "400",
+        "500"
+      ]
+    },
+    {
+      "target": "1 мин =...с",
+      "correct": [
+        "60"
+      ],
+      "wrong": [
+        "100",
+        "120"
+      ]
+    },
+    {
+      "target": "6 мин =...с",
+      "correct": [
+        "360"
+      ],
+      "wrong": [
+        "300",
+        "320"
+      ]
+    }
+  ]
+}
