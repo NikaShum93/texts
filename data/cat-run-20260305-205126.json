@@ -1,0 +1,165 @@
+{
+  "lang": "en",
+  "mode": "choice",
+  "math": false,
+  "transparentBg": false,
+  "randomQuestions": true,
+  "ui": {
+    "title": "CAT RUN",
+    "start": "PLAY",
+    "again": "AGAIN",
+    "gameover": "GAME OVER",
+    "scoreLabel": "Score: ",
+    "fontSize": 9.5
+  },
+  "gameplay": {
+    "winQuestions": 7,
+    "diffBaseSpawnMs": 14000,
+    "diffBaseMoveSpeed": 5.7,
+    "diffMedMult": 0.88,
+    "diffHardMult": 0.76
+  },
+  "assets": {
+    "hero": "🐈",
+    "mirrorHero": true,
+    "heroBobbing": true,
+    "obstacles": {
+      "ground": [
+        "🌲",
+        "🌵"
+      ],
+      "good": [
+        "🌽",
+        "🍎"
+      ],
+      "bad": []
+    }
+  },
+  "sounds": {
+    "mus": "https://raw.githubusercontent.com/kgbgamelab/audioplayer/main/Baa%20Dash.mp3",
+    "ding": "https://assets.mixkit.co/active_storage/sfx/2000/2000-preview.mp3",
+    "buzz": "https://assets.mixkit.co/active_storage/sfx/257/257-preview.mp3",
+    "coin": "https://assets.mixkit.co/active_storage/sfx/2019/2019-preview.mp3",
+    "crash": "https://assets.mixkit.co/active_storage/sfx/2042/2042-preview.mp3",
+    "win": "https://assets.mixkit.co/active_storage/sfx/2018/2018-preview.mp3"
+  },
+  "tasks": [
+    {
+      "question": "Mike _____ a bike on Tuesdays.",
+      "correct": [
+        "rides"
+      ],
+      "wrong": [
+        "ride"
+      ]
+    },
+    {
+      "question": "My friends _____ football on Fridays.",
+      "correct": [
+        "play"
+      ],
+      "wrong": [
+        "plays"
+      ]
+    },
+    {
+      "question": "Mary and Sam _____ in the swimming pool on Saturdays.",
+      "correct": [
+        "swim"
+      ],
+      "wrong": [
+        "swims"
+      ]
+    },
+    {
+      "question": "Tom _____ chess with his brother on Sundays.",
+      "correct": [
+        "plays"
+      ],
+      "wrong": [
+        "play"
+      ]
+    },
+    {
+      "question": "Anna _____ the piano every evening.",
+      "correct": [
+        "plays"
+      ],
+      "wrong": [
+        "play"
+      ]
+    },
+    {
+      "question": "My brothers _____ tennis after school.",
+      "correct": [
+        "play"
+      ],
+      "wrong": [
+        "plays"
+      ]
+    },
+    {
+      "question": "My grandma and my sister _____ books every evening.",
+      "correct": [
+        "read"
+      ],
+      "wrong": [
+        "reads"
+      ]
+    },
+    {
+      "question": "Lucy _____ photos in the park.",
+      "correct": [
+        "takes"
+      ],
+      "wrong": [
+        "take"
+      ]
+    },
+    {
+      "question": "Jack and his brother _____ computer games at the weekend.",
+      "correct": [
+        "play"
+      ],
+      "wrong": [
+        "plays"
+      ]
+    },
+    {
+      "question": "Emma _____ songs in English.",
+      "correct": [
+        "sings"
+      ],
+      "wrong": [
+        "sing"
+      ]
+    },
+    {
+      "question": "Leo _____ cartoons after dinner.",
+      "correct": [
+        "watches"
+      ],
+      "wrong": [
+        "watch"
+      ]
+    },
+    {
+      "question": "My sisters _____ to music every day.",
+      "correct": [
+        "listen"
+      ],
+      "wrong": [
+        "listens"
+      ]
+    },
+    {
+      "question": "Nick and Tom _____ basketball with his classmates.",
+      "correct": [
+        "play"
+      ],
+      "wrong": [
+        "plays"
+      ]
+    }
+  ]
+}
