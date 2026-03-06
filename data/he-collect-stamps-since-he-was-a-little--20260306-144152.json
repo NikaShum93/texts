@@ -1,0 +1,93 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/640979b6-181f-40db-b5d4-1aa432508341.png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(255,177,158,0.75)",
+      "borderColor": "#ff0000",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#ffb19e",
+      "borderColor": "#ff2500",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 600
+    }
+  },
+  "finalFeedback": "Nailed it!",
+  "feedbackImage": "https://img.genially.com/69280f411dd3350008276459/8a7639dc-7f17-41bc-9d77-43b1d4353c0f.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "He ______ (collect) stamps since he was a little boy.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We ______ (not listen) to music all day, only for an hour.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "______ she ______ (wear) that beautiful dress since morning?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The chefs ______ (prepare) food for the wedding since early today.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I ______ (try) to call you for hours! Where have you been?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My eyes are tired because I ______ (read) this book all afternoon.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The ground is wet. It ______ (rain) here.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "How long ______ your brother ______ (play) the guitar?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They ______ (not speak) to each other since their argument.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The kitten ______ (chase) butterflies in the garden all morning.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
