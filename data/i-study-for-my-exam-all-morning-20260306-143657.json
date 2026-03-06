@@ -1,0 +1,93 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/744503ae-a63c-478e-a6f8-6ff714b8acde.png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(158,190,255,0.75)",
+      "borderColor": "#00d5ff",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#9ebeff",
+      "borderColor": "#02d5ff",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 600
+    }
+  },
+  "finalFeedback": "Nailed it!",
+  "feedbackImage": "https://img.genially.com/69280f411dd3350008276459/8a7639dc-7f17-41bc-9d77-43b1d4353c0f.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "I ______ (study) for my exam all morning.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She ______ (wait) for the bus since 8 o'clock.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They ______ (play) football in the park for two hours.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "He ______ (work) on this project for a long time.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "______ you ______ (watch) TV all afternoon?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "How long ______ she ______ (learn) English?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "______ they ______ (live) in this city since 2020?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I ______ (not sleep) well lately.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She ______ (not feel) very well this week.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We ______ (not wait) for too long, have we?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
