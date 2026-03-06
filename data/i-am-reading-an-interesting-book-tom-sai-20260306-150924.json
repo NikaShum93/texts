@@ -1,0 +1,93 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/36051434-4bda-459b-960a-452c2f63735a.png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(255,177,158,0.75)",
+      "borderColor": "#ff0000",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#ffb19e",
+      "borderColor": "#ff2500",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 600
+    }
+  },
+  "finalFeedback": "Good job!",
+  "feedbackImage": "https://img.genially.com/69280f411dd3350008276459/394457ab-f2c3-4259-9e90-7d919b43f201.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "\"I am reading an interesting book,\" Tom said.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "\"We are going to the cinema tomorrow,\" the girls said.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "\"I have finished my homework,\" Mary said.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "\"I will call you later,\" he told me.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "\"We visited Paris last year,\" my parents said.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "\"I can speak three languages,\" Anna said.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "\"You should see a doctor,\" my friend told me.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "\"I don't like spicy food,\" Peter said.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "\"We haven't seen this film yet,\" they said.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "\"I may be late for the party,\" she told us.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
