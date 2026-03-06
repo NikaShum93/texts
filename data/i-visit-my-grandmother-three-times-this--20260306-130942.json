@@ -1,0 +1,93 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/bd5a6aa6-b55b-4932-a55d-759687a03c1e.png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(158,190,255,0.75)",
+      "borderColor": "#00d5ff",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#9ebeff",
+      "borderColor": "#02d5ff",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 600
+    }
+  },
+  "finalFeedback": "Nailed it!",
+  "feedbackImage": "https://img.genially.com/69280f411dd3350008276459/8a7639dc-7f17-41bc-9d77-43b1d4353c0f.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "I ______ (visit) my grandmother three times this week.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She ______ (finish) her homework already.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They ______ (not see) this film yet.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "______ you ever ______ (eat) Chinese food?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "He ______ (lose) his keys. He can't find them anywhere.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We ______ (be) friends since kindergarten.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My sister ______ (not do) her room. It's still messy.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "______ your father ever ______ (travel) to London?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The lesson ______ just ______ (start).",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I ______ (not finish) my project yet. I need more time.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
