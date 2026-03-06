@@ -1,0 +1,93 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/1f78a2d2-3779-4505-b28e-7ac471333e94.png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(255,177,158,0.75)",
+      "borderColor": "#ff0000",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#ffb19e",
+      "borderColor": "#ff2500",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 600
+    }
+  },
+  "finalFeedback": "Good job!",
+  "feedbackImage": "https://img.genially.com/69280f411dd3350008276459/394457ab-f2c3-4259-9e90-7d919b43f201.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "\"I am watching a great film now,\" Mark said.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "\"We went to the beach yesterday,\" the children said.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "\"I will help you with your project,\" she told me.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "\"I have never been to London,\" Paul said.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "\"We are having a party on Saturday,\" they told us.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "\"I can't find my keys,\" my mother said.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "\"The lesson starts at 9 o'clock,\" the teacher said.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "\"I may visit you next week,\" he told his grandmother.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "\"We don't want to go to bed,\" the little kids said.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "\"I have bought a present for you,\" my best friend told me.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
