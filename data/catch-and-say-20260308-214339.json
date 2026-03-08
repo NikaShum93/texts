@@ -1,0 +1,53 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 2,
+  "style": {
+    "shape": "rounded",
+    "pad": 50,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/CxNBQ4Ft/Plusevyj-list.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 210
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "What can they do?",
+    "btnText": "Start"
+  },
+  "direction": "up",
+  "finalFeedback": "Well done!",
+  "levels": [
+    {
+      "target": "Catch and say",
+      "correct": [
+        "https://i.postimg.cc/2yQ8Bz35/12.png",
+        "https://i.postimg.cc/tJ3CVX7J/13.png",
+        "https://i.postimg.cc/rs1Ft8zm/14.png",
+        "https://i.postimg.cc/prfXn2yy/15.png",
+        "https://i.postimg.cc/kGQXtnDt/16.png",
+        "https://i.postimg.cc/C5GLfFdq/17.png",
+        "https://i.postimg.cc/Y06qmpjF/18.png",
+        "https://i.postimg.cc/L4LsWVDV/19.png",
+        "https://i.postimg.cc/HWXLNtz6/20.png",
+        "https://i.postimg.cc/gc807KsM/21.png",
+        "https://i.postimg.cc/NGm0nxDn/22.png",
+        "https://i.postimg.cc/y6cNGTj5/23.png"
+      ],
+      "wrong": [],
+      "timer": 60
+    }
+  ]
+}
