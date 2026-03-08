@@ -1,0 +1,102 @@
+{
+  "language": "en",
+  "font": "Poppins",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 70,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/44M79ddj/Мультяшная_снежинка.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "",
+    "btnText": ""
+  },
+  "direction": "down",
+  "finalFeedback": "",
+  "levels": [
+    {
+      "target": "Vowels",
+      "correct": [
+        "Aa",
+        "Oo",
+        "Ee",
+        "Uu",
+        "Ii"
+      ],
+      "wrong": [
+        "Bb",
+        "Cc",
+        "Dd",
+        "Ff",
+        "Gg",
+        "Hh",
+        "Jj",
+        "Kk",
+        "Ll",
+        "Mm",
+        "Nn",
+        "Pp",
+        "Qq",
+        "Rr",
+        "Ss",
+        "Tt",
+        "Vv",
+        "Ww",
+        "Xx",
+        "Yy",
+        "Zz"
+      ],
+      "timer": 45
+    },
+    {
+      "target": "Consonants",
+      "correct": [
+        "Bb",
+        "Cc",
+        "Dd",
+        "Ff",
+        "Gg",
+        "Hh",
+        "Jj",
+        "Kk",
+        "Ll",
+        "Mm",
+        "Nn",
+        "Pp",
+        "Qq",
+        "Rr",
+        "Ss",
+        "Tt",
+        "Vv",
+        "Ww",
+        "Xx",
+        "Yy",
+        "Zz"
+      ],
+      "wrong": [
+        "Aa",
+        "Oo",
+        "Ee",
+        "Uu",
+        "Ii"
+      ],
+      "timer": 45
+    }
+  ]
+}
