@@ -1,0 +1,47 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 2,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 0,
+    "imgBox": 200
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "",
+    "btnText": ""
+  },
+  "direction": "down",
+  "finalFeedback": "",
+  "levels": [
+    {
+      "target": "Actions",
+      "correct": [
+        "https://media.tenor.com/-WsBtmSFOkAAAAAi/great-work-good-work.gif",
+        "https://media.tenor.com/crbpRgYoGjUAAAAi/great-work-good-work.gif",
+        "https://media.tenor.com/PYs65LBwtQAAAAAi/great-work-good-work.gif",
+        "https://media.tenor.com/NeqwSWJ4MAcAAAAi/pengu-pudgy.gif",
+        "https://media.tenor.com/k_o6QRhbtrAAAAAi/great-work-good-work.gif",
+        "https://media.tenor.com/jvQYhCadA9MAAAAi/nice-job-good-job-today.gif"
+      ],
+      "wrong": [
+        "https://media.tenor.com/_s1QD9dvqd0AAAAi/cool-fire.gif"
+      ],
+      "timer": 30
+    }
+  ]
+}
