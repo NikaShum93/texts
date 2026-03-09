@@ -1,0 +1,113 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 96,
+  "sounds": {
+    "pop": "https://github.com/nastyaraay-collab/-/raw/refs/heads/main/1.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/66163aeabaa20300158fc6a8/3099877f-9a87-4cbe-8fd4-7a09411f1065.png",
+    "bubbleSize": 96,
+    "task": {
+      "bgColor": "rgba(247,151,202,0.8)",
+      "borderColor": "#fcfe62",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#e7047d",
+      "borderColor": "#fcfe62",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 400
+    }
+  },
+  "finalFeedback": "Отличная работа!",
+  "feedbackImage": "https://media.tenor.com/4UeycuEHHy8AAAAi/europe-european-union.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Найди слово, в котором все согласные звуки глухие: Книги мы разложили в две аккуратные стопки.",
+      "correct": [
+        "стопки"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Найди слово, в котором все согласные звуки звонкие: Настала пора птицам гнёзда вить.",
+      "correct": [
+        "гнёзда"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Найди слово, в котором есть звонкий мягкий непарный согласный звук, не обозначенный буквой: Вьюги да метели под февраль полетели.",
+      "correct": [
+        "вьюги"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Найди слово, в котором все согласные звуки глухие: Ветви деревьев согнулись из-за тяжёлых шишек.",
+      "correct": [
+        "шишек"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Найди слово, в котором все согласные звуки глухие: Хомячок прячет за толстые щёчки семечки.",
+      "correct": [
+        "щёчки"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Найди слово, в котором все согласные звуки глухие: Дятел колотит шишку клювом, достаёт семена.",
+      "correct": [
+        "шишку"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Найди слово, в котором все согласные звуки глухие: Спелые плоды рябины клюёт серая птица.",
+      "correct": [
+        "птица"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Найди слово, в котором все согласные звуки звонкие: Колосья спелой пшеницы приклонились к земле.",
+      "correct": [
+        "земле"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Найди слово, в котором все согласные звуки глухие: Лучи солнца осветили опушку леса.",
+      "correct": [
+        "опушку"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Найди слово, в котором все согласные звуки звонкие: По поверхности озера пробежал лёгкий ветерок.",
+      "correct": [
+        "озера"
+      ],
+      "wrong": []
+    }
+  ]
+}
