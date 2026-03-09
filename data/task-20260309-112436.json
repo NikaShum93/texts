@@ -1,0 +1,113 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 96,
+  "sounds": {
+    "pop": "https://github.com/nastyaraay-collab/-/raw/refs/heads/main/1.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/66163aeabaa20300158fc6a8/3099877f-9a87-4cbe-8fd4-7a09411f1065.png",
+    "bubbleSize": 96,
+    "task": {
+      "bgColor": "rgba(247,151,202,0.8)",
+      "borderColor": "#fcfe62",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 400
+    }
+  },
+  "finalFeedback": "",
+  "feedbackImage": "https://media.tenor.com/4UeycuEHHy8AAAAi/europe-european-union.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "image",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Найди слово, в котором все согласные звуки звонкие:",
+      "correct": [
+        "замело"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Найди слово, в котором все согласные звуки глухие:",
+      "correct": [
+        "птиц"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Найди слово, в котором все согласные звуки звонкие:",
+      "correct": [
+        "журавли"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Найди слово, в котором все согласные звуки глухие:",
+      "correct": [
+        "пастушка"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Найди слово, в котором все согласные звуки звонкие:",
+      "correct": [
+        "модели"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Найди слово, в котором все согласные звуки звонкие:",
+      "correct": [
+        "голуби"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Найди слово, в котором все согласные звуки звонкие:",
+      "correct": [
+        "виден"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Найди слово, в котором все согласные звуки звонкие:",
+      "correct": [
+        "равнину"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Найди слово, в котором все согласные звуки звонкие:",
+      "correct": [
+        "яблоней"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Найди слово, в котором все согласные звуки звонкие:",
+      "correct": [
+        "блюдо"
+      ],
+      "wrong": []
+    }
+  ]
+}
