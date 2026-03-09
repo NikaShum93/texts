@@ -1,0 +1,113 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 96,
+  "sounds": {
+    "pop": "https://github.com/nastyaraay-collab/-/raw/refs/heads/main/1.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/66163aeabaa20300158fc6a8/3099877f-9a87-4cbe-8fd4-7a09411f1065.png",
+    "bubbleSize": 96,
+    "task": {
+      "bgColor": "rgba(247,151,202,0.8)",
+      "borderColor": "#fcfe62",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 400
+    }
+  },
+  "finalFeedback": "",
+  "feedbackImage": "https://media.tenor.com/4UeycuEHHy8AAAAi/europe-european-union.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "image",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Найди слово, в котором все согласные звуки звонкие: С крутого гребня холма съезжают лыжники.",
+      "correct": [
+        "гребня"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Найди слово, в котором все согласные звуки звонкие: У небесной радуги семь ярких цветов.",
+      "correct": [
+        "радуги"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Найди слово, в котором все согласные звуки звонкие: Дрозды оглашают сад своим звонким свистом.",
+      "correct": [
+        "дрозды"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Найди слово, в котором все согласные звуки звонкие: Под звонкую песню капели уходит зима.",
+      "correct": [
+        "зима"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Найди слово, в котором все согласные звуки звонкие: Тёмный небосвод сплошь усеян яркими звёздами.",
+      "correct": [
+        "звёздами"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Найди слово, в котором все согласные звуки звонкие: Каждый человек мечтает о крепкой дружбе.",
+      "correct": [
+        "дружбе"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Найди слово, в котором все согласные звуки звонкие: По реке плыл огромный теплоход.",
+      "correct": [
+        "огромный"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Найди слово, в котором все согласные звуки глухие: На ветке дерева сидела маленькая птичка.",
+      "correct": [
+        "птичка"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Найди слово, в котором все согласные звуки глухие: Вчера нас испугал шумный щебет птиц.",
+      "correct": [
+        "птиц"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Найди слово, в котором все согласные звуки звонкие: По скатам оврага журчат звонкие ручьи.",
+      "correct": [
+        "оврага"
+      ],
+      "wrong": []
+    }
+  ]
+}
