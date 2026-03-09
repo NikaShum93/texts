@@ -1,0 +1,147 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "questionFont": "PT Sans",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://radika1.link/2026/03/03/ChatGPT-Image-3-IYL_-2025-G_-03_24_54-no-bg-preview-carve.photoscb8a6c8d4f659f41.png",
+    "bgImages": [
+      "https://radika1.link/2026/03/03/ChatGPT-Image-3-IYL_-2025-G_-03_24_54-no-bg-preview-carve.photoscb8a6c8d4f659f41.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Игра \"Гонки\"",
+    "btnText": "Начать"
+  },
+  "direction": "up",
+  "finalFeedback": "Отлично!",
+  "globalTimer": 90,
+  "levels": [
+    {
+      "target": "put...put",
+      "correct": [
+        "put"
+      ],
+      "wrong": [
+        "made",
+        "became",
+        "saw"
+      ]
+    },
+    {
+      "target": "make...made",
+      "correct": [
+        "made"
+      ],
+      "wrong": [
+        "thought",
+        "found",
+        "came"
+      ]
+    },
+    {
+      "target": "come...come",
+      "correct": [
+        "came"
+      ],
+      "wrong": [
+        "thought",
+        "found",
+        "began"
+      ]
+    },
+    {
+      "target": "know...known",
+      "correct": [
+        "knew"
+      ],
+      "wrong": [
+        "became",
+        "saw",
+        "made"
+      ]
+    },
+    {
+      "target": "become...become",
+      "correct": [
+        "became"
+      ],
+      "wrong": [
+        "saw",
+        "thought",
+        "made"
+      ]
+    },
+    {
+      "target": "find...found",
+      "correct": [
+        "found"
+      ],
+      "wrong": [
+        "knew",
+        "came",
+        "began"
+      ]
+    },
+    {
+      "target": "think...thought",
+      "correct": [
+        "thought"
+      ],
+      "wrong": [
+        "began",
+        "wrote",
+        "knew"
+      ]
+    },
+    {
+      "target": "see...seen",
+      "correct": [
+        "saw"
+      ],
+      "wrong": [
+        "put",
+        "knew",
+        "wrote"
+      ]
+    },
+    {
+      "target": "write...written",
+      "correct": [
+        "wrote"
+      ],
+      "wrong": [
+        "put",
+        "found",
+        "became"
+      ]
+    },
+    {
+      "target": "begin...begun",
+      "correct": [
+        "began"
+      ],
+      "wrong": [
+        "found",
+        "came",
+        "thought"
+      ]
+    }
+  ]
+}
