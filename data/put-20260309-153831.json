@@ -1,0 +1,147 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "questionFont": "PT Sans",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://radika1.link/2026/03/03/ChatGPT-Image-3-IYL_-2025-G_-03_24_54-no-bg-preview-carve.photoscb8a6c8d4f659f41.png",
+    "bgImages": [
+      "https://radika1.link/2026/03/03/ChatGPT-Image-3-IYL_-2025-G_-03_24_54-no-bg-preview-carve.photoscb8a6c8d4f659f41.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Игра \"Гонки\"",
+    "btnText": "Начать"
+  },
+  "direction": "up",
+  "finalFeedback": "Отлично!",
+  "globalTimer": 90,
+  "levels": [
+    {
+      "target": "put",
+      "correct": [
+        "положить"
+      ],
+      "wrong": [
+        "приходить",
+        "делать",
+        "видеть"
+      ]
+    },
+    {
+      "target": "make",
+      "correct": [
+        "делать"
+      ],
+      "wrong": [
+        "положить",
+        "начинать",
+        "видеть"
+      ]
+    },
+    {
+      "target": "come",
+      "correct": [
+        "приходить"
+      ],
+      "wrong": [
+        "видеть",
+        "положить",
+        "становиться"
+      ]
+    },
+    {
+      "target": "know",
+      "correct": [
+        "знать"
+      ],
+      "wrong": [
+        "писать",
+        "становиться",
+        "приходить"
+      ]
+    },
+    {
+      "target": "become",
+      "correct": [
+        "становиться"
+      ],
+      "wrong": [
+        "положить",
+        "находить",
+        "писать"
+      ]
+    },
+    {
+      "target": "find",
+      "correct": [
+        "находить"
+      ],
+      "wrong": [
+        "положить",
+        "делать",
+        "приходить"
+      ]
+    },
+    {
+      "target": "think",
+      "correct": [
+        "думать"
+      ],
+      "wrong": [
+        "знать",
+        "делать",
+        "становиться"
+      ]
+    },
+    {
+      "target": "see",
+      "correct": [
+        "видеть"
+      ],
+      "wrong": [
+        "становиться",
+        "приходить",
+        "начинать"
+      ]
+    },
+    {
+      "target": "write",
+      "correct": [
+        "писать"
+      ],
+      "wrong": [
+        "приходить",
+        "делать",
+        "находить"
+      ]
+    },
+    {
+      "target": "begin",
+      "correct": [
+        "начинать"
+      ],
+      "wrong": [
+        "находить",
+        "положить",
+        "писать"
+      ]
+    }
+  ]
+}
