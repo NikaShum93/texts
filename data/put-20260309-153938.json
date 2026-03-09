@@ -1,0 +1,147 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "questionFont": "PT Sans",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://radika1.link/2026/03/03/ChatGPT-Image-3-IYL_-2025-G_-03_24_54-no-bg-preview-carve.photoscb8a6c8d4f659f41.png",
+    "bgImages": [
+      "https://radika1.link/2026/03/03/ChatGPT-Image-3-IYL_-2025-G_-03_24_54-no-bg-preview-carve.photoscb8a6c8d4f659f41.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Игра \"Гонки\"",
+    "btnText": "Начать"
+  },
+  "direction": "up",
+  "finalFeedback": "Отлично!",
+  "globalTimer": 90,
+  "levels": [
+    {
+      "target": "put",
+      "correct": [
+        "put-put"
+      ],
+      "wrong": [
+        "made-make",
+        "found-found",
+        "saw-seen"
+      ]
+    },
+    {
+      "target": "make",
+      "correct": [
+        "made-make"
+      ],
+      "wrong": [
+        "knew-known",
+        "came-come",
+        "thought-thought"
+      ]
+    },
+    {
+      "target": "come",
+      "correct": [
+        "came-come"
+      ],
+      "wrong": [
+        "became-become",
+        "knew-known",
+        "put-put"
+      ]
+    },
+    {
+      "target": "know",
+      "correct": [
+        "knew-known"
+      ],
+      "wrong": [
+        "saw-seen",
+        "wrote-written",
+        "became-become"
+      ]
+    },
+    {
+      "target": "become",
+      "correct": [
+        "became-become"
+      ],
+      "wrong": [
+        "knew-known",
+        "put-put",
+        "wrote-written"
+      ]
+    },
+    {
+      "target": "find",
+      "correct": [
+        "found-found"
+      ],
+      "wrong": [
+        "began-begun",
+        "put-put",
+        "made-make"
+      ]
+    },
+    {
+      "target": "think",
+      "correct": [
+        "thought-thought"
+      ],
+      "wrong": [
+        "wrote-written",
+        "knew-known",
+        "put-put"
+      ]
+    },
+    {
+      "target": "see",
+      "correct": [
+        "saw-seen"
+      ],
+      "wrong": [
+        "knew-known",
+        "came-come",
+        "began-begun"
+      ]
+    },
+    {
+      "target": "write",
+      "correct": [
+        "wrote-written"
+      ],
+      "wrong": [
+        "put-put",
+        "made-make",
+        "became-become"
+      ]
+    },
+    {
+      "target": "begin",
+      "correct": [
+        "began-begun"
+      ],
+      "wrong": [
+        "made-make",
+        "knew-known",
+        "saw-seen"
+      ]
+    }
+  ]
+}
