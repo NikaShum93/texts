@@ -1,0 +1,263 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Rubik",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 74,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/BeQtv0kw0gkAAAAi/coin-alissonlima.gif",
+    "bubbleSize": 74,
+    "task": {
+      "bgColor": "rgba(175,248,193,1)",
+      "borderColor": "#0084ff",
+      "textColor": "#2b389c",
+      "fontSize": 22,
+      "neon": false
+    },
+    "feedback": {
+      "bgColor": "#f3f4be",
+      "borderColor": "#c6f0d6",
+      "textColor": "#0b065b",
+      "fontSize": 22,
+      "neon": false,
+      "imageSize": 290
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://media.tenor.com/RoK3Ks1G-PsAAAAi/happy-st-patricks-day-happy-st-patrick%27s-day.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "I ___ swim.",
+      "correct": [
+        "can"
+      ],
+      "wrong": [
+        "is",
+        "are",
+        "have"
+      ]
+    },
+    {
+      "question": "She ___ my sister.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are",
+        "am",
+        "can"
+      ]
+    },
+    {
+      "question": "They ___ at school today.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "is",
+        "am",
+        "can"
+      ]
+    },
+    {
+      "question": "He ___ a dog.",
+      "correct": [
+        "has got"
+      ],
+      "wrong": [
+        "have got",
+        "have",
+        "is"
+      ]
+    },
+    {
+      "question": "We ___ two teachers.",
+      "correct": [
+        "have got"
+      ],
+      "wrong": [
+        "has got",
+        "has",
+        "is"
+      ]
+    },
+    {
+      "question": "My father ___ drive a car.",
+      "correct": [
+        "can"
+      ],
+      "wrong": [
+        "is",
+        "has got",
+        "has"
+      ]
+    },
+    {
+      "question": "You ___ in the classroom.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "is",
+        "am",
+        "has"
+      ]
+    },
+    {
+      "question": "She ___ a bike.",
+      "correct": [
+        "has got"
+      ],
+      "wrong": [
+        "have got",
+        "have",
+        "is"
+      ]
+    },
+    {
+      "question": "Birds ___ fly.",
+      "correct": [
+        "can"
+      ],
+      "wrong": [
+        "is",
+        "are",
+        "has"
+      ]
+    },
+    {
+      "question": "It ___ very cold today.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are",
+        "can",
+        "have"
+      ]
+    },
+    {
+      "question": "I ___ a brother.",
+      "correct": [
+        "have got"
+      ],
+      "wrong": [
+        "has got",
+        "has",
+        "am"
+      ]
+    },
+    {
+      "question": "He ___ very tall.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are",
+        "am",
+        "can"
+      ]
+    },
+    {
+      "question": "We ___ play football.",
+      "correct": [
+        "can"
+      ],
+      "wrong": [
+        "is",
+        "are",
+        "have"
+      ]
+    },
+    {
+      "question": "She ___ happy today.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are",
+        "can",
+        "have"
+      ]
+    },
+    {
+      "question": "They ___ a big house.",
+      "correct": [
+        "have got"
+      ],
+      "wrong": [
+        "has got",
+        "has",
+        "are"
+      ]
+    },
+    {
+      "question": "My teacher ___ a computer.",
+      "correct": [
+        "has got"
+      ],
+      "wrong": [
+        "have got",
+        "have",
+        "are"
+      ]
+    },
+    {
+      "question": "I ___ a student.",
+      "correct": [
+        "am"
+      ],
+      "wrong": [
+        "is",
+        "are",
+        "have"
+      ]
+    },
+    {
+      "question": "Cats ___ climb trees.",
+      "correct": [
+        "can"
+      ],
+      "wrong": [
+        "is",
+        "are",
+        "has"
+      ]
+    },
+    {
+      "question": "She ___ speak English.",
+      "correct": [
+        "can"
+      ],
+      "wrong": [
+        "is",
+        "has got",
+        "has"
+      ]
+    },
+    {
+      "question": "We ___ a lesson today.",
+      "correct": [
+        "have got"
+      ],
+      "wrong": [
+        "has got",
+        "has",
+        "are"
+      ]
+    }
+  ]
+}
