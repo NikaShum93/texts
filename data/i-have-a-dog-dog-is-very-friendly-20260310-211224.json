@@ -1,0 +1,113 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Mountains of Christmas",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 96,
+  "sounds": {
+    "pop": "https://github.com/marathonmiro-svg/sounds/raw/refs/heads/main/freesound_community-080245_sfx-magic-84935.mp3",
+    "open": "https://github.com/marathonmiro-svg/sounds/raw/refs/heads/main/superpuyofans1234-winner-game-sound-404167.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/o2rlJc1PoLMAAAAi/dancin-monkey.gif",
+    "bubbleSize": 96,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#162469",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#f5f5f5",
+      "borderColor": "#234ae7",
+      "textColor": "#242889",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://media.tenor.com/XbXc3koJUuYAAAAi/mbb-monkey-baby-business.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "I have a dog. _____ dog is very friendly.",
+      "correct": [
+        "My"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "You have a red hat. Is this _____ hat?",
+      "correct": [
+        "your"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Tom has a bike. _____ bike is new.",
+      "correct": [
+        "His"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Anna has a doll. _____ doll is beautiful.",
+      "correct": [
+        "Her"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The cat is sleeping. _____ tail is fluffy.",
+      "correct": [
+        "Its"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We have a big house. _____ house has three bedrooms.",
+      "correct": [
+        "Our"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The students have books. _____ books are on the desk.",
+      "correct": [
+        "Their"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "She has a pencil. _____ pencil is blue.",
+      "correct": [
+        "Her"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "He lost his keys. _____ keys are missing.",
+      "correct": [
+        "His"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "They have a garden. _____ garden has many flowers.",
+      "correct": [
+        "Their"
+      ],
+      "wrong": []
+    }
+  ]
+}
