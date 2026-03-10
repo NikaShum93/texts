@@ -1,0 +1,213 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 98,
+  "sounds": {
+    "pop": "https://github.com/nastyadrynova-cmd/boom/blob/main/balloon-pop_gj9b1hed.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/8P3XFvrVLUkAAAAi/pusheen-pusheen-cat.gif",
+    "bubbleSize": 98,
+    "task": {
+      "bgColor": "rgba(249,185,237,1)",
+      "borderColor": "#f4ecd2",
+      "textColor": "#ffffff",
+      "fontSize": 37,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#f5b8e4",
+      "textColor": "#ffffff",
+      "fontSize": 37,
+      "neon": true,
+      "imageSize": 370
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://media.tenor.com/ZB9kXOjfhasAAAAi/cat-kitty.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "",
+      "correct": [
+        "go"
+      ],
+      "wrong": [
+        "am going",
+        "goes",
+        "going"
+      ]
+    },
+    {
+      "question": "I usually (go) _______ to school by bus.",
+      "correct": [
+        "isn’t watching"
+      ],
+      "wrong": [
+        "doesn’t watch",
+        "not watches",
+        "not watching"
+      ]
+    },
+    {
+      "question": "She (not / watch) _______ TV right now.",
+      "correct": [
+        "is running"
+      ],
+      "wrong": [
+        "runs",
+        "run",
+        "running"
+      ]
+    },
+    {
+      "question": "Look! He (run) _______ in the park.",
+      "correct": [
+        "work"
+      ],
+      "wrong": [
+        "is working",
+        "works",
+        "working"
+      ]
+    },
+    {
+      "question": "My parents (work) _______ in the garden every weekend.",
+      "correct": [
+        "aren’t eating"
+      ],
+      "wrong": [
+        "don’t eat",
+        "not eat",
+        "not eating"
+      ]
+    },
+    {
+      "question": "We (not / eat) _______ breakfast at the moment.",
+      "correct": [
+        "do you do"
+      ],
+      "wrong": [
+        "are you doing",
+        "you do",
+        "doing you"
+      ]
+    },
+    {
+      "question": "What (you / do) _______ every morning?",
+      "correct": [
+        "are playing"
+      ],
+      "wrong": [
+        "play",
+        "plays",
+        "playing"
+      ]
+    },
+    {
+      "question": "The children (play) _______ football now.",
+      "correct": [
+        "doesn’t like"
+      ],
+      "wrong": [
+        "isn’t liking",
+        "not likes",
+        "not like"
+      ]
+    },
+    {
+      "question": "He (not / like) _______ spicy food.",
+      "correct": [
+        "am reading"
+      ],
+      "wrong": [
+        "read",
+        "reading",
+        "reads"
+      ]
+    },
+    {
+      "question": "I (read) _______ a very interesting book at the moment.",
+      "correct": [
+        "study"
+      ],
+      "wrong": [
+        "are studying",
+        "studies",
+        "studying"
+      ]
+    },
+    {
+      "question": "They (study) _______ English every day.",
+      "correct": [
+        "does she live"
+      ],
+      "wrong": [
+        "is she living",
+        "she lives",
+        "living she"
+      ]
+    },
+    {
+      "question": "Where (she / live) _______?",
+      "correct": [
+        "is raining"
+      ],
+      "wrong": [
+        "rains",
+        "rain",
+        "raining"
+      ]
+    },
+    {
+      "question": "It (rain) _______ right now.",
+      "correct": [
+        "have"
+      ],
+      "wrong": [
+        "are having",
+        "has",
+        "having"
+      ]
+    },
+    {
+      "question": "We usually (have) _______ lunch at 1 pm.",
+      "correct": [
+        "isn’t going"
+      ],
+      "wrong": [
+        "doesn’t go",
+        "not going",
+        "go"
+      ]
+    },
+    {
+      "question": "She (not / go) _______ to school today.",
+      "correct": [
+        "are singing"
+      ],
+      "wrong": [
+        "sing",
+        "sings",
+        "singing"
+      ]
+    },
+    {
+      "question": "Listen! The birds (sing) _______ in the garden.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
