@@ -1,0 +1,115 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Montserrat",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 130,
+  "sounds": {
+    "pop": "https://image2url.com/r2/default/audio/1773236767012-6e83297f-3f68-4855-af5d-13980352887f.mp3",
+    "open": "https://image2url.com/r2/default/audio/1773236920930-9f0ea20f-62fc-428f-936f-e05ff0c482ad.mp3",
+    "correct": "https://image2url.com/r2/default/audio/1773236829793-53dacc62-0d82-4425-98f0-530433cbd2aa.mp3",
+    "wrong": "https://image2url.com/r2/default/audio/1773236877318-e9e3743e-8149-4f22-a933-32937f84ca0a.mp3"
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/nhHdQkm2/Chat-GPT-Image-11-mar-2026-g-17-10-41.png",
+    "bubbleSize": 130,
+    "task": {
+      "bgColor": "rgba(152,132,97,1)",
+      "borderColor": "#5a4c30",
+      "textColor": "#ffffff",
+      "fontSize": 20,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#ffffff",
+      "borderColor": "#5a4c30",
+      "textColor": "#cea346",
+      "fontSize": 20,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Отлично!",
+  "feedbackImage": "https://i.postimg.cc/jqmw7FY5/Chat-GPT-Image-11-mar-2026-g-17-00-00.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "image",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 2,
+  "tasks": [
+    {
+      "question": "Я (не)понимаю, почему герой так поступил.",
+      "correct": [
+        "не понимаю"
+      ],
+      "wrong": [
+        "непонимаю"
+      ]
+    },
+    {
+      "question": "Мы (не)успеваем закончить работу до звонка.",
+      "correct": [
+        "не успеваем"
+      ],
+      "wrong": [
+        "неуспеваем"
+      ]
+    },
+    {
+      "question": "Ученики (не)досмотрели фильм до конца.",
+      "correct": [
+        "не досмотрели"
+      ],
+      "wrong": [
+        "недосмотрели"
+      ]
+    },
+    {
+      "question": "Я (не)навижу грубость и несправедливость.",
+      "correct": [
+        "ненавижу"
+      ],
+      "wrong": [
+        "не навижу"
+      ]
+    },
+    {
+      "question": "Он (не)годовал, что забыл выполнить обещание.",
+      "correct": [
+        "негодовал"
+      ],
+      "wrong": [
+        "не годовал"
+      ]
+    },
+    {
+      "question": "Ребята (не)досчитались нескольких книг на полке.",
+      "correct": [
+        "не досчитались"
+      ],
+      "wrong": [
+        "недосчитались"
+      ]
+    },
+    {
+      "question": "Я (не)сомневаюсь, что ты справишься с этим заданием.",
+      "correct": [
+        "не сомневаюсь"
+      ],
+      "wrong": [
+        "несомневаюсь"
+      ]
+    },
+    {
+      "question": "Он (не)доумевает, почему задача оказалась такой трудной.",
+      "correct": [
+        "недоумевает"
+      ],
+      "wrong": [
+        "не доумевает"
+      ]
+    }
+  ]
+}
