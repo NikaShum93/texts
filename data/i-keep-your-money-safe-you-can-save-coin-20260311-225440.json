@@ -1,0 +1,78 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 120,
+  "sounds": {
+    "pop": "https://github.com/chernichkovavn-tech/sounds/raw/refs/heads/main/dove-sound-pigeon-cooing.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/B6zntK55/Dizajn-bez-nazvania-38.png",
+    "bubbleSize": 120,
+    "task": {
+      "bgColor": "rgba(79,172,254,0.9)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "I keep your money safe. You can save coins or take cash from me. What place am I?",
+      "correct": [
+        "bank"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "People come here when they feel very sick. Doctors and nurses work here day and night. What place is it?",
+      "correct": [
+        "hospital"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "You can watch a big film on a giant screen. People buy popcorn and sit in the dark. Where are you?",
+      "correct": [
+        "cinema"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Many players run on the field. Thousands of fans watch and cheer. What place is it?",
+      "correct": [
+        "stadium"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "You can sleep here when you travel. You can rent a room for the night. What place is this?",
+      "correct": [
+        "hotel"
+      ],
+      "wrong": []
+    }
+  ]
+}
