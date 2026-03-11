@@ -1,0 +1,62 @@
+{
+  "language": "ru",
+  "font": "Montserrat",
+  "fontSize": 28,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 60,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/QtJ5bxXp/Chat-GPT-Image-11-mar-2026-g-14-49-19.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 200
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Игра \"Падающие глаголы\"",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Отличная работа!",
+  "levels": [
+    {
+      "target": "Неопределённая форма глагола",
+      "correct": [
+        "читать",
+        "бежать",
+        "рисовать",
+        "играть",
+        "лететь",
+        "прыгать",
+        "открыть",
+        "говорить",
+        "смеяться",
+        "искать"
+      ],
+      "wrong": [
+        "поёт",
+        "варили",
+        "пишешь",
+        "строят",
+        "купила",
+        "сидим",
+        "плывёт",
+        "держат",
+        "видела",
+        "помогают"
+      ],
+      "timer": 30
+    }
+  ]
+}
