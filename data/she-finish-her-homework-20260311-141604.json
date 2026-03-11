@@ -1,0 +1,116 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Poppins",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 102,
+  "sounds": {
+    "pop": "https://github.com/nastyadrynova-cmd/boom/raw/refs/heads/main/balloon-pop_gj9b1hed.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/ocyiNxJia34AAAAi/chillhop-lofi.gif",
+    "bubbleSize": 102,
+    "task": {
+      "bgColor": "rgba(33,98,156,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#1b18c9",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://media.tenor.com/4vHvcBGJzAsAAAAi/a-a-plus.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "She ______ (finish) her homework.",
+      "correct": [
+        "has finished"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I ______ (visit) London three times.",
+      "correct": [
+        "have visited"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "They ______ (not see) this movie yet.",
+      "correct": [
+        "have not seen",
+        "haven't seen"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We ______ (buy) a new car.",
+      "correct": [
+        "have bought"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "He ______ (lose) his keys.",
+      "correct": [
+        "has lost"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "My parents ______ (travel) to Italy.",
+      "correct": [
+        "have traveled"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I ______ (not read) this book yet.",
+      "correct": [
+        "have not read",
+        "haven't read"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "She ______ (write) five emails today.",
+      "correct": [
+        "has written"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "They ______ (build) a new house.",
+      "correct": [
+        "have built"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We ______ (not start) the project yet.",
+      "correct": [
+        "have not started",
+        "haven't started"
+      ],
+      "wrong": []
+    }
+  ]
+}
