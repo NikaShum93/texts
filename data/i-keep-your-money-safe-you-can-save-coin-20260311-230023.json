@@ -1,0 +1,134 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 120,
+  "sounds": {
+    "pop": "https://github.com/chernichkovavn-tech/sounds/raw/refs/heads/main/dove-sound-pigeon-cooing.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/B6zntK55/Dizajn-bez-nazvania-38.png",
+    "bubbleSize": 120,
+    "task": {
+      "bgColor": "rgba(79,172,254,0.9)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "I keep your money safe. You can save coins or take cash from me. What place am I?",
+      "correct": [
+        "bank"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "People come here when they feel very sick. Doctors and nurses work here day and night. What place is it?",
+      "correct": [
+        "hospital"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "You can watch a big film on a giant screen. People buy popcorn and sit in the dark. Where are you?",
+      "correct": [
+        "cinema"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Many players run on the field. Thousands of fans watch and cheer. What place is it?",
+      "correct": [
+        "stadium"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "You can sleep here when you travel. You can rent a room for the night. What place is this?",
+      "correct": [
+        "hotel"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "You come here to read and borrow books. It is usually very quiet inside. What place is it?",
+      "correct": [
+        "library"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "You can see old things, art, and history here. People walk slowly and look at the exhibits. What place am I?",
+      "correct": [
+        "museum"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Trees, grass, and a small pond are here. People walk, relax, and play outside. What place is it?",
+      "correct": [
+        "park"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "You come here when you are hungry. A waiter brings you food and drinks. What place is this?",
+      "correct": [
+        "restaurant"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "You can buy many different things here: toys, clothes, or gifts. People come here to go shopping. What place is it?",
+      "correct": [
+        "shop"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "You can buy food, fruit, vegetables, and milk here. People push shopping carts inside. What place is it?",
+      "correct": [
+        "supermarket"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "You can drink coffee or tea here. You can also eat cake or a sandwich. What place is it?",
+      "correct": [
+        "theatre"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "",
+      "correct": [
+        "cafe"
+      ],
+      "wrong": []
+    }
+  ]
+}
