@@ -1,0 +1,133 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 110,
+  "sounds": {
+    "pop": "https://github.com/chernichkovavn-tech/sounds/raw/refs/heads/main/dove-sound-pigeon-cooing.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/B6zntK55/Dizajn-bez-nazvania-38.png",
+    "bubbleSize": 110,
+    "task": {
+      "bgColor": "rgba(79,172,254,0.7)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "The man comes to the park every morning. He feeds the pigeons.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The tourists often take photos in the square. They visit the city center.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The boy is laughing loudly. He runs after the pigeons.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The park is very popular. It has many pigeons.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The statue is very old. Pigeons sit on it.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The café attracts many pigeons. It sells bread crumbs.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The square is in the city center. Pigeons gather there.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The park is near the museum. Children chase pigeons there.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The pigeon is sitting on the fountain. Its wing is white.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The man is feeding pigeons. His bag is full of bread.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The old man is very friendly. He feeds pigeons every day.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The tourists are watching the pigeons. They love taking photos.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The city park is very lively. It is full of pigeons.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The fountain is in the middle of the square. Pigeons love to sit on it.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The city square is always busy. Hundreds of pigeons gather there.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The rooftop is very high. Pigeons like to rest there.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The pigeon is sitting on the bench. Its feathers are grey and shiny.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The boy is laughing. His sandwich attracts pigeons.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
