@@ -1,0 +1,147 @@
+{
+  "lang": "en",
+  "mode": "choice",
+  "math": false,
+  "transparentBg": false,
+  "randomQuestions": true,
+  "ui": {
+    "title": "DUCK RUN",
+    "start": "PLAY",
+    "again": "AGAIN",
+    "gameover": "GAME OVER",
+    "scoreLabel": "Score: ",
+    "fontSize": 8
+  },
+  "gameplay": {
+    "winQuestions": 10,
+    "diffBaseSpawnMs": 5000,
+    "diffBaseMoveSpeed": 3.9,
+    "diffMedMult": 0.88,
+    "diffHardMult": 0.76
+  },
+  "assets": {
+    "hero": "https://i.pinimg.com/originals/7f/ae/97/7fae97b0d62464f833f75a7cce0a9902.gif",
+    "mirrorHero": false,
+    "heroBobbing": true,
+    "obstacles": {
+      "ground": [
+        "🌲",
+        "🪨",
+        "🪵",
+        "🌵"
+      ],
+      "good": [
+        "🌾",
+        "🌽",
+        "🍀",
+        "🍎"
+      ],
+      "bad": [
+        "🦅",
+        "🧱",
+        "🚁",
+        "⛈️"
+      ]
+    }
+  },
+  "sounds": {
+    "mus": "https://raw.githubusercontent.com/kgbgamelab/audioplayer/main/Baa%20Dash.mp3",
+    "ding": "https://assets.mixkit.co/active_storage/sfx/2000/2000-preview.mp3",
+    "buzz": "https://assets.mixkit.co/active_storage/sfx/257/257-preview.mp3",
+    "coin": "https://assets.mixkit.co/active_storage/sfx/2019/2019-preview.mp3",
+    "crash": "https://assets.mixkit.co/active_storage/sfx/2042/2042-preview.mp3",
+    "win": "https://assets.mixkit.co/active_storage/sfx/2018/2018-preview.mp3"
+  },
+  "tasks": [
+    {
+      "question": "I don’t drink ___ coffee in the evening.",
+      "correct": [
+        "much"
+      ],
+      "wrong": [
+        "many"
+      ]
+    },
+    {
+      "question": "There are ___ people in this café today.",
+      "correct": [
+        "a lot of"
+      ],
+      "wrong": [
+        "a lot"
+      ]
+    },
+    {
+      "question": "We have ___ milk in the fridge, so we can make pancakes.",
+      "correct": [
+        "a little"
+      ],
+      "wrong": [
+        "a few"
+      ]
+    },
+    {
+      "question": "She has ___ friends in this city, but not many.",
+      "correct": [
+        "a few"
+      ],
+      "wrong": [
+        "a little"
+      ]
+    },
+    {
+      "question": "Do you have ___ sugar for my tea?",
+      "correct": [
+        "any"
+      ],
+      "wrong": [
+        "some"
+      ]
+    },
+    {
+      "question": "There isn’t ___ water in the bottle.",
+      "correct": [
+        "much"
+      ],
+      "wrong": [
+        "many"
+      ]
+    },
+    {
+      "question": "I bought ___ apples at the market yesterday.",
+      "correct": [
+        "a lot of"
+      ],
+      "wrong": [
+        "much"
+      ]
+    },
+    {
+      "question": "There are ___ good restaurants near my house.",
+      "correct": [
+        "a lot of"
+      ],
+      "wrong": [
+        "a lot"
+      ]
+    },
+    {
+      "question": "We still have ___ time before the meeting.",
+      "correct": [
+        "a little"
+      ],
+      "wrong": [
+        "a few"
+      ]
+    },
+    {
+      "question": "Are there ___ eggs in the fridge?",
+      "correct": [
+        "any"
+      ],
+      "wrong": [
+        "some"
+      ]
+    }
+  ]
+}
