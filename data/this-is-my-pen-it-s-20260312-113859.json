@@ -1,0 +1,113 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Fredoka",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 124,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/tCV1rhG6/s.png",
+    "bubbleSize": 124,
+    "task": {
+      "bgColor": "rgba(47,218,113,1)",
+      "borderColor": "#297544",
+      "textColor": "#ffffff",
+      "fontSize": 35,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#23e743",
+      "textColor": "#ffffff",
+      "fontSize": 35,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://media.tenor.com/UtjTRsqyGnQAAAAi/bunny-dance.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "This is my pen. It’s ______.",
+      "correct": [
+        "mine"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "That is his book. It’s ______.",
+      "correct": [
+        "his"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We are going to our house. This is ______.",
+      "correct": [
+        "ours"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "This is her coat. It’s ______.",
+      "correct": [
+        "hers"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "They have a new car. It’s ______.",
+      "correct": [
+        "theirs"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I don’t have a pencil. Is this ______?",
+      "correct": [
+        "yours"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "This is their dog. It’s ______.",
+      "correct": [
+        "theirs"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "That is your phone. It’s ______.",
+      "correct": [
+        "yours"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We are eating our lunch. This is ______.",
+      "correct": [
+        "ours"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "He took his bag. Where is ______?",
+      "correct": [
+        "yours"
+      ],
+      "wrong": []
+    }
+  ]
+}
