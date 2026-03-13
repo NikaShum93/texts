@@ -1,0 +1,103 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 94,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/Ghfj2Vyf/Untitled_design_(26).png",
+    "bubbleSize": 94,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "What do you do?",
+      "correct": [
+        "I'm a marketing assistant, mostly handling social media stuff."
+      ],
+      "wrong": [
+        "I work as marketing assistant",
+        "I do a marketing assistant."
+      ]
+    },
+    {
+      "question": "Where do you work?",
+      "correct": [
+        "At a tech startup over in Berlin — you know, near Alexanderplatz?"
+      ],
+      "wrong": [
+        "I work in a tech company at Berlin.",
+        "I working at a tech company in Berlin."
+      ]
+    },
+    {
+      "question": "How long have you worked there?",
+      "correct": [
+        "Oh, going on three years now, I think? Time flies!"
+      ],
+      "wrong": [
+        "I work there since three years",
+        "I've worked there since three years"
+      ]
+    },
+    {
+      "question": "Do you enjoy it?",
+      "correct": [
+        "Yeah, mostly! It's challenging, but that's kind of the point, right?"
+      ],
+      "wrong": [
+        "Yes, I really enjoy because it's challenging.",
+        "Yes, I enjoy very much it because it's challenging."
+      ]
+    },
+    {
+      "question": "What are the hours like?",
+      "correct": [
+        "Pretty flexible, actually — I usually roll in around 9, leave by 5-ish."
+      ],
+      "wrong": [
+        "It's quite flexible; I usually starts at 9 and finish at 5.",
+        "They're quite flexible; I usually starting at 9 and finish at 5."
+      ]
+    },
+    {
+      "question": "Do you get on with the people you work with?",
+      "correct": [
+        "Yeah, we get along really well — they're a good bunch, mostly!"
+      ],
+      "wrong": [
+        "Yes, I get on with they very good.",
+        "I get on them well, yes."
+      ]
+    }
+  ]
+}
