@@ -1,0 +1,133 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/65d0ff4cdc82a000152a440e/d0105282-d590-49a5-9af7-d9ad3c056829.png",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 3,
+  "tasks": [
+    {
+      "question": "Would you like ___apple?",
+      "correct": [
+        "an"
+      ],
+      "wrong": [
+        "a",
+        "some"
+      ]
+    },
+    {
+      "question": "She would like ___ water.",
+      "correct": [
+        "some"
+      ],
+      "wrong": [
+        "an",
+        "a"
+      ]
+    },
+    {
+      "question": "They would like ___ sandwich.",
+      "correct": [
+        "a"
+      ],
+      "wrong": [
+        "some",
+        "an"
+      ]
+    },
+    {
+      "question": "We would like ____ oranges.",
+      "correct": [
+        "some"
+      ],
+      "wrong": [
+        "a",
+        "an"
+      ]
+    },
+    {
+      "question": "Jamie ___an egg for breakfast.",
+      "correct": [
+        "would like"
+      ],
+      "wrong": [
+        "like",
+        "likes"
+      ]
+    },
+    {
+      "question": "She ___ like some lemonade.",
+      "correct": [
+        "'d"
+      ],
+      "wrong": [
+        "'s",
+        "d"
+      ]
+    },
+    {
+      "question": "He would like ____ water.",
+      "correct": [
+        "some"
+      ],
+      "wrong": [
+        "a",
+        "same"
+      ]
+    },
+    {
+      "question": "Would you ____ a milkshake?",
+      "correct": [
+        "like"
+      ],
+      "wrong": [
+        "likes",
+        "liking"
+      ]
+    },
+    {
+      "question": "Would you like ____orange juice?",
+      "correct": [
+        "some"
+      ],
+      "wrong": [
+        "a",
+        "sime"
+      ]
+    }
+  ]
+}
