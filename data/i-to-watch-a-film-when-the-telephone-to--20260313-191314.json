@@ -1,0 +1,93 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Roboto",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 90,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/197xkh0XUnwAAAAi/surprised-judy-hopps.gif",
+    "bubbleSize": 90,
+    "task": {
+      "bgColor": "rgba(254,180,77,1)",
+      "borderColor": "#705ba9",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://media.tenor.com/gTzwWY3hTZ4AAAAi/yes-sweet.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "I _______________ (to watch) a film when the telephone _______________ (to ring).",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She _______________ (to do) her homework when her friend _______________ (to call).",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We _______________ (to walk) in the park when it _______________ (to start) to rain.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "He _______________ (to read) a book when he _______________ (to hear) a strange noise.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They _______________ (to have) dinner when someone _______________ (to knock) on the door.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "When I _______________ (to arrive), my parents _______________ (to drink) tea.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The boy _______________ (to fall) down when he _______________ (to run) for the bus.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I _______________ (to listen) to music when my mother _______________ (to come) into the room.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "While we _______________ (to play) football, the ball _______________ (to hit) the window.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She _______________ (to drive) her car when she _______________ (to see) an old friend on the street.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
