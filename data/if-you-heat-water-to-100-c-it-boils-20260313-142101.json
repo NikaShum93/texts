@@ -1,0 +1,118 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Patrick Hand",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": true,
+  "bubbleSize": 140,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/A3yU77fKZegAAAAi/transparent-love.gif",
+    "bubbleSize": 140,
+    "task": {
+      "bgColor": "rgba(155,238,169,1)",
+      "borderColor": "#0eb94a",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#0d5e38",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 390
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://media.tenor.com/p830Is3KDf0AAAAi/rico-momorei.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "If you heat water to 100°C, it boils.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "If people don’t sleep enough, they feel tired.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "If you mix red and blue, you get purple.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "If plants don’t get sunlight, they die.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "If ice gets warm, it melts.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "If it rains tomorrow, we will stay at home.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "If you study hard, you will pass the exam.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "If she calls me, I will answer immediately.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "If they finish the project today, they will celebrate tonight.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "If we leave now, we will arrive on time.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "If I won the lottery, I would travel around the world.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "If she knew the answer, she would tell us.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "If we lived near the beach, we would go swimming every day.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "If he had more time, he would learn another language.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "If I were you, I would take that job.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
