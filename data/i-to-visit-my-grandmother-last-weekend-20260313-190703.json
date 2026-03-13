@@ -1,0 +1,133 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Roboto",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/t84fmMI6EOEAAAAi/smug-look-nick-wilde.gif",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(243,209,43,1)",
+      "borderColor": "#8c52bc",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://media.tenor.com/gTzwWY3hTZ4AAAAi/yes-sweet.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": true,
+  "quizMaxOptions": 3,
+  "tasks": [
+    {
+      "question": "I ________ (to visit) my grandmother last weekend.",
+      "correct": [
+        "visited"
+      ],
+      "wrong": [
+        "visitod"
+      ]
+    },
+    {
+      "question": "She ________ (to cook) a delicious dinner yesterday.",
+      "correct": [
+        "cooked"
+      ],
+      "wrong": [
+        "cookd"
+      ]
+    },
+    {
+      "question": "We ________ (to watch) an interesting film last night.",
+      "correct": [
+        "watched"
+      ],
+      "wrong": [
+        "wothced"
+      ]
+    },
+    {
+      "question": "He ________ (to play) football with his friends last Saturday.",
+      "correct": [
+        "played"
+      ],
+      "wrong": [
+        "plaied"
+      ]
+    },
+    {
+      "question": "They ________ (to go) to the cinema two days ago.",
+      "correct": [
+        "went"
+      ],
+      "wrong": [
+        "goed"
+      ]
+    },
+    {
+      "question": "I ________ (to see) a beautiful bird in the garden this morning.",
+      "correct": [
+        "saw"
+      ],
+      "wrong": [
+        "seed"
+      ]
+    },
+    {
+      "question": "You ________ (to buy) a new phone last week.",
+      "correct": [
+        "bought"
+      ],
+      "wrong": [
+        "buyed"
+      ]
+    },
+    {
+      "question": "She ________ (to read) a book on the bus.",
+      "correct": [
+        "read"
+      ],
+      "wrong": [
+        "red"
+      ]
+    },
+    {
+      "question": "He ________ (to be) very tired after work.",
+      "correct": [
+        "was"
+      ],
+      "wrong": [
+        "were"
+      ]
+    },
+    {
+      "question": "We ________ (to have) a great time at the party.",
+      "correct": [
+        "had"
+      ],
+      "wrong": [
+        "haved"
+      ]
+    }
+  ]
+}
