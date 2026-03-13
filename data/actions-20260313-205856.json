@@ -1,0 +1,48 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 180
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "",
+    "btnText": ""
+  },
+  "direction": "down",
+  "finalFeedback": "",
+  "levels": [
+    {
+      "target": "Actions",
+      "correct": [
+        "https://media.tenor.com/7XBuL_p9l9oAAAAi/singer-bubu-bubu-singer.gif",
+        "https://media.tenor.com/wBdiOvp_JFIAAAAi/cat-cat-meme.gif",
+        "https://media.tenor.com/7qFULBHgzlYAAAAi/bubu-cooking-dudu-bubu.gif",
+        "https://media.tenor.com/k-dbJGkDMWwAAAAi/sing-cat.gif",
+        "https://media.tenor.com/-i5DxaW3J70AAAAi/tkthao219-bubududu.gif",
+        "https://media.tenor.com/FCm9L0IfBL4AAAAi/bubu-dudu-sseeyall.gif"
+      ],
+      "wrong": [
+        "https://media.tenor.com/C4rheyDtTm4AAAAi/hearts-heart.gif",
+        "https://media.tenor.com/ojDYbnx4As8AAAAi/dm4uz3-foekoe.gif"
+      ],
+      "timer": 30
+    }
+  ]
+}
