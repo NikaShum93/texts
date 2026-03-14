@@ -1,0 +1,96 @@
+{
+  "language": "en",
+  "font": "Poppins",
+  "fontSize": 10,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 35,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://media.tenor.com/c9NLDsF8ldIAAAAi/purple-balloon.gif",
+      "https://media.tenor.com/1hRGGW9CsNMAAAAi/green-balloon.gif",
+      "https://media.tenor.com/K0d-B7pRcbYAAAAi/balloons-fly.gif"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 140
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Baloons",
+    "btnText": "Start!"
+  },
+  "direction": "up",
+  "finalFeedback": "https://media.tenor.com/BJ32vKpUtIMAAAAi/%E3%81%99%E3%81%94%E3%81%84-%E6%8B%8D%E6%89%8B.gif",
+  "levels": [
+    {
+      "target": "1-12",
+      "correct": [
+        "https://media.tenor.com/rbmPIuPWe4oAAAAi/1-number-1.gif",
+        "https://media.tenor.com/ICK9kUVuwjIAAAAi/2-two.gif",
+        "https://media.tenor.com/SqYy2sLF7PAAAAAi/3-three.gif",
+        "https://media.tenor.com/Jd7ww_39VT8AAAAi/lambicki-%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%D0%B4%D0%B8%D1%88%D0%B5%D0%BD%D1%87%D0%B5%D1%82%D0%B8%D1%80%D0%B8.gif",
+        "https://media.tenor.com/v39-an54OMcAAAAi/%D0%BF%D0%B5%D1%82-pet.gif",
+        "https://media.tenor.com/Vs0LdGH0-Y4AAAAi/6-number.gif",
+        "https://media.tenor.com/t09KaH-BGkAAAAAi/8-eight.gif",
+        "https://media.tenor.com/xsucj_2lQt0AAAAi/9-nine.gif",
+        "https://media.tenor.com/bObzshpQNG4AAAAi/happy-cute.gif",
+        "https://media.tenor.com/VuoPSRobtwIAAAAi/marcelo-belinati.gif",
+        "https://media.tenor.com/FKbzw0M0SnoAAAAi/numero-12.gif",
+        "https://media.tenor.com/eBymmVdo1DMAAAAi/walkingseven-seven.gif"
+      ],
+      "wrong": [
+        "https://media.tenor.com/PG8Wvv-lVWsAAAAi/puso-heart.gif",
+        "https://media.tenor.com/vPfJTcBEl4EAAAAi/yellow-heart.gif",
+        "https://media.tenor.com/wVDzpEzx3tQAAAAi/pink-cute.gif",
+        "https://media.tenor.com/-V7JcKnxE_gAAAAi/butterfly-green.gif",
+        "https://media.tenor.com/65JiqwtMnKYAAAAi/tangerine-food.gif",
+        "https://media.tenor.com/1Nl6YEPrjmIAAAAi/holy-it-hims.gif",
+        "https://media.tenor.com/7N5OG6AG2I0AAAAi/puso-heart.gif",
+        "https://media.tenor.com/gfBj4-JF-CMAAAAi/%D8%A7%D8%B1%D9%86%D8%A8-%D8%A7%D8%A8%D9%8A%D8%B6.gif",
+        "https://media.tenor.com/Gc4UMhqK5o4AAAAi/loading-cat-loading-gif.gif",
+        "https://media.tenor.com/6Thm7OLmbVYAAAAi/love-heart.gif"
+      ],
+      "timer": 299
+    },
+    {
+      "target": "Colours",
+      "correct": [
+        "https://media.tenor.com/PG8Wvv-lVWsAAAAi/puso-heart.gif",
+        "https://media.tenor.com/vPfJTcBEl4EAAAAi/yellow-heart.gif",
+        "https://media.tenor.com/wVDzpEzx3tQAAAAi/pink-cute.gif",
+        "https://media.tenor.com/-V7JcKnxE_gAAAAi/butterfly-green.gif",
+        "https://media.tenor.com/65JiqwtMnKYAAAAi/tangerine-food.gif",
+        "https://media.tenor.com/1Nl6YEPrjmIAAAAi/holy-it-hims.gif",
+        "https://media.tenor.com/7N5OG6AG2I0AAAAi/puso-heart.gif",
+        "https://media.tenor.com/gfBj4-JF-CMAAAAi/%D8%A7%D8%B1%D9%86%D8%A8-%D8%A7%D8%A8%D9%8A%D8%B6.gif",
+        "https://media.tenor.com/Gc4UMhqK5o4AAAAi/loading-cat-loading-gif.gif",
+        "https://media.tenor.com/6Thm7OLmbVYAAAAi/love-heart.gif"
+      ],
+      "wrong": [
+        "https://media.tenor.com/rbmPIuPWe4oAAAAi/1-number-1.gif",
+        "https://media.tenor.com/ICK9kUVuwjIAAAAi/2-two.gif",
+        "https://media.tenor.com/SqYy2sLF7PAAAAAi/3-three.gif",
+        "https://media.tenor.com/Jd7ww_39VT8AAAAi/lambicki-%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%D0%B4%D0%B8%D1%88%D0%B5%D0%BD%D1%87%D0%B5%D1%82%D0%B8%D1%80%D0%B8.gif",
+        "https://media.tenor.com/v39-an54OMcAAAAi/%D0%BF%D0%B5%D1%82-pet.gif",
+        "https://media.tenor.com/Vs0LdGH0-Y4AAAAi/6-number.gif",
+        "https://media.tenor.com/t09KaH-BGkAAAAAi/8-eight.gif",
+        "https://media.tenor.com/xsucj_2lQt0AAAAi/9-nine.gif",
+        "https://media.tenor.com/bObzshpQNG4AAAAi/happy-cute.gif",
+        "https://media.tenor.com/VuoPSRobtwIAAAAi/marcelo-belinati.gif",
+        "https://media.tenor.com/FKbzw0M0SnoAAAAi/numero-12.gif",
+        "https://media.tenor.com/eBymmVdo1DMAAAAi/walkingseven-seven.gif"
+      ],
+      "timer": 300
+    }
+  ]
+}
