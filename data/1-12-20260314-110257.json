@@ -1,0 +1,47 @@
+{
+  "language": "en",
+  "font": "Poppins",
+  "fontSize": 10,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 35,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://media.tenor.com/c9NLDsF8ldIAAAAi/purple-balloon.gif",
+      "https://media.tenor.com/1hRGGW9CsNMAAAAi/green-balloon.gif",
+      "https://media.tenor.com/K0d-B7pRcbYAAAAi/balloons-fly.gif"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 170
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "",
+    "btnText": ""
+  },
+  "direction": "up",
+  "finalFeedback": "",
+  "levels": [
+    {
+      "target": "1-12",
+      "correct": [
+        "https://media.tenor.com/rbmPIuPWe4oAAAAi/1-number-1.gif",
+        "https://media.tenor.com/ICK9kUVuwjIAAAAi/2-two.gif",
+        "https://media.tenor.com/SqYy2sLF7PAAAAAi/3-three.gif",
+        "https://media.tenor.com/Jd7ww_39VT8AAAAi/lambicki-%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%D0%B4%D0%B8%D1%88%D0%B5%D0%BD%D1%87%D0%B5%D1%82%D0%B8%D1%80%D0%B8.gif"
+      ],
+      "wrong": [],
+      "timer": 1000
+    }
+  ]
+}
