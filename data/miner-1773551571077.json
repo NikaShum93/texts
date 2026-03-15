@@ -1,0 +1,78 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "win": "КВИЗ ПРОЙДЕН!",
+    "start": "СТАРТ",
+    "again": "ЕЩЁ РАЗ"
+  },
+  "visual": {
+    "hero": "hero.png",
+    "hook": "hook.png",
+    "targets": [
+      "target.png"
+    ],
+    "targetSize": 90,
+    "ropeColor": "#7f8c8d",
+    "qBoxColor": "#ffffff",
+    "heroSize": 150,
+    "hookSize": 82,
+    "hookOffsetY": -76,
+    "fontFamily": "Montserrat",
+    "qColor": "#111111",
+    "qGlow": "#000000",
+    "qSize": 4.5,
+    "tColor": "#000000",
+    "tGlow": "#000000",
+    "tSize": 22
+  },
+  "gameplay": {
+    "hookSpeed": 10,
+    "swingSpeed": 0.035
+  },
+  "tasks": [
+    {
+      "q": "1+1",
+      "correct": [
+        "2"
+      ],
+      "wrong": [
+        "3",
+        "5",
+        "6"
+      ]
+    },
+    {
+      "q": "2+2",
+      "correct": [
+        "4"
+      ],
+      "wrong": [
+        "3",
+        "5",
+        "7"
+      ]
+    },
+    {
+      "q": "1+3",
+      "correct": [
+        "4"
+      ],
+      "wrong": [
+        "2",
+        "5",
+        "8"
+      ]
+    },
+    {
+      "q": "4+2",
+      "correct": [
+        "6"
+      ],
+      "wrong": [
+        "3",
+        "5",
+        "4"
+      ]
+    }
+  ]
+}
