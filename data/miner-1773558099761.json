@@ -1,0 +1,64 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/64233afb55129a0017751c8e/7abfe18d-ddc5-4006-a48a-f0a9fe3f8a6c.png",
+    "win": "КВИЗ ПРОЙДЕН!",
+    "start": "СТАРТ",
+    "again": "ЕЩЁ РАЗ"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "hero.png",
+    "hook": "hook.png",
+    "hookSound": "https://github.com/NikaShum93/hk/raw/refs/heads/main/chain.mp3",
+    "targets": [
+      "https://img.genially.com/64233afb55129a0017751c8e/3c92b4a6-a3fd-4598-8a13-2a91fa0db08b.png",
+      "https://img.genially.com/64233afb55129a0017751c8e/a2739f31-795d-4408-b816-47f63d6a0423.png",
+      "https://img.genially.com/64233afb55129a0017751c8e/b18dafe5-1eab-4820-8c51-12e5be0bf800.png",
+      "https://img.genially.com/64233afb55129a0017751c8e/32a769d1-441b-40e4-88bb-a0d28a73384a.png"
+    ],
+    "targetSize": 90,
+    "ropeColor": "#7f8c8d",
+    "qBoxColor": "#696363",
+    "heroSize": 136,
+    "heroX": 64,
+    "hookSize": 60,
+    "hookOffsetY": -16,
+    "fontFamily": "Russo One",
+    "qColor": "#fafafa",
+    "qGlow": "#d1ff1a",
+    "qSize": 3,
+    "tColor": "#fcfcfc",
+    "tGlow": "#e8f538",
+    "tSize": 15
+  },
+  "gameplay": {
+    "hookSpeed": 10,
+    "swingSpeed": 0.035
+  },
+  "tasks": [
+    {
+      "q": "1+1",
+      "correct": [
+        "2"
+      ],
+      "wrong": [
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    {
+      "q": "Как называется игра?",
+      "correct": [
+        "Крюкохват"
+      ],
+      "wrong": [
+        "Крюкохряк",
+        "Хрякокук",
+        "Хватокряк"
+      ]
+    }
+  ]
+}
