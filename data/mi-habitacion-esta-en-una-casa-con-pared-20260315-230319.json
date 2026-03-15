@@ -1,0 +1,174 @@
+{
+  "language": "es",
+  "lang": "es",
+  "font": "Poppins",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/65d0ff4cdc82a000152a440e/4c4bf5ad-abe4-4587-b7ca-db82395f5006.png",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "¡Bien hecho!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Mi habitación está en una casa con paredes _____.",
+      "correct": [
+        "de piedra"
+      ],
+      "wrong": [
+        "de arcilla",
+        "asfalto",
+        "verdes"
+      ]
+    },
+    {
+      "question": "Hay una _____ rosa en el centro con almohadas bonitas y mantas suaves.",
+      "correct": [
+        "cama"
+      ],
+      "wrong": [
+        "alfombra",
+        "jaula",
+        "sofá-cama"
+      ]
+    },
+    {
+      "question": "Hay una alfombra verde _____ de la cama.",
+      "correct": [
+        "debajo"
+      ],
+      "wrong": [
+        "arriba",
+        "en el centro",
+        "a la izquierda"
+      ]
+    },
+    {
+      "question": "A la _____ hay una estantería de madera con cajas de colores pastel.",
+      "correct": [
+        "izquierda"
+      ],
+      "wrong": [
+        "derecha",
+        "en el centro",
+        "cama"
+      ]
+    },
+    {
+      "question": "En la parte superior ____hay cajas redondas rosas y verdes.",
+      "correct": [
+        "de la estantería"
+      ],
+      "wrong": [
+        "del armario",
+        "de la cama",
+        "de los cuadros"
+      ]
+    },
+    {
+      "question": "En la _____ hay varios cuadros con diseños lindos.",
+      "correct": [
+        "pared"
+      ],
+      "wrong": [
+        "chimenea",
+        "mesita de luz",
+        "alféizar"
+      ]
+    },
+    {
+      "question": "Unos cuadros están _____ de la ventana y hay otro con una hoja verde.",
+      "correct": [
+        "al lado"
+      ],
+      "wrong": [
+        "abajo",
+        "a la derecha",
+        "por encima"
+      ]
+    },
+    {
+      "question": "Debajo de la ventana hay una _____ blanca con libros y cajas rosas.",
+      "correct": [
+        "repisa"
+      ],
+      "wrong": [
+        "mesilla",
+        "escritorio",
+        "silla"
+      ]
+    },
+    {
+      "question": "También hay dos plantas en _____.",
+      "correct": [
+        "macetas"
+      ],
+      "wrong": [
+        "mesetas",
+        "jardín",
+        "mocetas"
+      ]
+    },
+    {
+      "question": "A la derecha hay un _____ blanco con techo rosa.",
+      "correct": [
+        "armario"
+      ],
+      "wrong": [
+        "repisa",
+        "alféizar",
+        "el taburete"
+      ]
+    },
+    {
+      "question": "En el suelo, ____ la cama, hay una jaula. El Hamster vive ahí.",
+      "correct": [
+        "frente a"
+      ],
+      "wrong": [
+        "frente de",
+        "atrás de",
+        "arriba de"
+      ]
+    },
+    {
+      "question": "Toda la habitación está _____.",
+      "correct": [
+        "muy ordenada y acogedora"
+      ],
+      "wrong": [
+        "muy desordenada y poco acogedora",
+        "ordenada y no acogedora"
+      ]
+    }
+  ]
+}
