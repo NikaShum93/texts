@@ -1,0 +1,83 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Roboto",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 154,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/1zQ6wYVr/d.png",
+    "bubbleSize": 154,
+    "task": {
+      "bgColor": "rgba(88,199,41,1)",
+      "borderColor": "#11311d",
+      "textColor": "#0d2608",
+      "fontSize": 40,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#197123",
+      "textColor": "#ffffff",
+      "fontSize": 40,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://media.tenor.com/GBJtn4ItWJgAAAAi/st-patrick%27s-day.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "phone, photo, elephant, dolphin, phrase, physics, alphabet, graph, pharmacy, sphere",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "chair, cheese, child, chocolate, school, chicken, beach, teacher, chain, lunch",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "duck, clock, black, rock, stick, truck, block, snack, check, neck ship, shoe, sheep, shop, fish, brush, shell, shark, shirt, wish",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "think, this, that, three, mother, brother, bath, thick, thumb, thank",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "what, when, where, which, white, wheel, whisper, whale, whip, while",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "knife, knee, know, knock, knot, knight, knit, knob, kneel, knuckle",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "queen, quick, quiet, question, quilt, quarter, quite, quote, quiz, quality",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "write, wrong, wrap, wrist, wrinkle, wreck, wren, wrench, wreath, wring",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
