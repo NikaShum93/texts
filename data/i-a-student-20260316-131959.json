@@ -1,0 +1,210 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Baloo 2",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 126,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/KldgHr79YBsAAAAi/gold-clover.gif",
+    "bubbleSize": 126,
+    "task": {
+      "bgColor": "rgba(11,96,59,1)",
+      "borderColor": "#60ee5d",
+      "textColor": "#ffffff",
+      "fontSize": 40,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#15480f",
+      "borderColor": "#0b6038",
+      "textColor": "#d8eee4",
+      "fontSize": 40,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://media.tenor.com/UyskbEAMwA8AAAAi/floss-dance.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "I ___ a student.",
+      "correct": [
+        "am"
+      ],
+      "wrong": [
+        "is",
+        "are",
+        "be"
+      ]
+    },
+    {
+      "question": "She ___ my sister.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "am",
+        "are",
+        "be"
+      ]
+    },
+    {
+      "question": "They ___ playing football now.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "is",
+        "am",
+        "be"
+      ]
+    },
+    {
+      "question": "He ___ swim very well.",
+      "correct": [
+        "can"
+      ],
+      "wrong": [
+        "is",
+        "has",
+        "does"
+      ]
+    },
+    {
+      "question": "We ___ a big house.",
+      "correct": [
+        "have got",
+        "have"
+      ],
+      "wrong": [
+        "has",
+        "is",
+        "are"
+      ]
+    },
+    {
+      "question": "My brother ___ a car.",
+      "correct": [
+        "has got",
+        "has"
+      ],
+      "wrong": [
+        "have",
+        "are",
+        "is"
+      ]
+    },
+    {
+      "question": "She ___ breakfast every morning.",
+      "correct": [
+        "eats"
+      ],
+      "wrong": [
+        "eat",
+        "eating",
+        "ate"
+      ]
+    },
+    {
+      "question": "Look! The dog ___ running.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are",
+        "am",
+        "be"
+      ]
+    },
+    {
+      "question": "This is ___ book. (I)",
+      "correct": [
+        "my"
+      ],
+      "wrong": [
+        "mine",
+        "me",
+        "I"
+      ]
+    },
+    {
+      "question": "That is ___ teacher. (we)",
+      "correct": [
+        "our"
+      ],
+      "wrong": [
+        "we",
+        "us",
+        "ours"
+      ]
+    },
+    {
+      "question": "Tom and Anna ___ watching TV.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "is",
+        "am",
+        "be"
+      ]
+    },
+    {
+      "question": "She ___ speak Spanish.",
+      "correct": [
+        "can"
+      ],
+      "wrong": [
+        "is",
+        "has",
+        "does"
+      ]
+    },
+    {
+      "question": "My parents ___ very busy today.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "is",
+        "am",
+        "be"
+      ]
+    },
+    {
+      "question": "Kate ___ got a new phone.",
+      "correct": [
+        "has"
+      ],
+      "wrong": [
+        "have",
+        "is",
+        "are"
+      ]
+    },
+    {
+      "question": "The children ___ in the park now.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "is",
+        "am",
+        "be"
+      ]
+    }
+  ]
+}
