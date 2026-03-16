@@ -1,0 +1,213 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Mountains of Christmas",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 76,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/yrIGK5Crq00AAAAi/ffxiv-khaiani.gif",
+    "bubbleSize": 76,
+    "task": {
+      "bgColor": "rgba(34,99,53,1)",
+      "borderColor": "#d2dfda",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#dfa811",
+      "borderColor": "#e67e22",
+      "textColor": "#2e4fb2",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 3,
+  "tasks": [
+    {
+      "question": "He ___ (play) football every day",
+      "correct": [
+        "plays"
+      ],
+      "wrong": [
+        "play, playes"
+      ]
+    },
+    {
+      "question": "",
+      "correct": [
+        "reads"
+      ],
+      "wrong": [
+        "read, reades"
+      ]
+    },
+    {
+      "question": "She ___ (read) books in the evening",
+      "correct": [
+        "go"
+      ],
+      "wrong": [
+        "goes, gos"
+      ]
+    },
+    {
+      "question": "",
+      "correct": [
+        "like"
+      ],
+      "wrong": [
+        "likes, liking"
+      ]
+    },
+    {
+      "question": "They ___ (go) to school by bus",
+      "correct": [
+        "sleeps"
+      ],
+      "wrong": [
+        "sleep, sleepes"
+      ]
+    },
+    {
+      "question": "",
+      "correct": [
+        "works"
+      ],
+      "wrong": [
+        "workes, work"
+      ]
+    },
+    {
+      "question": "I ___ (like) ice cream",
+      "correct": [
+        "watch"
+      ],
+      "wrong": [
+        "watches, watchs"
+      ]
+    },
+    {
+      "question": "",
+      "correct": [
+        "studies"
+      ],
+      "wrong": [
+        "study, studyes"
+      ]
+    },
+    {
+      "question": "The cat ___ (sleep) on the sofa",
+      "correct": [
+        "barks"
+      ],
+      "wrong": [
+        "barkes, bark"
+      ]
+    },
+    {
+      "question": "",
+      "correct": [
+        "drives"
+      ],
+      "wrong": [
+        "drive, drivs"
+      ]
+    },
+    {
+      "question": "My father ___ (work) in a bank",
+      "correct": [
+        "live"
+      ],
+      "wrong": [
+        "lives, livis"
+      ]
+    },
+    {
+      "question": "",
+      "correct": [
+        "eats"
+      ],
+      "wrong": [
+        "eat, eates"
+      ]
+    },
+    {
+      "question": "We ___ (watch) TV on weekends",
+      "correct": [
+        "rises"
+      ],
+      "wrong": [
+        "risis, risen"
+      ]
+    },
+    {
+      "question": "",
+      "correct": [
+        "do"
+      ],
+      "wrong": [
+        "does, doing"
+      ]
+    },
+    {
+      "question": "Tom ___ (study) English at school",
+      "correct": [
+        "play"
+      ],
+      "wrong": [
+        "plays, playing"
+      ]
+    },
+    {
+      "question": "The dog ___ (bark) at strangers",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She ___ (drive) to work",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My friends ___ (live) in New York",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "He ___ (eat) breakfast at 7 a.m.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The sun ___ (rise) in the east",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I ___ (do) my homework every day",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They ___ (play) chess after school",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
