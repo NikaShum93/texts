@@ -1,0 +1,118 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Mountains of Christmas",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 120,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/J40Wstdz/ko-FEJna.png",
+    "bubbleSize": 120,
+    "task": {
+      "bgColor": "rgba(245,167,0,1)",
+      "borderColor": "#e9fd86",
+      "textColor": "#ffffff",
+      "fontSize": 19,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 19,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/J7Hx6LgB/pngwing-com28.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 3,
+  "tasks": [
+    {
+      "question": "Nick Wilde (sell) fake popsicles, but now he works as a police officer.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Nick Wilde (think) the police were bad, but now he is part of the police team.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Nick Wilde (work) alone, but now he works with Judy Hopps.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Judy Hopps (believe) she could solve every problem quickly.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Judy Hopps (live) with her big family on the farm.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Judy Hopps (feel) small in the big city, but she never gave up.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Nick Wilde (laugh) at Judy Hopps, but later he became her best friend and partner.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Flash (make) everyone wait a long time at the queue.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Chief Bogo (give) Judy only small parking tickets to check.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The snake Gary (scare) people, but he just wanted to have fun.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Yax (relax) at the naturalist club and talk about nature all day.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Bellwether (look) friendly and helpful, but later everyone learned the truth about her.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Judy Hopps (believe) every animal in the city was kind.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Nick Wilde (never, think) he could become a police officer.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
