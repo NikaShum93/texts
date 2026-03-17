@@ -1,0 +1,153 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Fredoka",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 90,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/tMFo8u3p4nwAAAAi/dancing-dance.gif",
+    "bubbleSize": 90,
+    "task": {
+      "bgColor": "rgba(132,193,241,1)",
+      "borderColor": "#0329e2",
+      "textColor": "#140b8e",
+      "fontSize": 20,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#ffffff",
+      "borderColor": "#5d23e7",
+      "textColor": "#00058a",
+      "fontSize": 20,
+      "neon": true,
+      "imageSize": 350
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://media.tenor.com/NeqwSWJ4MAcAAAAi/pengu-pudgy.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "_____ Penny _____ polar bears?",
+      "correct": [
+        "Does ____ like"
+      ],
+      "wrong": [
+        "likes",
+        "Do ____ likes",
+        "Does ____ likes"
+      ]
+    },
+    {
+      "question": "_____ Penny _____ hippos?",
+      "correct": [
+        "Does ____ like"
+      ],
+      "wrong": [
+        "likes",
+        "Do ____ likes",
+        "Does ____ likes"
+      ]
+    },
+    {
+      "question": "_____ Penny _____ snakes?",
+      "correct": [
+        "Does ____ like"
+      ],
+      "wrong": [
+        "likes",
+        "Do ____ likes",
+        "Does ____ likes"
+      ]
+    },
+    {
+      "question": "_____ Penny _____ fish?",
+      "correct": [
+        "Does ____ like"
+      ],
+      "wrong": [
+        "likes",
+        "Do ____ likes",
+        "Does ____ likes"
+      ]
+    },
+    {
+      "question": "_____ Penny _____ bears?",
+      "correct": [
+        "Does ____ like"
+      ],
+      "wrong": [
+        "likes",
+        "Do ____ likes",
+        "Does ____ likes"
+      ]
+    },
+    {
+      "question": "_____ Penny _____ tigers?",
+      "correct": [
+        "Does ____ like"
+      ],
+      "wrong": [
+        "likes",
+        "Do ____ likes",
+        "Does ____ likes"
+      ]
+    },
+    {
+      "question": "_____ Penny _____ monkeys?",
+      "correct": [
+        "Does ____ like"
+      ],
+      "wrong": [
+        "likes",
+        "Do ____ likes",
+        "Does ____ likes"
+      ]
+    },
+    {
+      "question": "_____ Penny _____ parrots?",
+      "correct": [
+        "Does ____ like"
+      ],
+      "wrong": [
+        "likes",
+        "Do ____ likes",
+        "Does ____ likes"
+      ]
+    },
+    {
+      "question": "_____ Penny _____ penguins?",
+      "correct": [
+        "Does ____ like"
+      ],
+      "wrong": [
+        "likes",
+        "Do ____ likes",
+        "Does ____ likes"
+      ]
+    },
+    {
+      "question": "_____  Penny _____ birds?",
+      "correct": [
+        "Does ____ like"
+      ],
+      "wrong": [
+        "likes",
+        "Do ____ likes",
+        "Does ____ likes"
+      ]
+    }
+  ]
+}
