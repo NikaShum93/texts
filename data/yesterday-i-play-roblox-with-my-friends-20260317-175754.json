@@ -1,0 +1,148 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Nunito",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 106,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/rydjv6hR/Magic-Eraser-260317-175415.png",
+    "bubbleSize": 106,
+    "task": {
+      "bgColor": "rgba(238,115,32,1)",
+      "borderColor": "#e7d2c1",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 350
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Yesterday, I ___ (play) Roblox with my friends.",
+      "correct": [
+        "played"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We ___ (build) an amazing house in Bloxburg last night.",
+      "correct": [
+        "built"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I ___ (buy) some new accessories for my avatar.",
+      "correct": [
+        "bought"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "She ___ (win) the race in Tower of Hell yesterday.",
+      "correct": [
+        "won"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "They ___ (create) a new game in Roblox Studio last weekend.",
+      "correct": [
+        "created"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I ___ (see) my friend in Adopt Me yesterday.",
+      "correct": [
+        "saw"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "He ___ (design) a cool new outfit for his character.",
+      "correct": [
+        "designed"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We ___ (have) so much fun playing together in Brookhaven.",
+      "correct": [
+        "had"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I  ___ (earn) a lot of Robux from completing quests.",
+      "correct": [
+        "earned"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Last week, my friend ___ (show) me a new Roblox game.",
+      "correct": [
+        "showed"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We ___ (go) to a virtual party in Roblox last Friday.",
+      "correct": [
+        "went"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "She ___ (find) a hidden treasure chest in the game.",
+      "correct": [
+        "found"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I ___ (take) a screenshot of my character in the new outfit.",
+      "correct": [
+        "took"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "They ___ (talk) about the best strategies in Arsenal.",
+      "correct": [
+        "talked"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I ___ (join) a new Roblox group yesterday.",
+      "correct": [
+        "joined"
+      ],
+      "wrong": []
+    }
+  ]
+}
