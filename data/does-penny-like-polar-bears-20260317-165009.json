@@ -1,0 +1,93 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Baloo 2",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": true,
+  "bubbleSize": 90,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/tMFo8u3p4nwAAAAi/dancing-dance.gif",
+    "bubbleSize": 90,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#d7eafe",
+      "textColor": "#ffffff",
+      "fontSize": 20,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#1f8bef",
+      "borderColor": "#5d23e7",
+      "textColor": "#ffffff",
+      "fontSize": 20,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Does Penny like polar bears?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Does Penny like hippos?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Does Penny like snakes?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Does Penny like fish?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Does Penny like bears?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Does Penny like tigers?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Does Penny like monkeys?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Does Penny like parrots?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Does Penny like penguins?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Does Penny like birds?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
