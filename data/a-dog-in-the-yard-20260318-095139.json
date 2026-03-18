@@ -1,0 +1,103 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/f45e201c-11c5-4767-b6e6-5752da3a0031.png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(255,198,77,0.95)",
+      "borderColor": "#ff9500",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "______ a dog in the yard.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "______ two chairs in the room.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "______ a cake on the table.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "______ three children in the park.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "______ a bus near the school.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "______ two cats on the roof.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "______ a picture on the wall.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "______ many trees in the garden.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "______ a phone on the desk.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "______ four books in my bag.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "______ a bird on the window.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "______ two shops on this street.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
