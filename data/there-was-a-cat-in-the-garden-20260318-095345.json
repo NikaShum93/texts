@@ -1,0 +1,103 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/e1a034c3-c8ba-4e2d-8fed-c3f19ecff743.png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(198,255,77,0.95)",
+      "borderColor": "#88d100",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#43e723",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "There was a cat in the garden.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "There was a book on the table.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "There was a small shop near my house.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "There was a teacher in the classroom.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "There was a cup of tea on the desk.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "There was a dog in the park.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "There were two apples on the plate.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "There were many people in the park.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "There were three cars near the house.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "There were some flowers in the garden.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "There were many students in the class.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "There were two birds in the tree.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
