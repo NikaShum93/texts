@@ -1,0 +1,118 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Baloo 2",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": true,
+  "bubbleSize": 110,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/67961b32a116fb001568a75e/3deb575c-e9cf-47b9-aaac-204c3496df10.png",
+    "bubbleSize": 110,
+    "task": {
+      "bgColor": "rgba(243,165,199,1)",
+      "borderColor": "#67fa05",
+      "textColor": "#faf200",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#f5f299",
+      "borderColor": "#f33fe4",
+      "textColor": "#45f505",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🌸Well Done!🌸",
+  "feedbackImage": "https://img.genially.com/67961b32a116fb001568a75e/a1c50467-ec8c-4060-9cc6-20a73a90abae.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "There is a ball in the box.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "There is a bird in the tree.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "There are three books on the desk.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "There are two flowers in the garden.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "There is not a cat under the chair.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "There are not any pencils in my bag.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "There is not a kite in the room.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Is there a rabbit in the garden?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Is there a doll on the bed?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Are there two apples in the basket?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Are there any pictures on the wall?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I have got a new bike.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She has got a red pencil case.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We have not got a dog.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Has he got a blue cap?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
