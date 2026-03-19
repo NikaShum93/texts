@@ -1,0 +1,208 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Baloo 2",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 136,
+  "sounds": {
+    "pop": "https://zvukogram.com/mp3/79/button-digital-single-noisy-cartoon.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/67961b32a116fb001568a75e/6e3b681e-0a79-4a4f-bfff-cf68b3aba97a.png",
+    "bubbleSize": 136,
+    "task": {
+      "bgColor": "rgba(75,182,236,1)",
+      "borderColor": "#248aeb",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#a0f2f3",
+      "borderColor": "#04a2f1",
+      "textColor": "#fcfcfc",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🌺 Great! 🌺",
+  "feedbackImage": "https://img.genially.com/67961b32a116fb001568a75e/47fb5722-aebd-4abb-8f82-513834b47391.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "This is my mother. I love ______.",
+      "correct": [
+        "her"
+      ],
+      "wrong": [
+        "she",
+        "him",
+        "them"
+      ]
+    },
+    {
+      "question": "Ben is my brother. ______ is ten.",
+      "correct": [
+        "He"
+      ],
+      "wrong": [
+        "She",
+        "We",
+        "They"
+      ]
+    },
+    {
+      "question": "Look at my cat. ______ is funny.",
+      "correct": [
+        "It"
+      ],
+      "wrong": [
+        "He",
+        "They",
+        "We"
+      ]
+    },
+    {
+      "question": "Anna and I are friends. ______ play together.",
+      "correct": [
+        "We"
+      ],
+      "wrong": [
+        "They",
+        "She",
+        "He"
+      ]
+    },
+    {
+      "question": "This is my teacher, Mrs Green. ______ is kind.",
+      "correct": [
+        "She"
+      ],
+      "wrong": [
+        "He",
+        "It",
+        "They"
+      ]
+    },
+    {
+      "question": "I have a little sister. I play with ______ every day.",
+      "correct": [
+        "her"
+      ],
+      "wrong": [
+        "she",
+        "them",
+        "it"
+      ]
+    },
+    {
+      "question": "Tom and Sam are my friends. ______ like football.",
+      "correct": [
+        "They"
+      ],
+      "wrong": [
+        "We",
+        "He",
+        "She"
+      ]
+    },
+    {
+      "question": "This is my school bag. ______ is blue.",
+      "correct": [
+        "It"
+      ],
+      "wrong": [
+        "He",
+        "They",
+        "We"
+      ]
+    },
+    {
+      "question": "My father is a doctor. ______ works in a hospital.",
+      "correct": [
+        "He"
+      ],
+      "wrong": [
+        "She",
+        "It",
+        "They"
+      ]
+    },
+    {
+      "question": "Kate is my friend. This is ______ doll.",
+      "correct": [
+        "her"
+      ],
+      "wrong": [
+        "his",
+        "my",
+        "their"
+      ]
+    },
+    {
+      "question": "I am Mike. This is ______ bike.",
+      "correct": [
+        "my"
+      ],
+      "wrong": [
+        "your",
+        "his",
+        "her"
+      ]
+    },
+    {
+      "question": "We have a classroom. This is ______ teacher.",
+      "correct": [
+        "our"
+      ],
+      "wrong": [
+        "their",
+        "my",
+        "your"
+      ]
+    },
+    {
+      "question": "You have a nice ball. What is ______ name?",
+      "correct": [
+        "your"
+      ],
+      "wrong": [
+        "his",
+        "our",
+        "their"
+      ]
+    },
+    {
+      "question": "This is Nick. ______ has got a red ball.",
+      "correct": [
+        "He"
+      ],
+      "wrong": [
+        "She",
+        "They",
+        "It"
+      ]
+    },
+    {
+      "question": "My parents are very nice. I love ______.",
+      "correct": [
+        "them"
+      ],
+      "wrong": [
+        "their",
+        "us",
+        "her"
+      ]
+    }
+  ]
+}
