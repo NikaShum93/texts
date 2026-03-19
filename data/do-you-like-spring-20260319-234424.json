@@ -1,0 +1,118 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Bangers",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 136,
+  "sounds": {
+    "pop": "https://zvukogram.com/mp3/79/button-digital-single-noisy-cartoon.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/67961b32a116fb001568a75e/c0988d46-7c04-4722-9146-d6b8a68fd638.png",
+    "bubbleSize": 136,
+    "task": {
+      "bgColor": "rgba(191,240,173,1)",
+      "borderColor": "#6ced02",
+      "textColor": "#f20707",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#eef3a0",
+      "borderColor": "#63f104",
+      "textColor": "#310202",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🌺 Great! 🌺",
+  "feedbackImage": "https://img.genially.com/67961b32a116fb001568a75e/3affa9a4-592b-4cdc-867a-060b9699817a.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Do you like spring?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Is spring warm in your country?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do birds sing in spring?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What season comes after winter?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What is the weather like in spring?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What flowers can you see in spring?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What do children like to do in spring?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Where do you like to walk in spring?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What do you wear in spring?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What games do you play outside in spring?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "When does spring start?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Why do you like spring?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Is it sunny or rainy today?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Is spring your favourite season or not? Why?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Would you like to fly a kite or ride a scooter in spring?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
