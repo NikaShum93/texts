@@ -1,0 +1,218 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Mountains of Christmas",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 90,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/-nZxt4o_PWoAAAAi/keep-on-swimming.gif",
+    "bubbleSize": 90,
+    "task": {
+      "bgColor": "rgba(114,197,233,1)",
+      "borderColor": "#0c2cca",
+      "textColor": "#ffffff",
+      "fontSize": 30,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#61cc63",
+      "borderColor": "#31608c",
+      "textColor": "#1118df",
+      "fontSize": 30,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Yesterday, I __________ (play) in the park.",
+      "correct": [
+        "played"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "She __________ (go) to the zoo last weekend.",
+      "correct": [
+        "went"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We __________ (watch) a cartoon yesterday afternoon.",
+      "correct": [
+        "watched"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "He __________ (eat) an apple for breakfast.",
+      "correct": [
+        "ate"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "They __________ (help) their teacher in class.",
+      "correct": [
+        "helped"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I __________ (see) a bird in the garden.",
+      "correct": [
+        "saw"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "My mom __________ (cook) dinner last night.",
+      "correct": [
+        "cooked"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The cat __________ (sleep) on the sofa.",
+      "correct": [
+        "slept"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "She __________ (dance) at the party last Friday.",
+      "correct": [
+        "danced"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We __________ (visit) our grandparents on Sunday.",
+      "correct": [
+        "visited"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Tom __________ (open) the book and started reading.",
+      "correct": [
+        "opened"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The kids __________ (run) to school yesterday morning.",
+      "correct": [
+        "ran"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I __________ (find) my lost toy under the bed.",
+      "correct": [
+        "found"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "She __________ (study) for her test last week.",
+      "correct": [
+        "studied"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "My brother __________ (make) a drawing for me.",
+      "correct": [
+        "made"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "They __________ (play) soccer after school.",
+      "correct": [
+        "played"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We __________ (jump) over the fence.",
+      "correct": [
+        "jumped"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "He __________ (take) a photo of the sunset.",
+      "correct": [
+        "took"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I __________ (ask) my friend to help me.",
+      "correct": [
+        "asked"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Lucy __________ (clean) her room yesterday.",
+      "correct": [
+        "cleaned"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We __________ (walk) home after the party.",
+      "correct": [
+        "walked"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Dad __________ (fix) my bike last weekend.",
+      "correct": [
+        "fixed"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "She __________ (smile) when she saw the puppy.",
+      "correct": [
+        "smiled"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I __________ (talk) to my teacher after class.",
+      "correct": [
+        "talked"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "They __________ (call) me on my birthday.",
+      "correct": [
+        "called"
+      ],
+      "wrong": []
+    }
+  ]
+}
