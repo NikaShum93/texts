@@ -1,0 +1,204 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Montserrat",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 90,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/DEbTjK2sh4UAAAAi/heart.gif",
+    "bubbleSize": 90,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 29,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#b44b88",
+      "borderColor": "#4323e7",
+      "textColor": "#ffffff",
+      "fontSize": 29,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "ask",
+      "correct": [
+        "asked"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "call",
+      "correct": [
+        "called"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "clean",
+      "correct": [
+        "cleaned"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "cook",
+      "correct": [
+        "cooked"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "dance",
+      "correct": [
+        "danced"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "dress",
+      "correct": [
+        "dressed"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "finish",
+      "correct": [
+        "finished"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "help",
+      "correct": [
+        "helped"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "jump",
+      "correct": [
+        "jumped"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "listen",
+      "correct": [
+        "listened"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "look",
+      "correct": [
+        "looked"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "love",
+      "correct": [
+        "loved"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "open",
+      "correct": [
+        "opened"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "play",
+      "correct": [
+        "played"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "study",
+      "correct": [
+        "studied"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "talk",
+      "correct": [
+        "talked"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "watch",
+      "correct": [
+        "watched"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "hop",
+      "correct": [
+        "hopped"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "stop",
+      "correct": [
+        "stopped"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "clap",
+      "correct": [
+        "clapped"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "mix",
+      "correct": [
+        "mixed"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "plan",
+      "correct": [
+        "planned"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "cry",
+      "correct": [
+        "cried"
+      ],
+      "wrong": []
+    }
+  ]
+}
