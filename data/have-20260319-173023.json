@@ -1,0 +1,183 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Mountains of Christmas",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 90,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/FyJ4HCGsvacAAAAi/dudu-dudu-bear.gif",
+    "bubbleSize": 90,
+    "task": {
+      "bgColor": "rgba(212,170,213,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 30,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#e9a9ea",
+      "borderColor": "#31608c",
+      "textColor": "#ffffff",
+      "fontSize": 30,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "have",
+      "correct": [
+        "had"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "do",
+      "correct": [
+        "did"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "go",
+      "correct": [
+        "went"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "say",
+      "correct": [
+        "said"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "get",
+      "correct": [
+        "got"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "make",
+      "correct": [
+        "made"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "know",
+      "correct": [
+        "knew"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "think",
+      "correct": [
+        "thought"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "take",
+      "correct": [
+        "took"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "see",
+      "correct": [
+        "saw"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "come",
+      "correct": [
+        "came"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "give",
+      "correct": [
+        "gave"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "get",
+      "correct": [
+        "got"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "find",
+      "correct": [
+        "found"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "tell",
+      "correct": [
+        "told"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "become",
+      "correct": [
+        "became"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "leave",
+      "correct": [
+        "left"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "put",
+      "correct": [
+        "put"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "feel",
+      "correct": [
+        "felt"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "run",
+      "correct": [
+        "ran"
+      ],
+      "wrong": []
+    }
+  ]
+}
