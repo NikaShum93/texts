@@ -1,0 +1,147 @@
+{
+  "lang": "en",
+  "mode": "choice",
+  "math": false,
+  "transparentBg": false,
+  "randomQuestions": true,
+  "ui": {
+    "title": "SHEEP RUN",
+    "start": "PLAY",
+    "again": "AGAIN",
+    "gameover": "GAME OVER",
+    "scoreLabel": "Score: ",
+    "fontSize": 8
+  },
+  "gameplay": {
+    "winQuestions": 10,
+    "diffBaseSpawnMs": 3000,
+    "diffBaseMoveSpeed": 2.5,
+    "diffMedMult": 0.88,
+    "diffHardMult": 0.76
+  },
+  "assets": {
+    "hero": "🐑",
+    "mirrorHero": true,
+    "heroBobbing": true,
+    "obstacles": {
+      "ground": [
+        "🌲",
+        "🪨",
+        "🪵",
+        "🌵"
+      ],
+      "good": [
+        "🌾",
+        "🌽",
+        "🍀",
+        "🍎"
+      ],
+      "bad": [
+        "🦅",
+        "🧱",
+        "🚁",
+        "⛈️"
+      ]
+    }
+  },
+  "sounds": {
+    "mus": "https://raw.githubusercontent.com/kgbgamelab/audioplayer/main/Baa%20Dash.mp3",
+    "ding": "https://assets.mixkit.co/active_storage/sfx/2000/2000-preview.mp3",
+    "buzz": "https://assets.mixkit.co/active_storage/sfx/257/257-preview.mp3",
+    "coin": "https://assets.mixkit.co/active_storage/sfx/2019/2019-preview.mp3",
+    "crash": "https://assets.mixkit.co/active_storage/sfx/2042/2042-preview.mp3",
+    "win": "https://assets.mixkit.co/active_storage/sfx/2018/2018-preview.mp3"
+  },
+  "tasks": [
+    {
+      "question": "I didn’t ______ like milk when I was a child.",
+      "correct": [
+        "use to"
+      ],
+      "wrong": [
+        "used to"
+      ]
+    },
+    {
+      "question": "______ you use to play outside after school?",
+      "correct": [
+        "Did"
+      ],
+      "wrong": [
+        "Do"
+      ]
+    },
+    {
+      "question": "She didn’t ______ wear glasses before.",
+      "correct": [
+        "use to"
+      ],
+      "wrong": [
+        "used to"
+      ]
+    },
+    {
+      "question": "______ he ______ be afraid of dogs?",
+      "correct": [
+        "Did/use to"
+      ],
+      "wrong": [
+        "Did/used to"
+      ]
+    },
+    {
+      "question": "We didn’t ______ go on holiday every year.",
+      "correct": [
+        "use to"
+      ],
+      "wrong": [
+        "used to"
+      ]
+    },
+    {
+      "question": "______ they use to live in this house?",
+      "correct": [
+        "Did"
+      ],
+      "wrong": [
+        "Are"
+      ]
+    },
+    {
+      "question": "I ______ understand this topic.",
+      "correct": [
+        "didn't use to"
+      ],
+      "wrong": [
+        "didn't used to"
+      ]
+    },
+    {
+      "question": "Did you ______ have a pet?",
+      "correct": [
+        "use to"
+      ],
+      "wrong": [
+        "used to"
+      ]
+    },
+    {
+      "question": "He didn’t ______ eat spicy food before.",
+      "correct": [
+        "use to"
+      ],
+      "wrong": [
+        "use"
+      ]
+    },
+    {
+      "question": "______ she use to wake up early?",
+      "correct": [
+        "Did"
+      ],
+      "wrong": [
+        "Does"
+      ]
+    }
+  ]
+}
