@@ -1,0 +1,231 @@
+{
+  "language": "es",
+  "lang": "es",
+  "font": "Poppins",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/NfX6j9h2/Viernes-(5).png",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": true,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "El lunes _____ de Madrid en tren",
+      "correct": [
+        "salí"
+      ],
+      "wrong": [
+        "saliste",
+        "sali",
+        "salió"
+      ]
+    },
+    {
+      "question": "_____ a Alicante al mediodía",
+      "correct": [
+        "llegué"
+      ],
+      "wrong": [
+        "llegaste",
+        "viste",
+        "llegé"
+      ]
+    },
+    {
+      "question": "_____ el mar en Postiguet",
+      "correct": [
+        "vi"
+      ],
+      "wrong": [
+        "vio",
+        "viste",
+        "divertiste"
+      ]
+    },
+    {
+      "question": "Me _____ mucho en la playa",
+      "correct": [
+        "divertí"
+      ],
+      "wrong": [
+        "salió",
+        "llegó",
+        "divirtió"
+      ]
+    },
+    {
+      "question": "¡Qué bonito _____ mi viaje a Alicante!",
+      "correct": [
+        "fue"
+      ],
+      "wrong": [
+        "fueron",
+        "fui",
+        "fuee"
+      ]
+    },
+    {
+      "question": "Con mis padres, lo _____ muy bien",
+      "correct": [
+        "pasé"
+      ],
+      "wrong": [
+        "pasaron",
+        "pasó",
+        "pasá"
+      ]
+    },
+    {
+      "question": "_____ tantas cosas",
+      "correct": [
+        "Aprendí"
+      ],
+      "wrong": [
+        "Apren",
+        "Aprendieron",
+        "Aprenda"
+      ]
+    },
+    {
+      "question": "El tiempo se _____ como un pájaro",
+      "correct": [
+        "voló"
+      ],
+      "wrong": [
+        "volaron",
+        "volá",
+        "volí"
+      ]
+    },
+    {
+      "question": "El martes _____ el castillo de Santa Bárbara",
+      "correct": [
+        "visité"
+      ],
+      "wrong": [
+        "visitaste",
+        "visitó",
+        "visita"
+      ]
+    },
+    {
+      "question": "_____ con los abuelos en el centro",
+      "correct": [
+        "Comí"
+      ],
+      "wrong": [
+        "Comiste",
+        "comió",
+        "comimas"
+      ]
+    },
+    {
+      "question": "_____ al parque y _____ con mis amigos",
+      "correct": [
+        "Fui",
+        "jugué"
+      ],
+      "wrong": [
+        "Fuiste",
+        "jugaste",
+        "comiste"
+      ]
+    },
+    {
+      "question": "El sol _____ y el aire _____ fresco",
+      "correct": [
+        "brilló",
+        "estuvo"
+      ],
+      "wrong": [
+        "brillaste",
+        "estuviste",
+        "volásteis"
+      ]
+    },
+    {
+      "question": "El miércoles _____ en la Albufereta",
+      "correct": [
+        "estuve"
+      ],
+      "wrong": [
+        "estuviste",
+        "tomaste",
+        "corriste"
+      ]
+    },
+    {
+      "question": "_____ horchata y fartons con mamá",
+      "correct": [
+        "Tomé"
+      ],
+      "wrong": [
+        "Tomaste",
+        "bebaste",
+        "bailé"
+      ]
+    },
+    {
+      "question": "_____ en la arena, _____ por el mar",
+      "correct": [
+        "Jugué",
+        "corrí"
+      ],
+      "wrong": [
+        "Jugaste",
+        "corriste"
+      ]
+    },
+    {
+      "question": "Me _____ feliz",
+      "correct": [
+        "sentí"
+      ],
+      "wrong": [
+        "sentiste",
+        "senté"
+      ]
+    },
+    {
+      "question": "",
+      "correct": [],
+      "wrong": [
+        "estuvo",
+        "Tomó",
+        "Jugó",
+        "corrió",
+        "sintió"
+      ]
+    }
+  ]
+}
