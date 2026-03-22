@@ -1,0 +1,127 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Fredoka",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 138,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/023sj9j2/ko-FEJna2.png",
+    "bubbleSize": 138,
+    "task": {
+      "bgColor": "rgba(15,123,22,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "",
+  "feedbackImage": "https://i.postimg.cc/T124hxd2/4880634ed6878435e76dd99f119530dc_17739088_cf4c_4f8a_8328_708db1ef310e.jpg",
+  "feedbackEnabled": true,
+  "feedbackMode": "image",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "The fairy ____ (fly) above the flowers.",
+      "correct": [
+        "is flying"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The elves ____ (sing) a happy song.",
+      "correct": [
+        "are singing"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The owl ____ (sleep) on the tree branch.",
+      "correct": [
+        "is sleeping"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The rabbits ____ (run) through the grass.",
+      "correct": [
+        "are running"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The unicorn ____ (drink) water from the river.",
+      "correct": [
+        "is drinking"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The foxes ____ (play) near the rocks.",
+      "correct": [
+        "are playing"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The children ____ (look) for magic stones.",
+      "correct": [
+        "are looking"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The trees ____ (sway) in the wind.",
+      "correct": [
+        "are swaying"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The witch ____ (cook) a potion in her house.",
+      "correct": [
+        "is cooking"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The fairies ____ (dance) in the moonlight.",
+      "correct": [
+        "are dancing"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The bear ____ (climb) the tall tree.",
+      "correct": [
+        "is climbing"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The squirrels ____ (hide) their nuts.",
+      "correct": [
+        "are hiding"
+      ],
+      "wrong": []
+    }
+  ]
+}
