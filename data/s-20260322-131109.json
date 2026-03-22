@@ -1,0 +1,117 @@
+{
+  "language": "en",
+  "font": "Rubik",
+  "fontSize": 17,
+  "textColor": "#62111b",
+  "speed": 5,
+  "style": {
+    "shape": "rounded",
+    "pad": 41,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://ai-image.genially.com/655611c7168cbb00113c14a8/69be2bbcdcf05d7fca3c11c4/69bfbaf3f294290756ed64bf.png"
+    ],
+    "bgImage": "",
+    "borderOn": true,
+    "borderColor": "#ffffff",
+    "borderWidth": 0,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Present Simple, he/she/it form",
+    "btnText": "Start!"
+  },
+  "direction": "down",
+  "finalFeedback": "Well done!",
+  "levels": [
+    {
+      "target": "-s",
+      "correct": [
+        "walk",
+        "work",
+        "eat",
+        "drink",
+        "sleep",
+        "see",
+        "dance",
+        "make",
+        "like",
+        "hate",
+        "play",
+        "look",
+        "take"
+      ],
+      "wrong": [
+        "wash",
+        "go",
+        "do",
+        "watch",
+        "fly",
+        "cry",
+        "dress",
+        "brush",
+        "copy",
+        "kiss",
+        "cross"
+      ],
+      "timer": 45
+    },
+    {
+      "target": "-es",
+      "correct": [
+        "wash",
+        "kiss",
+        "watch",
+        "go",
+        "do",
+        "brush",
+        "miss",
+        "cross"
+      ],
+      "wrong": [
+        "listen",
+        "play",
+        "work",
+        "walk",
+        "drink",
+        "like",
+        "cry",
+        "fly",
+        "drive",
+        "look",
+        "eat"
+      ],
+      "timer": 45
+    },
+    {
+      "target": "-ies",
+      "correct": [
+        "fly",
+        "dry",
+        "cry",
+        "copy",
+        "hurry",
+        "study",
+        "fry"
+      ],
+      "wrong": [
+        "go",
+        "do",
+        "brush",
+        "miss",
+        "play",
+        "work",
+        "eat",
+        "drink",
+        "sleep"
+      ],
+      "timer": 45
+    }
+  ]
+}
