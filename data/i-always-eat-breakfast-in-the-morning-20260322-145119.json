@@ -1,0 +1,83 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": true,
+  "bubbleSize": 108,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/62397d4165e9e400185c039a/b3c5cfde-b4a0-4ab0-9ac0-d8ad28e7e5a7.png",
+    "bubbleSize": 108,
+    "task": {
+      "bgColor": "rgba(134,180,216,1)",
+      "borderColor": "#37668b",
+      "textColor": "#1b3f5a",
+      "fontSize": 17,
+      "neon": false
+    },
+    "feedback": {
+      "bgColor": "#86b4d8",
+      "borderColor": "#154365",
+      "textColor": "#0d3859",
+      "fontSize": 17,
+      "neon": false,
+      "imageSize": 360
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "I always eat breakfast in the morning.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I am always happy in spring.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She usually goes to school by bus.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My mom is usually busy in the morning.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They never drink coffee.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I sometimes watch TV before bed.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My friends are always friendly.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My brother always helps me with homework.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
