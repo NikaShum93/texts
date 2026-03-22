@@ -1,0 +1,55 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 20,
+  "textColor": "#f8fb56",
+  "speed": 5,
+  "style": {
+    "shape": "rect",
+    "pad": 80,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://img.genially.com/60624cb1e2d2460f933203eb/a6aa9e79-acca-41f8-9392-a994a6e508a8.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 240
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Spelling Test",
+    "btnText": "Start"
+  },
+  "direction": "down",
+  "finalFeedback": "Awesome work!",
+  "levels": [
+    {
+      "target": "Correct Words",
+      "correct": [
+        "tracksuit",
+        "football boots",
+        "shorts",
+        "sportsbag",
+        "shirt",
+        "trainers"
+      ],
+      "wrong": [
+        "traksuit",
+        "tracksut",
+        "footbal boots",
+        "sportbag",
+        "short",
+        "skirt",
+        "traines"
+      ],
+      "timer": 30
+    }
+  ]
+}
