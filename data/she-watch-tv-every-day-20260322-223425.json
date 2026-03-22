@@ -1,0 +1,180 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 66,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/WorOVqY83HsAAAAi/bfdi-bfb.gif",
+    "bubbleSize": 66,
+    "task": {
+      "bgColor": "rgba(161,232,175,1)",
+      "borderColor": "#114007",
+      "textColor": "#201f75",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#ffde38",
+      "borderColor": "#eb471e",
+      "textColor": "#260da0",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "She __________ (watch) TV every day.",
+      "correct": [
+        "watches"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Look! The dog __________ (run) in the garden.",
+      "correct": [
+        "is running"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We always __________ (eat) breakfast at 8 o’clock.",
+      "correct": [
+        "eat"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Right now, I __________ (read) a book.",
+      "correct": [
+        "am reading"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "My brother __________ (play) football on Sundays.",
+      "correct": [
+        "plays"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "They __________ (not / study) at the moment.",
+      "correct": [
+        "are not studying",
+        "aren't studying"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The sun __________ (shine) in the sky today.",
+      "correct": [
+        "is shining"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "She usually __________ (go) to school by bus.",
+      "correct": [
+        "goes"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Listen! The birds __________ (sing) in the tree.",
+      "correct": [
+        "are singing"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I __________ (not / like) broccoli.",
+      "correct": [
+        "do not like",
+        "don't like"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Tom __________ (drink) milk every morning.",
+      "correct": [
+        "drinks"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "They __________ (play) basketball in the park now.",
+      "correct": [
+        "are playing"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Sarah __________ (not / have) breakfast at the moment.",
+      "correct": [
+        "is not having",
+        "isn't having"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We __________ (go) to school on weekdays.",
+      "correct": [
+        "go"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "He __________ (do) his homework every day.",
+      "correct": [
+        "does"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I __________ (write) a letter to my friend right now.",
+      "correct": [
+        "am writing"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The children __________ (not / watch) cartoons today.",
+      "correct": [
+        "are not watching",
+        "aren't watching"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "My father __________ (work) in the garden every weekend.",
+      "correct": [
+        "works"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "She __________ (talk) on the phone now.",
+      "correct": [
+        "is talking"
+      ],
+      "wrong": []
+    }
+  ]
+}
