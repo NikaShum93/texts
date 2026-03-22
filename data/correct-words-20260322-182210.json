@@ -1,0 +1,54 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "style": {
+    "shape": "circle",
+    "pad": 17,
+    "bgColor": "#ffffff",
+    "bgImages": [
+      "https://i.postimg.cc/nrxYBnf4/apple.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 0,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#ffbb00",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 220
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Spelling Test",
+    "btnText": "Start"
+  },
+  "direction": "down",
+  "finalFeedback": "Awesome job!",
+  "levels": [
+    {
+      "target": "Correct Words",
+      "correct": [
+        "tracksuit",
+        "football boots",
+        "sportsbag",
+        "shorts",
+        "shirt",
+        "trainers"
+      ],
+      "wrong": [
+        "traksuit",
+        "footbal boots",
+        "sportbag",
+        "short",
+        "skirt",
+        "traines"
+      ],
+      "timer": 30
+    }
+  ]
+}
