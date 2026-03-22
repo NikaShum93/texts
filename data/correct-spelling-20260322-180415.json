@@ -1,0 +1,54 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/8kx1bs74/Untitled-design-(1).png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 0,
+    "shadow": true,
+    "glow": false,
+    "glowColor": "#99ff00",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "",
+    "btnText": "Start"
+  },
+  "direction": "down",
+  "finalFeedback": "Awesome work!",
+  "levels": [
+    {
+      "target": "Correct Spelling",
+      "correct": [
+        "tracksuit",
+        "sportsbag",
+        "football boots",
+        "shorts",
+        "shirt",
+        "trainers"
+      ],
+      "wrong": [
+        "track suit",
+        "sportbag",
+        "footbal bots",
+        "short",
+        "traines",
+        "skirt"
+      ],
+      "timer": 30
+    }
+  ]
+}
