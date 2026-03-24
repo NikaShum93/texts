@@ -1,0 +1,113 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 86,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/d16tLqJq/be.gif",
+    "bubbleSize": 86,
+    "task": {
+      "bgColor": "rgba(255,170,0,1)",
+      "borderColor": "#ff6a00",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "The manager admired her __________ when she successfully carried out the project. (conscientious)",
+      "correct": [
+        "conscientiousness"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "He approached the job with great __________ and energy. (enthusiastic)",
+      "correct": [
+        "enthusiasm"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Her __________ made her perfect for a leadership role. (single-minded)",
+      "correct": [
+        "single-mindedness"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Good time-__________ is essential if you want to meet deadlines. (manage)",
+      "correct": [
+        "management"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "He improved his career prospects through __________. (scholar)",
+      "correct": [
+        "scholarship"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Their strong sense of __________ helped them succeed as a team. (partner)",
+      "correct": [
+        "partnership"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The company values __________ and innovation. (professional)",
+      "correct": [
+        "professionalism"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The organization promotes __________ and fairness. (leader)",
+      "correct": [
+        "leadership"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "After years of hard work, he reached a state of financial __________. (free)",
+      "correct": [
+        "freedom"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "His __________ was shaped by years of discipline and effort. (adult)",
+      "correct": [
+        "adulthood"
+      ],
+      "wrong": []
+    }
+  ]
+}
