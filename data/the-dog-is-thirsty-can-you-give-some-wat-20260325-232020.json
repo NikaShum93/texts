@@ -1,0 +1,148 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Mountains of Christmas",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/64233afb55129a0017751c8e/681875a0-3c45-46b5-8db9-482eb4948341.gif",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(133,241,255,1)",
+      "borderColor": "#3139a0",
+      "textColor": "#0017c7",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#f2e126",
+      "borderColor": "#e67e22",
+      "textColor": "#074fdf",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "The dog is thirsty. Can you give ______ some water?",
+      "correct": [
+        "it"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I am tired. Can you help ______ with my homework?",
+      "correct": [
+        "me"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Look at that bird! I want to feed ______.",
+      "correct": [
+        "it"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Tom is here. Can you talk to ______?",
+      "correct": [
+        "him"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "There are two cats. I like ______ very much.",
+      "correct": [
+        "them"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I lost my keys. Can you help me find ______?",
+      "correct": [
+        "them"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "She has a new phone. I want to call ______.",
+      "correct": [
+        "her"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The cake is tasty! I want to eat ______ again.",
+      "correct": [
+        "it"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "They are playing soccer. We want to play with ______.",
+      "correct": [
+        "them"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "My sister is waiting outside. Can you meet ______?",
+      "correct": [
+        "her"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Mr.Smith is calling. Please listen to ______.",
+      "correct": [
+        "him"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The flowers are beautiful. I want to water ______.",
+      "correct": [
+        "them"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "My friends are here. I want to invite ______ inside.",
+      "correct": [
+        "them"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The children are happy. They love their parents. Parents love ______ too.",
+      "correct": [
+        "them"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "He gave me a gift. I will give ______ a thank you card.",
+      "correct": [
+        "him"
+      ],
+      "wrong": []
+    }
+  ]
+}
