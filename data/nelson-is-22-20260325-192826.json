@@ -1,0 +1,121 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 108,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://az.genially.com/genially/layouts/preview/607c7a7b-36ac-4bf6-b026-ba093a0270b9.png",
+    "bubbleSize": 108,
+    "task": {
+      "bgColor": "rgba(79,172,254,0.8)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#00b3ff",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Nelson is 22.",
+      "correct": [
+        "False -"
+      ],
+      "wrong": [
+        "True +"
+      ]
+    },
+    {
+      "question": "Nelson has a wife and two children.",
+      "correct": [
+        "True +"
+      ],
+      "wrong": [
+        "False -"
+      ]
+    },
+    {
+      "question": "His favourite season is ...",
+      "correct": [
+        "Summer"
+      ],
+      "wrong": [
+        "Autumn",
+        "Winter"
+      ]
+    },
+    {
+      "question": "He can play football very well.",
+      "correct": [
+        "True +"
+      ],
+      "wrong": [
+        "False -"
+      ]
+    },
+    {
+      "question": "He has got a ...",
+      "correct": [
+        "a dog"
+      ],
+      "wrong": [
+        "a cat",
+        "two dogs",
+        "a hamster"
+      ]
+    },
+    {
+      "question": "He likes ...",
+      "correct": [
+        "chicken and pasta"
+      ],
+      "wrong": [
+        "chicken and chips",
+        "pasta and cheese"
+      ]
+    },
+    {
+      "question": "He can't ...",
+      "correct": [
+        "sing"
+      ],
+      "wrong": [
+        "dance",
+        "ride a bike",
+        "swim"
+      ]
+    },
+    {
+      "question": "Nelson is from Russia.",
+      "correct": [
+        "False"
+      ],
+      "wrong": [
+        "True"
+      ]
+    }
+  ]
+}
