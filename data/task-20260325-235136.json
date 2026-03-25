@@ -1,0 +1,113 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Roboto",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/MZ71nnQC/be-2.gif",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(55,26,148,1)",
+      "borderColor": "#be38f3",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Я встретила свою лучшую подругу вчера.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Когда ты встретила своего мужа?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Я не сдала экзамен по вождению с первого раза.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Ты сдала все экзамены?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Я не услышала будильник утром.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Мне очень жаль, я перепутала время.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Я оставила сумку в такси.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Я опоздала на поезд, потому что не услышала будильник.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Вчера я сделала много красивых фотографий.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Ты встретила клиента?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Я работала весь день.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Я забыла камеру.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "|Ты проверила фотографии?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Когда я добралась до дома я была очень уставшей.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
