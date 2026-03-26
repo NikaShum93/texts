@@ -1,0 +1,122 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 108,
+  "sounds": {
+    "pop": "-",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://az.genially.com/genially/layouts/preview/607c7a7b-36ac-4bf6-b026-ba093a0270b9.png",
+    "bubbleSize": 108,
+    "task": {
+      "bgColor": "rgba(79,172,254,0.8)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#00b3ff",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 310
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://media.tenor.com/9fBPR6lTnrMAAAAi/pengu-pudgy.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Anna is 26.",
+      "correct": [
+        "True +"
+      ],
+      "wrong": [
+        "False -"
+      ]
+    },
+    {
+      "question": "Anna has a husband and three children.",
+      "correct": [
+        "False -"
+      ],
+      "wrong": [
+        "True +"
+      ]
+    },
+    {
+      "question": "Her favourite season is ...",
+      "correct": [
+        "Autumn"
+      ],
+      "wrong": [
+        "Summer",
+        "Winter",
+        "Spring"
+      ]
+    },
+    {
+      "question": "She can swim very well.",
+      "correct": [
+        "False -"
+      ],
+      "wrong": [
+        "True +"
+      ]
+    },
+    {
+      "question": "She has got a ...",
+      "correct": [
+        "a hamster and a parrot"
+      ],
+      "wrong": [
+        "a cat and a dog",
+        "two parrots",
+        "a hamster and a fish"
+      ]
+    },
+    {
+      "question": "She likes ...",
+      "correct": [
+        "ice cream and pop corn"
+      ],
+      "wrong": [
+        "ice cream and cakes",
+        "pop corn and cheese"
+      ]
+    },
+    {
+      "question": "She can't ...",
+      "correct": [
+        "play ping pong"
+      ],
+      "wrong": [
+        "play football",
+        "play computer games",
+        "sing"
+      ]
+    },
+    {
+      "question": "Anna is from Germany.",
+      "correct": [
+        "False –"
+      ],
+      "wrong": [
+        "True +"
+      ]
+    }
+  ]
+}
