@@ -1,0 +1,139 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Mountains of Christmas",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/hlprB1O1EgkAAAAi/parrot-dance.gif",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(62,172,90,1)",
+      "borderColor": "#3139a0",
+      "textColor": "#0017c7",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#f2e126",
+      "borderColor": "#e67e22",
+      "textColor": "#074fdf",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "",
+      "correct": [
+        "me"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Can you help _____, please?",
+      "correct": [
+        "her"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "She likes _____ cat.",
+      "correct": [
+        "him"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "He is my friend. I like _____ very much.",
+      "correct": [
+        "Our",
+        "our"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "_____ are happy today.",
+      "correct": [
+        "him"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We have a dog. _____ name is Max.",
+      "correct": [
+        "She"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Where is Jony? - They see _____ at the park.",
+      "correct": [
+        "your"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "_____ is my sister.",
+      "correct": [
+        "I"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Hi, Mag! Is this _____ pencil?",
+      "correct": [
+        "his"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "_____ am thirsty.",
+      "correct": [
+        "you"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "He lost _____ keys.",
+      "correct": [
+        "their"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I don’t understand _____, can you help?",
+      "correct": [
+        "He",
+        "he"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "They are Smiths. This is _____ house.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "This is Jim. _____ loves studying!",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
