@@ -1,0 +1,127 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Mountains of Christmas",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/sFdzKK1cHcsAAAAi/astronaut-tumble-astronaut.gif",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(203,229,236,1)",
+      "borderColor": "#0a0557",
+      "textColor": "#140967",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#fff261",
+      "borderColor": "#0b155b",
+      "textColor": "#230b9d",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Look at the sky! It _________ (rain) soon.",
+      "correct": [
+        "is going to rain"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I think I _________ (help) you with your homework.",
+      "correct": [
+        "will help"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "They _________ (visit) their grandma next weekend.",
+      "correct": [
+        "are going to visit"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "It _____(be) my birthday next week.",
+      "correct": [
+        "will be"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Be careful! You _________ (fall).",
+      "correct": [
+        "are going to fall"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I'm sure I _________ (call) my friend later.",
+      "correct": [
+        "will call"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "He _________ (not / go) to the party because he is sick.",
+      "correct": [
+        "is not going to go"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Mom _________ (buy) a new dress tomorrow.",
+      "correct": [
+        "will buy"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "They think they _________ (travel) to Paris next month.",
+      "correct": [
+        "will travel"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "They _________ (not / watch) TV tonight.",
+      "correct": [
+        "are not going to watch"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "My friends _________ (come) to my birthday party.",
+      "correct": [
+        "are going to come"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I hope I _________ (visit) my uncle next summer.",
+      "correct": [
+        "will visit"
+      ],
+      "wrong": []
+    }
+  ]
+}
