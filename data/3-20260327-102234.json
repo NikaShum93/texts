@@ -1,0 +1,124 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Neucha",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 134,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/6481eb99bc84c200190782f3/1af60f85-0b02-4cb9-b311-d9b73fb9d2c0.png",
+    "bubbleSize": 134,
+    "task": {
+      "bgColor": "rgba(255,205,209,0.5)",
+      "borderColor": "#00f2fe",
+      "textColor": "#000000",
+      "fontSize": 24,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#ffcdd1",
+      "borderColor": "#23e7d0",
+      "textColor": "#000000",
+      "fontSize": 24,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "Отлично! 🐰🐣🌷",
+  "feedbackImage": "https://img.genially.com/6481eb99bc84c200190782f3/1ada71a9-0509-42bd-9b73-d9840a3b0b44.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 3,
+  "tasks": [
+    {
+      "question": "Найди слово, в котором 3 слога.",
+      "correct": [
+        "малина"
+      ],
+      "wrong": [
+        "кошка",
+        "шар"
+      ]
+    },
+    {
+      "question": "В каком слове больше всего слогов?",
+      "correct": [
+        "домовёнок"
+      ],
+      "wrong": [
+        "домик",
+        "домовой"
+      ]
+    },
+    {
+      "question": "Выбери слово с ударением на 3 слоге.",
+      "correct": [
+        "телефон"
+      ],
+      "wrong": [
+        "берёза",
+        "машина"
+      ]
+    },
+    {
+      "question": "В каком слове ударение падает на первый слог?",
+      "correct": [
+        "солнышко"
+      ],
+      "wrong": [
+        "рябина",
+        "игрушка"
+      ]
+    },
+    {
+      "question": "Выбери слово с ударением на 3 слоге.",
+      "correct": [
+        "колобок"
+      ],
+      "wrong": [
+        "красивая",
+        "ёлочка"
+      ]
+    },
+    {
+      "question": "В каком слове знак ударения ставить не нужно?",
+      "correct": [
+        "день",
+        "полёт"
+      ],
+      "wrong": [
+        "кони",
+        "полька"
+      ]
+    },
+    {
+      "question": "В каком слове ударный гласный выделен НЕВЕРНО?",
+      "correct": [
+        "ластОчка"
+      ],
+      "wrong": [
+        "магазИн",
+        "звонОк"
+      ]
+    },
+    {
+      "question": "Выбери слово с ударением на 2 слоге.",
+      "correct": [
+        "печенье"
+      ],
+      "wrong": [
+        "ландыши",
+        "булка"
+      ]
+    }
+  ]
+}
