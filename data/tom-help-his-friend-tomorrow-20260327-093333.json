@@ -1,0 +1,123 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Mountains of Christmas",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/sUhMkuLVV-gAAAAi/fly-space-ship.gif",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(223,139,253,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#140967",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#fff261",
+      "borderColor": "#0b155b",
+      "textColor": "#230b9d",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Tom _________ (help) his friend tomorrow.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We _________ (visit) the zoo next weekend.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "_________ she _________ (call) you tonight?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They _________ (play) in the park after school.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "_________ you _________ (watch) the cartoon in the evening?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Mom _________ (not / cook) dinner today.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "_________ he _________ (come) to school by bus?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I _________ (play) football tomorrow.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She _________ (eat) pizza tonight.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "_________ you _________ (come) to the party next weekend?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They _________ (watch) TV after school.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "He _________ (not / go) to the park in an hour.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "_________ we _________ (have) a picnic on Sunday?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My mom _________ (buy) ice cream after work.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We _________ (not / be) late for class.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "_________ your dad _________ (help) you with homework?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
