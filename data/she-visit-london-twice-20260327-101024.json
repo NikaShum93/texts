@@ -1,0 +1,123 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Mountains of Christmas",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/u2TVO1QUeggAAAAi/tnt-explosion.gif",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(203,229,236,1)",
+      "borderColor": "#0a0557",
+      "textColor": "#140967",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#fff261",
+      "borderColor": "#0b155b",
+      "textColor": "#230b9d",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "She ________ (visit) London twice.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I ________ (not / finish) my homework yet.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "________ you ever ________ (try) sushi?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They ________ (see) that movie three times.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "He ________ (not / be) to Paris.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "________ your sister ________ (call) you today?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We ________ (lose) our keys.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I ________ (not / read) that book.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "________ they ________ (complete) the project?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My parents ________ (travel) to many countries.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She ________ (not / finish) her test yet.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They ________ (watch) that TV show before.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "He ________ (not / see) his cousins this year.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "________ your friends ________ (come) to the party?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We ________ (buy) a new car recently.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "________ she ________ (talk) to her teacher?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
