@@ -1,0 +1,118 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Mountains of Christmas",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/-YylRXknH4UAAAAi/creeper-minecraft.gif",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(203,229,236,1)",
+      "borderColor": "#0a0557",
+      "textColor": "#140967",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#fff261",
+      "borderColor": "#0b155b",
+      "textColor": "#230b9d",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "She ________ (study) for three hours.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I ________ (not / watch) TV all day.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They ________ (work) on their project since morning.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "________ your friends ________ (talk) about the trip?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We ________ (wait) for the bus for 20 minutes.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "________ she ________ (read) that book all week?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My parents ________ (clean) the house since 8 a.m.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I ________ (wait) for you since 5 o’clock.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "________ they ________ (work) on the homework since last week?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We ________ (practice) basketball all afternoon.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "He ________ (not / sleep) well these days.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "________ you ________ (learn) to swim this year?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My brother ________ (play) video games for two hours.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "________ she ________ (cook) dinner for a long time?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I ________ (try) to fix my bike since morning.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
