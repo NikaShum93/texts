@@ -1,0 +1,73 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Baloo 2",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": true,
+  "bubbleSize": 68,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/6728e881ebc5420015e1f3ec/e1c8df75-92f4-4c07-97b4-caff75e3bc23.png",
+    "bubbleSize": 68,
+    "task": {
+      "bgColor": "rgba(77,254,242,0.8)",
+      "borderColor": "#a99bf3",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#5a40c4",
+      "borderColor": "#23e3e7",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 EUREKA!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "B O U G H T",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "B R O U G H T",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "F O U G H T",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "T H O U G H T",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "T A U G H T",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "C A U G H T",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
