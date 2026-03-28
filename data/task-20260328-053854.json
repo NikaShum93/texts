@@ -1,0 +1,73 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Montserrat",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 118,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/61eb172fe320a80012b16542/143085cf-4479-4ca9-9180-34b7272f951b.gif",
+    "bubbleSize": 118,
+    "task": {
+      "bgColor": "rgba(212,231,247,1)",
+      "borderColor": "#b6c8c9",
+      "textColor": "#2d2a2a",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Молодец!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "эпитет",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "метафора",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "олицетворение",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "литота",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "гипербола",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "сравнение",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
