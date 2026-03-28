@@ -1,0 +1,254 @@
+{
+  "lang": "en",
+  "mode": "choice",
+  "math": false,
+  "transparentBg": false,
+  "randomQuestions": true,
+  "ui": {
+    "title": "BEE RUN",
+    "start": "PLAY",
+    "again": "AGAIN",
+    "gameover": "GAME OVER",
+    "scoreLabel": "Score: ",
+    "fontSize": 7
+  },
+  "gameplay": {
+    "winQuestions": 10,
+    "diffBaseSpawnMs": 8500,
+    "diffBaseMoveSpeed": 6,
+    "diffMedMult": 0.88,
+    "diffHardMult": 0.76
+  },
+  "assets": {
+    "hero": "https://img.genially.com/65ca81292d14b0001ebfb2fe/f7d90dac-03c4-4d0f-b1fd-1567d9a860e5.gif",
+    "mirrorHero": false,
+    "heroBobbing": true,
+    "obstacles": {
+      "ground": [
+        "🌲",
+        "🪨",
+        "🪵",
+        "🌵"
+      ],
+      "good": [
+        "🍯",
+        "🌷",
+        "🌸"
+      ],
+      "bad": [
+        "🦅",
+        "🧱",
+        "🚁",
+        "⛈️"
+      ]
+    }
+  },
+  "sounds": {
+    "mus": "https://raw.githubusercontent.com/kgbgamelab/audioplayer/main/Baa%20Dash.mp3",
+    "ding": "https://assets.mixkit.co/active_storage/sfx/2000/2000-preview.mp3",
+    "buzz": "https://assets.mixkit.co/active_storage/sfx/257/257-preview.mp3",
+    "coin": "https://assets.mixkit.co/active_storage/sfx/2019/2019-preview.mp3",
+    "crash": "https://assets.mixkit.co/active_storage/sfx/2042/2042-preview.mp3",
+    "win": "https://assets.mixkit.co/active_storage/sfx/2018/2018-preview.mp3"
+  },
+  "tasks": [
+    {
+      "question": "You ___ to school every day?",
+      "correct": [
+        "do you go"
+      ],
+      "wrong": [
+        "are you going"
+      ]
+    },
+    {
+      "question": "She ___ English well?",
+      "correct": [
+        "does she speak"
+      ],
+      "wrong": [
+        "did you go"
+      ]
+    },
+    {
+      "question": "Where ___ you ___ now?",
+      "correct": [
+        "are you going"
+      ],
+      "wrong": [
+        "is she speaking"
+      ]
+    },
+    {
+      "question": "___ she ___ TV at the moment?",
+      "correct": [
+        "is she watching"
+      ],
+      "wrong": [
+        "has she spoken"
+      ]
+    },
+    {
+      "question": "___ you ever ___ sushi?",
+      "correct": [
+        "have you tried"
+      ],
+      "wrong": [
+        "do you go"
+      ]
+    },
+    {
+      "question": "___ he ___ his homework yet?",
+      "correct": [
+        "has he finished"
+      ],
+      "wrong": [
+        "are you go"
+      ]
+    },
+    {
+      "question": "Why ___ they ___ so fast now?",
+      "correct": [
+        "are they running"
+      ],
+      "wrong": [
+        "is she watch"
+      ]
+    },
+    {
+      "question": "___ your friend ___ in London?",
+      "correct": [
+        "does your friend live"
+      ],
+      "wrong": [
+        "does she watching"
+      ]
+    },
+    {
+      "question": "___ you ___ your keys?",
+      "correct": [
+        "have you lost"
+      ],
+      "wrong": [
+        "did you try"
+      ]
+    },
+    {
+      "question": "What ___ he ___ right now?",
+      "correct": [
+        "is he doing"
+      ],
+      "wrong": [
+        "have you try"
+      ]
+    },
+    {
+      "question": "How often ___ she ___ books?",
+      "correct": [
+        "does she read"
+      ],
+      "wrong": [
+        "is he finished"
+      ]
+    },
+    {
+      "question": "___ they ___ dinner at the moment?",
+      "correct": [
+        "are they having"
+      ],
+      "wrong": [
+        "has he finish"
+      ]
+    },
+    {
+      "question": "___ you ever ___ to Paris?",
+      "correct": [
+        "have you been"
+      ],
+      "wrong": [
+        "do they running"
+      ]
+    },
+    {
+      "question": "___ he ___ his project yet?",
+      "correct": [
+        "has he finished"
+      ],
+      "wrong": [
+        "are your friend live"
+      ]
+    },
+    {
+      "question": "Where ___ your parents ___ now?",
+      "correct": [
+        "are your parents working"
+      ],
+      "wrong": [
+        "have you lose"
+      ]
+    },
+    {
+      "question": "___ she usually ___ coffee?",
+      "correct": [
+        "does she drink"
+      ],
+      "wrong": [
+        "is he do"
+      ]
+    },
+    {
+      "question": "___ you ___ your teacher today?",
+      "correct": [
+        "have you seen"
+      ],
+      "wrong": [
+        "do she read"
+      ]
+    },
+    {
+      "question": "What ___ they ___ now?",
+      "correct": [
+        "are they doing"
+      ],
+      "wrong": [
+        "are they have"
+      ]
+    },
+    {
+      "question": "___ he ever ___ a snake?",
+      "correct": [
+        "has he seen"
+      ],
+      "wrong": [
+        "did you been"
+      ]
+    },
+    {
+      "question": "___ she ___ her room yet?",
+      "correct": [
+        "has she cleaned"
+      ],
+      "wrong": [
+        "has he saw"
+      ]
+    },
+    {
+      "question": "...",
+      "correct": [
+        "OK"
+      ],
+      "wrong": [
+        "is she cleaned"
+      ]
+    },
+    {
+      "question": "...",
+      "correct": [
+        "OK"
+      ],
+      "wrong": [
+        "does she cleaned"
+      ]
+    }
+  ]
+}
