@@ -1,0 +1,146 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 36,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "questionFont": "PT Sans",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 40,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/68e8baf3a1432a001f894ae7/106e0779-01f7-464f-bb2e-97083ac2a81f.png\nhttps://img.genially.com/68e8baf3a1432a001f894ae7/106e0779-01f7-464f-bb2e-97083ac2a81f.png",
+    "bgImages": [
+      "https://img.genially.com/68e8baf3a1432a001f894ae7/106e0779-01f7-464f-bb2e-97083ac2a81f.png",
+      "https://img.genially.com/68e8baf3a1432a001f894ae7/106e0779-01f7-464f-bb2e-97083ac2a81f.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 260
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Выбери верные ингредиенты!",
+    "btnText": ""
+  },
+  "direction": "down",
+  "finalFeedback": "Экзамен сдан!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "щ.ка",
+      "correct": [
+        "е"
+      ],
+      "wrong": [
+        "и"
+      ]
+    },
+    {
+      "target": "стр.на",
+      "correct": [
+        "а"
+      ],
+      "wrong": [
+        "о"
+      ]
+    },
+    {
+      "target": ".са",
+      "correct": [
+        "о"
+      ],
+      "wrong": [
+        "а"
+      ]
+    },
+    {
+      "target": "пл.чо",
+      "correct": [
+        "е"
+      ],
+      "wrong": [
+        "и"
+      ]
+    },
+    {
+      "target": ".вцы",
+      "correct": [
+        "о"
+      ],
+      "wrong": [
+        "а"
+      ]
+    },
+    {
+      "target": "стр.ла",
+      "correct": [
+        "е"
+      ],
+      "wrong": [
+        "и"
+      ]
+    },
+    {
+      "target": "з.рно",
+      "correct": [
+        "е"
+      ],
+      "wrong": [
+        "и"
+      ]
+    },
+    {
+      "target": "н.ра",
+      "correct": [
+        "о"
+      ],
+      "wrong": [
+        "а"
+      ]
+    },
+    {
+      "target": "н.га",
+      "correct": [
+        "о"
+      ],
+      "wrong": [
+        "а"
+      ]
+    },
+    {
+      "target": "с.стра",
+      "correct": [
+        "е"
+      ],
+      "wrong": [
+        "и"
+      ]
+    },
+    {
+      "target": "з.нты",
+      "correct": [
+        "о"
+      ],
+      "wrong": [
+        "а"
+      ]
+    },
+    {
+      "target": "дв.ры",
+      "correct": [
+        "о"
+      ],
+      "wrong": [
+        "а"
+      ]
+    }
+  ]
+}
