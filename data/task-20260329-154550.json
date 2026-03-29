@@ -1,0 +1,141 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 64,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/64233afb55129a0017751c8e/681875a0-3c45-46b5-8db9-482eb4948341.gif",
+    "bubbleSize": 64,
+    "task": {
+      "bgColor": "rgba(245,117,162,1)",
+      "borderColor": "#f4c8dd",
+      "textColor": "#ffffff",
+      "fontSize": 36,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#ff1a94",
+      "textColor": "#ffffff",
+      "fontSize": 36,
+      "neon": true,
+      "imageSize": 330
+    }
+  },
+  "finalFeedback": "Экзамен сдан!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Гр.чи",
+      "correct": [
+        "грач"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Вр.чи",
+      "correct": [
+        "врач"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Ш.гает",
+      "correct": [
+        "шаг"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Ж.леет",
+      "correct": [
+        "жаль"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "В.черний",
+      "correct": [
+        "вечер"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Сл.варь",
+      "correct": [
+        "слово"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Св.стит",
+      "correct": [
+        "свист"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "М.чи",
+      "correct": [
+        "мяч"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "С.вёнок",
+      "correct": [
+        "совы"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Св.нья",
+      "correct": [
+        "свин"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Сл.нёнок",
+      "correct": [
+        "слон"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "К.товый",
+      "correct": [
+        "кит"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "П.ровой",
+      "correct": [
+        "пар"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Гн.здо",
+      "correct": [
+        "гнёзда"
+      ],
+      "wrong": []
+    }
+  ]
+}
