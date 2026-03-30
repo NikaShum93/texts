@@ -1,0 +1,148 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Baloo 2",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 120,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/mZcYmqWD/j.png",
+    "bubbleSize": 120,
+    "task": {
+      "bgColor": "rgba(236,180,60,1)",
+      "borderColor": "#eade90",
+      "textColor": "#0a0a0a",
+      "fontSize": 36,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#eee617",
+      "textColor": "#f4f1f1",
+      "fontSize": 36,
+      "neon": true,
+      "imageSize": 370
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://media.tenor.com/OwccA6ifrloAAAAi/toan-the-beest.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Math is ___ (easy) than History.",
+      "correct": [
+        "easier"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "This book is ___ (interesting) than that one.",
+      "correct": [
+        "more interesting"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Today is the ___ (cold) day of the week.",
+      "correct": [
+        "coldest"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "My school is ___ (big) than your school.",
+      "correct": [
+        "bigger"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "This task is the ___ (difficult) in the test.",
+      "correct": [
+        "most difficult"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "English is ___ (important) than Art.",
+      "correct": [
+        "more important"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "She is the ___ (good) student in the class.",
+      "correct": [
+        "best"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "My bag is ___ (heavy) than yours.",
+      "correct": [
+        "heavier"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "This is the ___ (beautiful) park in the city.",
+      "correct": [
+        "most beautiful"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "A bike is ___ (fast) than walking.",
+      "correct": [
+        "faster"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Today is ___ (hot) than yesterday.",
+      "correct": [
+        "hotter"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "This exercise is the ___ (easy) one.",
+      "correct": [
+        "easiest"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "My friend is ___ (tall) than me.",
+      "correct": [
+        "taller"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "This is the ___ (interesting) lesson today.",
+      "correct": [
+        "most interesting"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Winter is ___ (cold) than autumn.",
+      "correct": [
+        "colder"
+      ],
+      "wrong": []
+    }
+  ]
+}
