@@ -1,0 +1,98 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 88,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/EYo8uUHePR0AAAAi/borboletas-butterflies.gif",
+    "bubbleSize": 88,
+    "task": {
+      "bgColor": "rgba(255,255,255,1)",
+      "borderColor": "#e67e22",
+      "textColor": "#e67e22",
+      "fontSize": 41,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#ffffff",
+      "borderColor": "#e67e22",
+      "textColor": "#e67e22",
+      "fontSize": 41,
+      "neon": true,
+      "imageSize": 480
+    }
+  },
+  "finalFeedback": "Ура!",
+  "feedbackImage": "https://img.genially.com/684ea2da1b51060014c50e97/a8f632eb-a90a-4275-875f-8ac839ffc482.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "image",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "еж.., ч..с, щ..чка",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "встреч.., уж.., свищ..",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "рощ.., уж.., чищ..",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ч..йка, мыш.., ч..до",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "задач.., в  рощ..",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ч..й, рыщ..т",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "крич..т, ёж..к",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "рыч..т, блещ..т",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "молч..т, луж..",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "щ..вель, нож..",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ч..щ.., пиш.., молч..",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
