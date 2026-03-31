@@ -1,0 +1,54 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 1,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [],
+    "bgImage": "",
+    "borderOn": true,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": true,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 0,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Крабсбургеры",
+    "btnText": ""
+  },
+  "direction": "down",
+  "finalFeedback": "Супер! 🍔",
+  "levels": [
+    {
+      "target": "🍔, на которых написаны числа, которые можно получить при умножении числа 4",
+      "correct": [
+        "https://i.postimg.cc/sx2LJyKM/1.png",
+        "https://i.postimg.cc/6q1mjS1R/10.png",
+        "https://i.postimg.cc/J0d26gdN/11.png",
+        "https://i.postimg.cc/ZnDM7gDx/12.png",
+        "https://i.postimg.cc/GtS57NSq/14.png",
+        "https://i.postimg.cc/1XzdKPMD/3.png",
+        "https://i.postimg.cc/D0YMjDYW/6.png"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/kGhp1Zhy/13.png",
+        "https://i.postimg.cc/C5K24YJG/2.png",
+        "https://i.postimg.cc/gj07Kd4v/4.png",
+        "https://i.postimg.cc/ZnqQLZjP/5.png",
+        "https://i.postimg.cc/FznBWqnd/7.png",
+        "https://i.postimg.cc/PJFR3cFv/8.png",
+        "https://i.postimg.cc/ZnDM7gDy/9.png"
+      ],
+      "timer": 120
+    }
+  ]
+}
