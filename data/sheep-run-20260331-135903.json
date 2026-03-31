@@ -1,0 +1,165 @@
+{
+  "lang": "ru",
+  "mode": "choice",
+  "math": false,
+  "transparentBg": false,
+  "randomQuestions": true,
+  "ui": {
+    "title": "SHEEP RUN",
+    "start": "PLAY",
+    "again": "AGAIN",
+    "gameover": "GAME OVER",
+    "scoreLabel": "Score: ",
+    "fontSize": 8
+  },
+  "gameplay": {
+    "winQuestions": 12,
+    "diffBaseSpawnMs": 6000,
+    "diffBaseMoveSpeed": 4.6,
+    "diffMedMult": 0.88,
+    "diffHardMult": 0.76
+  },
+  "assets": {
+    "hero": "🦊",
+    "mirrorHero": false,
+    "heroBobbing": true,
+    "obstacles": {
+      "ground": [
+        "🌲",
+        "🪨",
+        "🪵",
+        "🌵"
+      ],
+      "good": [
+        "🌾",
+        "🌽",
+        "🍀",
+        "🍎"
+      ],
+      "bad": [
+        "🦅",
+        "🧱",
+        "🚁",
+        "⛈️"
+      ]
+    }
+  },
+  "sounds": {
+    "mus": "https://raw.githubusercontent.com/kgbgamelab/audioplayer/main/Baa%20Dash.mp3",
+    "ding": "https://assets.mixkit.co/active_storage/sfx/2000/2000-preview.mp3",
+    "buzz": "https://assets.mixkit.co/active_storage/sfx/257/257-preview.mp3",
+    "coin": "https://assets.mixkit.co/active_storage/sfx/2019/2019-preview.mp3",
+    "crash": "https://assets.mixkit.co/active_storage/sfx/2042/2042-preview.mp3",
+    "win": "https://assets.mixkit.co/active_storage/sfx/2018/2018-preview.mp3"
+  },
+  "tasks": [
+    {
+      "question": "I __________ a new phone yesterday.",
+      "correct": [
+        "bought"
+      ],
+      "wrong": [
+        "buy"
+      ]
+    },
+    {
+      "question": "She __________ to the party last night.",
+      "correct": [
+        "came"
+      ],
+      "wrong": [
+        "didn't came"
+      ]
+    },
+    {
+      "question": "He __________ his finger while cooking.",
+      "correct": [
+        "cut"
+      ],
+      "wrong": [
+        "cutted"
+      ]
+    },
+    {
+      "question": "They __________ their homework before dinner.",
+      "correct": [
+        "did"
+      ],
+      "wrong": [
+        "didn't did"
+      ]
+    },
+    {
+      "question": "My sister __________ me a gift for my birthday.",
+      "correct": [
+        "didn't buy"
+      ],
+      "wrong": [
+        "didn't buyed"
+      ]
+    },
+    {
+      "question": "The package __________ on time yesterday.",
+      "correct": [
+        "didn't come"
+      ],
+      "wrong": [
+        "didn't came"
+      ]
+    },
+    {
+      "question": "I __________ the paper with scissors.",
+      "correct": [
+        "didn't cut"
+      ],
+      "wrong": [
+        "didn't cutted"
+      ]
+    },
+    {
+      "question": "We __________ all the work by noon.",
+      "correct": [
+        "didn't do"
+      ],
+      "wrong": [
+        "didn't did"
+      ]
+    },
+    {
+      "question": "__________ you __________ the shopping yesterday?",
+      "correct": [
+        "Did / do"
+      ],
+      "wrong": [
+        "Did / did"
+      ]
+    },
+    {
+      "question": "__________ she __________ her hair last week?",
+      "correct": [
+        "Did / cut"
+      ],
+      "wrong": [
+        "Did / cutted"
+      ]
+    },
+    {
+      "question": "__________ they __________ to the museum on Saturday?",
+      "correct": [
+        "Did / come"
+      ],
+      "wrong": [
+        "Did / came"
+      ]
+    },
+    {
+      "question": "__________ he __________ the work correctly?",
+      "correct": [
+        "Did / do"
+      ],
+      "wrong": [
+        "Did / did"
+      ]
+    }
+  ]
+}
