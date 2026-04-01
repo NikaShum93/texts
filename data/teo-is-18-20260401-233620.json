@@ -1,0 +1,141 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 108,
+  "sounds": {
+    "pop": "-",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://az.genially.com/genially/layouts/preview/607c7a7b-36ac-4bf6-b026-ba093a0270b9.png",
+    "bubbleSize": 108,
+    "task": {
+      "bgColor": "rgba(79,172,254,0.8)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#00b3ff",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 310
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://media.tenor.com/9fBPR6lTnrMAAAAi/pengu-pudgy.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Teo is 18.",
+      "correct": [
+        "False -"
+      ],
+      "wrong": [
+        "True +"
+      ]
+    },
+    {
+      "question": "Teo has a big family.",
+      "correct": [
+        "True +"
+      ],
+      "wrong": [
+        "False -"
+      ]
+    },
+    {
+      "question": "His favourite season is ...",
+      "correct": [
+        "Summer"
+      ],
+      "wrong": [
+        "Autumn",
+        "Winter",
+        "Spring"
+      ]
+    },
+    {
+      "question": "He can play football very well.",
+      "correct": [
+        "False -"
+      ],
+      "wrong": [
+        "True +"
+      ]
+    },
+    {
+      "question": "He has got ...",
+      "correct": [
+        "Two cats"
+      ],
+      "wrong": [
+        "a cat and a dog",
+        "two dogs",
+        "a cat"
+      ]
+    },
+    {
+      "question": "He likes ...",
+      "correct": [
+        "meat and chips"
+      ],
+      "wrong": [
+        "meet and cheese",
+        "chicken and chips"
+      ]
+    },
+    {
+      "question": "He can't ...",
+      "correct": [
+        "skate"
+      ],
+      "wrong": [
+        "play ping pong",
+        "play computer games"
+      ]
+    },
+    {
+      "question": "Teo is from Greece.",
+      "correct": [
+        "True +"
+      ],
+      "wrong": [
+        "False –"
+      ]
+    },
+    {
+      "question": "Teo doesn’t like …",
+      "correct": [
+        "milk"
+      ],
+      "wrong": [
+        "pasta",
+        "cakes",
+        "apples"
+      ]
+    },
+    {
+      "question": "His favourite colour is black.",
+      "correct": [
+        "False –"
+      ],
+      "wrong": [
+        "True +"
+      ]
+    }
+  ]
+}
