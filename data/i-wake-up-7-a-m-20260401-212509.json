@@ -1,0 +1,148 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Bangers",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 96,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/Kv1tvP3f/n.png",
+    "bubbleSize": 96,
+    "task": {
+      "bgColor": "rgba(244,124,26,1)",
+      "borderColor": "#ffead6",
+      "textColor": "#ffffff",
+      "fontSize": 36,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 36,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "I wake up ___ 7 a.m.",
+      "correct": [
+        "at"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "My birthday is ___ July.",
+      "correct": [
+        "in"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We have a meeting ___ Monday.",
+      "correct": [
+        "on"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "They arrived ___ night.",
+      "correct": [
+        "at"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "She was born ___ 2005.",
+      "correct": [
+        "in"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The shop opens ___ 9 o’clock.",
+      "correct": [
+        "at"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We usually travel ___ summer.",
+      "correct": [
+        "in"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "He studies English ___ the evening.",
+      "correct": [
+        "in"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The party is ___ Friday night.",
+      "correct": [
+        "on"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I will call you ___ the morning.",
+      "correct": [
+        "in"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "She left school ___ 18.",
+      "correct": [
+        "at"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We met ___ the weekend.",
+      "correct": [
+        "at"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The train leaves ___ noon.",
+      "correct": [
+        "at"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "He works a lot ___ weekdays.",
+      "correct": [
+        "on"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "They got married ___ April 10th.",
+      "correct": [
+        "on"
+      ],
+      "wrong": []
+    }
+  ]
+}
