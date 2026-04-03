@@ -1,0 +1,93 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Roboto",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/lFqq1S5jr6IAAAAi/geometry-dash-secret-coin.gif",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(227,195,73,1)",
+      "borderColor": "#c1a43e",
+      "textColor": "#0d0d0d",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e3c349",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "There is a book on the table.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "There are two pencils in the pencil case.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "There is some water in the bottle.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "There are three bananas in the box.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "There is a chair under the table.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "There are five desks in the classroom.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "There is a bag next to the sofa.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "There are four books on the shelf.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "There is a computer on the desk.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "There are two teacher in the classroom.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
