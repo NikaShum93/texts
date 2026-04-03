@@ -1,0 +1,263 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Marck Script",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 98,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/qR8cXrXG/h.png",
+    "bubbleSize": 98,
+    "task": {
+      "bgColor": "rgba(255,249,77,1)",
+      "borderColor": "#ffa200",
+      "textColor": "#121111",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#eaf736",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 350
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://media.tenor.com/5hcT5y0Vl0wAAAAi/pirate-hooters.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "I usually wake up ___ 6:30 a.m.",
+      "correct": [
+        "at"
+      ],
+      "wrong": [
+        "in",
+        "on",
+        "—"
+      ]
+    },
+    {
+      "question": "She ___ (not / like) milk.",
+      "correct": [
+        "does not like"
+      ],
+      "wrong": [
+        "do not likes",
+        "not like",
+        "does not likes"
+      ]
+    },
+    {
+      "question": "This film is ___ than the book (good).",
+      "correct": [
+        "better"
+      ],
+      "wrong": [
+        "gooder",
+        "more good",
+        "best"
+      ]
+    },
+    {
+      "question": "We ___ (go) to the park yesterday.",
+      "correct": [
+        "went"
+      ],
+      "wrong": [
+        "goed",
+        "go",
+        "gone"
+      ]
+    },
+    {
+      "question": "They arrived ___ night.",
+      "correct": [
+        "at"
+      ],
+      "wrong": [
+        "in",
+        "on",
+        "—"
+      ]
+    },
+    {
+      "question": "He ___ (see) that movie last week.",
+      "correct": [
+        "saw"
+      ],
+      "wrong": [
+        "see",
+        "seen",
+        "seed"
+      ]
+    },
+    {
+      "question": "Look! She ___ (run) very fast.",
+      "correct": [
+        "is running"
+      ],
+      "wrong": [
+        "runs",
+        "run",
+        "running"
+      ]
+    },
+    {
+      "question": "My parents got married ___ 2001.",
+      "correct": [
+        "in"
+      ],
+      "wrong": [
+        "on",
+        "at",
+        "—"
+      ]
+    },
+    {
+      "question": "This exercise is ___ than the last one (difficult).",
+      "correct": [
+        "more difficult"
+      ],
+      "wrong": [
+        "difficulter",
+        "more difficulter",
+        "most difficult"
+      ]
+    },
+    {
+      "question": "I often go to bed late ___ weekdays.",
+      "correct": [
+        "on"
+      ],
+      "wrong": [
+        "at",
+        "in",
+        "—"
+      ]
+    },
+    {
+      "question": "We ___ (be) at home yesterday.",
+      "correct": [
+        "were"
+      ],
+      "wrong": [
+        "was",
+        "is",
+        "are"
+      ]
+    },
+    {
+      "question": "He ___ (never / eat) sushi.",
+      "correct": [
+        "never eats"
+      ],
+      "wrong": [
+        "does never eat",
+        "never eat",
+        "not eat"
+      ]
+    },
+    {
+      "question": "Summer is ___ than spring (hot).",
+      "correct": [
+        "hotter"
+      ],
+      "wrong": [
+        "more hot",
+        "hot",
+        "most hot"
+      ]
+    },
+    {
+      "question": "I ___ (take) my keys and left the house.",
+      "correct": [
+        "took"
+      ],
+      "wrong": [
+        "taked",
+        "taken",
+        "take"
+      ]
+    },
+    {
+      "question": "The lesson starts ___ 9 o’clock.",
+      "correct": [
+        "at"
+      ],
+      "wrong": [
+        "in",
+        "on",
+        "—"
+      ]
+    },
+    {
+      "question": "She ___ (do) her homework every day.",
+      "correct": [
+        "does"
+      ],
+      "wrong": [
+        "do",
+        "did",
+        "is do"
+      ]
+    },
+    {
+      "question": "They ___ (have) dinner when I called.",
+      "correct": [
+        "were having"
+      ],
+      "wrong": [
+        "had",
+        "have",
+        "are having"
+      ]
+    },
+    {
+      "question": "This bag is ___ than mine (expensive).",
+      "correct": [
+        "more expensive"
+      ],
+      "wrong": [
+        "expensiver",
+        "more expensiver",
+        "most expensive"
+      ]
+    },
+    {
+      "question": "We usually meet ___ the weekend.",
+      "correct": [
+        "at"
+      ],
+      "wrong": [
+        "on",
+        "in",
+        "—"
+      ]
+    },
+    {
+      "question": "He ___ (already / finish) his work.",
+      "correct": [
+        "has already finished"
+      ],
+      "wrong": [
+        "already finished",
+        "has finished",
+        "have already finished"
+      ]
+    }
+  ]
+}
