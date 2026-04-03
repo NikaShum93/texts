@@ -1,0 +1,159 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 30,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "questionFont": "PT Sans",
+  "questionFontSize": 35,
+  "style": {
+    "shape": "rounded",
+    "pad": 26,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/62728927e0105b0018763bee/1b45a183-082a-436d-9048-5a82d42c518a.png\nhttps://img.genially.com/62728927e0105b0018763bee/aca311d6-5ebb-4be9-ac94-3040530d7e85.png",
+    "bgImages": [
+      "https://img.genially.com/62728927e0105b0018763bee/1b45a183-082a-436d-9048-5a82d42c518a.png",
+      "https://img.genially.com/62728927e0105b0018763bee/aca311d6-5ebb-4be9-ac94-3040530d7e85.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Метеоритный дождь",
+    "btnText": "Лови!"
+  },
+  "direction": "random",
+  "finalFeedback": "Молодец!Ты отлично справился!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "32+68",
+      "correct": [
+        "100"
+      ],
+      "wrong": [
+        "90",
+        "60",
+        "80"
+      ]
+    },
+    {
+      "target": "45+55",
+      "correct": [
+        "100"
+      ],
+      "wrong": [
+        "80",
+        "90",
+        "60"
+      ]
+    },
+    {
+      "target": "23+37",
+      "correct": [
+        "60"
+      ],
+      "wrong": [
+        "100",
+        "40",
+        "100"
+      ]
+    },
+    {
+      "target": "48+12",
+      "correct": [
+        "60"
+      ],
+      "wrong": [
+        "50",
+        "100",
+        "90"
+      ]
+    },
+    {
+      "target": "56+24",
+      "correct": [
+        "80"
+      ],
+      "wrong": [
+        "50",
+        "40",
+        "100"
+      ]
+    },
+    {
+      "target": "67+23",
+      "correct": [
+        "90"
+      ],
+      "wrong": [
+        "60",
+        "100",
+        "60"
+      ]
+    },
+    {
+      "target": "79+11",
+      "correct": [
+        "90"
+      ],
+      "wrong": [
+        "100",
+        "80",
+        "100"
+      ]
+    },
+    {
+      "target": "82+18",
+      "correct": [
+        "100"
+      ],
+      "wrong": [
+        "60",
+        "40",
+        "90"
+      ]
+    },
+    {
+      "target": "16+64",
+      "correct": [
+        "80"
+      ],
+      "wrong": [
+        "50",
+        "90",
+        "100"
+      ]
+    },
+    {
+      "target": "23+27",
+      "correct": [
+        "50"
+      ],
+      "wrong": [
+        "90",
+        "60",
+        "80"
+      ]
+    },
+    {
+      "target": "16+24",
+      "correct": [
+        "40"
+      ],
+      "wrong": [
+        "90",
+        "60",
+        "80"
+      ]
+    }
+  ]
+}
