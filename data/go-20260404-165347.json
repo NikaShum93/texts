@@ -1,0 +1,148 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Bangers",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 134,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/RZcBzGfv/z.png",
+    "bubbleSize": 134,
+    "task": {
+      "bgColor": "rgba(244,154,52,1)",
+      "borderColor": "#ffd500",
+      "textColor": "#121111",
+      "fontSize": 36,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 36,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "go",
+      "correct": [
+        "went"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "see",
+      "correct": [
+        "saw"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "take",
+      "correct": [
+        "took"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "come",
+      "correct": [
+        "came"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "make",
+      "correct": [
+        "made"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "give",
+      "correct": [
+        "gave"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "find",
+      "correct": [
+        "found"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "think",
+      "correct": [
+        "thought"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "tell",
+      "correct": [
+        "told"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "become",
+      "correct": [
+        "became"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "begin",
+      "correct": [
+        "began"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "break",
+      "correct": [
+        "broke"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "bring",
+      "correct": [
+        "brought"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "buy",
+      "correct": [
+        "bought"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "choose",
+      "correct": [
+        "chose"
+      ],
+      "wrong": []
+    }
+  ]
+}
