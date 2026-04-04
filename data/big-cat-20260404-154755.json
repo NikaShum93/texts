@@ -1,0 +1,143 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Indie Flower",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/BQY-xUZQy_sAAAAi/easter-egg-hatch-molang.gif",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(149,208,227,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#0f0f0f",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#c9e8f2",
+      "borderColor": "#cce7f0",
+      "textColor": "#8b96ad",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 3,
+  "tasks": [
+    {
+      "question": "big cat",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "small dog",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "red ball",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "hot sun",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "open book",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "green tree",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "little fish",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "blue hat",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "fast car",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "blue bird",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "red apple",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "hot cup",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "soft bed",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "fresh egg",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "new toy",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "red apple",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "sit down",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "run fast",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "jump high",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "brown dog",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
