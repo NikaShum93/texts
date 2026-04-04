@@ -1,0 +1,143 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Roboto",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/lE1PES77r2QAAAAi/alnusglutinosa-buona-pasqua.gif",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(149,208,227,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#0f0f0f",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#c9e8f2",
+      "borderColor": "#cce7f0",
+      "textColor": "#8b96ad",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 3,
+  "tasks": [
+    {
+      "question": "Yesterday, I ___ to the cinema with my friends.",
+      "correct": [
+        "went"
+      ],
+      "wrong": [
+        "go",
+        "will go"
+      ]
+    },
+    {
+      "question": "She ___ her homework every day.",
+      "correct": [
+        "does"
+      ],
+      "wrong": [
+        "did",
+        "will do"
+      ]
+    },
+    {
+      "question": "Next week, they ___ a new school.",
+      "correct": [
+        "will start"
+      ],
+      "wrong": [
+        "started",
+        "start"
+      ]
+    },
+    {
+      "question": "He ___ breakfast this morning before school.",
+      "correct": [
+        "ate"
+      ],
+      "wrong": [
+        "eats",
+        "will eat"
+      ]
+    },
+    {
+      "question": "I ___ to visit my grandparents tomorrow.",
+      "correct": [
+        "want"
+      ],
+      "wrong": [
+        "will want",
+        "wants"
+      ]
+    },
+    {
+      "question": "Last summer, we ___ to the beach for two weeks.",
+      "correct": [
+        "went"
+      ],
+      "wrong": [
+        "go",
+        "will go"
+      ]
+    },
+    {
+      "question": "My brother ___ football every Saturday.",
+      "correct": [
+        "plays"
+      ],
+      "wrong": [
+        "played",
+        "will play"
+      ]
+    },
+    {
+      "question": "She ___ her phone when the teacher called her name.",
+      "correct": [
+        "used"
+      ],
+      "wrong": [
+        "uses",
+        "will use"
+      ]
+    },
+    {
+      "question": "You ___ the test next Friday, right?",
+      "correct": [
+        "will take"
+      ],
+      "wrong": [
+        "takes",
+        "took"
+      ]
+    },
+    {
+      "question": "They ___ dinner at 7 PM last night.",
+      "correct": [
+        "had"
+      ],
+      "wrong": [
+        "have",
+        "will have"
+      ]
+    }
+  ]
+}
