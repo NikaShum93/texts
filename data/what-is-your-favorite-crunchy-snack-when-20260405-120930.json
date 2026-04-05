@@ -1,0 +1,83 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Indie Flower",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 68,
+  "sounds": {
+    "pop": "https://github.com/NikaShum93/sound/raw/refs/heads/main/chicken-laying-egg-vocalisations-x-3%20(mp3cut.net).mp3",
+    "open": "https://github.com/NikaShum93/sound/raw/refs/heads/main/chicken-laying-egg-vocalisations-x-3%20(mp3cut.net).mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/64233afb55129a0017751c8e/bc8e4b86-867a-4dff-87eb-11726db640a0.png",
+    "bubbleSize": 68,
+    "task": {
+      "bgColor": "rgba(0,0,0,1)",
+      "borderColor": "#ffffff",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#ffffff",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 290
+    }
+  },
+  "finalFeedback": "You found a black egg!",
+  "feedbackImage": "https://img.genially.com/64233afb55129a0017751c8e/10d9bc72-2b36-43b9-8aa5-55a8114d53b6.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "What is your favorite crunchy snack when you watch movies? Do you like it salty or spicy?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "You buy a burger. Is the meat inside dry or juicy? Do you add extra cheese?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do you like sweet drinks? Do you hate it when you spill them and your hands get sticky?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Imagine a TikTok challenge. Would you rather eat a very sour lemon or hold a cold, slimy frog in your hand?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Some people like black coffee. Do you think it is too bitter? What do you usually add to it?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Can you cook? Do you know how to boil water for pasta, or can you only mix a simple salad?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Imagine you must help in the kitchen. Would you rather peel ten potatoes or chop five onions (and cry)?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "You want to make a surprise and bake a cake. Is it a good idea, or will the kitchen be on fire?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
