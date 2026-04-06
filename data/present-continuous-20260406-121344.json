@@ -1,0 +1,147 @@
+{
+  "lang": "en",
+  "mode": "choice",
+  "math": false,
+  "transparentBg": true,
+  "randomQuestions": true,
+  "ui": {
+    "title": "Present Continuous",
+    "start": "PLAY",
+    "again": "AGAIN",
+    "gameover": "GAME OVER",
+    "scoreLabel": "Score: ",
+    "fontSize": 8
+  },
+  "gameplay": {
+    "winQuestions": 10,
+    "diffBaseSpawnMs": 8500,
+    "diffBaseMoveSpeed": 6,
+    "diffMedMult": 0.88,
+    "diffHardMult": 0.76
+  },
+  "assets": {
+    "hero": "🐑",
+    "mirrorHero": true,
+    "heroBobbing": true,
+    "obstacles": {
+      "ground": [
+        "🌲",
+        "🪨",
+        "🪵",
+        "🌵"
+      ],
+      "good": [
+        "🌾",
+        "🌽",
+        "🍀",
+        "🍎"
+      ],
+      "bad": [
+        "🦅",
+        "🧱",
+        "🚁",
+        "⛈️"
+      ]
+    }
+  },
+  "sounds": {
+    "mus": "https://raw.githubusercontent.com/kgbgamelab/audioplayer/main/Baa%20Dash.mp3",
+    "ding": "https://assets.mixkit.co/active_storage/sfx/2000/2000-preview.mp3",
+    "buzz": "https://assets.mixkit.co/active_storage/sfx/257/257-preview.mp3",
+    "coin": "https://assets.mixkit.co/active_storage/sfx/2019/2019-preview.mp3",
+    "crash": "https://assets.mixkit.co/active_storage/sfx/2042/2042-preview.mp3",
+    "win": "https://assets.mixkit.co/active_storage/sfx/2018/2018-preview.mp3"
+  },
+  "tasks": [
+    {
+      "question": "I _ reading a book.",
+      "correct": [
+        "am"
+      ],
+      "wrong": [
+        "are"
+      ]
+    },
+    {
+      "question": "She _ listening to music.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are"
+      ]
+    },
+    {
+      "question": "We _ playing football.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "is"
+      ]
+    },
+    {
+      "question": "He _ watching TV.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are"
+      ]
+    },
+    {
+      "question": "I _ jumping.",
+      "correct": [
+        "am"
+      ],
+      "wrong": [
+        "are"
+      ]
+    },
+    {
+      "question": "They _ playing in the park.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "is"
+      ]
+    },
+    {
+      "question": "You _ drawing a picture.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "is"
+      ]
+    },
+    {
+      "question": "I _ flying a kite.",
+      "correct": [
+        "am"
+      ],
+      "wrong": [
+        "is"
+      ]
+    },
+    {
+      "question": "It _ raining.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are"
+      ]
+    },
+    {
+      "question": "It _ snowing.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are"
+      ]
+    }
+  ]
+}
