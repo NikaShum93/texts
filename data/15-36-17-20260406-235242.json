@@ -1,0 +1,133 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#bf1818",
+  "speed": 3,
+  "questionFont": "PT Sans",
+  "questionFontSize": 30,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/65a66a0db3c06500207bb5f3/5ae92860-e985-4a35-a01e-c69e06fbba3f.png",
+    "bgImages": [
+      "https://img.genially.com/65a66a0db3c06500207bb5f3/5ae92860-e985-4a35-a01e-c69e06fbba3f.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Игра \"Звездный бой\"",
+    "btnText": "Начать"
+  },
+  "direction": "random",
+  "finalFeedback": "Отличная работа",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "Сумму чисел 15 и 36 разделить на 17.",
+      "correct": [
+        "3"
+      ],
+      "wrong": [
+        "51",
+        "33",
+        "2",
+        "13"
+      ]
+    },
+    {
+      "target": "Сумму чисел 63 и 15 разделить на 6.",
+      "correct": [
+        "13"
+      ],
+      "wrong": [
+        "15",
+        "9",
+        "4",
+        "78"
+      ]
+    },
+    {
+      "target": "Произведение 20 и 3 увеличить на 40.",
+      "correct": [
+        "100"
+      ],
+      "wrong": [
+        "2400",
+        "24",
+        "10",
+        "47"
+      ]
+    },
+    {
+      "target": "Число 52 уменьшить на частное чисел 42 и 7.",
+      "correct": [
+        "46"
+      ],
+      "wrong": [
+        "3",
+        "70",
+        "2",
+        "89"
+      ]
+    },
+    {
+      "target": "Разность чисел 87 и 29 увеличить на 20.",
+      "correct": [
+        "78"
+      ],
+      "wrong": [
+        "75",
+        "58",
+        "88",
+        "23"
+      ]
+    },
+    {
+      "target": "Произведение чисел 16 и 3 уменьшить в 4 раза.",
+      "correct": [
+        "12"
+      ],
+      "wrong": [
+        "15",
+        "48",
+        "10",
+        "44"
+      ]
+    },
+    {
+      "target": "16 увеличьте в 5 раз.",
+      "correct": [
+        "80"
+      ],
+      "wrong": [
+        "60",
+        "85",
+        "21",
+        "70"
+      ]
+    },
+    {
+      "target": "Во сколько раз 51 больше 3?",
+      "correct": [
+        "17"
+      ],
+      "wrong": [
+        "18",
+        "153",
+        "12",
+        "15"
+      ]
+    }
+  ]
+}
