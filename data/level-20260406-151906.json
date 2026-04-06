@@ -1,0 +1,68 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 40,
+  "textColor": "#9e1a1a",
+  "speed": 2,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://img.genially.com/65a66a0db3c06500207bb5f3/91181915-9f3f-42a8-9a76-e9330f08eda3.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Игра \"Звездопад\"",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Отличная работа!",
+  "levels": [
+    {
+      "target": "слоги с буквой Ю",
+      "correct": [
+        "МЮ",
+        "СЮ",
+        "ХЮ",
+        "РЮ",
+        "ЛЮ",
+        "НЮ",
+        "КЮ",
+        "ТЮ",
+        "ПЮ",
+        "ЗЮ",
+        "ГЮ",
+        "ВЮ",
+        "ДЮ",
+        "БЮ"
+      ],
+      "wrong": [
+        "СЯ",
+        "РИ",
+        "ХА",
+        "МЕ",
+        "ГИ",
+        "НЯ",
+        "ДИ",
+        "ЗЕ",
+        "ДЯ",
+        "ТИ",
+        "ГЕ",
+        "РЯ"
+      ],
+      "timer": 60
+    }
+  ]
+}
