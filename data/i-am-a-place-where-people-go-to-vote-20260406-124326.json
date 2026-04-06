@@ -1,0 +1,106 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 96,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/X7KxtD2z/bee-10.png",
+    "bubbleSize": 96,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 330
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "I am a place where people go to vote.",
+      "correct": [
+        "polling station"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I happen when people choose leaders by voting.",
+      "correct": [
+        "election"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I am the system where most people decide.",
+      "correct": [
+        "majority rule"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I am a document explaining what a political group plans to do.",
+      "correct": [
+        "manifesto"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I am when you say something without thinking carefully.",
+      "correct": [
+        "pluck out of the air"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I describe someone who strongly supports big changes.",
+      "correct": [
+        "radical"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The ... was very high, so many people voted.",
+      "correct": [
+        "turnout"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "She works at a ... ... where people vote.",
+      "correct": [
+        "polling station"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "They live in a ... area with many different social classes.",
+      "correct": [
+        "class-based"
+      ],
+      "wrong": []
+    }
+  ]
+}
