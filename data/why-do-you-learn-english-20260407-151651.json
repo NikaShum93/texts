@@ -1,0 +1,118 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Fredoka",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": true,
+  "bubbleSize": 110,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/k4yQ9T6D/ps.png",
+    "bubbleSize": 110,
+    "task": {
+      "bgColor": "rgba(247,239,2,1)",
+      "borderColor": "#80ff00",
+      "textColor": "#ffffff",
+      "fontSize": 30,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#23e726",
+      "textColor": "#ffffff",
+      "fontSize": 30,
+      "neon": true,
+      "imageSize": 330
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/ZqXbnm3T/ri.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Why do you learn English?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What do you like to do in your free time?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Where do you usually meet your friends?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "When do you usually do your homework?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Who is your best friend?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "How do you get to school or work?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Which subject do you like the most?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Whose phone do you use when yours is not with you?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "How often do you watch TV or videos?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What kind of music do you like?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Where do you usually have lunch?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "When do you go to bed on weekdays?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Why do people use the internet every day?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "How long do you spend on your phone every day?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What do you usually do on weekends?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
