@@ -1,0 +1,103 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": true,
+  "bubbleSize": 116,
+  "sounds": {
+    "pop": "-",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/-H1ZQ4RHXNoAAAAi/excited-happy.gif",
+    "bubbleSize": 116,
+    "task": {
+      "bgColor": "rgba(255,240,77,1)",
+      "borderColor": "#fdb51c",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Does your father cook dinner in the evening?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Does your cousin live in Moscow?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do you speak English at school?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do your parents read English books?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Does your friend swim well?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Does your mother listen to music in the morning?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do you meet your grandparents on Sundays?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Does your mum like coffee?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do your grandparents play computer games?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do you go to school on Saturdays?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Does your friend have a dog?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do you help your mum at home?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
