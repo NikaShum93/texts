@@ -1,0 +1,58 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Montserrat",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 138,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/eMPsaFqL8PIAAAAi/kstr-kochstrasse.gif",
+    "bubbleSize": 138,
+    "task": {
+      "bgColor": "rgba(231,214,24,1)",
+      "borderColor": "#ffffff",
+      "textColor": "#ffffff",
+      "fontSize": 18,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#dbdbe1",
+      "borderColor": "#970227",
+      "textColor": "#920202",
+      "fontSize": 18,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Ура! Мелодия зазвучала!🎉",
+  "feedbackImage": "",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Укажи лицо и число местоимений.                                   На встречу солнцу и весне                                          И он, и ты, и я                                                   Идём сегодня по стране,                                        Как дружная семья.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Вставь пропущенные буквы. Составь из слов предложения и запиши их по порядку в каждой паре. Укажи лицо, число и род местоимений.                               1) Она, но, глубокая, неш__рокая. От, р__ка, дома,    т__чёт, нед__леко.                                     2) На, устроила, ветке, гн__здо, птица. Пт__нцов, она, в__сной, вывела.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Запиши ответы на вопросы так, чтобы в предложениях подлежащее было выражено личным местоимением. Укажи число и лицо местоимений.                        Носишь ли ты в школу сменную обувь?                        Убираете ли вы класс после уроков?                    Ты читал(а) книги Николая Носова?                         Вы отмечаете дни рождения в школе?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
