@@ -1,0 +1,58 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Montserrat",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 82,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/684ea2da1b51060014c50e97/9089cbaf-d0a6-416e-96c9-86e373d5c5ac.png",
+    "bubbleSize": 82,
+    "task": {
+      "bgColor": "rgba(228,232,236,0.55)",
+      "borderColor": "#c5071a",
+      "textColor": "#790101",
+      "fontSize": 27,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#dbdbe1",
+      "borderColor": "#970227",
+      "textColor": "#920202",
+      "fontSize": 27,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Ура! Мелодия состоялась!🎉",
+  "feedbackImage": "",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Образуй и запиши от данных имён существительных имена прилагательные: День, цвет, трава, ягода, лес, море, берёза, сон, зелень, небо.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Допиши окончания имен прилагательных. Укажи род и число имён прилагательных и существительных: Сочн__ персики, горяч__ кофе, син__ василёк, маленьк__ жучки, свеж__ трава, лёгк__ тюль, нов__ акварель, широк__ шоссе, ярк__ солнце.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Ученик определял падежи имён прилагательных. Проверь его работу. Если ты видишь ошибки, исправь их.       По широкой(Д.п.) дороге, от острой(П.п.) иголки, из жирного(Р.п.) молока, чужой(В.п.) человек, пушистым(Т.п.) шарфом, от вредного(В.п.) микроба, вышитым(П.п.) узором, счастливая(И.п.) встреча.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
