@@ -1,0 +1,157 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 24,
+  "textColor": "#fffc41",
+  "speed": 5,
+  "questionFont": "Roboto",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 35,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/hjjpCXQz/1.png",
+    "bgImages": [
+      "https://i.postimg.cc/hjjpCXQz/1.png"
+    ],
+    "borderOn": true,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": true,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 80
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Magic spoon",
+    "btnText": "Start"
+  },
+  "direction": "random",
+  "finalFeedback": "The spoon is yours!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "The politician angered his party when he went out _____________ and suggested raising taxes.",
+      "correct": [
+        "on a limb"
+      ],
+      "wrong": [
+        "of character",
+        "of his depth"
+      ]
+    },
+    {
+      "target": "The children were in _____________ at the swimming pool. They had a great time.",
+      "correct": [
+        "their element"
+      ],
+      "wrong": [
+        "the offing",
+        "the limelight"
+      ]
+    },
+    {
+      "target": "When the police arrived, protestors decided to _____________ off the demonstration.",
+      "correct": [
+        "call"
+      ],
+      "wrong": [
+        "set",
+        "fend"
+      ]
+    },
+    {
+      "target": "Simone _____________ off going to the hairdresser until her hair was really long.",
+      "correct": [
+        "put"
+      ],
+      "wrong": [
+        "called",
+        "set"
+      ]
+    },
+    {
+      "target": "People think I live a _____________ life, but I’ve worked hard for everything I have.",
+      "correct": [
+        "charmed"
+      ],
+      "wrong": [
+        "shelf",
+        "prime"
+      ]
+    },
+    {
+      "target": "You need to face the _____________ and admit your mistakes.",
+      "correct": [
+        "music"
+      ],
+      "wrong": [
+        "danger",
+        "fact"
+      ]
+    },
+    {
+      "target": "Lucy stayed in bed today because she felt under _____________.",
+      "correct": [
+        "the weather"
+      ],
+      "wrong": [
+        "the radar",
+        "scrutiny"
+      ]
+    },
+    {
+      "target": "Universities are under _____________ to raise more money by themselves.",
+      "correct": [
+        "pressure"
+      ],
+      "wrong": [
+        "control",
+        "the radar"
+      ]
+    },
+    {
+      "target": "I’m exhausted. I _____________ slept last night.",
+      "correct": [
+        "hardly"
+      ],
+      "wrong": [
+        "hard",
+        "lately"
+      ]
+    },
+    {
+      "target": "The prize was _____________ won by the most dedicated team in the competition.",
+      "correct": [
+        "justly"
+      ],
+      "wrong": [
+        "highly",
+        "high"
+      ]
+    },
+    {
+      "target": "Many people _____________ on to the hope that they will one day win the lottery.",
+      "correct": [
+        "cling"
+      ],
+      "wrong": [
+        "keep",
+        "add"
+      ]
+    },
+    {
+      "target": "I don’t know what to wear to the party! Will you help me _____________ out a shirt?",
+      "correct": [
+        "pick"
+      ],
+      "wrong": [
+        "wear",
+        "opt"
+      ]
+    }
+  ]
+}
