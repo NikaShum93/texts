@@ -1,0 +1,183 @@
+{
+  "lang": "ru",
+  "mode": "choice",
+  "math": false,
+  "transparentBg": false,
+  "randomQuestions": true,
+  "ui": {
+    "title": "Verb run",
+    "start": "PLAY",
+    "again": "AGAIN",
+    "gameover": "GAME OVER",
+    "scoreLabel": "Score: ",
+    "fontSize": 8
+  },
+  "gameplay": {
+    "winQuestions": 14,
+    "diffBaseSpawnMs": 6000,
+    "diffBaseMoveSpeed": 4.5,
+    "diffMedMult": 0.88,
+    "diffHardMult": 0.76
+  },
+  "assets": {
+    "hero": "🐉",
+    "mirrorHero": true,
+    "heroBobbing": true,
+    "obstacles": {
+      "ground": [
+        "🌲",
+        "🪨",
+        "🪵",
+        "🌵"
+      ],
+      "good": [
+        "🌾",
+        "🌽",
+        "🍀",
+        "🍎"
+      ],
+      "bad": [
+        "🦅",
+        "🧱",
+        "🚁",
+        "⛈️"
+      ]
+    }
+  },
+  "sounds": {
+    "mus": "https://raw.githubusercontent.com/kgbgamelab/audioplayer/main/Baa%20Dash.mp3",
+    "ding": "https://assets.mixkit.co/active_storage/sfx/2000/2000-preview.mp3",
+    "buzz": "https://assets.mixkit.co/active_storage/sfx/257/257-preview.mp3",
+    "coin": "https://assets.mixkit.co/active_storage/sfx/2019/2019-preview.mp3",
+    "crash": "https://assets.mixkit.co/active_storage/sfx/2042/2042-preview.mp3",
+    "win": "https://assets.mixkit.co/active_storage/sfx/2018/2018-preview.mp3"
+  },
+  "tasks": [
+    {
+      "question": "I 🚲 __________ off my bike yesterday.",
+      "correct": [
+        "fell"
+      ],
+      "wrong": [
+        "falled"
+      ]
+    },
+    {
+      "question": "She 🙂 __________ happy after the party.",
+      "correct": [
+        "felt"
+      ],
+      "wrong": [
+        "feeled"
+      ]
+    },
+    {
+      "question": "He 🔑 __________ his keys under the bed.",
+      "correct": [
+        "found"
+      ],
+      "wrong": [
+        "finded"
+      ]
+    },
+    {
+      "question": "They ✈️ __________ to Paris last summer.",
+      "correct": [
+        "flew"
+      ],
+      "wrong": [
+        "flied"
+      ]
+    },
+    {
+      "question": "We 🤦 __________ his name.",
+      "correct": [
+        "forgot"
+      ],
+      "wrong": [
+        "forgetted"
+      ]
+    },
+    {
+      "question": "My phone 📱 __________ on the floor.",
+      "correct": [
+        "fell"
+      ],
+      "wrong": [
+        "felt"
+      ]
+    },
+    {
+      "question": "I 😷 __________ well because I was sick.",
+      "correct": [
+        "didn't feel"
+      ],
+      "wrong": [
+        "didn't fell"
+      ]
+    },
+    {
+      "question": "She 💰 __________ a coin in the street.",
+      "correct": [
+        "found"
+      ],
+      "wrong": [
+        "find"
+      ]
+    },
+    {
+      "question": "The bird 🐦 __________ away from the cage.",
+      "correct": [
+        "flew"
+      ],
+      "wrong": [
+        "flown"
+      ]
+    },
+    {
+      "question": "He 📞 __________ to call his mom.",
+      "correct": [
+        "didn't forget"
+      ],
+      "wrong": [
+        "didn't forgot"
+      ]
+    },
+    {
+      "question": "__________ you 🪜 __________ from the stairs?",
+      "correct": [
+        "Did / fall"
+      ],
+      "wrong": [
+        "Did / fell"
+      ]
+    },
+    {
+      "question": "__________ she 🌡️ __________ the temperature?",
+      "correct": [
+        "Did / feel"
+      ],
+      "wrong": [
+        "Did / feeled"
+      ]
+    },
+    {
+      "question": "__________ they 🐱 __________ the lost cat?",
+      "correct": [
+        "Did / find"
+      ],
+      "wrong": [
+        "Did / founded"
+      ]
+    },
+    {
+      "question": "__________ he  __________ to London?",
+      "correct": [
+        "Did / fly"
+      ],
+      "wrong": [
+        "Did / flew"
+      ]
+    }
+  ]
+}
