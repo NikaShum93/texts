@@ -1,0 +1,115 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/yb1Ugpt9UTAAAAAi/heart-wand.gif",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 3,
+  "tasks": [
+    {
+      "question": "A farmer works in a ____",
+      "correct": [
+        "farm"
+      ],
+      "wrong": [
+        "post office"
+      ]
+    },
+    {
+      "question": "A teacher works in a _____",
+      "correct": [
+        "school"
+      ],
+      "wrong": [
+        "farm"
+      ]
+    },
+    {
+      "question": "A postman works in a _____",
+      "correct": [
+        "post office"
+      ],
+      "wrong": [
+        "police office"
+      ]
+    },
+    {
+      "question": "A housewife works in a ______",
+      "correct": [
+        "in a house"
+      ],
+      "wrong": [
+        "She doesn't work"
+      ]
+    },
+    {
+      "question": "A fireman works in a ______",
+      "correct": [
+        "fire station"
+      ],
+      "wrong": [
+        "mobile station"
+      ]
+    },
+    {
+      "question": "A doctor helps ____",
+      "correct": [
+        "unhealthy people"
+      ],
+      "wrong": [
+        "Barbies"
+      ]
+    },
+    {
+      "question": "A pupil works at _____",
+      "correct": [
+        "school and house"
+      ],
+      "wrong": [
+        "school only"
+      ]
+    },
+    {
+      "question": "A nurse works in a ______",
+      "correct": [
+        "hospital"
+      ],
+      "wrong": [
+        "police office"
+      ]
+    }
+  ]
+}
