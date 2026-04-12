@@ -1,0 +1,103 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Snowburst One",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/60cc3193-de4a-4906-aff9-4b366b072e29.png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(255,87,210,0.95)",
+      "borderColor": "#ffe5fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e723bc",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "I have __ apples in my bag.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do you have __ milk?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "There isn't __ sugar at home.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She wants __ water.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Are there __ eggs in the fridge?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We don't have __ bread.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "He can see __ birds in the sky.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Is there __ juice?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I need __ help with my homework.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "There aren't __ cars in the street.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Can I have __ strawberries, please?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She doesn't have __ friends at school.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
