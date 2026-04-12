@@ -1,0 +1,103 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Bangers",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/f2ca1715-5889-4228-8f59-5a7fcc28c152.png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(255,207,77,0.95)",
+      "borderColor": "#ffe224",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#ffea05",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 270
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "You ___ clean your teeth.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "You ___ run in the classroom.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We ___ do our homework.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "You ___ shout in the library.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "You ___ listen to the teacher.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "You ___ eat in class.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We ___ be kind to friends.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "You ___ play with fire.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "You ___ wash your hands.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "You ___ be late for school.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We ___ help our parents.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "You ___ cross the road here.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
