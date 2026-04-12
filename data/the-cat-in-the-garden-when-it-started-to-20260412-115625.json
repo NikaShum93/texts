@@ -1,0 +1,137 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "questionFont": "Roboto",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 37,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/Bv8JBNJY/seed-9.png",
+    "bgImages": [
+      "https://i.postimg.cc/Bv8JBNJY/seed-9.png"
+    ],
+    "borderOn": true,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": true,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Get the Spoon",
+    "btnText": "Let's go!"
+  },
+  "direction": "random",
+  "finalFeedback": "Well done! The Spoon of Time is yours!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "The cat ______ in the garden when it started to rain.",
+      "correct": [
+        "was playing"
+      ],
+      "wrong": [
+        "played",
+        "plays"
+      ]
+    },
+    {
+      "target": "Yesterday the cat ______ a fish in the kitchen.",
+      "correct": [
+        "ate"
+      ],
+      "wrong": [
+        "was eating",
+        "eats"
+      ]
+    },
+    {
+      "target": "The cat ______ not sleeping when I entered the room.",
+      "correct": [
+        "was"
+      ],
+      "wrong": [
+        "is",
+        "were sleeping"
+      ]
+    },
+    {
+      "target": "What ______ the cat doing at 5 o’clock?",
+      "correct": [
+        "was the cat doing"
+      ],
+      "wrong": [
+        "did",
+        "was doing"
+      ]
+    },
+    {
+      "target": "The dog barked while the cat ______ on the roof.",
+      "correct": [
+        "was sitting"
+      ],
+      "wrong": [
+        "sat",
+        "sits"
+      ]
+    },
+    {
+      "target": "The cat ______ a mouse yesterday.",
+      "correct": [
+        "saw"
+      ],
+      "wrong": [
+        "was seeing",
+        "sees"
+      ]
+    },
+    {
+      "target": "Was the cat ______ when you called it?",
+      "correct": [
+        "sleeping"
+      ],
+      "wrong": [
+        "sleep",
+        "slept"
+      ]
+    },
+    {
+      "target": "The cats ______ in the street when the car passed.",
+      "correct": [
+        "were playing"
+      ],
+      "wrong": [
+        "played",
+        "are playing"
+      ]
+    },
+    {
+      "target": "The cat didn’t ______ home last night.",
+      "correct": [
+        "come"
+      ],
+      "wrong": [
+        "came",
+        "coming"
+      ]
+    },
+    {
+      "target": "What ______ when the lights went off?",
+      "correct": [
+        "were you doing"
+      ],
+      "wrong": [
+        "did you do",
+        "are you doing"
+      ]
+    }
+  ]
+}
