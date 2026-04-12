@@ -1,0 +1,103 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Snowburst One",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/f46a1924-443d-466b-a585-1ecd6064e885.png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(210,87,255,0.95)",
+      "borderColor": "#6c008a",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#bc23e7",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "I am a student.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She is my friend.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They are at home.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "He is happy.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We are in the park.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "It is a cat.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "You are my best friend.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I am not tired.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The apples are red.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My name is Judy.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We are not at school.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "You are a teacher.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
