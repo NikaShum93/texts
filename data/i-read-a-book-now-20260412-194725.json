@@ -1,0 +1,93 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Patrick Hand",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/ec70b8fa-a526-400d-a0c3-04484db4fa9b.png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(164,194,43,0.95)",
+      "borderColor": "#8eab1b",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#a3c12b",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "I _______ (read) a book now.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She _____ (sing) a funny song.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "He ________ (jump) like a frog.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They ________ (play) football in the park.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We _______ (eat) ice cream.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The cat ________ (sleep) on the chair.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "You ________ (draw) a rainbow.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Mom ____________( cook) soup in the kitchen.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The dog ____________(run) after the ball.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I ________ (drink) juice right now.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
