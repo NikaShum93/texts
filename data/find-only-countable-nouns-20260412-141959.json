@@ -1,0 +1,106 @@
+{
+  "language": "en",
+  "font": "Poppins",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://img.genially.com/69280f411dd3350008276459/a06f712e-b020-4865-ac04-1b15920b2765.png",
+      "https://img.genially.com/69280f411dd3350008276459/619a82b6-7eb8-4e9c-aa3c-066801368f72.png",
+      "https://img.genially.com/69280f411dd3350008276459/fed31740-bf1d-4632-880e-207e4a9d0811.png",
+      "https://img.genially.com/69280f411dd3350008276459/8758223f-4df6-448e-a609-973925331c27.png",
+      "https://img.genially.com/69280f411dd3350008276459/231d242c-95b3-4ea3-9e96-fd792ba17b26.png",
+      "https://img.genially.com/69280f411dd3350008276459/c4f585fd-5df6-4131-9fc0-0b1562696ef8.png",
+      "https://img.genially.com/69280f411dd3350008276459/b9f76b1c-6055-4ebd-95d8-b06965255134.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": true,
+    "glow": true,
+    "glowColor": "#ffffff",
+    "fx3d": true,
+    "opacity": 1,
+    "imgBox": 260
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Countable/Uncountable",
+    "btnText": "Start"
+  },
+  "direction": "down",
+  "finalFeedback": "Great job!",
+  "levels": [
+    {
+      "target": "Find only countable nouns",
+      "correct": [
+        "potato",
+        "tomato",
+        "carrot",
+        "burger",
+        "apple",
+        "cucumber",
+        "pineapple",
+        "sausage",
+        "pear",
+        "apricot",
+        "plum",
+        "onion",
+        "hot dog"
+      ],
+      "wrong": [
+        "milk",
+        "water",
+        "rice",
+        "bread",
+        "sugar",
+        "solt",
+        "tea",
+        "coffee",
+        "porridge",
+        "chocolate",
+        "cheese",
+        "butter",
+        "soda"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "Find only uncountable nouns",
+      "correct": [
+        "milk",
+        "water",
+        "rice",
+        "bread",
+        "sugar",
+        "solt",
+        "tea",
+        "coffee",
+        "porridge",
+        "chocolate",
+        "cheese",
+        "butter",
+        "soda"
+      ],
+      "wrong": [
+        "potato",
+        "tomato",
+        "carrot",
+        "burger",
+        "apple",
+        "cucumber",
+        "sausage",
+        "pear",
+        "apricot",
+        "plum",
+        "onion"
+      ],
+      "timer": 30
+    }
+  ]
+}
