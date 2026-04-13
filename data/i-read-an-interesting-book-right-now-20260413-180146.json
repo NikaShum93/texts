@@ -1,0 +1,123 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Mountains of Christmas",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/a9764c45-709a-446e-90f9-d9b29b32cae9.png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(158,187,41,0.95)",
+      "borderColor": "#89a51a",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#96b227",
+      "borderColor": "#87a219",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 3,
+  "tasks": [
+    {
+      "question": "I ____ (read) an interesting book right now.",
+      "correct": [
+        "am reading"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "She ____ (listen) to music in her room.",
+      "correct": [
+        "is listening"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "They ____ (play) football in the park at the moment.",
+      "correct": [
+        "are playing"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "He ___ (drink) coffee with his friend.",
+      "correct": [
+        "is drinking"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We ____ (watch) a funny video on YouTube.",
+      "correct": [
+        "are watching"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The cat ___ (sleep) on the sofa.",
+      "correct": [
+        "is sleeping"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Look! It ___ (rain) outside.",
+      "correct": [
+        "is raining"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "My mother ___ (cook) dinner in the kitchen.",
+      "correct": [
+        "is cooking"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The children ___ (draw) colourful pictures.",
+      "correct": [
+        "are drawing"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I ___ (wait) for the bus at the bus stop.",
+      "correct": [
+        "am waiting"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
