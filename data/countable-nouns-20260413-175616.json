@@ -1,0 +1,67 @@
+{
+  "language": "en",
+  "font": "Open Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 4,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://img.genially.com/69280f411dd3350008276459/3055fc75-3813-4873-972e-e9bd75525e2e.png",
+      "https://img.genially.com/69280f411dd3350008276459/494e93fd-fc7d-471f-a281-12d378248757.png",
+      "https://img.genially.com/69280f411dd3350008276459/aef96a32-bafc-4399-9f47-d94c6fe37004.png",
+      "https://img.genially.com/69280f411dd3350008276459/afbb7e1a-e6c5-403a-bd63-607990ae575f.png",
+      "https://img.genially.com/69280f411dd3350008276459/89a3a260-a7e6-4f8c-aeb0-9c8b43ca65ef.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 190
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Countable/Uncountable",
+    "btnText": "Start"
+  },
+  "direction": "down",
+  "finalFeedback": "Great job!",
+  "levels": [
+    {
+      "target": "Countable Nouns",
+      "correct": [
+        "apple",
+        "chair",
+        "dog",
+        "bottle",
+        "car",
+        "house",
+        "pen",
+        "person",
+        "song",
+        "table",
+        "tree",
+        "book"
+      ],
+      "wrong": [
+        "water",
+        "rice",
+        "information",
+        "furniture",
+        "music",
+        "sugar",
+        "money",
+        "work",
+        "soda"
+      ],
+      "timer": 30
+    }
+  ]
+}
