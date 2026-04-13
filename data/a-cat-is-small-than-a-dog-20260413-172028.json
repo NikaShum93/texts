@@ -1,0 +1,127 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Mountains of Christmas",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/953ab47c-d477-41e3-a5cb-31a85b204a8f.png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(215,128,38,0.95)",
+      "borderColor": "#eec826",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#529d1e",
+      "borderColor": "#8cc643",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 3,
+  "tasks": [
+    {
+      "question": "A cat is ___ (small) than a dog.",
+      "correct": [
+        "smaller"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "An elephant is ___ (big) than a horse.",
+      "correct": [
+        "bigger"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "A car is ___ (fast) than a bike.",
+      "correct": [
+        "faster"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Summer is ___ (hot) than spring.",
+      "correct": [
+        "hotter"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "A rabbit is ___ (cute) than a spider.",
+      "correct": [
+        "cuter"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "This book is ___ (interesting) than that one.",
+      "correct": [
+        "more interesting"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "My room is ___ (clean) than my brother’s room.",
+      "correct": [
+        "cleaner"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Chocolate is ___ (sweet) than bread.",
+      "correct": [
+        "sweeter"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "A turtle is ___ (slow) than a rabbit.",
+      "correct": [
+        "slower"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "This film is ___ (funny) than the other film.",
+      "correct": [
+        "funnier"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "A lion is ___ (dangerous) than a cat.",
+      "correct": [
+        "more dangerous"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "My hair is ___ (long) than your hair.",
+      "correct": [
+        "longer"
+      ],
+      "wrong": []
+    }
+  ]
+}
