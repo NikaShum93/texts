@@ -1,0 +1,103 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/cbe60633-e81c-43ba-8ba9-09f5efa2f11a.png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(145,175,28,0.95)",
+      "borderColor": "#a3c02b",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#a3c12b",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "I am reading a book",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "You are jumping high",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "He is drinking milk",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She is singing loudly",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "It is sleeping now",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We are playing football",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They are running fast",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Mom is cooking dinner",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Dad is watching TV",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The cat is eating fish",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The sun is shining",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "A bird is flying away",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
