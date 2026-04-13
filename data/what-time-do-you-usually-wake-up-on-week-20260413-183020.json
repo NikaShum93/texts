@@ -1,0 +1,103 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Mountains of Christmas",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/bfd7ea3f-6ad3-473d-a144-d6887016becf.png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(211,89,242,0.95)",
+      "borderColor": "#ff3cb5",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#ff32a8",
+      "borderColor": "#732cd5",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 3,
+  "tasks": [
+    {
+      "question": "What time do you usually wake up on weekdays?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What is your favorite food or drink?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What did you do yesterday evening?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do you have a pet? If yes, what is its name?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What kind of music do you like to listen to?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "How often do you go shopping for clothes?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What is the weather like today?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Can you name three things you can see in your room right now?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What do you usually eat for breakfast?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Where did you go on your last vacation?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
