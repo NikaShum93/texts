@@ -1,0 +1,163 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Mountains of Christmas",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/80cbedf2-500c-424f-8d9e-6cb665029f12.png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(204,37,131,0.95)",
+      "borderColor": "#fcbabf",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#dc45a1",
+      "borderColor": "#f79aa2",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 3,
+  "tasks": [
+    {
+      "question": "We eat chocolate ___ Easter.",
+      "correct": [
+        "on"
+      ],
+      "wrong": [
+        "in",
+        "at"
+      ]
+    },
+    {
+      "question": "I read a book ___ the evening.",
+      "correct": [
+        "in"
+      ],
+      "wrong": [
+        "on",
+        "at"
+      ]
+    },
+    {
+      "question": "She goes to bed ___ night.",
+      "correct": [
+        "at"
+      ],
+      "wrong": [
+        "in",
+        "on"
+      ]
+    },
+    {
+      "question": "My birthday is ___ May 5th.",
+      "correct": [
+        "on"
+      ],
+      "wrong": [
+        "in",
+        "at"
+      ]
+    },
+    {
+      "question": "It is cold ___ winter.",
+      "correct": [
+        "in"
+      ],
+      "wrong": [
+        "on",
+        "at"
+      ]
+    },
+    {
+      "question": "I get up ___ seven o'clock.",
+      "correct": [
+        "at"
+      ],
+      "wrong": [
+        "in",
+        "on"
+      ]
+    },
+    {
+      "question": "They watch cartoons ___ Christmas Day.",
+      "correct": [
+        "on"
+      ],
+      "wrong": [
+        "in",
+        "at"
+      ]
+    },
+    {
+      "question": "He has lunch ___ half past twelve.",
+      "correct": [
+        "at"
+      ],
+      "wrong": [
+        "in",
+        "on"
+      ]
+    },
+    {
+      "question": "My sister was born ___ June.",
+      "correct": [
+        "in"
+      ],
+      "wrong": [
+        "at",
+        "on"
+      ]
+    },
+    {
+      "question": "We go to the park ___ Sunday.",
+      "correct": [
+        "on"
+      ],
+      "wrong": [
+        "in",
+        "at"
+      ]
+    },
+    {
+      "question": "We play outside ___ the morning.",
+      "correct": [
+        "in"
+      ],
+      "wrong": [
+        "at",
+        "on"
+      ]
+    },
+    {
+      "question": "I have a music lesson ___ Monday.",
+      "correct": [
+        "on"
+      ],
+      "wrong": [
+        "in",
+        "at"
+      ]
+    }
+  ]
+}
