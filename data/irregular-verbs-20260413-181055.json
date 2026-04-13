@@ -1,0 +1,90 @@
+{
+  "language": "en",
+  "font": "Open Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 4,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://img.genially.com/69280f411dd3350008276459/7b2d5d88-e4ca-477a-af5d-f2b00c770559.png",
+      "https://img.genially.com/69280f411dd3350008276459/2f5e507c-24b0-42ea-a7ab-f8aa40ce0fb4.png",
+      "https://img.genially.com/69280f411dd3350008276459/39b2c5a8-cc40-42e4-b605-fe06bfdbd340.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 190
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Irregukar Verbs",
+    "btnText": "Start"
+  },
+  "direction": "up",
+  "finalFeedback": "Great job!",
+  "levels": [
+    {
+      "target": "Irregular Verbs",
+      "correct": [
+        "Be",
+        "Begin",
+        "Break",
+        "Bring",
+        "Buy",
+        "Choose",
+        "Come",
+        "Do",
+        "Drink",
+        "Eat",
+        "Find",
+        "Fly",
+        "Get",
+        "Give",
+        "Go",
+        "Have",
+        "Know",
+        "Leave",
+        "Lose",
+        "Make",
+        "Meet",
+        "Put",
+        "Read",
+        "Run",
+        "Say",
+        "See",
+        "Sing",
+        "Sleep",
+        "Swim",
+        "Take",
+        "Teach",
+        "Think",
+        "Understand",
+        "Wake up",
+        "Write"
+      ],
+      "wrong": [
+        "Work",
+        "Play",
+        "Clean",
+        "Study",
+        "Stop",
+        "Watch",
+        "Need",
+        "Like",
+        "Travel",
+        "Call",
+        "Help"
+      ],
+      "timer": 30
+    }
+  ]
+}
