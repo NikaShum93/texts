@@ -1,0 +1,143 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 78,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/UB5VM25lzZMAAAAi/what-how.gif",
+    "bubbleSize": 78,
+    "task": {
+      "bgColor": "rgba(255,255,255,0.85)",
+      "borderColor": "#ffffff",
+      "textColor": "#2b073b",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#ffffff",
+      "borderColor": "#ffffff",
+      "textColor": "#50075f",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 390
+    }
+  },
+  "finalFeedback": "You must be very tired of Present Perfect Continuous, but you did it! Well done!",
+  "feedbackImage": "https://media.tenor.com/6tgjOU3dXPUAAAAi/benjammins-finall.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Your eyes are bloodshot! What have you been doing?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "You look like a zombie! Why are you yawning every two minutes?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Your hands are shaking! How many energy drinks have you been drinking?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Your skin is literally orange! Why do you look like a carrot?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The kitchen is a total disaster! What have you been cooking?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "You look like a ghost! Why are you so pale?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Your phone is boiling hot! What have you been doing on it?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "You have paint all over your hair! What have you been doing?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Your voice is completely gone! Have you been shouting at your teammates again?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "You look miserable! Have you been reading the mean comments again?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "You are still in your pajamas and it's 6 PM! What have you been doing all day?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Why are you breathing so hard? Have you been running?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "There is flour all over the floor! What have you been trying to bake?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Your hair is a total mess! What have you been doing to it?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "You look so confused! Have you even been listening to a word I said?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Your keyboard is missing five keys! What have you been doing to it?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "You look so fit lately! Have you been working out at the gym?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Your clothes are soaking wet! Have you been walking in the rain?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Your fingers are covered in ink! What have you been writing?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The dog is hiding under the bed! What have you been doing to him?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
