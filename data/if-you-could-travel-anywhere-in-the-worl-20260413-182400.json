@@ -1,0 +1,103 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Mountains of Christmas",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/b90f5295-f37e-48f9-8a25-a9f2c1927ee5.png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(30,52,254,0.95)",
+      "borderColor": "#03d3fd",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#607bfd",
+      "borderColor": "#02cffc",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 3,
+  "tasks": [
+    {
+      "question": "If you could travel anywhere in the world tomorrow, where would you go and why?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What did you usually do after school or work when you were a child?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What is something you find really relaxing, and how often do you do it?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Have you ever tried to learn a new skill (like cooking, playing an instrument, or a sport)? How did it go?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What do you think is the best way to spend a weekend: staying at home or going out? Why?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Can you name a movie or a book that you would recommend to everyone? What is it about?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What are your plans for the next holiday or long weekend?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do you prefer working alone or in a team? Why?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What is something that people in your country do differently compared to other countries?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What was the best piece of advice someone has given you?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
