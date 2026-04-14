@@ -1,0 +1,148 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Roboto",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 108,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/9F0Lj6d2/'t.png",
+    "bubbleSize": 108,
+    "task": {
+      "bgColor": "rgba(255,207,77,1)",
+      "borderColor": "#ff7b00",
+      "textColor": "#171616",
+      "fontSize": 30,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 30,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "_____ books do you read every month?",
+      "correct": [
+        "How many"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "_____ friends do you have?",
+      "correct": [
+        "How many"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "_____ hours do you sleep at night?",
+      "correct": [
+        "How many"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "_____ languages can you speak?",
+      "correct": [
+        "How many"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "_____ students are in your class?",
+      "correct": [
+        "How many"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "_____ countries have you visited?",
+      "correct": [
+        "How many"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "_____ emails do you send every day?",
+      "correct": [
+        "How many"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "_____ cups of coffee do you drink?",
+      "correct": [
+        "How many"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "_____ water do you drink every day?",
+      "correct": [
+        "How much"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "_____ time do you spend on your phone?",
+      "correct": [
+        "How much"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "_____ money do you spend on food?",
+      "correct": [
+        "How much"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "_____ sugar do you put in your tea?",
+      "correct": [
+        "How much"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "_____ homework do you have today?",
+      "correct": [
+        "How much"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "_____ free time do you have on weekends?",
+      "correct": [
+        "How much"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "_____ information can you remember easily?",
+      "correct": [
+        "How much"
+      ],
+      "wrong": []
+    }
+  ]
+}
