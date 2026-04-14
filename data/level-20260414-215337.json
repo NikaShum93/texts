@@ -1,0 +1,59 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 30,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://img.genially.com/65a66a0db3c06500207bb5f3/03d79248-560f-4d73-a2c8-e424b72c115a.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Игра \"Число имён прилагательных\"",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Отличная работа!",
+  "levels": [
+    {
+      "target": "единственное число имени прилагательных",
+      "correct": [
+        "зелёный",
+        "большая",
+        "сладкое",
+        "милый",
+        "красивая",
+        "серый",
+        "добрый",
+        "хитрая",
+        "весёлое",
+        "гордый"
+      ],
+      "wrong": [
+        "добрые",
+        "милые",
+        "весёлые",
+        "звонкие",
+        "грубые",
+        "острые",
+        "солёные"
+      ],
+      "timer": 60
+    }
+  ]
+}
