@@ -1,0 +1,181 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Fredoka",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 52,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/MA3dDJl_9VYAAAAi/the-sims-plumbob.gif",
+    "bubbleSize": 52,
+    "task": {
+      "bgColor": "rgba(70,125,33,1)",
+      "borderColor": "#083608",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "I (read) a book now.",
+      "correct": [
+        "is reading"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "She (play) tennis every Sunday.",
+      "correct": [
+        "plays"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "They (watch) TV at the moment.",
+      "correct": [
+        "are watching"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We (not/go) to school on Saturdays.",
+      "correct": [
+        "don't go"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "He (have) breakfast right now.",
+      "correct": [
+        "is having"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The cat (sleep) on the sofa.",
+      "correct": [
+        "is sleeping"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "My brother (like) pizza.",
+      "correct": [
+        "likes"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I (not/listen) to music now.",
+      "correct": [
+        "am not listening"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "You (come) from Germany.",
+      "correct": [
+        "come"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "She (draw) a picture now.",
+      "correct": [
+        "is drawing"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "He (write) a letter now.",
+      "correct": [
+        "is writing"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We (eat) lunch every day at 2 o’clock.",
+      "correct": [
+        "eat"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "She (not/swim) right now.",
+      "correct": [
+        "isn't swimming"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "They (visit) their grandmother every weekend.",
+      "correct": [
+        "visit"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I (not/want) any tea.",
+      "correct": [
+        "don't want"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The dog (run) in the garden at the moment.",
+      "correct": [
+        "is running"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "My sister (study) English on Mondays.",
+      "correct": [
+        "studies"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "You (not/paint) now.",
+      "correct": [
+        "aren't painting"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "She (cook) dinner now.",
+      "correct": [
+        "doesn't play"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "He (not/play) football on weekdays.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
