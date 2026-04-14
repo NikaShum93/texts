@@ -1,0 +1,115 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Baloo 2",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/68e2bab7-22cc-4ef6-b8f7-0fbd78d3548c.png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(231,193,4,1)",
+      "borderColor": "#ffea00",
+      "textColor": "#ffffff",
+      "fontSize": 35,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#ffd91a",
+      "borderColor": "#ffeb85",
+      "textColor": "#ffffff",
+      "fontSize": 35,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://img.genially.com/69280f411dd3350008276459/c301efd4-1c91-40a1-bcee-87de51fe458d.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 2,
+  "tasks": [
+    {
+      "question": "d__g",
+      "correct": [
+        "dog"
+      ],
+      "wrong": [
+        "dag"
+      ]
+    },
+    {
+      "question": "c__t",
+      "correct": [
+        "cat"
+      ],
+      "wrong": [
+        "cot"
+      ]
+    },
+    {
+      "question": "d__ck",
+      "correct": [
+        "duck"
+      ],
+      "wrong": [
+        "dack"
+      ]
+    },
+    {
+      "question": "h__mster",
+      "correct": [
+        "hamster"
+      ],
+      "wrong": [
+        "humster"
+      ]
+    },
+    {
+      "question": "fr__g",
+      "correct": [
+        "frog"
+      ],
+      "wrong": [
+        "frag"
+      ]
+    },
+    {
+      "question": "l__zard",
+      "correct": [
+        "lizard"
+      ],
+      "wrong": [
+        "lezard"
+      ]
+    },
+    {
+      "question": "f__x",
+      "correct": [
+        "fox"
+      ],
+      "wrong": [
+        "fix"
+      ]
+    },
+    {
+      "question": "r__bbit",
+      "correct": [
+        "rabbit"
+      ],
+      "wrong": [
+        "robbit"
+      ]
+    }
+  ]
+}
