@@ -1,0 +1,93 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Fredoka",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 52,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/MA3dDJl_9VYAAAAi/the-sims-plumbob.gif",
+    "bubbleSize": 52,
+    "task": {
+      "bgColor": "rgba(70,125,33,1)",
+      "borderColor": "#083608",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "I ___ ten years old.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "He ___ an engineer.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "You ___ a student.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My name ___ Anna.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They ___ teachers.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She ___ from France.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We ___ Russian.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "He ___ twenty years old.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "You ___ American.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "It ___ my friend’s name.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
