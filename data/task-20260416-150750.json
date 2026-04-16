@@ -1,0 +1,88 @@
+{
+  "language": "zh",
+  "lang": "zh",
+  "font": "Noto Serif SC",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": true,
+  "bubbleSize": 112,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/3Rs5w8Sb/'av.png",
+    "bubbleSize": 112,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 30,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#239be7",
+      "textColor": "#ffffff",
+      "fontSize": 30,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "我的 爱好 是 音乐。",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "你 吃 什么？",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "我 想 做 演员。",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "妈妈 是 护士， 在 医院 工作。",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "现在 八 点 十 分。",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "今天 天气 很 热。",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "我 天天 看 电视。",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "我 喜欢 运动，不 喜欢 上网。",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "她 不 喝 咖啡， 她 喝 茶。",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
