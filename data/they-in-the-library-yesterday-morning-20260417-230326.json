@@ -1,0 +1,93 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 40,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/QtkrsDX3/characters-3.png",
+    "bubbleSize": 40,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 18,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 18,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "They/ in the library/ yesterday morning.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "You/ at the cinema/ last night.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "He/ not/ at the party/ last Saturday.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She/ in the park/ this morning?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "It/ a sunny day/ yesterday.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We/ in Berlin/ three years ago.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The students/ not/ in the classroom/ an hour ago.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The cat/ under the table/ a minute ago.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The flowers/ very beautiful/ yesterday.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "You/ in London/ last summer?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
