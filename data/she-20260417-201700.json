@@ -1,0 +1,118 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://zvukipro.com/uploads/files/2019-08/1565952507_24e2d7eac96d361.mp3",
+    "open": "https://zvukipro.com/uploads/files/2019-08/1565952507_24e2d7eac96d361.mp3",
+    "correct": "https://zvukipro.com/uploads/files/2019-08/1565952507_24e2d7eac96d361.mp3",
+    "wrong": "https://zvukipro.com/uploads/files/2019-08/1565952507_24e2d7eac96d361.mp3"
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/64bf8a26ade38b001974b1a4/d00e747b-a1e6-4323-b434-58984e0e49b7.gif",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 36,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 36,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "she",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ship",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "shop",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "fish",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "dish",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "shoes",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "short",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "shell",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "shark",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "shirt",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "shine",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "shape",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "shop",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "shut",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "shock",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
