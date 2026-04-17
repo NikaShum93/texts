@@ -1,0 +1,125 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/3c1d2f14-5e2f-43c1-9fc7-4c0555021bda.png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(251,150,0,1)",
+      "borderColor": "#f731a7",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Mount Everest is ___ (high) mountain in the world.",
+      "correct": [
+        "the highest"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "This is ___ (good) pizza in town.",
+      "correct": [
+        "the best"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "My mum is ___ (kind) person I know.",
+      "correct": [
+        "the kindest"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Winter is ___ (cold) season of the year.",
+      "correct": [
+        "the coldest"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "He is ___ (funny) boy in our class.",
+      "correct": [
+        "the funniest"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "This is ___ (exciting) game ever.",
+      "correct": [
+        "the most exciting"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "A cheetah is ___ (fast) animal on land.",
+      "correct": [
+        "the fastest"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Today is ___ (happy) day of my life.",
+      "correct": [
+        "the cheapest"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "This is ___ (cheap) phone in the shop.",
+      "correct": [
+        "the most beautiful"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "She is ___ (beautiful) singer in the group.",
+      "correct": [
+        "the biggest"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The blue whale is ___ (big) animal on Earth.",
+      "correct": [
+        "the worst"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "That was ___ (bad) day ever.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
