@@ -1,0 +1,63 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 200,
+  "sounds": {
+    "pop": "/",
+    "open": "/",
+    "correct": "/",
+    "wrong": "/"
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/64bf8a26ade38b001974b1a4/86cc21bf-e856-425f-8d80-cd02b86d8643.gif",
+    "bubbleSize": 200,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 35,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 35,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "light",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "night",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "right",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "high",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
