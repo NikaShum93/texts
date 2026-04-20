@@ -1,0 +1,187 @@
+{
+  "language": "en",
+  "font": "Poppins",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 4,
+  "questionFont": "Roboto",
+  "questionFontSize": 25,
+  "style": {
+    "shape": "rounded",
+    "pad": 40,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/KvDWLgF1/jahd.png",
+    "bgImages": [
+      "https://i.postimg.cc/KvDWLgF1/jahd.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 210
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Degrees of comparison",
+    "btnText": "START"
+  },
+  "direction": "random",
+  "finalFeedback": "Great Job!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "This book is ___  than that one.",
+      "correct": [
+        "more interesting"
+      ],
+      "wrong": [
+        "most interesting",
+        "very interesting"
+      ]
+    },
+    {
+      "target": "She is ___ than her brother.",
+      "correct": [
+        "taller"
+      ],
+      "wrong": [
+        "more tall",
+        "tallest"
+      ]
+    },
+    {
+      "target": "Today is ___ than yesterday.",
+      "correct": [
+        "colder"
+      ],
+      "wrong": [
+        "more cold",
+        "coldest"
+      ]
+    },
+    {
+      "target": "My car is ___ than yours.",
+      "correct": [
+        "faster"
+      ],
+      "wrong": [
+        "more fast",
+        "fastest"
+      ]
+    },
+    {
+      "target": "This exercise is ___ than the previous one.",
+      "correct": [
+        "easier"
+      ],
+      "wrong": [
+        "more easy",
+        "easiest"
+      ]
+    },
+    {
+      "target": "He is the ___ student in the class.",
+      "correct": [
+        "smartest"
+      ],
+      "wrong": [
+        "more smart",
+        "smarter"
+      ]
+    },
+    {
+      "target": "This is the ___ place I have ever seen.",
+      "correct": [
+        "most beautiful"
+      ],
+      "wrong": [
+        "beautifuller",
+        "beautifulest"
+      ]
+    },
+    {
+      "target": "She is the ___ singer in the group.",
+      "correct": [
+        "best"
+      ],
+      "wrong": [
+        "goodest",
+        "more good"
+      ]
+    },
+    {
+      "target": "That was the ___ movie of the year.",
+      "correct": [
+        "worst"
+      ],
+      "wrong": [
+        "badest",
+        "more bad"
+      ]
+    },
+    {
+      "target": "Mount Everest is the ___ mountain in the world.",
+      "correct": [
+        "highest"
+      ],
+      "wrong": [
+        "most high",
+        "higher"
+      ]
+    },
+    {
+      "target": "She is ___ kind ___ her mother.",
+      "correct": [
+        "as, as"
+      ],
+      "wrong": [
+        "than",
+        "so"
+      ]
+    },
+    {
+      "target": "This task is ___ difficult ___ the last one.",
+      "correct": [
+        "as, as"
+      ],
+      "wrong": [
+        "than",
+        "so"
+      ]
+    },
+    {
+      "target": "He runs ___ fast ___ his friend.",
+      "correct": [
+        "as, as"
+      ],
+      "wrong": [
+        "than",
+        "so"
+      ]
+    },
+    {
+      "target": "The weather today is ___ nice ___ yesterday.",
+      "correct": [
+        "as, as"
+      ],
+      "wrong": [
+        "than",
+        "so"
+      ]
+    },
+    {
+      "target": "This problem is not ___ easy ___ it looks.",
+      "correct": [
+        "as, as"
+      ],
+      "wrong": [
+        "than",
+        "so"
+      ]
+    }
+  ]
+}
