@@ -1,0 +1,73 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 114,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/b2111b63-f443-4efc-852c-19103425de91.png",
+    "bubbleSize": 114,
+    "task": {
+      "bgColor": "rgba(200,52,223,0.85)",
+      "borderColor": "#e9c30d",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#a02bc0",
+      "borderColor": "#eccf12",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 600
+    }
+  },
+  "finalFeedback": "Amazing!",
+  "feedbackImage": "https://img.genially.com/69280f411dd3350008276459/8678d1e2-4657-4eef-b935-44dce9abfc36.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Where does Miguel live?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Why today is a special day?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What secret does Miguel have?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Where does Miguel go after breakfast?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What does Miguel see?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Is the dog happy?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
