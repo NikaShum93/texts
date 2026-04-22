@@ -1,0 +1,88 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 108,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/50646ab9-2eff-4566-b6df-844fb33950d5.png",
+    "bubbleSize": 108,
+    "task": {
+      "bgColor": "rgba(255,107,228,0.85)",
+      "borderColor": "#feb3ff",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#ff00dd",
+      "borderColor": "#ffb8f0",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 240
+    }
+  },
+  "finalFeedback": "Great job!",
+  "feedbackImage": "https://img.genially.com/69280f411dd3350008276459/0d1aef48-f58f-4a8a-80a7-4ec0d6097d84.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 2,
+  "tasks": [
+    {
+      "question": "Olaf is a ___ snowman.",
+      "correct": [
+        "happy"
+      ],
+      "wrong": [
+        "sad"
+      ]
+    },
+    {
+      "question": "Olaf lives in ___ .",
+      "correct": [
+        "Arendelle"
+      ],
+      "wrong": [
+        "Mexico"
+      ]
+    },
+    {
+      "question": "Olaf loves ___.",
+      "correct": [
+        "summer"
+      ],
+      "wrong": [
+        "autumn"
+      ]
+    },
+    {
+      "question": "There is one problem - ____.",
+      "correct": [
+        "Olaf is a snowman"
+      ],
+      "wrong": [
+        "Olaf is very busy"
+      ]
+    },
+    {
+      "question": "Anna wants to go ___.",
+      "correct": [
+        "to the beach"
+      ],
+      "wrong": [
+        "to the restaurant"
+      ]
+    }
+  ]
+}
