@@ -1,0 +1,68 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 76,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/z3tL-TxlNQ8AAAAi/boldog-kar%C3%A1csonyt-snow.gif",
+    "bubbleSize": 76,
+    "task": {
+      "bgColor": "rgba(179,204,255,0.85)",
+      "borderColor": "#5c92ff",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#b8c3ff",
+      "borderColor": "#5d75f8",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 240
+    }
+  },
+  "finalFeedback": "Amazing!",
+  "feedbackImage": "https://img.genially.com/69280f411dd3350008276459/e937fdd3-1dba-4ee0-9b1f-111b657e0c37.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 2,
+  "tasks": [
+    {
+      "question": "Who goes to the beach?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What does Olaf see?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Is the bird friendly?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Why is Olaf melting?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What idea does Elsa have?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
