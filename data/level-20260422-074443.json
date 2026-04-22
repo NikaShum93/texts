@@ -1,0 +1,137 @@
+{
+  "language": "ru",
+  "font": "Open Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "questionFont": "PT Sans",
+  "questionFontSize": 24,
+  "style": {
+    "shape": "circle",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/bNC6c3xM/Dizai-n-bez-nazvania.png",
+    "bgImages": [
+      "https://i.postimg.cc/bNC6c3xM/Dizai-n-bez-nazvania.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 170
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Последняя битва",
+    "btnText": "Играть"
+  },
+  "direction": "random",
+  "finalFeedback": "Отличная работа!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "(не)понял слова песни",
+      "correct": [
+        "раздельно"
+      ],
+      "wrong": [
+        "слитно",
+        "через дефис"
+      ]
+    },
+    {
+      "target": "говорил вовсе (не)интересно",
+      "correct": [
+        "раздельно"
+      ],
+      "wrong": [
+        "слитно",
+        "через дефис"
+      ]
+    },
+    {
+      "target": "бормотать что-то (не)внятное",
+      "correct": [
+        "слитно"
+      ],
+      "wrong": [
+        "раздельно",
+        "через дефис"
+      ]
+    },
+    {
+      "target": "отнюдь (не)верное решение",
+      "correct": [
+        "раздельно"
+      ],
+      "wrong": [
+        "слитно",
+        "через дефис"
+      ]
+    },
+    {
+      "target": "здесь было (не)уютно",
+      "correct": [
+        "слитно"
+      ],
+      "wrong": [
+        "раздельно",
+        "через дефис"
+      ]
+    },
+    {
+      "target": "(не)кем гордиться",
+      "correct": [
+        "слитно"
+      ],
+      "wrong": [
+        "раздельно",
+        "через дефис"
+      ]
+    },
+    {
+      "target": "(не)приступная крепость",
+      "correct": [
+        "слитно"
+      ],
+      "wrong": [
+        "раздельно",
+        "через дефис"
+      ]
+    },
+    {
+      "target": "вещи (не)собраны",
+      "correct": [
+        "раздельно"
+      ],
+      "wrong": [
+        "слитно",
+        "через дефис"
+      ]
+    },
+    {
+      "target": "(не)допущены до экзамена",
+      "correct": [
+        "раздельно"
+      ],
+      "wrong": [
+        "слитно",
+        "через дефис"
+      ]
+    },
+    {
+      "target": "(не)хотя согласился",
+      "correct": [
+        "слитно"
+      ],
+      "wrong": [
+        "раздельно",
+        "через дефис"
+      ]
+    }
+  ]
+}
