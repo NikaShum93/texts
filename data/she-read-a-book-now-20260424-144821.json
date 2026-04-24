@@ -1,0 +1,262 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 130,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/TYkBjRLS/'ti.png",
+    "bubbleSize": 130,
+    "task": {
+      "bgColor": "rgba(14,57,15,1)",
+      "borderColor": "#32e2a7",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#0b4138",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 380
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "She ___ (read) a book now.",
+      "correct": [
+        "is reading"
+      ],
+      "wrong": [
+        "reads",
+        "read",
+        "am reading"
+      ]
+    },
+    {
+      "question": "They ___ (play) football every Sunday.",
+      "correct": [
+        "play"
+      ],
+      "wrong": [
+        "is playing",
+        "are playing",
+        "plays"
+      ]
+    },
+    {
+      "question": "I ___ (study) at the moment.",
+      "correct": [
+        "am studying"
+      ],
+      "wrong": [
+        "study",
+        "studies",
+        "is studying"
+      ]
+    },
+    {
+      "question": "He usually ___ (drink) coffee in the morning.",
+      "correct": [
+        "drinks"
+      ],
+      "wrong": [
+        "drink",
+        "is drinking",
+        "am drinking"
+      ]
+    },
+    {
+      "question": "We ___ (watch) a movie right now.",
+      "correct": [
+        "are watching"
+      ],
+      "wrong": [
+        "watch",
+        "watching",
+        "is watching"
+      ]
+    },
+    {
+      "question": "My dad ___ (work) in an office.",
+      "correct": [
+        "works"
+      ],
+      "wrong": [
+        "is working",
+        "work",
+        "am working"
+      ]
+    },
+    {
+      "question": "Listen! The baby ___ (cry).",
+      "correct": [
+        "is crying"
+      ],
+      "wrong": [
+        "cry",
+        "are crying",
+        "cries"
+      ]
+    },
+    {
+      "question": "I often ___ (go) to bed at 11 p.m.",
+      "correct": [
+        "go"
+      ],
+      "wrong": [
+        "am going",
+        "goes",
+        "is going"
+      ]
+    },
+    {
+      "question": "She ___ (talk) on the phone now.",
+      "correct": [
+        "is talking"
+      ],
+      "wrong": [
+        "talk",
+        "talks",
+        "am talking"
+      ]
+    },
+    {
+      "question": "They ___ (live) in London.",
+      "correct": [
+        "live"
+      ],
+      "wrong": [
+        "are living",
+        "is living",
+        "lives"
+      ]
+    },
+    {
+      "question": "Look! It ___ (snow).",
+      "correct": [
+        "is snowing"
+      ],
+      "wrong": [
+        "snows",
+        "snow"
+      ]
+    },
+    {
+      "question": "He ___ (not / like) milk.",
+      "correct": [
+        "doesn't like"
+      ],
+      "wrong": [
+        "do not like",
+        "don't like",
+        "nor like"
+      ]
+    },
+    {
+      "question": "We ___ (have) dinner now.",
+      "correct": [
+        "are having"
+      ],
+      "wrong": [
+        "have",
+        "has",
+        "am having"
+      ]
+    },
+    {
+      "question": "I always ___ (do) my homework.",
+      "correct": [
+        "do"
+      ],
+      "wrong": [
+        "am doing",
+        "does",
+        "is doing"
+      ]
+    },
+    {
+      "question": "She ___ (wear) a red dress today.",
+      "correct": [
+        "is wearing"
+      ],
+      "wrong": [
+        "wear",
+        "wears",
+        "am wearing"
+      ]
+    },
+    {
+      "question": "They ___ (not / play) outside now.",
+      "correct": [
+        "aren't playing"
+      ],
+      "wrong": [
+        "do not play",
+        "don't play",
+        "isn't playing"
+      ]
+    },
+    {
+      "question": "He ___ (drive) to work every day.",
+      "correct": [
+        "drives"
+      ],
+      "wrong": [
+        "is driving",
+        "drive",
+        "am driving"
+      ]
+    },
+    {
+      "question": "I ___ (write) an email at the moment.",
+      "correct": [
+        "am writing"
+      ],
+      "wrong": [
+        "write",
+        "writes",
+        "is writing"
+      ]
+    },
+    {
+      "question": "The dog ___ (bark) now.",
+      "correct": [
+        "is barking"
+      ],
+      "wrong": [
+        "barks",
+        "barking",
+        "am barking"
+      ]
+    },
+    {
+      "question": "We usually ___ (visit) our grandparents on weekends.",
+      "correct": [
+        "visit"
+      ],
+      "wrong": [
+        "are visiting",
+        "visits",
+        "is visiting"
+      ]
+    }
+  ]
+}
