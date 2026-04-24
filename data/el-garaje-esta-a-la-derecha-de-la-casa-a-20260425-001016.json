@@ -1,0 +1,151 @@
+{
+  "language": "es",
+  "lang": "es",
+  "font": "Poppins",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 106,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/wjNsNvZj/Untitled-design-(37).png",
+    "bubbleSize": 106,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#a6af79",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 ¡Bien hecho!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 2,
+  "tasks": [
+    {
+      "question": "[ ___ ] El garaje está a la derecha de la casa, al lado de la piscina.",
+      "correct": [
+        "falso"
+      ],
+      "wrong": [
+        "verdadero"
+      ]
+    },
+    {
+      "question": "[ ___ ] En el jardín trasero hay una piscina y dos sillas tumbonas blancas con una sombrilla.",
+      "correct": [
+        "verdadero"
+      ],
+      "wrong": [
+        "falso"
+      ]
+    },
+    {
+      "question": "[ ___ ] Hay paneles solares en el techo (tejado) de la casa.",
+      "correct": [
+        "falso"
+      ],
+      "wrong": [
+        "verdadero"
+      ]
+    },
+    {
+      "question": "[ ___ ] En el salón hay un gran sofá de color rosa, una mesa central y una televisión.",
+      "correct": [
+        "verdadero"
+      ],
+      "wrong": [
+        "falso"
+      ]
+    },
+    {
+      "question": "[ ___ ] La cocina tiene muebles rosas y una mesa de comedor muy pequeña con solo dos sillas.",
+      "correct": [
+        "falso"
+      ],
+      "wrong": [
+        "verdadero"
+      ]
+    },
+    {
+      "question": "[ ___ ] El cuarto de baño está en el piso de arriba, exactamente entre los dos dormitorios.",
+      "correct": [
+        "verdadero"
+      ],
+      "wrong": [
+        "falso"
+      ]
+    },
+    {
+      "question": "[ ___ ] Dentro del cuarto de baño hay una bañera rosa y también una cabina de ducha.",
+      "correct": [
+        "verdadero"
+      ],
+      "wrong": [
+        "falso"
+      ]
+    },
+    {
+      "question": "[ ___ ] El dormitorio de la izquierda tiene una cama individual (pequeña) de color verde.",
+      "correct": [
+        "falso"
+      ],
+      "wrong": [
+        "verdadero"
+      ]
+    },
+    {
+      "question": "[ ___ ]En el ático hay un estudio con un escritorio para pintar y dibujar.",
+      "correct": [
+        "verdadero"
+      ],
+      "wrong": [
+        "falso"
+      ]
+    },
+    {
+      "question": "[ ___ ] La lavadora de ropa está dentro de la cocina, al lado del frigorífico.",
+      "correct": [
+        "falso"
+      ],
+      "wrong": [
+        "verdadero"
+      ]
+    },
+    {
+      "question": "[ ___ ] En el sótano hay un pequeño gimnasio con una cinta de correr y pesas.",
+      "correct": [
+        "verdadero"
+      ],
+      "wrong": [
+        "falso"
+      ]
+    },
+    {
+      "question": "[ ___ ] Hay un coche clásico de color naranja aparcado dentro del garaje.",
+      "correct": [
+        "verdadero"
+      ],
+      "wrong": [
+        "falso"
+      ]
+    }
+  ]
+}
