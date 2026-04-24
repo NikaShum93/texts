@@ -1,0 +1,118 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Indie Flower",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": true,
+  "bubbleSize": 148,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/yd6TrKcG/bd.png",
+    "bubbleSize": 148,
+    "task": {
+      "bgColor": "rgba(19,83,139,1)",
+      "borderColor": "#2856e2",
+      "textColor": "#ffffff",
+      "fontSize": 35,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#3023e7",
+      "textColor": "#ffffff",
+      "fontSize": 35,
+      "neon": true,
+      "imageSize": 340
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://media.tenor.com/keaxDIpKwxcAAAAi/jorrparivar-digital-pratik.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "She doesn’t usually go to the gym after work because she’s always tired.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do they often visit their grandparents on holidays?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I always drink coffee in the morning before I start working.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "He works as a software engineer in a large company.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We don’t understand why he never answers our messages.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Does she play the piano every day, or only on weekends?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They don’t speak Spanish, but they are learning it now.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My parents usually drive to the countryside during the summer.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do you know how to cook Italian food?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "He likes to read books about history and science.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I don’t usually eat breakfast before 9 a.m.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do they ever travel abroad for business?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She always arrives at work on time, even when it rains.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My friends don’t go to that restaurant because the food is too expensive.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Does your brother help you with your homework when you need it?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
