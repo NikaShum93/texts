@@ -1,0 +1,88 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/674c691df244bc001518fa67/168fcfb1-9f0d-4974-9741-8b91276491dd.png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(153,202,0,0.8)",
+      "borderColor": "#618300",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#46a800",
+      "borderColor": "#4a7200",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Who is Sam?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Does Sam have good or bad luck?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Why does she miss her bus?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What happens when she runs to school?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Where do her books fall?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "How does Sam feel after this?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What does she want to do after school?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What does she lose?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Who does Sam see near the street?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
