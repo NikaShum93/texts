@@ -1,0 +1,108 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Indie Flower",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": true,
+  "bubbleSize": 102,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/ZKtdCjg5/nv.png",
+    "bubbleSize": 102,
+    "task": {
+      "bgColor": "rgba(9,84,149,1)",
+      "borderColor": "#1410f4",
+      "textColor": "#ffffff",
+      "fontSize": 30,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#09279f",
+      "textColor": "#ffffff",
+      "fontSize": 30,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://media.tenor.com/-UGYBHrq9bUAAAAi/cony-and.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "A lion can run faster than most animals.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My cat can jump very high.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Elephants can communicate using low-frequency sounds.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Dolphins can understand simple commands.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "A cheetah can reach speeds of up to 70 miles per hour.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Dogs can hear sounds that are too high-pitched for humans.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Owls can see well in the dark.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "A horse can carry heavy loads over long distances.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Monkeys can use tools to find food.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "A rabbit can hop quickly to escape predators.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Parrots can mimic human speech.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Snakes can sense vibrations through the ground.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Tigers can swim across rivers and lakes.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
