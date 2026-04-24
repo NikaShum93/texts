@@ -1,0 +1,93 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Rubik",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/lXMg2FMhfhQAAAAj/pusheen-harry-potter.gif",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(49,32,7,1)",
+      "borderColor": "#2e1d05",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": false
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#563110",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Have you got a red pencil?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Has he got a blue notebook?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Has she got a yellow bag?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Have they got a green pen?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Have we got a white eraser?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Has your house got a kitchen?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Has your house got a garden?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Has your family got a big house?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Has your bedroom got a blue wall?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Have you got a blue backpack?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
