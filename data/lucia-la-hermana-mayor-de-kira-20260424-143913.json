@@ -1,0 +1,106 @@
+{
+  "language": "es",
+  "lang": "es",
+  "font": "Poppins",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/gcTnZsTK/Untitled-design-(24).png",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#92b3b5",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 ¡Genial!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Lucía ___la hermana mayor de Kira.",
+      "correct": [
+        "es"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "_____ 18 años y acaba de terminar sus estudios en el colegio.",
+      "correct": [
+        "Tiene"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Ahora mismo no estudia, porque ____ de año sabático.",
+      "correct": [
+        "está"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "____ un plan increíble: va a viajar de mochilera por toda Latinoamérica.",
+      "correct": [
+        "tiene"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Como persona, ella ___ un poco rebelde y muy aventurera.",
+      "correct": [
+        "es"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "____ gustos musicales variados: le encanta escuchar rock, pero también baila reguetón en las fiestas.",
+      "correct": [
+        "Tiene"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "En este momento, ella ____ muy emocionada preparando su equipaje.",
+      "correct": [
+        "está"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "En su mochila grande solo ____ lo necesario.",
+      "correct": [
+        "tiene"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Su ruta de viaje ___ muy interesante.",
+      "correct": [
+        "es"
+      ],
+      "wrong": []
+    }
+  ]
+}
