@@ -1,0 +1,93 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Fredoka",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/lXMg2FMhfhQAAAAi/pusheen-harry-potter.gif",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(103,66,14,1)",
+      "borderColor": "#543007",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#60330b",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": false,
+      "imageSize": 360
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Have you got a computer?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Has she got blond hair?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Have they got new trainers?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Have we got Art today?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Has he got long legs?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Have you got a dog?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Has she got a friend?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Has her mother got long hair?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Have they got brown eyes?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Has you friend got a cat?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
