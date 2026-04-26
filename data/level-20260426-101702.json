@@ -1,0 +1,271 @@
+{
+  "language": "ru",
+  "font": "Cormorant",
+  "fontSize": 26,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "questionFont": "PT Sans",
+  "questionFontSize": 25,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://media.tenor.com/SEM6PKC5LU8AAAAi/shield-sparkle.gif",
+    "bgImages": [
+      "https://media.tenor.com/SEM6PKC5LU8AAAAi/shield-sparkle.gif"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 170
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Игра \"Н и НН\"",
+    "btnText": "Начать"
+  },
+  "direction": "random",
+  "finalFeedback": "Отличная работа!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "лебеди_ая песня",
+      "correct": [
+        "Н"
+      ],
+      "wrong": [
+        "НН"
+      ]
+    },
+    {
+      "target": "спорить убеждё_о",
+      "correct": [
+        "НН"
+      ],
+      "wrong": [
+        "Н"
+      ]
+    },
+    {
+      "target": "соломе_ая шляпа",
+      "correct": [
+        "НН"
+      ],
+      "wrong": [
+        "Н"
+      ]
+    },
+    {
+      "target": "змеи_ая гибкость",
+      "correct": [
+        "Н"
+      ],
+      "wrong": [
+        "НН"
+      ]
+    },
+    {
+      "target": "вяза_ая шапка",
+      "correct": [
+        "Н"
+      ],
+      "wrong": [
+        "НН"
+      ]
+    },
+    {
+      "target": "сгущё_ое молоко",
+      "correct": [
+        "НН"
+      ],
+      "wrong": [
+        "Н"
+      ]
+    },
+    {
+      "target": "кипячё_ая вода",
+      "correct": [
+        "Н"
+      ],
+      "wrong": [
+        "НН"
+      ]
+    },
+    {
+      "target": "оловя_ый поднос",
+      "correct": [
+        "НН"
+      ],
+      "wrong": [
+        "Н"
+      ]
+    },
+    {
+      "target": "ремесле_ое училище",
+      "correct": [
+        "НН"
+      ],
+      "wrong": [
+        "Н"
+      ]
+    },
+    {
+      "target": "расчище_ая дорожка",
+      "correct": [
+        "НН"
+      ],
+      "wrong": [
+        "Н"
+      ]
+    },
+    {
+      "target": "смышлё_ый малыш",
+      "correct": [
+        "Н"
+      ],
+      "wrong": [
+        "НН"
+      ]
+    },
+    {
+      "target": "размере_о шагать",
+      "correct": [
+        "НН"
+      ],
+      "wrong": [
+        "Н"
+      ]
+    },
+    {
+      "target": "орли_ый полёт",
+      "correct": [
+        "Н"
+      ],
+      "wrong": [
+        "НН"
+      ]
+    },
+    {
+      "target": "беше_ый восторг",
+      "correct": [
+        "Н"
+      ],
+      "wrong": [
+        "НН"
+      ]
+    },
+    {
+      "target": "румя_ые щёки",
+      "correct": [
+        "Н"
+      ],
+      "wrong": [
+        "НН"
+      ]
+    },
+    {
+      "target": "овчи_ый тулуп",
+      "correct": [
+        "НН"
+      ],
+      "wrong": [
+        "Н"
+      ]
+    },
+    {
+      "target": "волося_ой покров",
+      "correct": [
+        "Н"
+      ],
+      "wrong": [
+        "НН"
+      ]
+    },
+    {
+      "target": "напряжё_о работать",
+      "correct": [
+        "НН"
+      ],
+      "wrong": [
+        "Н"
+      ]
+    },
+    {
+      "target": "багря_ая заря",
+      "correct": [
+        "Н"
+      ],
+      "wrong": [
+        "НН"
+      ]
+    },
+    {
+      "target": "ю_ый художник",
+      "correct": [
+        "Н"
+      ],
+      "wrong": [
+        "НН"
+      ]
+    },
+    {
+      "target": "кухо_ые часы",
+      "correct": [
+        "НН"
+      ],
+      "wrong": [
+        "Н"
+      ]
+    },
+    {
+      "target": "писа_ая красавица",
+      "correct": [
+        "Н"
+      ],
+      "wrong": [
+        "НН"
+      ]
+    },
+    {
+      "target": "варё_ая колбаса",
+      "correct": [
+        "Н"
+      ],
+      "wrong": [
+        "НН"
+      ]
+    },
+    {
+      "target": "болезне_ый вид",
+      "correct": [
+        "НН"
+      ],
+      "wrong": [
+        "Н"
+      ]
+    },
+    {
+      "target": "грачи_ые гнёзда",
+      "correct": [
+        "Н"
+      ],
+      "wrong": [
+        "НН"
+      ]
+    },
+    {
+      "target": "телефо_ый звонок",
+      "correct": [
+        "НН"
+      ],
+      "wrong": [
+        "Н"
+      ]
+    }
+  ]
+}
