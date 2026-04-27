@@ -1,0 +1,83 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 106,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/c4c1e74e-2d9a-4156-83f7-393ffec8e413.png",
+    "bubbleSize": 106,
+    "task": {
+      "bgColor": "rgba(255,187,0,0.85)",
+      "borderColor": "#ff5900",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://img.genially.com/69280f411dd3350008276459/b81285a5-b5a6-4cef-9edb-7966024e4277.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "She has her car washed every week. → __________",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They had their house painted last year. → __________",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "He is having his phone repaired now. → __________",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "You will have your eyes checked tomorrow. → __________",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We have our windows cleaned every month. → __________",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She had her nails done yesterday. → __________",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They are having their flat decorated now. → __________",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "He will have his suit cleaned soon.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
