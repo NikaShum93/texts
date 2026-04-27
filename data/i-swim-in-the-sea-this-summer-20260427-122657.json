@@ -1,0 +1,148 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Fredoka",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 124,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/VvWwQL78/ba.png",
+    "bubbleSize": 124,
+    "task": {
+      "bgColor": "rgba(71,148,215,1)",
+      "borderColor": "#4accd3",
+      "textColor": "#ffffff",
+      "fontSize": 36,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#3a23e7",
+      "textColor": "#ffffff",
+      "fontSize": 36,
+      "neon": true,
+      "imageSize": 440
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://media.tenor.com/ibEo596vD8QAAAAi/beaches-sunbathing.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "I ___ (swim) in the sea this summer.",
+      "correct": [
+        "have swum"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "She ___ (visit) three countries this summer.",
+      "correct": [
+        "has visited"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We ___ (eat) a lot of ice cream this week.",
+      "correct": [
+        "have eaten"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "They ___ (travel) to the mountains this summer.",
+      "correct": [
+        "have traveled"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "He ___ (take) many photos on vacation.",
+      "correct": [
+        "has taken"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I ___ (not / see) such a beautiful sunset before.",
+      "correct": [
+        "have not seen"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "You ___ (try) surfing this summer?",
+      "correct": [
+        "Have you tried"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "She ___ (buy) new sunglasses.",
+      "correct": [
+        "has bought"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We ___ (not / go) to the beach yet.",
+      "correct": [
+        "have not gone"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "They ___ (have) a great time at the festival.",
+      "correct": [
+        "have had"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "He ___ (not / finish) his summer book yet.",
+      "correct": [
+        "has not finished"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I ___ (learn) to ride a bike this summer.",
+      "correct": [
+        "have learned"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "You ___ (ever / eat) fresh mango?",
+      "correct": [
+        "Have you ever eaten"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "She ___ (make) a new friend on holiday.",
+      "correct": [
+        "has made"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We ___ (just / arrive) at the hotel.",
+      "correct": [
+        "have just arrived"
+      ],
+      "wrong": []
+    }
+  ]
+}
