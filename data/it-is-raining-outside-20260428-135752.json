@@ -1,0 +1,97 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 152,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/f0b8f962-c701-4138-a39e-6b8bbad6ff73.png",
+    "bubbleSize": 152,
+    "task": {
+      "bgColor": "rgba(255,123,0,0.85)",
+      "borderColor": "#ffbb00",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Amazing!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 2,
+  "tasks": [
+    {
+      "question": "It is raining outside.",
+      "correct": [
+        "False"
+      ],
+      "wrong": [
+        "True"
+      ]
+    },
+    {
+      "question": "Russel likes their adventures.",
+      "correct": [
+        "True"
+      ],
+      "wrong": [
+        "False"
+      ]
+    },
+    {
+      "question": "Russel hates rainy days.",
+      "correct": [
+        "False"
+      ],
+      "wrong": [
+        "True"
+      ]
+    },
+    {
+      "question": "The weather is windy.",
+      "correct": [
+        "False"
+      ],
+      "wrong": [
+        "True"
+      ]
+    },
+    {
+      "question": "There are many clouds in the sky.",
+      "correct": [
+        "False"
+      ],
+      "wrong": [
+        "True"
+      ]
+    },
+    {
+      "question": "The birds are singing",
+      "correct": [
+        "True"
+      ],
+      "wrong": [
+        "False"
+      ]
+    }
+  ]
+}
