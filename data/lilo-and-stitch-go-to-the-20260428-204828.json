@@ -1,0 +1,106 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 92,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/d16a245c-d620-4900-8434-fe8086ac9ad6.png",
+    "bubbleSize": 92,
+    "task": {
+      "bgColor": "rgba(255,102,102,0.85)",
+      "borderColor": "#ff0000",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#ac1616",
+      "borderColor": "#ff0000",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 540
+    }
+  },
+  "finalFeedback": "🎉 Super!",
+  "feedbackImage": "https://img.genially.com/69280f411dd3350008276459/9491eebc-f53f-4d95-912d-1d0e6c1f522f.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 2,
+  "tasks": [
+    {
+      "question": "Lilo and Stitch go to the ___.",
+      "correct": [
+        "garden"
+      ],
+      "wrong": [
+        "café"
+      ]
+    },
+    {
+      "question": "There are many flowers in the garden. They are ___.",
+      "correct": [
+        "red, yellow and pink"
+      ],
+      "wrong": [
+        "red, yellow and purple"
+      ]
+    },
+    {
+      "question": "Nani's favourite colour is ___.",
+      "correct": [
+        "red"
+      ],
+      "wrong": [
+        "pink"
+      ]
+    },
+    {
+      "question": "Stitch pulls ___.",
+      "correct": [
+        "a plant"
+      ],
+      "wrong": [
+        "a car"
+      ]
+    },
+    {
+      "question": "They put the flowers in the ___.",
+      "correct": [
+        "basket"
+      ],
+      "wrong": [
+        "bag"
+      ]
+    },
+    {
+      "question": "Stitch picks ___ flowers.",
+      "correct": [
+        "too many"
+      ],
+      "wrong": [
+        "not so many"
+      ]
+    },
+    {
+      "question": "Lilo ___ fix the plant.",
+      "correct": [
+        "can"
+      ],
+      "wrong": [
+        "can't"
+      ]
+    }
+  ]
+}
