@@ -1,0 +1,67 @@
+{
+  "language": "ru",
+  "font": "Rubik",
+  "fontSize": 30,
+  "textColor": "#000000",
+  "speed": 2,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://img.genially.com/65a66a0db3c06500207bb5f3/480b4999-1b7d-4e97-b922-ccce35c5f13d.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 240
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Поймай слог",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Отличная работа!",
+  "levels": [
+    {
+      "target": "все слоги с буквой Ч",
+      "correct": [
+        "ЧА",
+        "ЧО",
+        "ЧУ",
+        "ЧИ",
+        "ЧЕ",
+        "ЧЁ",
+        "АЧ",
+        "ОЧ",
+        "УЧ",
+        "ИЧ",
+        "ЕЧ",
+        "ЁЧ"
+      ],
+      "wrong": [
+        "МА",
+        "СУ",
+        "КО",
+        "РЫ",
+        "СЮ",
+        "ДЁ",
+        "ВЕ",
+        "ИШ",
+        "УК",
+        "ИТ",
+        "ЕН",
+        "ЮГ",
+        "ЯЗ"
+      ],
+      "timer": 30
+    }
+  ]
+}
