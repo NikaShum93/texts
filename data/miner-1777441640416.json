@@ -1,0 +1,124 @@
+{
+  "ui": {
+    "title": "Forecasting Vocab",
+    "hideTitle": false,
+    "titleImg": "",
+    "win": "КВИЗ ПРОЙДЕН!",
+    "start": "СТАРТ",
+    "again": "ЕЩЁ РАЗ",
+    "btnColor": "#e74c3c",
+    "btnGlow": "#c0392b",
+    "btnSize": 5,
+    "btnY": 74,
+    "btnAnim": "none"
+  },
+  "visual": {
+    "bgTransparent": false,
+    "hero": "hero.png",
+    "hook": "hook.png",
+    "hookSound": "https://github.com/NikaShum93/hk/raw/refs/heads/main/chain.mp3",
+    "targets": [
+      "target.png"
+    ],
+    "targetSize": 90,
+    "ropeColor": "#7f8c8d",
+    "qBoxColor": "#ffffff",
+    "heroSize": 101,
+    "heroX": 32,
+    "hookSize": 60,
+    "hookOffsetY": -15,
+    "fontFamily": "Montserrat",
+    "qColor": "#ffffff",
+    "qGlow": "#00ffcc",
+    "qSize": 2,
+    "tColor": "#ffffff",
+    "tGlow": "#000000",
+    "tSize": 16
+  },
+  "gameplay": {
+    "hookSpeed": 10,
+    "swingSpeed": 0.035
+  },
+  "tasks": [
+    {
+      "q": "To be a successful journalist you need a(n) ___ for what makes a good story.",
+      "correct": [
+        "instinct"
+      ],
+      "wrong": [
+        "insight",
+        "tendency"
+      ]
+    },
+    {
+      "q": "The economic ___ for the next year is not very optimistic.",
+      "correct": [
+        "outlook"
+      ],
+      "wrong": [
+        "calculation",
+        "accuracy"
+      ]
+    },
+    {
+      "q": "Ella is naturally cautious, so she has a(n) ___ to be pessimistic in her predictions.",
+      "correct": [
+        "tendency"
+      ],
+      "wrong": [
+        "judgement",
+        "instinct"
+      ]
+    },
+    {
+      "q": "The ___ of our predictions was called into question by some new data.",
+      "correct": [
+        "accuracy"
+      ],
+      "wrong": [
+        "scenario",
+        "instinct"
+      ]
+    },
+    {
+      "q": "These results don't make sense – I need to check my ___ again.",
+      "correct": [
+        "calculations"
+      ],
+      "wrong": [
+        "judgements",
+        "outlooks"
+      ]
+    },
+    {
+      "q": "Watching that documentary gave me a fascinating ___ into life as a celebrity.",
+      "correct": [
+        "insight"
+      ],
+      "wrong": [
+        "scenario",
+        "outlook"
+      ]
+    },
+    {
+      "q": "Before you make any kind of ___, it's important to consider all the evidence.",
+      "correct": [
+        "judgement"
+      ],
+      "wrong": [
+        "accuracy",
+        "tendency"
+      ]
+    },
+    {
+      "q": "The science of modelling involves imagining possible ___ and working out what is likely to happen.",
+      "correct": [
+        "scenarios"
+      ],
+      "wrong": [
+        "calculations",
+        "insights"
+      ]
+    }
+  ]
+}
