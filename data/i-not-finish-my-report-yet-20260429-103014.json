@@ -1,0 +1,179 @@
+{
+  "language": "en",
+  "font": "PT Sans",
+  "fontSize": 36,
+  "textColor": "#0f0f0f",
+  "speed": 4,
+  "questionFont": "Rubik",
+  "questionFontSize": 25,
+  "style": {
+    "shape": "rounded",
+    "pad": 40,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/CL1Lzhjs/1.png\nhttps://i.postimg.cc/65m6Zk0H/2.png\nhttps://i.postimg.cc/vHN8nJzN/3.png",
+    "bgImages": [
+      "https://i.postimg.cc/CL1Lzhjs/1.png",
+      "https://i.postimg.cc/65m6Zk0H/2.png",
+      "https://i.postimg.cc/vHN8nJzN/3.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 260
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Past Simple VS Present Perfect",
+    "btnText": "START"
+  },
+  "direction": "random",
+  "finalFeedback": "Great Job!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "I ___ (not finish) my report yet.",
+      "correct": [
+        "have not finished"
+      ],
+      "wrong": [
+        "did not finish",
+        "not finished"
+      ]
+    },
+    {
+      "target": "She ___ (leave) the office an hour ago.",
+      "correct": [
+        "left"
+      ],
+      "wrong": [
+        "has left",
+        "have left"
+      ]
+    },
+    {
+      "target": "We ___ already ___ (discuss) this problem.",
+      "correct": [
+        "have already discussed"
+      ],
+      "wrong": [
+        "already discussed",
+        "had discussed"
+      ]
+    },
+    {
+      "target": "___ you ever ___ (try) sushi?",
+      "correct": [
+        "Have tried"
+      ],
+      "wrong": [
+        "Did try",
+        "Have try"
+      ]
+    },
+    {
+      "target": "He ___ (not call) me yesterday.",
+      "correct": [
+        "did not call"
+      ],
+      "wrong": [
+        "has not called",
+        "not called"
+      ]
+    },
+    {
+      "target": "They ___ just ___ (arrive), so they are tired.",
+      "correct": [
+        "have just arrived"
+      ],
+      "wrong": [
+        "just arrived",
+        "had arrived"
+      ]
+    },
+    {
+      "target": "She ___ never ___ (be) late before today.",
+      "correct": [
+        "has never been"
+      ],
+      "wrong": [
+        "never was",
+        "has never be"
+      ]
+    },
+    {
+      "target": "We ___ (finish) the test 10 minutes ago.",
+      "correct": [
+        "finished"
+      ],
+      "wrong": [
+        "have finished",
+        "finish"
+      ]
+    },
+    {
+      "target": "___ you ___ (do) your homework yet?",
+      "correct": [
+        "Have done"
+      ],
+      "wrong": [
+        "Did do",
+        "Have do"
+      ]
+    },
+    {
+      "target": "He ___ (break) his leg when he was a child.",
+      "correct": [
+        "broke"
+      ],
+      "wrong": [
+        "has broken",
+        "breaked"
+      ]
+    },
+    {
+      "target": "I ___ already ___ (read) this book twice.",
+      "correct": [
+        "have already read"
+      ],
+      "wrong": [
+        "readed",
+        "have readed"
+      ]
+    },
+    {
+      "target": "They ___ (not visit) us last summer.",
+      "correct": [
+        "did not visit"
+      ],
+      "wrong": [
+        "have not visited",
+        "not visited"
+      ]
+    },
+    {
+      "target": "She ___ just ___ (lose) her phone, so she is upset.",
+      "correct": [
+        "has just lost"
+      ],
+      "wrong": [
+        "have just lose",
+        "lost"
+      ]
+    },
+    {
+      "target": "We ___ (know) each other for five years.",
+      "correct": [
+        "have known"
+      ],
+      "wrong": [
+        "knew",
+        "know"
+      ]
+    }
+  ]
+}
