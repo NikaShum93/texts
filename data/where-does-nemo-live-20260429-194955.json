@@ -1,0 +1,73 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 110,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/b1c20301-7d21-4607-a5b5-7a1d72f514d6.png",
+    "bubbleSize": 110,
+    "task": {
+      "bgColor": "rgba(198,77,255,1)",
+      "borderColor": "#9102c5",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#c14dff",
+      "borderColor": "#84009e",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 You are a star!",
+  "feedbackImage": "https://img.genially.com/69280f411dd3350008276459/07f0b83a-d9b7-44a5-ba10-632a19bff2b1.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Where does Nemo live?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Who does Nemo live with?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What strange thing does Nemo see?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What is inside the bucket?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "HOw does Nemo use the sock?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Does Nemo look cool?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
