@@ -1,0 +1,97 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 110,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/4a30d753-17f4-4830-aa02-257a0b40df72.png",
+    "bubbleSize": 110,
+    "task": {
+      "bgColor": "rgba(114,53,3,0.8)",
+      "borderColor": "#ffea00",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#5b4006",
+      "borderColor": "#ffdd33",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "Amazing!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 2,
+  "tasks": [
+    {
+      "question": "Grunkle Stan drops his tools.",
+      "correct": [
+        "false"
+      ],
+      "wrong": [
+        "true"
+      ]
+    },
+    {
+      "question": "Mabel takes out a flashlight.",
+      "correct": [
+        "false"
+      ],
+      "wrong": [
+        "true"
+      ]
+    },
+    {
+      "question": "Dipper wants to catch a monster.",
+      "correct": [
+        "true"
+      ],
+      "wrong": [
+        "false"
+      ]
+    },
+    {
+      "question": "Waddles is Mabel's pet.",
+      "correct": [
+        "true"
+      ],
+      "wrong": [
+        "false"
+      ]
+    },
+    {
+      "question": "He has a carrot in his mouth.",
+      "correct": [
+        "false"
+      ],
+      "wrong": [
+        "true"
+      ]
+    },
+    {
+      "question": "Waddles scared everyone.",
+      "correct": [
+        "true"
+      ],
+      "wrong": [
+        "false"
+      ]
+    }
+  ]
+}
