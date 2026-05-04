@@ -1,0 +1,73 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 158,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://ai-image.genially.com/69280f6b271efa024129946b/69f351baab86d6d6d6032fe8/69f8b30c3d83104cffde69c8.png",
+    "bubbleSize": 158,
+    "task": {
+      "bgColor": "rgba(224,165,0,0.8)",
+      "borderColor": "#ffd22e",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#b8852e",
+      "borderColor": "#ffe747",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://ai-image.genially.com/69280f6b271efa024129946b/69f351baab86d6d6d6032fe8/69f8c6d8dd801055e6982bdb.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "What do they do with the coconut?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "How many coconuts fall?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Why does Heihei look dizzy?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What is there inside the coconut?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What does the pig look like?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Does Moana like the pig?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
