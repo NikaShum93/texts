@@ -1,0 +1,103 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 126,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://ai-image.genially.com/69280f6b271efa024129946b/69f9e64deeba0a0e5f0d6bde/69f9e69e838b2a9883befb46.png",
+    "bubbleSize": 126,
+    "task": {
+      "bgColor": "rgba(242,140,179,0.85)",
+      "borderColor": "#ee465c",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#f28cb3",
+      "borderColor": "#ee465c",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "____ a small rabbit in the police team.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "____ two police officers in the city.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "____ a clever fox in the story.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "____ many animals in Zootopia.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "____ a big buffalo at the police station.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "____ three new characters in the film.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "____ a rich lynx in the city.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "____ some animals in the office.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "____ a long snake in the story.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "____ many tall buildings in Zootopia.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "____ a boss in a big house.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "____ two friends in the police team.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
