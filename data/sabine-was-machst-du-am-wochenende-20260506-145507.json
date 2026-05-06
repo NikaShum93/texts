@@ -1,0 +1,78 @@
+{
+  "language": "de",
+  "lang": "de",
+  "font": "Caveat",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://ai-image.genially.com/666ae28033f3b6001441b77c/69cd31106329279a5477df66/69faf19b247c38661fa0eca8.png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(255,211,92,1)",
+      "borderColor": "#f9daae",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Toll!",
+  "feedbackImage": "https://ai-image.genially.com/666ae28033f3b6001441b77c/69cd31106329279a5477df66/69faf19b247c38661fa0eca8.pnghttps://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Sabine, was machst du am Wochenende?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Am Wochenende gehe ich mit meiner Familie in den Zoo.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Alex möchte auf die Skaterbahn gehen.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Paul möchte nicht Skateboard fahren.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Felix möchte Fußball spielen.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Felix möchte auf den Sportplatz gehen.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Lisa möchte nicht Basketball spielen.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
