@@ -1,0 +1,76 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 30,
+  "textColor": "#c79200",
+  "speed": 5,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://ai-image.genially.com/666ae28033f3b6001441b77c/69cd31106329279a5477df66/69faea9c56f71274fe21f5cf.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": true,
+    "glow": false,
+    "glowColor": "#eef58a",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 260
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Die Ei-Katastrophe",
+    "btnText": "Los!"
+  },
+  "direction": "down",
+  "finalFeedback": "Toll!",
+  "levels": [
+    {
+      "target": "Teil 1",
+      "correct": [
+        "eins",
+        "zwei",
+        "dreißig"
+      ],
+      "wrong": [
+        "ains",
+        "zwej",
+        "dreizig"
+      ],
+      "timer": 60
+    },
+    {
+      "target": "Teil 2",
+      "correct": [
+        "vierundvierzig",
+        "fünfundfünfzig",
+        "sechzig"
+      ],
+      "wrong": [
+        "fierundfierzig",
+        "vünvundvünvzig",
+        "sechszig"
+      ],
+      "timer": 60
+    },
+    {
+      "target": "Teil 3",
+      "correct": [
+        "siebzehn",
+        "neunundachtzig",
+        "hundert"
+      ],
+      "wrong": [
+        "siebenzehn",
+        "neunundahzig",
+        "hindert"
+      ],
+      "timer": 60
+    }
+  ]
+}
