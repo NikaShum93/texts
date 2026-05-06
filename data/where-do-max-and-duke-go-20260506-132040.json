@@ -1,0 +1,68 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 158,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://ai-image.genially.com/69280f6b271efa024129946b/69fb0712d22a97a2e703df9f/69fb0b0034d44dc16c81ce9e.png",
+    "bubbleSize": 158,
+    "task": {
+      "bgColor": "rgba(219,235,0,0.8)",
+      "borderColor": "#6fd51a",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#b85e13",
+      "borderColor": "#fccb1d",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "Great job!",
+  "feedbackImage": "https://ai-image.genially.com/69280f6b271efa024129946b/69fb0712d22a97a2e703df9f/69fb0d7d57ec4788cf041ef4.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Where do Max and Duke go?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What do Max and Duke hear?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What does Gidget look like?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What does Gidget have?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Why does Gidget have the treats?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
