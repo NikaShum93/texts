@@ -1,0 +1,60 @@
+{
+  "language": "de",
+  "font": "Playfair Display",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://ai-image.genially.com/666ae28033f3b6001441b77c/69cd31106329279a5477df66/69faea9c56f71274fe21f5cf.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": true,
+    "glow": false,
+    "glowColor": "#f7d473",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "die Ei-Katastrophe",
+    "btnText": "Los!"
+  },
+  "direction": "down",
+  "finalFeedback": "Toll!",
+  "levels": [
+    {
+      "target": "1.",
+      "correct": [
+        "eins",
+        "zwei",
+        "dreißig",
+        "vierundvierzig",
+        "fünfundfünfzig",
+        "sechzig",
+        "siebzehn",
+        "neunundachtzig",
+        "hundert"
+      ],
+      "wrong": [
+        "ains",
+        "zwej",
+        "dreizig",
+        "fierundfierzig",
+        "vünvundvünvzig",
+        "sechszig",
+        "siebenzehn",
+        "neunundahzig",
+        "hindert"
+      ],
+      "timer": 30
+    }
+  ]
+}
