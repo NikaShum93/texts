@@ -1,0 +1,97 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://ai-image.genially.com/69280f6b271efa024129946b/69fb379d79e870b9ae5426ca/69fb3c023237df0e1b29c987.png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(242,193,13,0.85)",
+      "borderColor": "#ffee80",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "Perfect!",
+  "feedbackImage": "https://ai-image.genially.com/69280f6b271efa024129946b/69fb379d79e870b9ae5426ca/69fb39ce9d6830c3a12f0f5b.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 2,
+  "tasks": [
+    {
+      "question": "Ember's mom comes in.",
+      "correct": [
+        "false"
+      ],
+      "wrong": [
+        "true"
+      ]
+    },
+    {
+      "question": "Dad throws the pancake out of the window.",
+      "correct": [
+        "false"
+      ],
+      "wrong": [
+        "true"
+      ]
+    },
+    {
+      "question": "The pancake makes a hole in the wall.",
+      "correct": [
+        "true"
+      ],
+      "wrong": [
+        "false"
+      ]
+    },
+    {
+      "question": "Next time Ember uses low heat.",
+      "correct": [
+        "true"
+      ],
+      "wrong": [
+        "false"
+      ]
+    },
+    {
+      "question": "New pancake is golden and soft.",
+      "correct": [
+        "true"
+      ],
+      "wrong": [
+        "false"
+      ]
+    },
+    {
+      "question": "Making pancakes with friends is fun.",
+      "correct": [
+        "true"
+      ],
+      "wrong": [
+        "false"
+      ]
+    }
+  ]
+}
