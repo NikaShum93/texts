@@ -1,0 +1,97 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://ai-image.genially.com/69280f6b271efa024129946b/69f9e64deeba0a0e5f0d6bde/69faeab7caf22b0d6f0ea104.png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(79,172,254,0.85)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#00bfff",
+      "borderColor": "#00fbff",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "Amazing!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 2,
+  "tasks": [
+    {
+      "question": "Olaf loves ice.",
+      "correct": [
+        "true"
+      ],
+      "wrong": [
+        "false"
+      ]
+    },
+    {
+      "question": "Olaf doesn't eat the cookies.",
+      "correct": [
+        "false"
+      ],
+      "wrong": [
+        "true"
+      ]
+    },
+    {
+      "question": "The cookie is cold and sweet.",
+      "correct": [
+        "true"
+      ],
+      "wrong": [
+        "false"
+      ]
+    },
+    {
+      "question": "Olaf is the reindeer.",
+      "correct": [
+        "false"
+      ],
+      "wrong": [
+        "true"
+      ]
+    },
+    {
+      "question": "Anna and Elsa like the cookies.",
+      "correct": [
+        "true"
+      ],
+      "wrong": [
+        "false"
+      ]
+    },
+    {
+      "question": "Elsa has the recipe of the ice cookies.",
+      "correct": [
+        "false"
+      ],
+      "wrong": [
+        "true"
+      ]
+    }
+  ]
+}
