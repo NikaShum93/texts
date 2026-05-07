@@ -1,0 +1,133 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/9a6a6a78-640c-42ce-a67d-f0e875be1e29.png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(255,163,238,0.85)",
+      "borderColor": "#00d5ff",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#fab8ff",
+      "borderColor": "#99fdff",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 2,
+  "tasks": [
+    {
+      "question": "____ a cat on the chair.",
+      "correct": [
+        "There is"
+      ],
+      "wrong": [
+        "There are"
+      ]
+    },
+    {
+      "question": "____ three books on the table.",
+      "correct": [
+        "There are"
+      ],
+      "wrong": [
+        "There is"
+      ]
+    },
+    {
+      "question": "____ a ball under the bed.",
+      "correct": [
+        "There is"
+      ],
+      "wrong": [
+        "There are"
+      ]
+    },
+    {
+      "question": "____ two birds in the tree.",
+      "correct": [
+        "There are"
+      ],
+      "wrong": [
+        "There is"
+      ]
+    },
+    {
+      "question": "____ a teacher in the classroom.",
+      "correct": [
+        "There is"
+      ],
+      "wrong": [
+        "There are"
+      ]
+    },
+    {
+      "question": "____ many stars in the sky.",
+      "correct": [
+        "There are"
+      ],
+      "wrong": [
+        "There is"
+      ]
+    },
+    {
+      "question": "____ an apple in my bag.",
+      "correct": [
+        "There is"
+      ],
+      "wrong": [
+        "There are"
+      ]
+    },
+    {
+      "question": "____ four students in the room.",
+      "correct": [
+        "There are"
+      ],
+      "wrong": [
+        "There is"
+      ]
+    },
+    {
+      "question": "____ a dog near the door.",
+      "correct": [
+        "There is"
+      ],
+      "wrong": [
+        "There are"
+      ]
+    },
+    {
+      "question": "____ pencils in the box.",
+      "correct": [
+        "There are"
+      ],
+      "wrong": [
+        "There is"
+      ]
+    }
+  ]
+}
