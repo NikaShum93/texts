@@ -1,0 +1,103 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": true,
+  "bubbleSize": 150,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/742a5e64-404e-4334-aa80-ea32a3285046.png",
+    "bubbleSize": 150,
+    "task": {
+      "bgColor": "rgba(249,176,14,0.85)",
+      "borderColor": "#f6cc27",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#f2a30d",
+      "borderColor": "#f6be15",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "I swim in summer.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She plays on the beach.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We eat ice cream.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "He rides his bike.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They visit grandparents often.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Nick wears summer shorts.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Friends play volleyball outside.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The sun shines brightly.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Judy drinks cold lemonade.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We go camping together.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My dog runs outside.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Children watch summer fireworks.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
