@@ -1,0 +1,151 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Patrick Hand",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 76,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/6173fe3d318a510015c590ae/fc728286-b2e0-4cc1-ac7d-01e126dd9922.png",
+    "bubbleSize": 76,
+    "task": {
+      "bgColor": "rgba(167,177,185,1)",
+      "borderColor": "#eff6f6",
+      "textColor": "#030303",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#cb75d7",
+      "borderColor": "#56a8e6",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "By next Friday, I __________ my history project. (finish)",
+      "correct": [
+        "will have finished"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "By the time the film starts, we __________ our homework. (do)",
+      "correct": [
+        "will have done"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "She __________ all the snacks before the party even begins. (eat)",
+      "correct": [
+        "will have eaten"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "By the end of this month, they __________ the new sports centre. (open)",
+      "correct": [
+        "will have opened"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We __________ the game by 9 p.m. (not / complete)",
+      "correct": [
+        "will not have completed",
+        "won’t have completed"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "__________ you __________ the book by Monday? (finish)",
+      "correct": [
+        "Will you have finished"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Tom is worried because he __________ everything for the school trip by tomorrow. (not / pack)",
+      "correct": [
+        "will not have packed",
+        "won’t have packed"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "By this time next year, my sister __________ eighteen. (turn)",
+      "correct": [
+        "will have turned"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The teacher __________ all the tests by the end of the day. (check)",
+      "correct": [
+        "will have checked"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "By the time you arrive, I __________ dinner. (make)",
+      "correct": [
+        "will have made"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "They __________ the results before the meeting starts. (not / announce)",
+      "correct": [
+        "will not have announced",
+        "won’t have announced"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "How many episodes __________ you __________ by tonight? (watch)",
+      "correct": [
+        "will you have watched"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "By Saturday, we __________ enough money for the concert tickets. (save)",
+      "correct": [
+        "will have saved"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "My brother __________ his driving lessons by the summer. (complete)",
+      "correct": [
+        "will have completed"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "By the end of the lesson, the students __________ all the exercises. (write)",
+      "correct": [
+        "will have written"
+      ],
+      "wrong": []
+    }
+  ]
+}
