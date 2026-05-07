@@ -1,0 +1,148 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Patrick Hand",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 76,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/I0aJ4JbydNgAAAAi/candle.gif",
+    "bubbleSize": 76,
+    "task": {
+      "bgColor": "rgba(167,177,185,1)",
+      "borderColor": "#eae666",
+      "textColor": "#ededed",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#f0df75",
+      "borderColor": "#56a8e6",
+      "textColor": "#162ee3",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "This time tomorrow, I __________ for my biology test. (study)",
+      "correct": [
+        "will be studying"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "At 8 p.m. tonight, we __________ the new series on Netflix. (watch)",
+      "correct": [
+        "will be watching"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Don’t call Lucy at 6 — she __________ volleyball practice then. (have)",
+      "correct": [
+        "will be having"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "This time next week, they __________ on the beach. (lie)",
+      "correct": [
+        "will be lying"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "What __________ you __________ at this time tomorrow? (do)",
+      "correct": [
+        "will you be doing"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "By 10 o’clock, my brother __________ home from football training. (come)",
+      "correct": [
+        "will be coming"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The students __________ their presentations all afternoon. (prepare)",
+      "correct": [
+        "will be preparing"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I __________ to school tomorrow because it’s a holiday. (not / go)",
+      "correct": [
+        "will not be going"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "__________ your parents __________ dinner at 7 tonight? (make)",
+      "correct": [
+        "Will your parents be making"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "At midnight, people all over the city __________ the New Year. (celebrate)",
+      "correct": [
+        "will be celebrating"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "This time next month, Emma __________ for her driving test. (revise)",
+      "correct": [
+        "will be revising"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We __________ in the school gym this afternoon. (not / practise)",
+      "correct": [
+        "will not be practising"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Why __________ Tom __________ so early tomorrow morning? (leave)",
+      "correct": [
+        "will not be practicing"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "At 5 p.m., I __________ out with my friends, so I can’t meet you. (hang)",
+      "correct": [
+        "will Tom be leaving"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "",
+      "correct": [
+        "will be hanging"
+      ],
+      "wrong": []
+    }
+  ]
+}
