@@ -1,0 +1,149 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Patrick Hand",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 76,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/I0aJ4JbydNgAAAAi/candle.gif",
+    "bubbleSize": 76,
+    "task": {
+      "bgColor": "rgba(167,177,185,1)",
+      "borderColor": "#eae666",
+      "textColor": "#ededed",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#f0df75",
+      "borderColor": "#56a8e6",
+      "textColor": "#162ee3",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "This time tomorrow, I __________ for my English exam. (revise)",
+      "correct": [
+        "will be revising"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "At 7 p.m. tonight, we __________ dinner with our cousins. (have)",
+      "correct": [
+        "will be having"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Don’t text Mia now — she __________ for the school play. (rehearse)",
+      "correct": [
+        "will be rehearsing"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "This time next Saturday, they __________ to the mountains. (travel)",
+      "correct": [
+        "will be travelling",
+        "will be traveling"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "What __________ you __________ at 9 o’clock tonight? (do)",
+      "correct": [
+        "will you be doing"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "My friends __________ in the park after school, so you can join them. (hang out)",
+      "correct": [
+        "will be hanging out"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "At midnight, people __________ music and dancing at the festival. (enjoy)",
+      "correct": [
+        "will be enjoying"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I __________ at home tomorrow afternoon because I’m going to the dentist. (not / relax)",
+      "correct": [
+        "will not be relaxing"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "__________ your brother __________ computer games at 6 p.m.? (play)",
+      "correct": [
+        "Will your brother be playing"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "By this time next week, we __________ for the science fair. (prepare)",
+      "correct": [
+        "will be preparing"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "She __________ her grandparents this weekend, so she can’t come with us. (visit)",
+      "correct": [
+        "will be visiting"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The students __________ their phones during the test. (not / use)",
+      "correct": [
+        "will not be using"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Why __________ they __________ so early tomorrow? (leave)",
+      "correct": [
+        "will they be leaving"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "At 4 p.m., I __________ the bus home from school. (take)",
+      "correct": [
+        "will be taking"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "When we arrive, the teacher __________ to the parents. (talk)",
+      "correct": [
+        "will be talking"
+      ],
+      "wrong": []
+    }
+  ]
+}
