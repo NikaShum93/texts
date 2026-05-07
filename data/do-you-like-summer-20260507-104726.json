@@ -1,0 +1,103 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 152,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/59b7644b-a8b0-49f9-b201-dbff3900e2fd.png",
+    "bubbleSize": 152,
+    "task": {
+      "bgColor": "rgba(232,92,71,0.85)",
+      "borderColor": "#fecdaa",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#df6256",
+      "borderColor": "#fdad83",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Do you like summer?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Does your mummy cook pasta?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do your friends play football?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Does your dad drive a car?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do cats like milk?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Does your teacher read books?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do birds fly fast?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Does your brother watch cartoons?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do your grandparents live nearby?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Does your friend ride a bike?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do children eat ice cream?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Does your sister sing well?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
