@@ -1,0 +1,103 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": true,
+  "bubbleSize": 134,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/674c691df244bc001518fa67/16bc7f60-f874-4c96-95ec-48200863c636.png",
+    "bubbleSize": 134,
+    "task": {
+      "bgColor": "rgba(79,172,254,0.85)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#0032f9",
+      "borderColor": "#00f9fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Elsa is a queen",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Anna is very kind",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Olaf is happy in summer",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Kristoff is happy",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Sven is a reindeer",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Elsa is strong and kind",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Anna is happy and brave",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Olaf is a snowman",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Kristoff and Sven are together",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The castle is big and beautiful",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Arendelle is cold and snowy",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Anna and Elsa are sisters",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
