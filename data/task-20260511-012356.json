@@ -1,0 +1,83 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 200,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/6373b27423554f0011e5249f/6ff0bb19-c334-47f6-b93b-adcf7161b02f.png",
+    "bubbleSize": 200,
+    "task": {
+      "bgColor": "rgba(47,81,69,1)",
+      "borderColor": "#387165",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Супер!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Что такое окружность?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Что такое круг?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Что такое хорда?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Что такое радиус?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Что такое диаметр?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Сколько центров может быть у одной окружности? А радиусов?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Как связаны между собой длина радиуса и длина диаметра одной окружности?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Если две хорды равны, значит ли это, что они проходят через центр?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
