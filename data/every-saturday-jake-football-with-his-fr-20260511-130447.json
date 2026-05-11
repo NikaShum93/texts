@@ -1,0 +1,184 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Indie Flower",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/j__IuqOn0KEAAAAi/ice-cream-ice-cream-cone.gif",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#f2d72c",
+      "borderColor": "#1a33ea",
+      "textColor": "#0b51f4",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Every Saturday, Jake ________ football with his friends. (play)",
+      "correct": [
+        "plays"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Look! The baby ________ now. (sleep)",
+      "correct": [
+        "is sleeping"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We ________ to the cinema last weekend. (go)",
+      "correct": [
+        "went"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "At 8 p.m. yesterday, I ________ my homework. (do)",
+      "correct": [
+        "was doing"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "My sister usually ________ breakfast at 7:00. (have)",
+      "correct": [
+        "has"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Listen! The birds ________ in the garden. (sing)",
+      "correct": [
+        "are singing"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "They ________ to Spain last summer. (travel)",
+      "correct": [
+        "travelled",
+        "traveled"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "While my mum was cooking, I ________ TV. (watch)",
+      "correct": [
+        "was watching"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Tom always ________ his teeth before bed. (brush)",
+      "correct": [
+        "brushes"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Right now, my friends ________ in the park. (run)",
+      "correct": [
+        "are running"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "She ________ her grandma yesterday. (visit)",
+      "correct": [
+        "visited"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We ________ when the teacher came in. (talk)",
+      "correct": [
+        "were talking"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "My dad ________ coffee every morning. (drink)",
+      "correct": [
+        "drinks"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I ________ a book at the moment. (read)",
+      "correct": [
+        "am reading"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "He ________ his bike to school last Monday. (ride)",
+      "correct": [
+        "rode"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The children ________ in the sea when it started to rain. (swim)",
+      "correct": [
+        "were swimming"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Anna often ________ to music after school. (listen)",
+      "correct": [
+        "listens"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Be quiet! The students ________ a test. (take)",
+      "correct": [
+        "are taking"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I ________ my keys two days ago. (lose)",
+      "correct": [
+        "lost"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "At this time yesterday, they ________ for the bus. (wait)",
+      "correct": [
+        "were waiting"
+      ],
+      "wrong": []
+    }
+  ]
+}
