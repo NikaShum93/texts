@@ -1,0 +1,133 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Mountains of Christmas",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": false,
+  "bubbleSize": 64,
+  "sounds": {
+    "pop": "https://archive.org/download/button-water-high-deep/button-water-high-deep.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/4dZGb1F9/spider.png",
+    "bubbleSize": 64,
+    "task": {
+      "bgColor": "rgba(72,72,65,1)",
+      "borderColor": "#f9fb9d",
+      "textColor": "#ffffff",
+      "fontSize": 23,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#38383e",
+      "borderColor": "#ffda1f",
+      "textColor": "#ffffff",
+      "fontSize": 23,
+      "neon": true,
+      "imageSize": 360
+    }
+  },
+  "finalFeedback": "Look, Milo! There is a feather! It's a raven! I know who it belongs to!",
+  "feedbackImage": "https://i.postimg.cc/YqZTNhhs/feather.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Kiki ___ over the town to look for clues. (fly)",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The packages ___. (disappear)",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Kiki  ___ to the fisherman at the harbor. (talk)",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The raven ___ Kiki from the sky. (watch)",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She ___ any time. (not waste)",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The citizens ___ about the deliveries. (worry)",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Kiki ___ the strange sound. (follow)",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She ___ her investigation. (not going to, stop)",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I ___ .(not going to, give up)",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The thief ___ another package tonight. (going to, steal)",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Kiki ___ the Old Mill for new clues. (check)",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The feathers ___ around the mill. (fly)",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She ___ the signs. (look for)",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The raven ___ toward the harbor. (not fly)",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Kiki ___ her aunt for advice. (ask)",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Kiki ___ that somebody ___ her again. (feel, watch)",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Kiki ___ the truth very soon. (going to, find)",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My cat and I ___ together.(travel)",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
