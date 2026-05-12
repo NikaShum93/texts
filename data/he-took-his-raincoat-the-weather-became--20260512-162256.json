@@ -1,0 +1,153 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 150,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/6b2a4cb7-001c-4fc1-bbbf-beb1e5446ff1.png",
+    "bubbleSize": 150,
+    "task": {
+      "bgColor": "rgba(79,172,254,0.85)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#2e2eff",
+      "borderColor": "#23ace7",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "He took his raincoat ___ the weather became worse.",
+      "correct": [
+        "in case"
+      ],
+      "wrong": [
+        "in order to",
+        "in order that",
+        "from"
+      ]
+    },
+    {
+      "question": "Anna has bought a good camera ___ she can take beautiful pictures.",
+      "correct": [
+        "so that"
+      ],
+      "wrong": [
+        "to",
+        "for",
+        "in order to"
+      ]
+    },
+    {
+      "question": "Margaret goes to the gym ___ lose weight.",
+      "correct": [
+        "in order to"
+      ],
+      "wrong": [
+        "for",
+        "in order that",
+        "so that"
+      ]
+    },
+    {
+      "question": "They woke up earlier ____ they could watch the sunrise.",
+      "correct": [
+        "in order that"
+      ],
+      "wrong": [
+        "in case",
+        "so as to",
+        "in order to"
+      ]
+    },
+    {
+      "question": "My mum has some liquid ___ washing the floor.",
+      "correct": [
+        "for"
+      ],
+      "wrong": [
+        "from",
+        "to",
+        "in order to"
+      ]
+    },
+    {
+      "question": "I am going to the shop ___ buy some milk.",
+      "correct": [
+        "to"
+      ],
+      "wrong": [
+        "for",
+        "so that",
+        "to avoid"
+      ]
+    },
+    {
+      "question": "I closed the window to prevent mosquitoes ___ flying into the room.",
+      "correct": [
+        "from"
+      ],
+      "wrong": [
+        "to avoid",
+        "for",
+        "in order from"
+      ]
+    },
+    {
+      "question": "I will take some sandwiches ___ you are hungry.",
+      "correct": [
+        "in case"
+      ],
+      "wrong": [
+        "to avoid",
+        "from",
+        "in order to"
+      ]
+    },
+    {
+      "question": "I have bought a new notebook ___ my English classes.",
+      "correct": [
+        "for"
+      ],
+      "wrong": [
+        "from",
+        "to",
+        "in case"
+      ]
+    },
+    {
+      "question": "She chose a different way ___ meeting him.",
+      "correct": [
+        "to avoid"
+      ],
+      "wrong": [
+        "from",
+        "so as to",
+        "in order that"
+      ]
+    }
+  ]
+}
