@@ -1,0 +1,103 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/d18751c2-07e5-42ae-aab1-4a00cc99bbd5.png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(164,187,75,0.85)",
+      "borderColor": "#f5dfcd",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#a3ba4b",
+      "borderColor": "#f5dfcd",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 2,
+  "tasks": [
+    {
+      "question": "In the house, _______a magic door.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "_______ many candles in Casita.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "In Antonio’s room, _________ many animals.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "________ a big table in the kitchen.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "In the family, ________ one girl without magic.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "_______ flowers around Isabela.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "In Bruno’s room, ________ many stairs.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "_________ a strong girl in the family.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "In the village, _________ many happy people.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "________ a river near the mountains.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "In the house, ________ many colorful rooms.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "_______ a magical candle in the movie.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
