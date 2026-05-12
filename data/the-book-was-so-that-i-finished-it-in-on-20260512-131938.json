@@ -1,0 +1,162 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Baloo 2",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": false,
+  "bubbleSize": 64,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/4dZGb1F9/spider.png",
+    "bubbleSize": 64,
+    "task": {
+      "bgColor": "rgba(76,91,123,1)",
+      "borderColor": "#aaeee9",
+      "textColor": "#ffffff",
+      "fontSize": 20,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#38383e",
+      "borderColor": "#ffda1f",
+      "textColor": "#fffa6b",
+      "fontSize": 20,
+      "neon": true,
+      "imageSize": 360
+    }
+  },
+  "finalFeedback": "Let's go inside! Follow me!",
+  "feedbackImage": "",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "The book was so __________ that I finished it in one day. (INTEREST)",
+      "correct": [
+        "interesting"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "She spoke very __________ during the interview and answered all the questions well. (CONFIDENT)",
+      "correct": [
+        "confidently"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We were surprised by his __________ to help strangers. (KIND)",
+      "correct": [
+        "kindness"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Tom felt __________ after working for twelve hours without a break. (EXHAUST)",
+      "correct": [
+        "exhausted"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The teacher explained the grammar rule very __________. (CLEAR)",
+      "correct": [
+        "clearly"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "It was __________ to leave the door open when nobody was home. (CARE)",
+      "correct": [
+        "careless"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The city has changed a lot because of rapid __________. (DEVELOP)",
+      "correct": [
+        "development"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Her performance was absolutely __________ and everyone applauded loudly. (AMAZE)",
+      "correct": [
+        "amazing"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "My little brother is very __________ and asks questions all the time. (CREATE)",
+      "correct": [
+        "creative"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The museum guide gave us some very __________ information. (USE)",
+      "correct": [
+        "useful"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Jack’s answer was completely __________ and didn’t match the question. (LOGIC)",
+      "correct": [
+        "illogical"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We need to find a __________ solution to this problem quickly. (PRACTICE)",
+      "correct": [
+        "practical"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The children behaved __________ while their parents were away. (good)",
+      "correct": [
+        "well"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "He made an __________ decision and later regretted it. (RESPONSIBLE)",
+      "correct": [
+        "irresponsible"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Sarah looked at me __________ when she heard the news. (ANGRY)",
+      "correct": [
+        "angrily"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "It is __________ to sell rare flowers. (LEGAL)",
+      "correct": [
+        "illegal"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "He passed the exam with __________ results. (IMPRESS)",
+      "correct": [
+        "impressive"
+      ],
+      "wrong": []
+    }
+  ]
+}
