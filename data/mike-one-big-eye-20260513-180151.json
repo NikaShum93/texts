@@ -1,0 +1,103 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 142,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/0cb71aed-4eda-4395-80f3-84028ee80f9d.png",
+    "bubbleSize": 142,
+    "task": {
+      "bgColor": "rgba(255,225,77,0.85)",
+      "borderColor": "#ff0000",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#ffe01a",
+      "borderColor": "#e72323",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Mike ________ one big eye.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Sulley ________ blue fur and purple spots.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The university ________ many students.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Mike and Sulley ________ a small room.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Randall ________ a long tail.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Celia ________ snakes instead of hair.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The monsters ________ scary faces.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Dean Hardscrabble ________ wings.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Mike ________ a lot of books for studying.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Sulley ________ a famous family name.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The library ________ many old books.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Mike and his friends ________ a big dream.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
