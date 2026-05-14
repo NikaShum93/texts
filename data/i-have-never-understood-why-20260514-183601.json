@@ -1,0 +1,88 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 148,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://ai-image.genially.com/69280f6b271efa024129946b/6a05e8f7c2c30abfe8c6ba57/6a05ea1a79383836c3b8188c.png",
+    "bubbleSize": 148,
+    "task": {
+      "bgColor": "rgba(98,58,87,0.8)",
+      "borderColor": "#edce6b",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#623a57",
+      "borderColor": "#edce6b",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "Perfect!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "I have never understood why ... .",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Eleven has saved her friends many times, but she... .",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Last season, the scariest moment was when... .",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Dustin and Steve have become an unlikely duo because... .",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "So far, the writers of the show have... .",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "When I first saw the Demogorgon, I... .",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I have always wondered why the Upside Down... .",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Will Byers has never fully recovered from the time when he... .",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "So far, nobody in Hawkins has been able to... .",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
