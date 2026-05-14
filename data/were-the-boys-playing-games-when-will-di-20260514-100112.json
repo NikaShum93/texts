@@ -1,0 +1,93 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": true,
+  "bubbleSize": 104,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/85990f67-74f1-4f4f-9704-782cc32f9372.gif",
+    "bubbleSize": 104,
+    "task": {
+      "bgColor": "rgba(0,0,0,1)",
+      "borderColor": "#ed2210",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#ee1111",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "Perfect!",
+  "feedbackImage": "https://img.genially.com/69280f411dd3350008276459/5bb4e8f0-6dc6-4459-9f61-57798e3aea1b.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Were the boys playing games when Will disappeared?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Why was Joyce crying?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Did Hopper find clues in the forest?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Was Eleven using her powers?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Where were Nancy and Jonathan going?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Was Dustin eating pizza when Steve arrived?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Did Lucas see the monster?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Was Max listening to music?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What was Robin doing at the mall?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Why were the lights flashing?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
