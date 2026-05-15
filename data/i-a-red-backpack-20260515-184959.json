@@ -1,0 +1,148 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 122,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/dVq1PhyH/rp.png",
+    "bubbleSize": 122,
+    "task": {
+      "bgColor": "rgba(71,211,230,1)",
+      "borderColor": "#4aa0c4",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#23d9e7",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 360
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "I ______ a red backpack.",
+      "correct": [
+        "have got"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "She ______ two cats.",
+      "correct": [
+        "has got"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We ______ a big classroom.",
+      "correct": [
+        "have got"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Tom ______ a new bike.",
+      "correct": [
+        "has got"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "They ______ blue eyes.",
+      "correct": [
+        "have got"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "My teacher ______ a laptop.",
+      "correct": [
+        "has got"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "You ______ a nice pencil case.",
+      "correct": [
+        "have got"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Anna and Kate ______ long hair.",
+      "correct": [
+        "have got"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "He ______ a little brother.",
+      "correct": [
+        "has got"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The dog ______ a long tail.",
+      "correct": [
+        "has got"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We ______ many books at home.",
+      "correct": [
+        "have got"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "My parents ______ a car.",
+      "correct": [
+        "have got"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Sarah ______ a pink dress.",
+      "correct": [
+        "has got"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I ______ a funny hamster.",
+      "correct": [
+        "have got"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Jack ______ a green T-shirt.",
+      "correct": [
+        "has got"
+      ],
+      "wrong": []
+    }
+  ]
+}
