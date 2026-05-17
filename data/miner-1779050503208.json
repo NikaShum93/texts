@@ -1,0 +1,89 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/64233afb55129a0017751c8e/7abfe18d-ddc5-4006-a48a-f0a9fe3f8a6c.png",
+    "win": "КВИЗ ПРОЙДЕН!",
+    "start": "СТАРТ",
+    "again": "ЕЩЁ РАЗ",
+    "btnColor": "#d8b5b1",
+    "btnGlow": "#c0392b",
+    "btnSize": 5,
+    "btnY": 63,
+    "btnAnim": "none"
+  },
+  "visual": {
+    "bgTransparent": false,
+    "hero": "hero.png",
+    "hook": "hook.png",
+    "hookSound": "https://github.com/NikaShum93/hk/raw/refs/heads/main/chain.mp3",
+    "targets": [
+      "target.png"
+    ],
+    "targetSize": 90,
+    "ropeColor": "#7f8c8d",
+    "qBoxColor": "#ffffff",
+    "heroSize": 150,
+    "heroX": 0,
+    "hookSize": 60,
+    "hookOffsetY": 0,
+    "fontFamily": "Montserrat",
+    "qColor": "#111111",
+    "qGlow": "#00ffcc",
+    "qSize": 3,
+    "tColor": "#9d3939",
+    "tGlow": "#000000",
+    "tSize": 15
+  },
+  "gameplay": {
+    "hookSpeed": 10,
+    "swingSpeed": 0.035,
+    "targetSpeed": 1
+  },
+  "tasks": [
+    {
+      "q": "Вычислите: $\\frac{1}{2} + \\frac{1}{4} = ?$",
+      "correct": [
+        "$\\frac{3}{4}$"
+      ],
+      "wrong": [
+        "$\\frac{2}{6}$",
+        "$1$",
+        "$\\frac{1}{8}$"
+      ]
+    },
+    {
+      "q": "Чему равен $\\sin(30^\\circ)$?",
+      "correct": [
+        "$\\frac{1}{2}$"
+      ],
+      "wrong": [
+        "$\\frac{\\sqrt{3}}{2}$",
+        "$1$",
+        "$0$"
+      ]
+    },
+    {
+      "q": "Найдите значение $x$, если известно, что $\\sqrt{x} = 5$",
+      "correct": [
+        "$25$"
+      ],
+      "wrong": [
+        "$10$",
+        "$2.5$",
+        "$125$"
+      ]
+    },
+    {
+      "q": "Какая формула описывает площадь круга?",
+      "correct": [
+        "$S = \\pi R^2$"
+      ],
+      "wrong": [
+        "$S = 2\\pi R$",
+        "$S = \\pi^2 R$",
+        "$S = \\frac{4}{3}\\pi R^3$"
+      ]
+    }
+  ]
+}
