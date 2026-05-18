@@ -1,0 +1,83 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 200,
+  "sounds": {
+    "pop": ".",
+    "open": ".",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/64bf8a26ade38b001974b1a4/e38950dc-9e13-48f4-a1a9-43a31de59b08.gif",
+    "bubbleSize": 200,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 40,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 40,
+      "neon": true,
+      "imageSize": 200
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "blew",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "drew",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "grew",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "flew",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "threw",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "knew",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "new",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "few",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
