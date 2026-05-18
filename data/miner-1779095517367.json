@@ -1,0 +1,115 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/5e3af91083524c1ddf5d239e/d0db291a-9c85-4bef-a56b-83455bc70f79.png",
+    "win": "Теперь ты не голоден!",
+    "start": "СТАРТ",
+    "again": "Поесть ещё бургеров",
+    "btnSize": 5,
+    "btnY": 80,
+    "btnAnim": "pulse"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://img.genially.com/5e3af91083524c1ddf5d239e/8183b567-5cfd-4bd6-895c-573687ea1669.png",
+    "hook": "https://img.genially.com/5e3af91083524c1ddf5d239e/10ddb427-69ab-4c2e-998a-983a1e0c3068.png",
+    "targets": [
+      "https://img.genially.com/5e3af91083524c1ddf5d239e/f0d69e15-799a-430d-90c5-a6593c8b41c8.png",
+      "https://img.genially.com/5e3af91083524c1ddf5d239e/fa639460-60aa-4c50-9ae3-14cbdf369baa.png",
+      "https://img.genially.com/5e3af91083524c1ddf5d239e/fb619224-914b-48bc-bec7-fcc6de929d5a.png",
+      "https://img.genially.com/5e3af91083524c1ddf5d239e/a316476e-e766-41b2-bc27-606ab0a1af79.png"
+    ],
+    "targetSize": 41,
+    "ropeColor": "#7f8c8d",
+    "heroSize": 93,
+    "heroX": 42,
+    "hookSize": 25,
+    "hookOffsetY": -24,
+    "fontFamily": "Montserrat",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#00ffcc",
+    "qBorder": "both",
+    "qTextGlow": true,
+    "qSize": 3,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#00ffcc",
+    "tBorder": "solid",
+    "tTextGlow": false,
+    "tSize": 13,
+    "hudColor": "#ffffff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#00ffcc",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#e74c3c",
+    "btnGlow": "#c0392b",
+    "btnBorder": "both",
+    "btnTextGlow": false
+  },
+  "gameplay": {
+    "hookSpeed": 10,
+    "swingSpeed": 0.035,
+    "targetSpeed": 1
+  },
+  "tasks": [
+    {
+      "q": "Die Frau ___ Lehrerin.",
+      "correct": [
+        "ist"
+      ],
+      "wrong": [
+        "sind",
+        "bin",
+        "seid"
+      ]
+    },
+    {
+      "q": "Eins, zwei, drei, vier, ___",
+      "correct": [
+        "fünf"
+      ],
+      "wrong": [
+        "sechs",
+        "drei",
+        "sieben"
+      ]
+    },
+    {
+      "q": "Die Farbe des Himmels ist ____",
+      "correct": [
+        "blau"
+      ],
+      "wrong": [
+        "rot",
+        "grün",
+        "gelb"
+      ]
+    },
+    {
+      "q": "Guten Morgen! — ___ !",
+      "correct": [
+        "Guten Morgen"
+      ],
+      "wrong": [
+        "Hallo",
+        "Tschüss",
+        "Auf Wiedersehen"
+      ]
+    },
+    {
+      "q": "Was kostet der Apfel? — ___ 1 Euro.",
+      "correct": [
+        "Er kostet"
+      ],
+      "wrong": [
+        "Sie kostet",
+        "Es kostet",
+        "Die kostet"
+      ]
+    }
+  ]
+}
