@@ -1,0 +1,113 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 146,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://ai-image.genially.com/69280f6b271efa024129946b/6a0aeef008a8900795ce1e29/6a0af0f6ed29d0446d27134a.png",
+    "bubbleSize": 146,
+    "task": {
+      "bgColor": "rgba(82,140,125,0.8)",
+      "borderColor": "#b8cb7d",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#528a7c",
+      "borderColor": "#b1c475",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "Great job!",
+  "feedbackImage": "https://ai-image.genially.com/69280f6b271efa024129946b/6a0aeef008a8900795ce1e29/6a0af5bb02603a1e1390a564.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "By the time Eleven found Mike in the woods, she __________ (already / escape) from the lab.",
+      "correct": [
+        "had already escaped"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Will __________ (not / see) the Demogorgon before that night at Benny’s Burger.",
+      "correct": [
+        "had not seen"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Joyce realized that someone __________ (take) the Christmas lights from the wall.",
+      "correct": [
+        "had taken"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Hopper understood that the lab __________ (hide) the truth about Barb’s disappearance.",
+      "correct": [
+        "had hidden"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The boys __________ (never / hear) of the Upside Down before Eleven showed them.",
+      "correct": [
+        "had never heard"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Before Eleven flipped the van, she __________ (already / use) her powers to crush a Coca-Cola can.",
+      "correct": [
+        "had already used"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "When Dustin found Dart in his trash can, he __________ (not / realize) that the creature was a baby Demogorgon.",
+      "correct": [
+        "had not realized"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "By the time the boys built the sensory deprivation tank, Eleven __________ (never / try) to find someone far away before.",
+      "correct": [
+        "had never tried"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "When Nancy and Jonathan attacked the Demogorgon in the Byers' house, they __________ (prepare) the bear trap and the bat with nails.",
+      "correct": [
+        "had prepared"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Hopper __________ (already / leave) the lab with the fake body before the doctors noticed that Will was still alive.",
+      "correct": [
+        "had already left"
+      ],
+      "wrong": []
+    }
+  ]
+}
