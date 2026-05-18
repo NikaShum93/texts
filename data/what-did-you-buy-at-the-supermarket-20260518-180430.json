@@ -1,0 +1,78 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Caveat",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/RfOfXm8MG2kAAAAi/elgatitolover-elgatito.gif",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(255,227,179,1)",
+      "borderColor": "#ffffff",
+      "textColor": "#563201",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#ffe6c2",
+      "borderColor": "#572800",
+      "textColor": "#000000",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "What did you buy at the supermarket?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "How did you get there?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "When did you go to the cinema?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Did you drink tea at school?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What did you have for breakfast?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Why did you take a taxi?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Did he play football yesterday?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
