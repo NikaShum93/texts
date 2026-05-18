@@ -1,0 +1,117 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/693fd56163a35d0008ac6ddb/5ebfbd7f-b094-4aae-8dde-4d6338c458c6.png",
+    "win": "Теперь ты не голоден!",
+    "start": "СТАРТ",
+    "again": "Пойсай еще бургеров",
+    "btnSize": 9,
+    "btnY": 73,
+    "btnAnim": "pulse"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://img.genially.com/693fd56163a35d0008ac6ddb/afb92f21-c096-44dd-a456-bb819dca701e.png",
+    "hook": "https://img.genially.com/693fd56163a35d0008ac6ddb/9870a98d-bbea-4d57-a455-4ce6f2d6c72a.png",
+    "targets": [
+      "https://img.genially.com/693fd56163a35d0008ac6ddb/c3df3ee3-bf59-4ebe-90d0-e29378a22065.png",
+      "https://img.genially.com/693fd56163a35d0008ac6ddb/dface05e-cf4b-4645-9374-d9f83d5edd44.png",
+      "https://img.genially.com/693fd56163a35d0008ac6ddb/9f77daa0-4c32-4045-86d0-f9ec0012d68f.png",
+      "https://img.genially.com/693fd56163a35d0008ac6ddb/146e4d8d-c8a3-4e25-8633-782250494529.png"
+    ],
+    "targetSize": 74,
+    "ropeColor": "#7f8c8d",
+    "heroSize": 94,
+    "heroX": -33,
+    "hookSize": 40,
+    "hookOffsetY": -31,
+    "fontFamily": "Nunito",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#00ffcc",
+    "qBorder": "glow",
+    "qTextGlow": true,
+    "qSize": 2,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#00ffcc",
+    "tBorder": "solid",
+    "tTextGlow": false,
+    "tSize": 14,
+    "hudColor": "#ffffff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#00ffcc",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#e74c3c",
+    "btnGlow": "#c0392b",
+    "btnBorder": "both",
+    "btnTextGlow": false
+  },
+  "gameplay": {
+    "hookSpeed": 10,
+    "swingSpeed": 0.035,
+    "targetSpeed": 1.8
+  },
+  "tasks": [
+    {
+      "q": "Как называется разговор двух или более людей?",
+      "correct": [
+        "ДИАЛОГ"
+      ],
+      "wrong": [
+        "МОНОЛОГ",
+        "ДУЭТ",
+        "ДИСКУССИЯ",
+        "ПОЛИЛОГ"
+      ]
+    },
+    {
+      "q": "Как называется замена одного звука другим в слове (например, «молоко» — «малако»)?",
+      "correct": [
+        "АКАНЬЕ"
+      ],
+      "wrong": [
+        "ОКАНЬЕ",
+        "ЦОКАНЬЕ",
+        "ИКАНЬЕ",
+        "ЕКАНЬЕ"
+      ]
+    },
+    {
+      "q": "Как называется слово, противоположное по смыслу слову «горячий»?",
+      "correct": [
+        "ХОЛОДНЫЙ"
+      ],
+      "wrong": [
+        "ТЁПЛЫЙ",
+        "ЛЕДЯНОЙ",
+        "ЗИМНИЙ",
+        "ПРОХЛАДНЫЙ"
+      ]
+    },
+    {
+      "q": "Какая часть речи отвечает на вопросы «какой?», «чья?»?",
+      "correct": [
+        "Да"
+      ],
+      "wrong": [
+        "ИМЯ СУЩЕСТВИТЕЛЬНОЕ",
+        "ГЛАГОЛ",
+        "НАРЕЧИЕ",
+        "ПРИЧАСТИЕ"
+      ]
+    },
+    {
+      "q": "...",
+      "correct": [
+        "ИМЯ ПРИЛАГАТЕЛЬНОЕ"
+      ],
+      "wrong": [
+        "Нет"
+      ]
+    }
+  ]
+}
