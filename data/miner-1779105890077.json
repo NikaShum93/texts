@@ -1,0 +1,104 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/678e50fcf40ac30014451a4e/19ad269b-1885-49d6-b69a-e12da8de7c8b.png",
+    "win": "Well done!",
+    "start": "Start",
+    "again": "Repeat",
+    "btnSize": 3.5,
+    "btnY": 76,
+    "btnAnim": "pulse"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://img.genially.com/678e50fcf40ac30014451a4e/1f74417f-ef02-458f-a5d3-ce7633ffc834.png",
+    "hook": "https://img.genially.com/678e50fcf40ac30014451a4e/6462a88e-d7e1-4f61-8943-61c9d3a42410.png",
+    "targets": [
+      "https://img.genially.com/678e50fcf40ac30014451a4e/312d2e44-6200-4dce-a239-4126fa2130d1.png",
+      "https://img.genially.com/678e50fcf40ac30014451a4e/d5ec0612-f46c-4de7-a1b0-b5843b308598.png",
+      "https://img.genially.com/678e50fcf40ac30014451a4e/2ea01fad-7bee-42c8-a204-d8f5f76d4f06.png",
+      "https://img.genially.com/678e50fcf40ac30014451a4e/dbc5e310-0123-41b7-8d3a-00bed963b3c0.png"
+    ],
+    "targetSize": 45,
+    "ropeColor": "#7f8c8d",
+    "heroSize": 75,
+    "heroX": 36,
+    "hookSize": 38,
+    "hookOffsetY": -12,
+    "fontFamily": "Montserrat",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#fffb00",
+    "qBorder": "both",
+    "qTextGlow": true,
+    "qSize": 3,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#fffb00",
+    "tBorder": "solid",
+    "tTextGlow": false,
+    "tSize": 12,
+    "hudColor": "#ffffff",
+    "hudBg": "#000000",
+    "hudGlow": "#fffb00",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#e74c3c",
+    "btnGlow": "#c0392b",
+    "btnBorder": "both",
+    "btnTextGlow": false
+  },
+  "gameplay": {
+    "hookSpeed": 10,
+    "swingSpeed": 0.035,
+    "targetSpeed": 0.7
+  },
+  "tasks": [
+    {
+      "q": "do",
+      "correct": [
+        "did"
+      ],
+      "wrong": [
+        "done",
+        "does",
+        "doed"
+      ]
+    },
+    {
+      "q": "go",
+      "correct": [
+        "went"
+      ],
+      "wrong": [
+        "gone",
+        "goes",
+        "go"
+      ]
+    },
+    {
+      "q": "swim",
+      "correct": [
+        "swam"
+      ],
+      "wrong": [
+        "swum",
+        "swim",
+        "swimmed"
+      ]
+    },
+    {
+      "q": "take",
+      "correct": [
+        "took"
+      ],
+      "wrong": [
+        "taken",
+        "taked",
+        "tok"
+      ]
+    }
+  ]
+}
