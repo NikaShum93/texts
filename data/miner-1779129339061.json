@@ -1,0 +1,159 @@
+{
+  "ui": {
+    "title": "HOOK-A-BURGER! 🍔",
+    "hideTitle": false,
+    "titleImg": "",
+    "win": "YUM! STUFFED WITH BURGERS & KNOWLEDGE!",
+    "start": "START",
+    "again": "WANT MORE!",
+    "btnSize": 5,
+    "btnY": 80,
+    "btnAnim": "none"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://img.genially.com/6677f6d0cdf7cf001f5468be/38c58dfc-ea85-4314-8762-8a1219fd9a3b.png",
+    "hook": "https://img.genially.com/6677f6d0cdf7cf001f5468be/8d2b2fbb-5e15-4b3b-815a-c37904b02424.png",
+    "targets": [
+      "https://img.genially.com/6677f6d0cdf7cf001f5468be/f18e42a5-77a6-43ec-8f0a-c9fc8753705e.png",
+      "https://img.genially.com/6677f6d0cdf7cf001f5468be/54510e1f-69ff-4692-bf7e-2d4979d370e2.png",
+      "https://img.genially.com/6677f6d0cdf7cf001f5468be/6987b9b5-c8a6-4b4b-a1a0-8e414cb3079c.png",
+      "https://img.genially.com/6677f6d0cdf7cf001f5468be/cffdfe71-6613-42ab-8d6d-7e12bd81bb92.png"
+    ],
+    "targetSize": 90,
+    "ropeColor": "#7f8c8d",
+    "heroSize": 150,
+    "heroX": 0,
+    "hookSize": 60,
+    "hookOffsetY": 0,
+    "fontFamily": "Montserrat",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#00ffcc",
+    "qBorder": "both",
+    "qTextGlow": true,
+    "qSize": 4.5,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#00ffcc",
+    "tBorder": "solid",
+    "tTextGlow": false,
+    "tSize": 22,
+    "hudColor": "#ffffff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#00ffcc",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#e74c3c",
+    "btnGlow": "#c0392b",
+    "btnBorder": "both",
+    "btnTextGlow": false
+  },
+  "gameplay": {
+    "hookSpeed": 10,
+    "swingSpeed": 0.035,
+    "targetSpeed": 1
+  },
+  "tasks": [
+    {
+      "q": "... is your favorite color?",
+      "correct": [
+        "what"
+      ],
+      "wrong": [
+        "where",
+        "why",
+        "who"
+      ]
+    },
+    {
+      "q": "... is your birthday?",
+      "correct": [
+        "when"
+      ],
+      "wrong": [
+        "where",
+        "what",
+        "why"
+      ]
+    },
+    {
+      "q": "... do you live?",
+      "correct": [
+        "where"
+      ],
+      "wrong": [
+        "when",
+        "what",
+        "whose"
+      ]
+    },
+    {
+      "q": "... are you crying?",
+      "correct": [
+        "why"
+      ],
+      "wrong": [
+        "what",
+        "how",
+        "which"
+      ]
+    },
+    {
+      "q": "... old are you?",
+      "correct": [
+        "how"
+      ],
+      "wrong": [
+        "what",
+        "when",
+        "why"
+      ]
+    },
+    {
+      "q": "... milk is left in the fridge?",
+      "correct": [
+        "how much"
+      ],
+      "wrong": [
+        "how many",
+        "what",
+        "which"
+      ]
+    },
+    {
+      "q": "... books did you read this month?",
+      "correct": [
+        "how many"
+      ],
+      "wrong": [
+        "how much",
+        "whose",
+        "where"
+      ]
+    },
+    {
+      "q": "... jacket is this?",
+      "correct": [
+        "whose"
+      ],
+      "wrong": [
+        "which",
+        "what",
+        "who"
+      ]
+    },
+    {
+      "q": "... apple do you want, the red or the green one?",
+      "correct": [
+        "which"
+      ],
+      "wrong": [
+        "what",
+        "whose",
+        "where"
+      ]
+    }
+  ]
+}
