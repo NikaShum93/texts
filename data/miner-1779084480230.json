@@ -1,0 +1,170 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/64233afb55129a0017751c8e/7aef20cb-3d29-465e-bea9-de9621d72e1e.png",
+    "win": "Теперь ты не останешься голодным!",
+    "start": "СТАРТ",
+    "again": "Поймать ещё",
+    "btnSize": 6,
+    "btnY": 80,
+    "btnAnim": "pulse"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://img.genially.com/64233afb55129a0017751c8e/f84f5614-042c-4e26-91bd-baad779af62b.png",
+    "hook": "hook.png",
+    "targets": [
+      "https://img.genially.com/64233afb55129a0017751c8e/c5406ef4-423c-43b4-afcc-c327a786ca0b.png",
+      "https://img.genially.com/64233afb55129a0017751c8e/13e5ce2b-b4fd-4e12-85a1-e15acb01de8b.png",
+      "https://img.genially.com/64233afb55129a0017751c8e/fb15a08f-5950-42b1-9f79-9518f3ee8bbe.png",
+      "https://img.genially.com/64233afb55129a0017751c8e/59d43a13-890f-408f-a550-6f1896212c56.png"
+    ],
+    "targetSize": 44,
+    "ropeColor": "#7f8c8d",
+    "heroSize": 91,
+    "heroX": 46,
+    "hookSize": 37,
+    "hookOffsetY": -13,
+    "fontFamily": "Montserrat",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#00ffcc",
+    "qBorder": "both",
+    "qTextGlow": true,
+    "qSize": 2.5,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#00ffcc",
+    "tBorder": "solid",
+    "tTextGlow": false,
+    "tSize": 16,
+    "hudColor": "#ffffff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#00ffcc",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#e74c3c",
+    "btnGlow": "#c0392b",
+    "btnBorder": "both",
+    "btnTextGlow": false
+  },
+  "gameplay": {
+    "hookSpeed": 5,
+    "swingSpeed": 0.035,
+    "targetSpeed": 0.5
+  },
+  "tasks": [
+    {
+      "q": "Столица Италии?",
+      "correct": [
+        "Рим"
+      ],
+      "wrong": [
+        "Милан",
+        "Венеция",
+        "Неаполь"
+      ]
+    },
+    {
+      "q": "Столица Японии?",
+      "correct": [
+        "Токио"
+      ],
+      "wrong": [
+        "Киото",
+        "Осака",
+        "Пекин"
+      ]
+    },
+    {
+      "q": "Столица Канады?",
+      "correct": [
+        "Оттава"
+      ],
+      "wrong": [
+        "Торонто",
+        "Монреаль",
+        "Ванкувер"
+      ]
+    },
+    {
+      "q": "Столица Австралии?",
+      "correct": [
+        "Канберра"
+      ],
+      "wrong": [
+        "Сидней",
+        "Мельбурн",
+        "Брисбен"
+      ]
+    },
+    {
+      "q": "Столица Бразилии?",
+      "correct": [
+        "Бразилиа"
+      ],
+      "wrong": [
+        "Рио-де-Жанейро",
+        "Сан-Паулу",
+        "Буэнос-Айрес"
+      ]
+    },
+    {
+      "q": "Столица Испании?",
+      "correct": [
+        "Мадрид"
+      ],
+      "wrong": [
+        "Барселона",
+        "Валенсия",
+        "Севилья"
+      ]
+    },
+    {
+      "q": "Столица Китая?",
+      "correct": [
+        "Пекин"
+      ],
+      "wrong": [
+        "Шанхай",
+        "Гонконг",
+        "Тайбэй"
+      ]
+    },
+    {
+      "q": "Столица Египта?",
+      "correct": [
+        "Каир"
+      ],
+      "wrong": [
+        "Александрия",
+        "Луксор",
+        "Стамбул"
+      ]
+    },
+    {
+      "q": "Столица Аргентины?",
+      "correct": [
+        "Буэнос-Айрес"
+      ],
+      "wrong": [
+        "Кордова",
+        "Росарио",
+        "Сантьяго"
+      ]
+    },
+    {
+      "q": "Столица Южной Кореи?",
+      "correct": [
+        "Сеул"
+      ],
+      "wrong": [
+        "Пхеньян",
+        "Пусан",
+        "Токио"
+      ]
+    }
+  ]
+}
