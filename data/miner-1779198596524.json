@@ -1,0 +1,104 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/69270b5d14bb490007736b20/0b610e6a-a4f7-4daa-87c4-d3ce1fde9876.png",
+    "win": "Теперь ты не голоден!",
+    "start": "СТАРТ",
+    "again": "Поймать ещё бургеров!",
+    "btnSize": 5.5,
+    "btnY": 79,
+    "btnAnim": "pulse"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://img.genially.com/69270b5d14bb490007736b20/2ecc6cec-59d2-416f-a7b0-aea9c9b9365d.png",
+    "hook": "https://img.genially.com/69270b5d14bb490007736b20/ba31f43c-c6a8-4c1e-89e8-82ac2de34fe8.png",
+    "targets": [
+      "https://img.genially.com/69270b5d14bb490007736b20/842c0fba-0e5f-4212-8ba6-63cfb0c5b630.png",
+      "https://img.genially.com/69270b5d14bb490007736b20/b334115a-290c-4a52-9fd5-43927ba040a0.png",
+      "https://img.genially.com/69270b5d14bb490007736b20/576ca56c-c55b-4513-a005-3a1f0fa655ef.png",
+      "https://img.genially.com/69270b5d14bb490007736b20/dd037aab-398e-4c77-a70c-ecfce04bc3f6.png"
+    ],
+    "targetSize": 40,
+    "ropeColor": "#7f8c8d",
+    "heroSize": 91,
+    "heroX": 39,
+    "hookSize": 38,
+    "hookOffsetY": -20,
+    "fontFamily": "Nunito",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#00ffcc",
+    "qBorder": "both",
+    "qTextGlow": true,
+    "qSize": 2.5,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#00ffcc",
+    "tBorder": "solid",
+    "tTextGlow": false,
+    "tSize": 13,
+    "hudColor": "#ffffff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#00ffcc",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#e74c3c",
+    "btnGlow": "#c0392b",
+    "btnBorder": "both",
+    "btnTextGlow": false
+  },
+  "gameplay": {
+    "hookSpeed": 7,
+    "swingSpeed": 0.035,
+    "targetSpeed": 0.6
+  },
+  "tasks": [
+    {
+      "q": "Столица Германии?",
+      "correct": [
+        "Берлин"
+      ],
+      "wrong": [
+        "Париж",
+        "Вена",
+        "Мюнхен"
+      ]
+    },
+    {
+      "q": "Столица Японии?",
+      "correct": [
+        "Токио"
+      ],
+      "wrong": [
+        "Сеул",
+        "Пекин",
+        "Киото"
+      ]
+    },
+    {
+      "q": "Столица Бразилии?",
+      "correct": [
+        "Бразилиа"
+      ],
+      "wrong": [
+        "Рио-де-Жанейро",
+        "Буэнос-Айрес",
+        "Лима"
+      ]
+    },
+    {
+      "q": "Столица Канады?",
+      "correct": [
+        "Оттава"
+      ],
+      "wrong": [
+        "Торонто",
+        "Ванкувер",
+        "Монреаль"
+      ]
+    }
+  ]
+}
