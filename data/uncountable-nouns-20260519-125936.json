@@ -1,0 +1,83 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://ai-image.genially.com/69280f6b271efa024129946b/6a0c3025efdcd7b417e88b4c/6a0c319c6ad4092d91571974.png",
+      "https://img.genially.com/69280f411dd3350008276459/f296d8e0-6987-4ef4-b3ef-05ada9f0de6d.png",
+      "https://ai-image.genially.com/69280f6b271efa024129946b/6a0c3025efdcd7b417e88b4c/6a0c32cf2437b6373d512f06.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 190
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Uncountable Nouns",
+    "btnText": "Start"
+  },
+  "direction": "down",
+  "finalFeedback": "Great job!",
+  "levels": [
+    {
+      "target": "Uncountable Nouns",
+      "correct": [
+        "water",
+        "milk",
+        "rice",
+        "bread",
+        "sugar",
+        "salt",
+        "cheese",
+        "butter",
+        "coffee",
+        "tea",
+        "money",
+        "information",
+        "advice",
+        "furniture",
+        "homework",
+        "luggage",
+        "music",
+        "traffic",
+        "weather",
+        "air"
+      ],
+      "wrong": [
+        "apple",
+        "banana",
+        "book",
+        "chair",
+        "car",
+        "dog",
+        "cat",
+        "student",
+        "teacher",
+        "bottle",
+        "cup",
+        "phone",
+        "computer",
+        "table",
+        "shoe",
+        "sandwich",
+        "egg",
+        "coin",
+        "ticket"
+      ],
+      "timer": 30
+    }
+  ]
+}
