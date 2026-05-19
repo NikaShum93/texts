@@ -1,0 +1,170 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/657cce16f9179c001f2be1bb/a78bff20-e7fe-489d-a488-053cfe0ec7a8.png",
+    "win": "ALL THE KEYS ARE COLLECTED!",
+    "start": "START",
+    "again": "ЕЩЁ РАЗ",
+    "btnSize": 5,
+    "btnY": 49,
+    "btnAnim": "pulse"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://ai-image.genially.com/657cce95bffd090014fad460/69f922e64e939279ca684c11/6a0b9e10b3a2ad3f3223c104.png",
+    "hook": "https://img.genially.com/657cce16f9179c001f2be1bb/96a69f26-844e-480b-a7fe-fb4b277f3361.png",
+    "targets": [
+      "https://img.genially.com/657cce16f9179c001f2be1bb/6caf0c4e-35f6-46c6-bc3a-39a15f1baa45.png",
+      "https://img.genially.com/657cce16f9179c001f2be1bb/315bae51-a491-45ef-a00b-a704ef725e93.png",
+      "https://img.genially.com/657cce16f9179c001f2be1bb/2628304e-0d19-4e15-af9f-1b3cc8655a86.png",
+      "https://img.genially.com/657cce16f9179c001f2be1bb/e3340e75-d37a-49da-8a10-74f51a5f075f.png"
+    ],
+    "targetSize": 90,
+    "ropeColor": "#7f8c8d",
+    "heroSize": 150,
+    "heroX": 50,
+    "hookSize": 104,
+    "hookOffsetY": 7,
+    "fontFamily": "Comic Neue",
+    "qColor": "#ffffff",
+    "qBg": "#5e89b0",
+    "qGlow": "#00fbff",
+    "qBorder": "both",
+    "qTextGlow": true,
+    "qSize": 4,
+    "tColor": "#ffffff",
+    "tBg": "#5e89b0",
+    "tGlow": "#00fbff",
+    "tBorder": "solid",
+    "tTextGlow": true,
+    "tSize": 25,
+    "hudColor": "#ffffff",
+    "hudBg": "#5e89b0",
+    "hudGlow": "#00fbff",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#5e89b0",
+    "btnGlow": "#48fbff",
+    "btnBorder": "both",
+    "btnTextGlow": true
+  },
+  "gameplay": {
+    "hookSpeed": 8,
+    "swingSpeed": 0.035,
+    "targetSpeed": 1
+  },
+  "tasks": [
+    {
+      "q": "My friend and I _____ to play tennis next Sunday.",
+      "correct": [
+        "are going"
+      ],
+      "wrong": [
+        "will go",
+        "go",
+        "went"
+      ]
+    },
+    {
+      "q": "My mother's sister is my _____.",
+      "correct": [
+        "aunt"
+      ],
+      "wrong": [
+        "cousin",
+        "niece",
+        "grandmother"
+      ]
+    },
+    {
+      "q": "A person who sells meat is a _____.",
+      "correct": [
+        "butcher"
+      ],
+      "wrong": [
+        "greengrocer",
+        "baker",
+        "policeman"
+      ]
+    },
+    {
+      "q": "A place where you can see clowns and animals performing is a _____.",
+      "correct": [
+        "circus"
+      ],
+      "wrong": [
+        "theatre",
+        "museum",
+        "library"
+      ]
+    },
+    {
+      "q": "The son of my brother is my _____.",
+      "correct": [
+        "nephew"
+      ],
+      "wrong": [
+        "cousin",
+        "uncle",
+        "son"
+      ]
+    },
+    {
+      "q": "Someone who always tells the truth is _____.",
+      "correct": [
+        "honest"
+      ],
+      "wrong": [
+        "kind",
+        "brave",
+        "polite"
+      ]
+    },
+    {
+      "q": "Someone who is not afraid of danger is _____.",
+      "correct": [
+        "brave"
+      ],
+      "wrong": [
+        "shy",
+        "lazy",
+        "polite"
+      ]
+    },
+    {
+      "q": "My hair is not curly, it is _____.",
+      "correct": [
+        "straight"
+      ],
+      "wrong": [
+        "long",
+        "short",
+        "dark"
+      ]
+    },
+    {
+      "q": "The fastest land animal is the _____.",
+      "correct": [
+        "cheetah"
+      ],
+      "wrong": [
+        "lion",
+        "tiger",
+        "horse"
+      ]
+    },
+    {
+      "q": "They _____ just _____ a new car.",
+      "correct": [
+        "have bought"
+      ],
+      "wrong": [
+        "bought",
+        "has  bought",
+        "did  buy"
+      ]
+    }
+  ]
+}
