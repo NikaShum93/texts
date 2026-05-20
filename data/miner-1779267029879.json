@@ -1,0 +1,104 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/69cf8753b96e130007dba9dc/c1bbc7bf-53fd-48f5-a014-516a8ccba0a5.png",
+    "win": "NOW YOU ARE NOT HUNGRY!",
+    "start": "START",
+    "again": "More burgers",
+    "btnSize": 5,
+    "btnY": 73,
+    "btnAnim": "pulse"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://img.genially.com/69cf8753b96e130007dba9dc/29271602-9ae7-46da-9dfe-116328ceb56c.png",
+    "hook": "https://img.genially.com/69cf8753b96e130007dba9dc/82a24c41-6807-48ff-90c7-f07b831d90a6.png",
+    "targets": [
+      "https://img.genially.com/69cf8753b96e130007dba9dc/ac9004e1-2717-4808-a41a-7796cad080e1.png",
+      "https://img.genially.com/69cf8753b96e130007dba9dc/02a5dacf-1889-45f5-a73b-10674914ab91.png",
+      "https://img.genially.com/69cf8753b96e130007dba9dc/8d8c5300-f7ea-47e8-90c2-c4bd1da397e7.png",
+      "https://img.genially.com/69cf8753b96e130007dba9dc/8bc38290-7ec7-4495-b508-1ba84c335064.png"
+    ],
+    "targetSize": 64,
+    "ropeColor": "#7f8c8d",
+    "heroSize": 80,
+    "heroX": 67,
+    "hookSize": 41,
+    "hookOffsetY": 0,
+    "fontFamily": "Montserrat",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#00ffcc",
+    "qBorder": "both",
+    "qTextGlow": true,
+    "qSize": 3.5,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#00ffcc",
+    "tBorder": "solid",
+    "tTextGlow": false,
+    "tSize": 13,
+    "hudColor": "#ffffff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#00ffcc",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#e74c3c",
+    "btnGlow": "#c0392b",
+    "btnBorder": "both",
+    "btnTextGlow": false
+  },
+  "gameplay": {
+    "hookSpeed": 8,
+    "swingSpeed": 0.035,
+    "targetSpeed": 1
+  },
+  "tasks": [
+    {
+      "q": "What is the capital of the United Kingdom?",
+      "correct": [
+        "London"
+      ],
+      "wrong": [
+        "Edinburgh",
+        "Dublin",
+        "Cardiff"
+      ]
+    },
+    {
+      "q": "What is the capital of Japan?",
+      "correct": [
+        "Tokyo"
+      ],
+      "wrong": [
+        "Kyoto",
+        "Osaka",
+        "Seoul"
+      ]
+    },
+    {
+      "q": "What is the capital of Australia?",
+      "correct": [
+        "Canberra"
+      ],
+      "wrong": [
+        "Sydney",
+        "Melbourne",
+        "Brisbane"
+      ]
+    },
+    {
+      "q": "What is the capital of Canada?",
+      "correct": [
+        "Ottawa"
+      ],
+      "wrong": [
+        "Toronto",
+        "Vancouver",
+        "Montreal"
+      ]
+    }
+  ]
+}
