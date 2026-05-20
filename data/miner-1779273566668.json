@@ -1,0 +1,105 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/61c0921078171d0019cf23c0/c8ad4eab-c3c9-4255-ad1b-9d805aa9ee8e.png",
+    "win": "Теперь ты не голоден!",
+    "start": "СТАРТ",
+    "again": "ЕЩЁ РАЗ",
+    "btnSize": 5,
+    "btnY": 80,
+    "btnAnim": "pulse"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://img.genially.com/61c0921078171d0019cf23c0/272cc632-5f12-4cee-b6b5-52a10bfa1603.png",
+    "hook": "https://img.genially.com/61c0921078171d0019cf23c0/d83ed9d0-d38a-4026-adef-f12a254dbebd.png",
+    "targets": [
+      "https://img.genially.com/61c0921078171d0019cf23c0/d2ac464b-4971-4fd8-bdd6-d6ad5d3d9c78.png",
+      "https://img.genially.com/61c0921078171d0019cf23c0/7bdc0bbb-9ed5-4728-a0c8-0029fccda727.png",
+      "https://img.genially.com/61c0921078171d0019cf23c0/f1087685-5239-4bc4-a4ac-79ab90479e23.png",
+      "https://img.genially.com/61c0921078171d0019cf23c0/fed81c1d-7638-448b-8729-db15c1f6a773.png"
+    ],
+    "targetSize": 66,
+    "ropeColor": "#7f8c8d",
+    "heroSize": 87,
+    "heroX": 0,
+    "hookSize": 49,
+    "hookOffsetY": 0,
+    "fontFamily": "Montserrat",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#00ffcc",
+    "qBorder": "both",
+    "qTextGlow": true,
+    "qSize": 4.5,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#00ffcc",
+    "tBorder": "solid",
+    "tTextGlow": false,
+    "tSize": 17,
+    "hudColor": "#ffffff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#00ffcc",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#e74c3c",
+    "btnGlow": "#c0392b",
+    "btnBorder": "both",
+    "btnTextGlow": true
+  },
+  "gameplay": {
+    "hookSpeed": 10,
+    "swingSpeed": 0.035,
+    "targetSpeed": 1
+  },
+  "tasks": [
+    {
+      "q": "Какое окончание у существительного “площадь” в предложном падеже?",
+      "correct": [
+        "и"
+      ],
+      "wrong": [
+        "е"
+      ]
+    },
+    {
+      "q": "Какое окончание у существительного “ночь” в дательном падеже?",
+      "correct": [
+        "и"
+      ],
+      "wrong": [
+        "е"
+      ]
+    },
+    {
+      "q": "Какое окончание у существительного “тетрадь” в родительном падеже?",
+      "correct": [
+        "и"
+      ],
+      "wrong": [
+        "е"
+      ]
+    },
+    {
+      "q": "Какое окончание у существительного “школа” в предложном падеже?",
+      "correct": [
+        "е"
+      ],
+      "wrong": [
+        "и"
+      ]
+    },
+    {
+      "q": "Какое окончание у существительного “дочь” в дательном падеже?",
+      "correct": [
+        "и"
+      ],
+      "wrong": [
+        "е"
+      ]
+    }
+  ]
+}
