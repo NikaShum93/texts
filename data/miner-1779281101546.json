@@ -1,0 +1,137 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/67d16e3edbbac10020706ac7/e15ebe6c-5977-4966-86be-0f8fcd6bdda4.png",
+    "win": "Теперь ты не голоден!",
+    "start": "СТАРТ",
+    "again": "Поймать ещё бургеров",
+    "btnSize": 5.5,
+    "btnY": 77,
+    "btnAnim": "pulse"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://img.genially.com/67d16e3edbbac10020706ac7/5c522d02-2d8f-4ff1-a902-6e27ef60f9ce.png",
+    "hook": "hook.png",
+    "targets": [
+      "https://img.genially.com/67d16e3edbbac10020706ac7/70c55963-21a7-4aa2-a4ec-2b7053d48c8e.png",
+      "https://img.genially.com/67d16e3edbbac10020706ac7/b4c34c1e-0c4c-4617-b3e9-8bf4bf185a4d.png",
+      "https://img.genially.com/67d16e3edbbac10020706ac7/6dc4e355-d140-4d63-8d2f-abfa520ff469.png",
+      "https://img.genially.com/67d16e3edbbac10020706ac7/1e100794-9c14-448b-9b01-62cc1a548cec.png"
+    ],
+    "targetSize": 55,
+    "ropeColor": "#7f8c8d",
+    "heroSize": 69,
+    "heroX": -8,
+    "hookSize": 48,
+    "hookOffsetY": 6,
+    "fontFamily": "Montserrat",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#00ffcc",
+    "qBorder": "both",
+    "qTextGlow": true,
+    "qSize": 3,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#00ffcc",
+    "tBorder": "both",
+    "tTextGlow": false,
+    "tSize": 16,
+    "hudColor": "#ffffff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#00ffcc",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#e74c3c",
+    "btnGlow": "#c0392b",
+    "btnBorder": "both",
+    "btnTextGlow": false
+  },
+  "gameplay": {
+    "hookSpeed": 10,
+    "swingSpeed": 0.035,
+    "targetSpeed": 1
+  },
+  "tasks": [
+    {
+      "q": "Решите уравнение: x+19=42",
+      "correct": [
+        "23"
+      ],
+      "wrong": [
+        "61",
+        "21",
+        "13"
+      ]
+    },
+    {
+      "q": "Решите уравнение: x−17=25",
+      "correct": [
+        "42"
+      ],
+      "wrong": [
+        "8",
+        "34",
+        "52"
+      ]
+    },
+    {
+      "q": "Решите уравнение: 5x=45",
+      "correct": [
+        "9"
+      ],
+      "wrong": [
+        "40",
+        "50",
+        "5"
+      ]
+    },
+    {
+      "q": "В первой корзине x яблок, а во второй на 12 яблок больше. Сколько яблок во второй корзине?",
+      "correct": [
+        "x + 12"
+      ],
+      "wrong": [
+        "x - 12",
+        "12x",
+        "x : 12"
+      ]
+    },
+    {
+      "q": "На одной полке x книг, а на другой в 3 раза больше. Сколько книг на второй полке?",
+      "correct": [
+        "3x"
+      ],
+      "wrong": [
+        "x : 3",
+        "x - 3",
+        "x + 3"
+      ]
+    },
+    {
+      "q": "Какое число задумали, если после вычитания 25 получили 17?",
+      "correct": [
+        "42"
+      ],
+      "wrong": [
+        "8",
+        "25",
+        "59"
+      ]
+    },
+    {
+      "q": "Какое число получится, если 9 увеличить в x раз, где x=4?",
+      "correct": [
+        "36"
+      ],
+      "wrong": [
+        "13",
+        "45",
+        "27"
+      ]
+    }
+  ]
+}
