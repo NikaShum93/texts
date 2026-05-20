@@ -1,0 +1,160 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://ai-image.genially.com/69280f6b271efa024129946b/6a0d79bc910e79b9bc956d61/6a0d7a2b9128f05bb771dedd.png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(255,225,77,0.85)",
+      "borderColor": "#5b2ead",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#ffe14d",
+      "borderColor": "#5b2ead",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "Great job!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 2,
+  "tasks": [
+    {
+      "question": "Eleven is ___ brave as Mike.",
+      "correct": [
+        "as"
+      ],
+      "wrong": [
+        "much"
+      ]
+    },
+    {
+      "question": "Hopper is ___ older than Steve.",
+      "correct": [
+        "far"
+      ],
+      "wrong": [
+        "as"
+      ]
+    },
+    {
+      "question": "The hospital is ___ safe as the cabin.",
+      "correct": [
+        "not as"
+      ],
+      "wrong": [
+        "much"
+      ]
+    },
+    {
+      "question": "Vecna is ___ more dangerous than Billy.",
+      "correct": [
+        "far"
+      ],
+      "wrong": [
+        "as"
+      ]
+    },
+    {
+      "question": "Max is ___ quiet as Will.",
+      "correct": [
+        "not as"
+      ],
+      "wrong": [
+        "far"
+      ]
+    },
+    {
+      "question": "Dustin is ___ funnier than Mike.",
+      "correct": [
+        "much"
+      ],
+      "wrong": [
+        "as"
+      ]
+    },
+    {
+      "question": "The tunnel is ___ dark as the cave.",
+      "correct": [
+        "not as"
+      ],
+      "wrong": [
+        "much"
+      ]
+    },
+    {
+      "question": "Robin is ___ more nervous than Nancy.",
+      "correct": [
+        "far"
+      ],
+      "wrong": [
+        "as"
+      ]
+    },
+    {
+      "question": "Eddie is ___ louder than Jonathan.",
+      "correct": [
+        "much"
+      ],
+      "wrong": [
+        "as"
+      ]
+    },
+    {
+      "question": "The cabin is ___ safe as Hopper’s house.",
+      "correct": [
+        "not as"
+      ],
+      "wrong": [
+        "far"
+      ]
+    },
+    {
+      "question": "Vecna is ___ more terrifying than the Mind Flayer.",
+      "correct": [
+        "far"
+      ],
+      "wrong": [
+        "as"
+      ]
+    },
+    {
+      "question": "Robin is ___ shy as Nancy.",
+      "correct": [
+        "not as"
+      ],
+      "wrong": [
+        "much"
+      ]
+    },
+    {
+      "question": "Hawkins Lab is ___ bigger than the police station.",
+      "correct": [
+        "much"
+      ],
+      "wrong": [
+        "as"
+      ]
+    }
+  ]
+}
