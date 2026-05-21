@@ -1,0 +1,178 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Snowburst One",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 62,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/vZn6zNQf/39d014e4436bb77cc32e171d6a782d3b.png",
+    "bubbleSize": 62,
+    "task": {
+      "bgColor": "rgba(249,238,118,1)",
+      "borderColor": "#f5d119",
+      "textColor": "#0f0f0f",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#fcff2e",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "In my house, there ___ a big kitchen.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are"
+      ]
+    },
+    {
+      "question": "There ___ three bedrooms in my house.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "is"
+      ]
+    },
+    {
+      "question": "There ___ a small garden behind my house.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are"
+      ]
+    },
+    {
+      "question": "There ___ many flowers near my house.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "is"
+      ]
+    },
+    {
+      "question": "In my house, there ___ a comfortable sofa in the living room.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are"
+      ]
+    },
+    {
+      "question": "There ___ two bathrooms in my house.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "is"
+      ]
+    },
+    {
+      "question": "There ___ a TV in my bedroom.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are"
+      ]
+    },
+    {
+      "question": "There ___ a lot of books on the shelves in my house.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "is"
+      ]
+    },
+    {
+      "question": "There ___ a computer on the desk in my room.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are"
+      ]
+    },
+    {
+      "question": "There ___ four chairs in the dining room.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "is"
+      ]
+    },
+    {
+      "question": "There ___ a cat in my house.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are"
+      ]
+    },
+    {
+      "question": "There ___ pictures on the walls in my house.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "is"
+      ]
+    },
+    {
+      "question": "There ___ a balcony in my apartment.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are"
+      ]
+    },
+    {
+      "question": "There ___ many windows in my house.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "is"
+      ]
+    },
+    {
+      "question": "There ___ a nice atmosphere in my house.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are"
+      ]
+    }
+  ]
+}
