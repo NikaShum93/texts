@@ -1,0 +1,126 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/60190af50fe1e90fb2c27fbd/babc9909-8555-48ae-85ae-bb66a9ce81ca.png",
+    "win": "Теперь ты не голоден!",
+    "start": "СТАРТ",
+    "again": "Поймать еще бургеров",
+    "btnSize": 5,
+    "btnY": 80,
+    "btnAnim": "pulse"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://img.genially.com/60190af50fe1e90fb2c27fbd/8cb9cc84-1fae-4163-886a-30d2137d021d.png",
+    "hook": "hook.png",
+    "targets": [
+      "https://img.genially.com/60190af50fe1e90fb2c27fbd/9cf0e039-80c8-4e80-a7bf-241e578b9773.png",
+      "https://img.genially.com/60190af50fe1e90fb2c27fbd/4c9b023b-2377-4780-a222-05878eea17ca.png",
+      "https://img.genially.com/60190af50fe1e90fb2c27fbd/88c3be1d-2e58-4233-b2cd-30b05a539140.png",
+      "https://img.genially.com/60190af50fe1e90fb2c27fbd/25a23805-8130-4b46-90a9-776ffa492386.png"
+    ],
+    "targetSize": 54,
+    "ropeColor": "#7f8c8d",
+    "heroSize": 80,
+    "heroX": -39,
+    "hookSize": 27,
+    "hookOffsetY": -17,
+    "fontFamily": "Montserrat",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#00ffcc",
+    "qBorder": "both",
+    "qTextGlow": true,
+    "qSize": 2.5,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#00ffcc",
+    "tBorder": "solid",
+    "tTextGlow": false,
+    "tSize": 14,
+    "hudColor": "#ffffff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#00ffcc",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#e74c3c",
+    "btnGlow": "#c0392b",
+    "btnBorder": "both",
+    "btnTextGlow": false
+  },
+  "gameplay": {
+    "hookSpeed": 10,
+    "swingSpeed": 0.035,
+    "targetSpeed": 0.9
+  },
+  "tasks": [
+    {
+      "q": "a foreign language",
+      "correct": [
+        "learn"
+      ],
+      "wrong": [
+        "be",
+        "have",
+        "live"
+      ]
+    },
+    {
+      "q": "my own business",
+      "correct": [
+        "have"
+      ],
+      "wrong": [
+        "be",
+        "learn",
+        "live"
+      ]
+    },
+    {
+      "q": "on my own",
+      "correct": [
+        "live"
+      ],
+      "wrong": [
+        "be",
+        "have",
+        "learn"
+      ]
+    },
+    {
+      "q": "rich",
+      "correct": [
+        "be"
+      ],
+      "wrong": [
+        "have",
+        "learn",
+        "live"
+      ]
+    },
+    {
+      "q": "fun",
+      "correct": [
+        "have"
+      ],
+      "wrong": [
+        "be",
+        "learn",
+        "live"
+      ]
+    },
+    {
+      "q": "to play the drums",
+      "correct": [
+        "learn"
+      ],
+      "wrong": [
+        "be",
+        "have",
+        "live"
+      ]
+    }
+  ]
+}
