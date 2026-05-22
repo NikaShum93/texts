@@ -1,0 +1,57 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 4,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 0,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 0,
+    "imgBox": 200
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Furniture",
+    "btnText": "START"
+  },
+  "direction": "down",
+  "finalFeedback": "Good job!",
+  "levels": [
+    {
+      "target": "Furniture",
+      "correct": [
+        "https://i.postimg.cc/JnH1Hymj/10.png",
+        "https://i.postimg.cc/NM2g2yY8/11.png",
+        "https://i.postimg.cc/0QK8K6xY/12.png",
+        "https://i.postimg.cc/Gt0bFch7/13.png",
+        "https://i.postimg.cc/2ypCQz8X/14.png",
+        "https://i.postimg.cc/ZnkJ8TKg/15.png",
+        "https://i.postimg.cc/8c8TR1zQ/16.png",
+        "https://i.postimg.cc/50QxQH1b/8.png",
+        "https://i.postimg.cc/JnH1HymZ/9.png",
+        "https://i.postimg.cc/Y0XbcSGs/18.png",
+        "https://i.postimg.cc/HnSBGL8D/20.png",
+        "https://i.postimg.cc/Xq2QMvB6/21.png",
+        "https://i.postimg.cc/6qHYsQ4s/22.png"
+      ],
+      "wrong": [
+        "https://i.postimg.cc/Y0XbcSGs/18.png",
+        "https://i.postimg.cc/HnSBGL8D/20.png",
+        "https://i.postimg.cc/Xq2QMvB6/21.png",
+        "https://i.postimg.cc/6qHYsQ4s/22.png"
+      ],
+      "timer": 30
+    }
+  ]
+}
