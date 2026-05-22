@@ -1,0 +1,125 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/64aa52481d65bc001295b9dc/5a612002-bf32-4f0a-b5c3-d528c2333f74.png",
+    "win": "Голод побеждён!",
+    "start": "СТАРТ",
+    "again": "ЕЩЁ РАЗ",
+    "btnSize": 5,
+    "btnY": 80,
+    "btnAnim": "pulse"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://img.genially.com/64aa52481d65bc001295b9dc/6d71c4ca-594d-4585-9fa9-e9ef23cf53a0.png",
+    "hook": "https://img.genially.com/64aa52481d65bc001295b9dc/89648723-3832-4280-8000-087d3d2f53b5.png",
+    "targets": [
+      "https://img.genially.com/64aa52481d65bc001295b9dc/561d7bf9-08a7-4c7f-aa6a-60f8fcc51217.png",
+      "https://img.genially.com/64aa52481d65bc001295b9dc/c85c975f-b5cc-4a8b-a64d-62b691b016f1.png",
+      "https://img.genially.com/64aa52481d65bc001295b9dc/d8439ae7-0f1c-407b-8f0f-0e65d7df03da.png",
+      "https://img.genially.com/64aa52481d65bc001295b9dc/b56afd17-ac6e-40ad-b332-b382d87d5906.png"
+    ],
+    "targetSize": 56,
+    "ropeColor": "#7f8c8d",
+    "heroSize": 51,
+    "heroX": -28,
+    "hookSize": 31,
+    "hookOffsetY": 0,
+    "fontFamily": "Nunito",
+    "qColor": "#ffffff",
+    "qBg": "#d48a2d",
+    "qGlow": "#00ffcc",
+    "qBorder": "both",
+    "qTextGlow": true,
+    "qSize": 2.5,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#00ffcc",
+    "tBorder": "solid",
+    "tTextGlow": false,
+    "tSize": 14,
+    "hudColor": "#ffffff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#00ffcc",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#e74c3c",
+    "btnGlow": "#c0392b",
+    "btnBorder": "both",
+    "btnTextGlow": false
+  },
+  "gameplay": {
+    "hookSpeed": 10,
+    "swingSpeed": 0.035,
+    "targetSpeed": 0.5
+  },
+  "tasks": [
+    {
+      "q": "Какой вариант является простой сравнительной степенью прилагательного «красивый»?",
+      "correct": [
+        "красивее"
+      ],
+      "wrong": [
+        "красивый",
+        "самый красивый",
+        "красивая",
+        "более красивый",
+        "красивейший"
+      ]
+    },
+    {
+      "q": "Образуй превосходную степень прилагательного «умный».",
+      "correct": [
+        "самый умный"
+      ],
+      "wrong": [
+        "умнее",
+        "умный",
+        "умней",
+        "более умный",
+        "умнейший"
+      ]
+    },
+    {
+      "q": "Выбери правильную сравнительную степень прилагательного «хороший».",
+      "correct": [
+        "лучше"
+      ],
+      "wrong": [
+        "хорошее",
+        "самый хороший",
+        "хорошо",
+        "более хороший",
+        "хорош"
+      ]
+    },
+    {
+      "q": "Какой вариант является превосходной степенью прилагательного «плохой»?",
+      "correct": [
+        "худший"
+      ],
+      "wrong": [
+        "плохой",
+        "хуже",
+        "самый плохой",
+        "плохее",
+        "наиболее плохой"
+      ]
+    },
+    {
+      "q": "Укажи сравнительную степень прилагательного «большой».",
+      "correct": [
+        "больше"
+      ],
+      "wrong": [
+        "большой",
+        "самый большой",
+        "более большой",
+        "большо́й",
+        "величайший"
+      ]
+    }
+  ]
+}
