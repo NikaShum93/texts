@@ -1,0 +1,133 @@
+{
+  "language": "es",
+  "lang": "es",
+  "font": "Poppins",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 144,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/bb817bfe-5d7f-4615-8ff3-787498ad401c.png",
+    "bubbleSize": 144,
+    "task": {
+      "bgColor": "rgba(152,89,1,0.85)",
+      "borderColor": "#ffbe0a",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#985902",
+      "borderColor": "#ffbe09",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "Amazing!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 2,
+  "tasks": [
+    {
+      "question": "Eleven looks at the Demogorgon. It’s very close. «I think it _____ attack us!»",
+      "correct": [
+        "is going to"
+      ],
+      "wrong": [
+        "will"
+      ]
+    },
+    {
+      "question": "Mike and Dustin are making a detailed plan after school. «We _____ hide in the abandoned bus.»",
+      "correct": [
+        "are going to"
+      ],
+      "wrong": [
+        "will"
+      ]
+    },
+    {
+      "question": "Lucas sees black smoke rising from the lab. «That’s not normal. It _____ explode!»",
+      "correct": [
+        "is going to"
+      ],
+      "wrong": [
+        "will"
+      ]
+    },
+    {
+      "question": "Joyce calls Hopper at 3 a.m. «Please, I need your help. I promise I _____ explain everything later.»",
+      "correct": [
+        "will"
+      ],
+      "wrong": [
+        "am going to"
+      ]
+    },
+    {
+      "question": "Max is holding her skateboard. She looks at Billy’s car. «He is walking towards us. He _____ start yelling again.»",
+      "correct": [
+        "is going to"
+      ],
+      "wrong": [
+        "will"
+      ]
+    },
+    {
+      "question": "Eleven closes her eyes and reaches for the void. «Mike, I _____ try to find the Mind Flayer now.»",
+      "correct": [
+        "am going to"
+      ],
+      "wrong": [
+        "will"
+      ]
+    },
+    {
+      "question": "Hopper is sitting in his Jeep. He takes a deep breath. «OK, I _____ go into the tunnel alone.» (spontaneous decision)",
+      "correct": [
+        "will"
+      ],
+      "wrong": [
+        "am going to"
+      ]
+    },
+    {
+      "question": "The lights in the Byers’ house start flashing wildly. «Something _____ appear. Get ready!»",
+      "correct": [
+        "is going to"
+      ],
+      "wrong": [
+        "will"
+      ]
+    },
+    {
+      "question": "Steve gives his bat to Robin. «Take this. I _____ protect you with my fists.»",
+      "correct": [
+        "will"
+      ],
+      "wrong": [
+        "am going to"
+      ]
+    },
+    {
+      "question": "Dustin shows everyone a drawing of a new creature. «We have no proof yet, but maybe it _____ come out at night.»",
+      "correct": [
+        "will"
+      ],
+      "wrong": [
+        "is going to"
+      ]
+    }
+  ]
+}
