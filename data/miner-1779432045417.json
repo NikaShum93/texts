@@ -1,0 +1,107 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/686108bb3e6cce00157b9b9f/3846344f-7367-4c08-af8d-4087a0030cd7.png",
+    "win": "ТЕПЕРЬ ТЫ НЕ ГОЛОДЕН!",
+    "start": "СТАРТ",
+    "again": "Поймать ещё бургеров!",
+    "btnSize": 5,
+    "btnY": 80,
+    "btnAnim": "pulse"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://img.genially.com/686108bb3e6cce00157b9b9f/d318ea23-5d3a-4cb4-b757-b07e04be137c.png",
+    "hook": "hook.png",
+    "targets": [
+      "https://img.genially.com/686108bb3e6cce00157b9b9f/4cbb0637-1b39-46ce-8575-d36f320af7d5.png",
+      "https://img.genially.com/686108bb3e6cce00157b9b9f/ff5bdb93-74ac-46a2-9311-5e6788cf63e8.png",
+      "https://img.genially.com/686108bb3e6cce00157b9b9f/9aa182b7-af78-4577-bf69-deb791723495.png",
+      "https://img.genially.com/686108bb3e6cce00157b9b9f/50d32dc0-2348-4b34-b0ae-c72a1d9af297.png"
+    ],
+    "targetSize": 61,
+    "ropeColor": "#7f8c8d",
+    "heroSize": 82,
+    "heroX": 30,
+    "hookSize": 75,
+    "hookOffsetY": -13,
+    "fontFamily": "Fredoka One",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#00ffcc",
+    "qBorder": "both",
+    "qTextGlow": true,
+    "qSize": 4.5,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#00ffcc",
+    "tBorder": "both",
+    "tTextGlow": true,
+    "tSize": 18,
+    "hudColor": "#ffffff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#00ffcc",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#e74c3c",
+    "btnGlow": "#c0392b",
+    "btnBorder": "both",
+    "btnTextGlow": false
+  },
+  "gameplay": {
+    "hookSpeed": 8,
+    "swingSpeed": 0.035,
+    "targetSpeed": 0.8
+  },
+  "tasks": [
+    {
+      "q": "кожа...ый",
+      "correct": [
+        "кожаНый"
+      ],
+      "wrong": [
+        "кожаННый"
+      ]
+    },
+    {
+      "q": "искусстве...ый",
+      "correct": [
+        "искусствеННый"
+      ],
+      "wrong": [
+        "искусствеНый"
+      ]
+    },
+    {
+      "q": "ветр(е/я)...ый (день)",
+      "correct": [
+        "ветреНый (день)"
+      ],
+      "wrong": [
+        "ветреННый (день)",
+        "ветрЯНый (день)",
+        "ветрЯННый (день)"
+      ]
+    },
+    {
+      "q": "глиня...ый",
+      "correct": [
+        "глиняНый"
+      ],
+      "wrong": [
+        "глиняННый"
+      ]
+    },
+    {
+      "q": "моше...ик",
+      "correct": [
+        "мошеННик"
+      ],
+      "wrong": [
+        "мошеНик"
+      ]
+    }
+  ]
+}
