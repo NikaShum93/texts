@@ -1,0 +1,116 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/6745c9e1b8c72e0015ffbab6/1e43d7e4-9092-43d6-b65e-fbd483af4d48.png",
+    "win": "ТЕПЕРЬ ТЫ НЕ ГОЛОДЕН!!",
+    "start": "СТАРТ",
+    "again": "ПОВТОРИТЬ",
+    "btnSize": 5,
+    "btnY": 80,
+    "btnAnim": "pulse"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://img.genially.com/6745c9e1b8c72e0015ffbab6/f4443eb5-8aa6-4e12-87a7-124d168b1d85.png",
+    "hook": "hook.png",
+    "targets": [
+      "https://img.genially.com/6745c9e1b8c72e0015ffbab6/5c2b9923-a607-4b4c-a1f0-aa41c3ec5a3b.png",
+      "https://img.genially.com/6745c9e1b8c72e0015ffbab6/0af4401c-c5e1-4266-83ce-032469fefbfc.png",
+      "https://img.genially.com/6745c9e1b8c72e0015ffbab6/27247734-282f-4ed6-a7a8-7f42aed4d35c.png",
+      "https://img.genially.com/6745c9e1b8c72e0015ffbab6/27247734-282f-4ed6-a7a8-7f42aed4d35c.png",
+      "https://img.genially.com/6745c9e1b8c72e0015ffbab6/594fea1e-ce39-4de0-8f70-fd151f86457d.png"
+    ],
+    "targetSize": 70,
+    "ropeColor": "#7f8c8d",
+    "heroSize": 118,
+    "heroX": -42,
+    "hookSize": 60,
+    "hookOffsetY": -6,
+    "fontFamily": "Montserrat",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#00ffcc",
+    "qBorder": "both",
+    "qTextGlow": true,
+    "qSize": 4.5,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#00ffcc",
+    "tBorder": "solid",
+    "tTextGlow": false,
+    "tSize": 22,
+    "hudColor": "#ffffff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#00ffcc",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#e74c3c",
+    "btnGlow": "#c0392b",
+    "btnBorder": "both",
+    "btnTextGlow": false
+  },
+  "gameplay": {
+    "hookSpeed": 10,
+    "swingSpeed": 0.035,
+    "targetSpeed": 1
+  },
+  "tasks": [
+    {
+      "q": "(В)течени.. суток",
+      "correct": [
+        "В течение"
+      ],
+      "wrong": [
+        "Втечение",
+        "В течении",
+        "Втечении"
+      ]
+    },
+    {
+      "q": "(В)следстви.. непогоды",
+      "correct": [
+        "Вследствие"
+      ],
+      "wrong": [
+        "В следствие",
+        "Вследствии",
+        "В следствии"
+      ]
+    },
+    {
+      "q": "(В)продолжени.. фильма",
+      "correct": [
+        "В продолжении"
+      ],
+      "wrong": [
+        "Впродолжении",
+        "В продолжение",
+        "Впродолжение"
+      ]
+    },
+    {
+      "q": "Иметь (в)виду",
+      "correct": [
+        "В виду"
+      ],
+      "wrong": [
+        "Ввиду",
+        "Ввиде",
+        "В виде"
+      ]
+    },
+    {
+      "q": "(В)последстви.. всё наладилось",
+      "correct": [
+        "Впоследствии"
+      ],
+      "wrong": [
+        "В последствии",
+        "Впоследствие",
+        "В последствие"
+      ]
+    }
+  ]
+}
