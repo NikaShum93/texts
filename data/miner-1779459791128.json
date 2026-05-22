@@ -1,0 +1,115 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/69f1b4b8ad281d0008a75eab/e7746742-adea-4601-84ce-e61b25a0e7b5.png",
+    "win": "Great job!",
+    "start": "Start",
+    "again": "Catch more burgers",
+    "btnSize": 5,
+    "btnY": 80,
+    "btnAnim": "pulse"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://img.genially.com/69f1b4b8ad281d0008a75eab/c56a0aee-f21b-460b-b8a0-a097a4aaf0a1.png",
+    "hook": "https://img.genially.com/69f1b4b8ad281d0008a75eab/fa75a107-5025-471e-a3ee-d438aa54e209.png",
+    "targets": [
+      "https://img.genially.com/69f1b4b8ad281d0008a75eab/6ad8157a-dad6-42af-898e-a5d34885f095.png",
+      "https://img.genially.com/69f1b4b8ad281d0008a75eab/4a6b7d95-05f4-45a6-916d-57e5c377c84a.png",
+      "https://img.genially.com/69f1b4b8ad281d0008a75eab/813e34d4-c02a-4f7a-b559-285f553bd3b3.png",
+      "https://img.genially.com/69f1b4b8ad281d0008a75eab/c1dcd57b-328c-40cc-bb6c-b6b9acd3e934.png"
+    ],
+    "targetSize": 40,
+    "ropeColor": "#7f8c8d",
+    "heroSize": 95,
+    "heroX": -17,
+    "hookSize": 72,
+    "hookOffsetY": -36,
+    "fontFamily": "Montserrat",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#00ffcc",
+    "qBorder": "both",
+    "qTextGlow": true,
+    "qSize": 2.5,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#00ffcc",
+    "tBorder": "solid",
+    "tTextGlow": false,
+    "tSize": 20,
+    "hudColor": "#ffffff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#00ffcc",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#e74c3c",
+    "btnGlow": "#c0392b",
+    "btnBorder": "both",
+    "btnTextGlow": false
+  },
+  "gameplay": {
+    "hookSpeed": 11,
+    "swingSpeed": 0.035,
+    "targetSpeed": 1.1
+  },
+  "tasks": [
+    {
+      "q": "go",
+      "correct": [
+        "went"
+      ],
+      "wrong": [
+        "goed",
+        "goes",
+        "good"
+      ]
+    },
+    {
+      "q": "take",
+      "correct": [
+        "took"
+      ],
+      "wrong": [
+        "taked",
+        "tooken",
+        "takes"
+      ]
+    },
+    {
+      "q": "see",
+      "correct": [
+        "saw"
+      ],
+      "wrong": [
+        "seed",
+        "sees",
+        "sawed"
+      ]
+    },
+    {
+      "q": "write",
+      "correct": [
+        "wrote"
+      ],
+      "wrong": [
+        "writed",
+        "writen",
+        "wrate"
+      ]
+    },
+    {
+      "q": "come",
+      "correct": [
+        "came"
+      ],
+      "wrong": [
+        "camed",
+        "comes",
+        "comed"
+      ]
+    }
+  ]
+}
