@@ -1,0 +1,133 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 122,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/df1c6ce0-bfb4-4ab0-8289-469b51cc823b.png",
+    "bubbleSize": 122,
+    "task": {
+      "bgColor": "rgba(0,0,0,0.75)",
+      "borderColor": "#ff000d",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#ff0033",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "Awesome!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 2,
+  "tasks": [
+    {
+      "question": "If Eleven ____ Mike, she will smile.",
+      "correct": [
+        "finds"
+      ],
+      "wrong": [
+        "will find"
+      ]
+    },
+    {
+      "question": "If Joyce ____ scared, she will call Hopper.",
+      "correct": [
+        "gets"
+      ],
+      "wrong": [
+        "will get"
+      ]
+    },
+    {
+      "question": "If the boys ____ their bikes, they will get home faster.",
+      "correct": [
+        "ride"
+      ],
+      "wrong": [
+        "will ride"
+      ]
+    },
+    {
+      "question": "If Steve ____ Nancy, they will solve the mystery.",
+      "correct": [
+        "helps"
+      ],
+      "wrong": [
+        "will help"
+      ]
+    },
+    {
+      "question": "If Dustin ____, Mr. Clarke will be angry.",
+      "correct": [
+        "doesn’t study"
+      ],
+      "wrong": [
+        "won’t study"
+      ]
+    },
+    {
+      "question": "If Max ____ the game, Lucas will buy pizza.",
+      "correct": [
+        "wins"
+      ],
+      "wrong": [
+        "will win"
+      ]
+    },
+    {
+      "question": "If Hopper ____ to the lab, he will ask questions.",
+      "correct": [
+        "goes"
+      ],
+      "wrong": [
+        "will go"
+      ]
+    },
+    {
+      "question": "If Vecna ____, Eleven will fight him.",
+      "correct": [
+        "attacks"
+      ],
+      "wrong": [
+        "will attack"
+      ]
+    },
+    {
+      "question": "If Robin ____ Russian, she will understand the message.",
+      "correct": [
+        "learns"
+      ],
+      "wrong": [
+        "will learn"
+      ]
+    },
+    {
+      "question": "If Will ____ cold, he will stay inside.",
+      "correct": [
+        "feels"
+      ],
+      "wrong": [
+        "will feel"
+      ]
+    }
+  ]
+}
