@@ -1,0 +1,122 @@
+{
+  "language": "es",
+  "lang": "es",
+  "font": "Poppins",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/64233afb55129a0017751c8e/d3277a2b-d6c0-49e9-bb93-4ab65ce18cc4.gif",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉Bien hecho experto en sinónimos!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": true,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "_______ chicos de clase no han venido a la excursión.",
+      "correct": [
+        "varios",
+        "ciertos",
+        "unos"
+      ],
+      "wrong": [
+        "ninguno"
+      ]
+    },
+    {
+      "question": "Papá me ______del peligro.",
+      "correct": [
+        "avisó",
+        "alertó",
+        "previno"
+      ],
+      "wrong": [
+        "llamó"
+      ]
+    },
+    {
+      "question": "Alberto está muy _______ con Javier por no haberle felicitado.",
+      "correct": [
+        "molesto",
+        "enojado",
+        "enfadado"
+      ],
+      "wrong": [
+        "alegre",
+        "bonito"
+      ]
+    },
+    {
+      "question": "Todavía no he _______ el destino de mi viaje.",
+      "correct": [
+        "seleccionado",
+        "escogido",
+        "elegido"
+      ],
+      "wrong": [
+        "cortado",
+        "jugado"
+      ]
+    },
+    {
+      "question": "Hemos quedado a las ocho para ir a ______.",
+      "correct": [
+        "la escuela",
+        "el instituto",
+        "el colegio"
+      ],
+      "wrong": [
+        "juguetes",
+        "estadio"
+      ]
+    },
+    {
+      "question": "Voy a quedar con vosotros, _____ no me quedaré hasta muy tarde.",
+      "correct": [
+        "pero",
+        "aunque"
+      ],
+      "wrong": [
+        "también"
+      ]
+    },
+    {
+      "question": "No ha contado _____ por (la) que ha llegado tarde.",
+      "correct": [
+        "la razón",
+        "motivo",
+        "causa"
+      ],
+      "wrong": [
+        "chanchito"
+      ]
+    }
+  ]
+}
