@@ -1,0 +1,113 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 72,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/bJK4CCvf/Dizai-n-bez-nazvania-2026-05-23T233448-508.png",
+    "bubbleSize": 72,
+    "task": {
+      "bgColor": "rgba(113,59,10,1)",
+      "borderColor": "#f5e161",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "Супер! Забирай пазл.",
+  "feedbackImage": "",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "20+30",
+      "correct": [
+        "50"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "40+50",
+      "correct": [
+        "90"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "10+60",
+      "correct": [
+        "70"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "30+40",
+      "correct": [
+        "70"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "70+20",
+      "correct": [
+        "90"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "90-30",
+      "correct": [
+        "60"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "70-40",
+      "correct": [
+        "30"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "50-20",
+      "correct": [
+        "30"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "90-40",
+      "correct": [
+        "50"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "80-20",
+      "correct": [
+        "60"
+      ],
+      "wrong": []
+    }
+  ]
+}
