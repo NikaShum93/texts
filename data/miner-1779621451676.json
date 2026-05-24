@@ -1,0 +1,115 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/69d09639b96e130007dbda82/c5f39ac4-275e-4f27-b1c0-be7fd5c0671f.png",
+    "win": "WELL DONE",
+    "start": "PLAY",
+    "again": "PLAY AGAIN",
+    "btnSize": 8.5,
+    "btnY": 73,
+    "btnAnim": "pulse"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://img.genially.com/69d09639b96e130007dbda82/508a55f9-db61-472e-83a8-9a4acd6d1e52.png",
+    "hook": "https://img.genially.com/69d09639b96e130007dbda82/2138370c-3523-480f-970d-9b226591cae3.png",
+    "targets": [
+      "https://img.genially.com/69d09639b96e130007dbda82/800d22fb-ead1-423d-8828-814db613952c.png",
+      "https://img.genially.com/69d09639b96e130007dbda82/6960729d-1628-4245-a168-f5a88d8ca93f.png",
+      "https://img.genially.com/69d09639b96e130007dbda82/1f5d683a-b3ff-40fc-94ee-34cef68109ff.png",
+      "https://img.genially.com/69d09639b96e130007dbda82/25b01381-1e7a-4ebf-83e9-0402ca894fd8.png"
+    ],
+    "targetSize": 40,
+    "ropeColor": "#7f8c8d",
+    "heroSize": 94,
+    "heroX": 39,
+    "hookSize": 38,
+    "hookOffsetY": -20,
+    "fontFamily": "Montserrat",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#00ffcc",
+    "qBorder": "both",
+    "qTextGlow": true,
+    "qSize": 2,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#00ffcc",
+    "tBorder": "solid",
+    "tTextGlow": false,
+    "tSize": 15,
+    "hudColor": "#ffffff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#00ffcc",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#e74c3c",
+    "btnGlow": "#c0392b",
+    "btnBorder": "both",
+    "btnTextGlow": false
+  },
+  "gameplay": {
+    "hookSpeed": 7,
+    "swingSpeed": 0.035,
+    "targetSpeed": 1
+  },
+  "tasks": [
+    {
+      "q": "I (go) to the cinema yesterday.",
+      "correct": [
+        "went"
+      ],
+      "wrong": [
+        "goed",
+        "go",
+        "gone"
+      ]
+    },
+    {
+      "q": "She (buy) a new dress last week.",
+      "correct": [
+        "bought"
+      ],
+      "wrong": [
+        "buyed",
+        "buy",
+        "buying"
+      ]
+    },
+    {
+      "q": "They (play) football on Sunday.",
+      "correct": [
+        "played"
+      ],
+      "wrong": [
+        "playd",
+        "plays",
+        "playing"
+      ]
+    },
+    {
+      "q": "He (eat) pizza for dinner yesterday.",
+      "correct": [
+        "ate"
+      ],
+      "wrong": [
+        "eated",
+        "eat",
+        "eatten"
+      ]
+    },
+    {
+      "q": "We (see) a good film last night.",
+      "correct": [
+        "saw"
+      ],
+      "wrong": [
+        "seed",
+        "see",
+        "seen"
+      ]
+    }
+  ]
+}
