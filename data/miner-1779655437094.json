@@ -1,0 +1,104 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/67851e5a81c13d0016057ef5/f5f93d72-a8b3-458a-a101-1a149f2832ca.png",
+    "win": "Теперь ты не голодна!",
+    "start": "СТАРТ",
+    "again": "Поймать ещё бургеров",
+    "btnSize": 5.5,
+    "btnY": 73,
+    "btnAnim": "none"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://ai-image.genially.com/67851e7b8a08de00268f02a9/6a074ebf72c2b9cb89dba572/6a1359f8644683c7617e7a60.png",
+    "hook": "https://ai-image.genially.com/67851e7b8a08de00268f02a9/6a074ebf72c2b9cb89dba572/6a135a9f7e643cdcc77db718.png",
+    "targets": [
+      "https://img.genially.com/67851e5a81c13d0016057ef5/bbf10369-956d-477c-b8c0-fb0bc73510dc.png",
+      "https://img.genially.com/67851e5a81c13d0016057ef5/b2ff1309-02e3-4906-83c8-d31ff0e276b1.png",
+      "https://img.genially.com/67851e5a81c13d0016057ef5/eccf6556-d51d-4834-a231-e2bb30fc0a25.png",
+      "https://img.genially.com/67851e5a81c13d0016057ef5/2326f94f-9801-4329-b482-c81c3e88dd44.png"
+    ],
+    "targetSize": 95,
+    "ropeColor": "#655858",
+    "heroSize": 118,
+    "heroX": -42,
+    "hookSize": 81,
+    "hookOffsetY": -32,
+    "fontFamily": "Montserrat",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#970219",
+    "qBorder": "both",
+    "qTextGlow": true,
+    "qSize": 3.5,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#970219",
+    "tBorder": "glow",
+    "tTextGlow": false,
+    "tSize": 19,
+    "hudColor": "#ffffff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#970219",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#e0d7cd",
+    "btnBg": "#bb3a30",
+    "btnGlow": "#4a3121",
+    "btnBorder": "both",
+    "btnTextGlow": true
+  },
+  "gameplay": {
+    "hookSpeed": 6,
+    "swingSpeed": 0.035,
+    "targetSpeed": 0.9
+  },
+  "tasks": [
+    {
+      "q": "Во сколько раз 56 больше 7?",
+      "correct": [
+        "8"
+      ],
+      "wrong": [
+        "6",
+        "7",
+        "9"
+      ]
+    },
+    {
+      "q": "Найди значение выражения: 48 : 6 × 4",
+      "correct": [
+        "32"
+      ],
+      "wrong": [
+        "24",
+        "28",
+        "36"
+      ]
+    },
+    {
+      "q": "У Маши было 3 коробки по 8 карандашей. Сколько всего карандашей?",
+      "correct": [
+        "24"
+      ],
+      "wrong": [
+        "21",
+        "27",
+        "32"
+      ]
+    },
+    {
+      "q": "Длина прямоугольника 9 см, ширина 4 см. Найди периметр.",
+      "correct": [
+        "26 см"
+      ],
+      "wrong": [
+        "13 см",
+        "36 см",
+        "18 см"
+      ]
+    }
+  ]
+}
