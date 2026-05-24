@@ -1,0 +1,190 @@
+{
+  "language": "es",
+  "lang": "es",
+  "font": "Poppins",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/sfH5xQMN/Untitled-design-(46).png",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 ¡Lo lograste!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "En este lugar hay muchos edificios, tráfico y podemos ir a muchas tiendas comerciales y restaurantes: ____________________.",
+      "correct": [
+        "ciudad"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Es un pedazo de tierra que está completamente rodeado de agua por todas partes: ____________________.",
+      "correct": [
+        "isla"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Vamos a dormir en una tienda de campaña (carpa) al aire libre en medio de la naturaleza. Vamos de ____________________.",
+      "correct": [
+        "acampada"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Un lugar extremadamente seco, donde hace mucho calor por el día, hay mucha arena y viven camellos: ____________________.",
+      "correct": [
+        "desierto"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Es un terreno bajo y llano que se encuentra situado entre dos montañas: ____________________.",
+      "correct": [
+        "valle"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Gran extensión de agua salada donde vamos a la playa en verano para nadar y tomar el sol: ____________________.",
+      "correct": [
+        "mar"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Un lugar verde dentro de la ciudad con árboles y bancos, donde los niños juegan y la gente pasea a sus perros: ____________________.",
+      "correct": [
+        "parque"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Una corriente de agua dulce que fluye continuamente hasta llegar al mar: ____________________.",
+      "correct": [
+        "río"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Un lugar tropical con muchísima vegetación, mucha lluvia y animales salvajes como monos o tigres: ____________________.",
+      "correct": [
+        "selva"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Es más pequeño y tranquilo que una ciudad, tiene menos casas y menos habitantes: ____________________.",
+      "correct": [
+        "pueblo"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Un lugar con ruinas arqueológicas y edificios de piedra construidos hace miles de años (ej: Machu Picchu): ____________________.",
+      "correct": [
+        "ciudad antigua"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Una elevación natural de tierra muy alta. A veces tiene nieve en la cima y nos encanta escalarla: ____________________.",
+      "correct": [
+        "montaña"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Una estatua famosa, una pirámide o una construcción histórica muy importante que los turistas visitan: ____________________.",
+      "correct": [
+        "monumento"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Es una masa de agua dulce muy grande que está rodeada de tierra. Es ideal para remar en una pequeña barca de madera: ____________________.",
+      "correct": [
+        "lago"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "España, México, Japón y Australia son ejemplos de un ____________________.",
+      "correct": [
+        "país"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Un lugar lleno de cientos de árboles juntos (como pinos) donde viven ardillas, ciervos y osos: ____________________.",
+      "correct": [
+        "bosque"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Es el centro abierto de una localidad, suele estar pavimentada y a menudo tiene una fuente en el medio: ____________________.",
+      "correct": [
+        "plaza"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Agua de un río que cae desde mucha altura, creando un espectáculo hermoso y ruidoso (ej: Niágara o Iguazú): ____________________.",
+      "correct": [
+        "cataratas"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Una gran masa de agua salada que es enorme y separa continentes enteros, como el Atlántico o el Pacífico: ____________________.",
+      "correct": [
+        "océano"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Un lugar preparado con cabañas de madera donde los niños van en verano para hacer actividades y juegos: ____________________.",
+      "correct": [
+        "campamento"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Una ruta estrecha de tierra por donde la gente camina cuando hace senderismo en la naturaleza: ____________________.",
+      "correct": [
+        "camino"
+      ],
+      "wrong": []
+    }
+  ]
+}
