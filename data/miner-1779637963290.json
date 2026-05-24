@@ -1,0 +1,192 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/62fdc6f9b6df0a0019d91d45/8e02d94d-2f6d-49d3-aff6-1acdad6b9363.png",
+    "win": "You're not hungry any more!",
+    "start": "Start",
+    "again": "Catch more burgers",
+    "btnSize": 6,
+    "btnY": 74,
+    "btnAnim": "pulse"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://img.genially.com/62fdc6f9b6df0a0019d91d45/44f64731-08d1-4eff-be74-f5d676fa8527.png",
+    "hook": "https://img.genially.com/62fdc6f9b6df0a0019d91d45/59b5dfa6-b335-4eab-8744-a8b239b4dbf7.png",
+    "targets": [
+      "https://img.genially.com/62fdc6f9b6df0a0019d91d45/9341e1c0-e13d-43b6-8346-7d456bce22c8.png",
+      "https://img.genially.com/62fdc6f9b6df0a0019d91d45/df5d17d4-76df-4690-a53b-2ab943b03b95.png",
+      "https://img.genially.com/62fdc6f9b6df0a0019d91d45/e1d0e362-aeaf-4594-8eed-aca2f4d542e4.png",
+      "https://img.genially.com/62fdc6f9b6df0a0019d91d45/87665bd2-4534-4bd0-a1de-4de5fc3f0c09.png"
+    ],
+    "targetSize": 81,
+    "ropeColor": "#7f8c8d",
+    "heroSize": 102,
+    "heroX": -46,
+    "hookSize": 20,
+    "hookOffsetY": -19,
+    "fontFamily": "Montserrat",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#00ffcc",
+    "qBorder": "both",
+    "qTextGlow": true,
+    "qSize": 4.5,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#00ffcc",
+    "tBorder": "solid",
+    "tTextGlow": false,
+    "tSize": 14,
+    "hudColor": "#ffffff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#00ffcc",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#e74c3c",
+    "btnGlow": "#c0392b",
+    "btnBorder": "both",
+    "btnTextGlow": false
+  },
+  "gameplay": {
+    "hookSpeed": 5,
+    "swingSpeed": 0.035,
+    "targetSpeed": 0.6
+  },
+  "tasks": [
+    {
+      "q": "What is the past tense of \"go\"?",
+      "correct": [
+        "went"
+      ],
+      "wrong": [
+        "goed",
+        "going",
+        "goes"
+      ]
+    },
+    {
+      "q": "Which animal says \"moo\"?",
+      "correct": [
+        "cow"
+      ],
+      "wrong": [
+        "sheep",
+        "horse",
+        "chicken"
+      ]
+    },
+    {
+      "q": "What do you wear on your feet?",
+      "correct": [
+        "shoes"
+      ],
+      "wrong": [
+        "hat",
+        "gloves",
+        "jacket"
+      ]
+    },
+    {
+      "q": "What is the opposite of \"big\"?",
+      "correct": [
+        "small"
+      ],
+      "wrong": [
+        "large",
+        "huge",
+        "tall"
+      ]
+    },
+    {
+      "q": "How many days are in a week?",
+      "correct": [
+        "seven"
+      ],
+      "wrong": [
+        "five",
+        "six",
+        "eight"
+      ]
+    },
+    {
+      "q": "What do you eat soup with?",
+      "correct": [
+        "a spoon"
+      ],
+      "wrong": [
+        "a fork",
+        "a knife",
+        "chopsticks"
+      ]
+    },
+    {
+      "q": "Which word means \"very happy\"?",
+      "correct": [
+        "excited"
+      ],
+      "wrong": [
+        "sad",
+        "tired",
+        "bored"
+      ]
+    },
+    {
+      "q": "What is the weather like when it rains?",
+      "correct": [
+        "wet"
+      ],
+      "wrong": [
+        "dry",
+        "sunny",
+        "hot"
+      ]
+    },
+    {
+      "q": "Where does a fish live?",
+      "correct": [
+        "in water"
+      ],
+      "wrong": [
+        "in a tree",
+        "in a house",
+        "in the sky"
+      ]
+    },
+    {
+      "q": "What is the third month of the year?",
+      "correct": [
+        "March"
+      ],
+      "wrong": [
+        "April",
+        "May",
+        "February"
+      ]
+    },
+    {
+      "q": "Which sentence is correct?",
+      "correct": [
+        "She likes apples."
+      ],
+      "wrong": [
+        "She like apples.",
+        "She liking apples.",
+        "She liked apples."
+      ]
+    },
+    {
+      "q": "What do you use to see things far away?",
+      "correct": [
+        "binoculars"
+      ],
+      "wrong": [
+        "microscope",
+        "glasses",
+        "camera"
+      ]
+    }
+  ]
+}
