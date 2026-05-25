@@ -1,0 +1,93 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/ff4a466d-5a93-4a5f-99db-f4fd54914283.png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(196,3,125,0.85)",
+      "borderColor": "#ff94e8",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#e916b1",
+      "borderColor": "#ffd1f3",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "Awesome!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "If Eleven lived in my town, …",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Mike would be happy if …",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "If Dustin had a laboratory, …",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Lucas would be scared if …",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "If Max won a race, …",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Hopper would smile if …",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "If Joyce found a strange letter, …",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Steve would help me if …",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "If Nancy worked at my school, …",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Robin would laugh if …",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
