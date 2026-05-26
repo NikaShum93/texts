@@ -1,0 +1,103 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 108,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/15eb9723-a519-48f7-842c-1698b6ab06d0.png",
+    "bubbleSize": 108,
+    "task": {
+      "bgColor": "rgba(237,166,12,0.85)",
+      "borderColor": "#ffdd00",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#eda60b",
+      "borderColor": "#ffdd00",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "Amazing!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Mike said, “Eleven is my best friend.”",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Eleven said, “I like Eggo waffles.”",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Dustin said, “We are looking for Will.”",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Lucas said, “The forest is dangerous.”",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Will said, “I am scared.”",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Nancy said, “Jonathan is helping me.”",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Hopper said, “I know something strange.”",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Joyce said, “Will is alive.”",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Steve said, “I want to help.”",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Max said, “Billy is angry.”",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Robin said, “I work at Scoops Ahoy.”",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Dustin said, “Suzie is very smart.”",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
