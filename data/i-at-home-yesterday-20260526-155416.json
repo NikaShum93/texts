@@ -1,0 +1,113 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Poppins",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 100,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/QNBNDQd6/1.png",
+    "bubbleSize": 100,
+    "task": {
+      "bgColor": "rgba(74,196,105,1)",
+      "borderColor": "#00ff88",
+      "textColor": "#1a1919",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#19613c",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "I ______ at home yesterday.",
+      "correct": [
+        "was"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "They ______ very tired after school.",
+      "correct": [
+        "were"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "My parents ______ at work yesterday.",
+      "correct": [
+        "were"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The weather ______ cold last week.",
+      "correct": [
+        "was"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "My friends ______ in the park.",
+      "correct": [
+        "were"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "She ______ happy after the lesson.",
+      "correct": [
+        "was"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We ______ in the classroom at 9 a.m.",
+      "correct": [
+        "were"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "He ______ sick last Monday.",
+      "correct": [
+        "was"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The children ______ in the garden.",
+      "correct": [
+        "were"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I ______ very busy yesterday evening.",
+      "correct": [
+        "was"
+      ],
+      "wrong": []
+    }
+  ]
+}
