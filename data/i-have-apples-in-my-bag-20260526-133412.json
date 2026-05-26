@@ -1,0 +1,223 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Poppins",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 96,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/XJZFKMN9/kg.png",
+    "bubbleSize": 96,
+    "task": {
+      "bgColor": "rgba(255,163,77,1)",
+      "borderColor": "#ff7300",
+      "textColor": "#0d0c0c",
+      "fontSize": 36,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 36,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 2,
+  "tasks": [
+    {
+      "question": "I have _____ apples in my bag.",
+      "correct": [
+        "some"
+      ],
+      "wrong": [
+        "any"
+      ]
+    },
+    {
+      "question": "Do you have _____ bananas at home?",
+      "correct": [
+        "any"
+      ],
+      "wrong": [
+        "some"
+      ]
+    },
+    {
+      "question": "There is _____ milk in the fridge.",
+      "correct": [
+        "some"
+      ],
+      "wrong": [
+        "any"
+      ]
+    },
+    {
+      "question": "We don’t have _____ juice left.",
+      "correct": [
+        "any"
+      ],
+      "wrong": [
+        "some"
+      ]
+    },
+    {
+      "question": "She bought _____ bread for breakfast.",
+      "correct": [
+        "some"
+      ],
+      "wrong": [
+        "any"
+      ]
+    },
+    {
+      "question": "Is there _____ cheese on the table?",
+      "correct": [
+        "any"
+      ],
+      "wrong": [
+        "some"
+      ]
+    },
+    {
+      "question": "He cooked _____ eggs this morning.",
+      "correct": [
+        "some"
+      ],
+      "wrong": [
+        "any"
+      ]
+    },
+    {
+      "question": "We don’t need _____ water right now.",
+      "correct": [
+        "any"
+      ],
+      "wrong": [
+        "some"
+      ]
+    },
+    {
+      "question": "They ate _____ rice with vegetables.",
+      "correct": [
+        "some"
+      ],
+      "wrong": [
+        "any"
+      ]
+    },
+    {
+      "question": "Did you buy _____ fish at the market?",
+      "correct": [
+        "any"
+      ],
+      "wrong": [
+        "some"
+      ]
+    },
+    {
+      "question": "There is _____ meat in the soup.",
+      "correct": [
+        "some"
+      ],
+      "wrong": [
+        "any"
+      ]
+    },
+    {
+      "question": "I don’t want _____ soup today.",
+      "correct": [
+        "any"
+      ],
+      "wrong": [
+        "some"
+      ]
+    },
+    {
+      "question": "My mom made _____ cake for the party.",
+      "correct": [
+        "some"
+      ],
+      "wrong": [
+        "any"
+      ]
+    },
+    {
+      "question": "Do the children want _____ ice cream?",
+      "correct": [
+        "any"
+      ],
+      "wrong": [
+        "some"
+      ]
+    },
+    {
+      "question": "We drank _____ tea after dinner.",
+      "correct": [
+        "some"
+      ],
+      "wrong": [
+        "any"
+      ]
+    },
+    {
+      "question": "They didn’t order _____ pizza yesterday.",
+      "correct": [
+        "any"
+      ],
+      "wrong": [
+        "some"
+      ]
+    },
+    {
+      "question": "There are _____ carrots in the kitchen.",
+      "correct": [
+        "some"
+      ],
+      "wrong": [
+        "any"
+      ]
+    },
+    {
+      "question": "Are there _____ tomatoes in the salad?",
+      "correct": [
+        "any"
+      ],
+      "wrong": [
+        "some"
+      ]
+    },
+    {
+      "question": "She planted _____ potatoes in the garden.",
+      "correct": [
+        "some"
+      ],
+      "wrong": [
+        "any"
+      ]
+    },
+    {
+      "question": "I can’t see _____ bananas on the table.",
+      "correct": [
+        "any"
+      ],
+      "wrong": [
+        "some"
+      ]
+    }
+  ]
+}
