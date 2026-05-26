@@ -1,0 +1,123 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Creepster",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://vk.com/away.php?to=https%3A%2F%2Fgithub.com%2FNikaShum93%2Fplayer%2Fraw%2Frefs%2Fheads%2Fmain%2Fsg_177317.mp3&utf=1",
+    "open": "https://vk.com/away.php?to=https%3A%2F%2Fgithub.com%2FNikaShum93%2Fplayer%2Fraw%2Frefs%2Fheads%2Fmain%2Fsg_177317.mp3&utf=1",
+    "correct": "https://github.com/NikaShum93/player/raw/refs/heads/main/sg_177322.mp3",
+    "wrong": "https://github.com/NikaShum93/player/raw/refs/heads/main/sg_177319.mp3"
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/64233afb55129a0017751c8e/44143dc8-fe99-455b-9e47-6aebff3e68a0.png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(232,121,17,1)",
+      "borderColor": "#ffd500",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#ffffff",
+      "borderColor": "#e74023",
+      "textColor": "#e74a23",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "The last step is ahead.",
+  "feedbackImage": "https://img.genially.com/64233afb55129a0017751c8e/44143dc8-fe99-455b-9e47-6aebff3e68a0.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 3,
+  "tasks": [
+    {
+      "question": "If I (know) they were selling \"sosiska v teste\" today, I (not/waste) my money on that sad salad.",
+      "correct": [
+        "had known, wouldn't have wasted"
+      ],
+      "wrong": [
+        "knew, wouldn't waste",
+        "had known, didn't waste"
+      ]
+    },
+    {
+      "question": "If the guard (not/catch) us, we (successfully/sneak) out to the nearest supermarket for energy drinks.",
+      "correct": [
+        "hadn't caught, would have successfully sneaked"
+      ],
+      "wrong": [
+        "didn't catch, would successfully sneak",
+        "hadn't caught, will successfully sneak"
+      ]
+    },
+    {
+      "question": "If the cafeteria lady (not/spill) the \"bucket tea\" on my shirt, I (not/smell) like cheap sugar all day.",
+      "correct": [
+        "hadn't spilled, wouldn't have smelled"
+      ],
+      "wrong": [
+        "didn't spill, wouldn't smell",
+        "hasn't spilled, won't smell"
+      ]
+    },
+    {
+      "question": "We (eat) our lunch in peace if the teacher (not/make) us do the cafeteria duty.",
+      "correct": [
+        "would have eaten, hadn't made"
+      ],
+      "wrong": [
+        "would eat, didn't make",
+        "had eaten, wouldn't make"
+      ]
+    },
+    {
+      "question": "If I (realize) the school pizza was basically 90% mayonnaise, I (never/buy) two slices.",
+      "correct": [
+        "had realized, would have never bought"
+      ],
+      "wrong": [
+        "realized, would never buy",
+        "had realize, would never bought"
+      ]
+    },
+    {
+      "question": "If you (run) to the cafeteria as soon as the bell rang, you (grab) the last poppy seed bun.",
+      "correct": [
+        "had run, would have grabbed"
+      ],
+      "wrong": [
+        "ran, would grab",
+        "had ran, would have grab"
+      ]
+    },
+    {
+      "question": "If my card (not/decline) at the terminal, the entire queue behind me (not/sigh) so aggressively.",
+      "correct": [
+        "hadn't declined, wouldn't have sighed"
+      ],
+      "wrong": [
+        "didn't decline, wouldn't sigh",
+        "hadn't declined, didn't sigh"
+      ]
+    },
+    {
+      "question": "If I (pack) a proper lunch from home, my stomach (not/make) whale noises during the physics test.",
+      "correct": [
+        "had packed, wouldn't have made"
+      ],
+      "wrong": [
+        "packed, wouldn't make",
+        "had pack, wouldn't made"
+      ]
+    }
+  ]
+}
