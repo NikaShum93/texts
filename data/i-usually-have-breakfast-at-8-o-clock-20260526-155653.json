@@ -1,0 +1,93 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Poppins",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": true,
+  "bubbleSize": 102,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/GhHyZ8Zq/kko.png",
+    "bubbleSize": 102,
+    "task": {
+      "bgColor": "rgba(74,196,105,1)",
+      "borderColor": "#00ff88",
+      "textColor": "#1a1919",
+      "fontSize": 28,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#19613c",
+      "textColor": "#ffffff",
+      "fontSize": 28,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "I usually have breakfast at 8 o’clock.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She plays tennis every Friday.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We are not tired.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do they like music?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Anna likes reading books.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I go to school every day.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They watch TV in the evening.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "He studies English at home.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We play football on Sundays.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She has dinner at 7 p.m.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
