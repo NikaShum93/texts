@@ -1,0 +1,103 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Creepster",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/64233afb55129a0017751c8e/bcc6082a-cdfe-4959-ab85-67a61af27aca.png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(17,218,232,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#ffffff",
+      "borderColor": "#23e73a",
+      "textColor": "#23e73a",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "The first action is taken. Let's move on to the next.",
+  "feedbackImage": "https://img.genially.com/64233afb55129a0017751c8e/bcc6082a-cdfe-4959-ab85-67a61af27aca.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 3,
+  "tasks": [
+    {
+      "question": "If I (not/drink) this 5th cup of coffee, I (collapse) before the final exam.",
+      "correct": [
+        "don't drink, will collapse"
+      ],
+      "wrong": [
+        "drink, would collapse",
+        "won't drink, collapse"
+      ]
+    },
+    {
+      "question": "If our teacher (be) a video game character, she (be) definitely the annoying NPC.",
+      "correct": [
+        "were, would be"
+      ],
+      "wrong": [
+        "are, will be",
+        "is, were"
+      ]
+    },
+    {
+      "question": "If we (skip) PE class again, the coach (make) us run the entire school perimeter twice.",
+      "correct": [
+        "skip, will make"
+      ],
+      "wrong": [
+        "will skip, would make",
+        "skipped, will make"
+      ]
+    },
+    {
+      "question": "If school (start) at 11 AM every day, I (be) the happiest human on this planet.",
+      "correct": [
+        "started, would be"
+      ],
+      "wrong": [
+        "start, will be",
+        "had started, would be"
+      ]
+    },
+    {
+      "question": "If this calculator (stop) working during the math test, I (probably/fail).",
+      "correct": [
+        "stops, will probably fail"
+      ],
+      "wrong": [
+        "stopped, would fail",
+        "will stop, fail"
+      ]
+    },
+    {
+      "question": "If I (find) a way to clone myself, I (send) the clone to attend my boring lectures.",
+      "correct": [
+        "found, would send"
+      ],
+      "wrong": [
+        "find, will send",
+        "would find, would send"
+      ]
+    }
+  ]
+}
