@@ -1,0 +1,143 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Creepster",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://vk.com/away.php?to=https%3A%2F%2Fgithub.com%2FNikaShum93%2Fplayer%2Fraw%2Frefs%2Fheads%2Fmain%2Fsg_177317.mp3&utf=1",
+    "open": "https://vk.com/away.php?to=https%3A%2F%2Fgithub.com%2FNikaShum93%2Fplayer%2Fraw%2Frefs%2Fheads%2Fmain%2Fsg_177317.mp3&utf=1",
+    "correct": "https://github.com/NikaShum93/player/raw/refs/heads/main/sg_177322.mp3",
+    "wrong": "https://github.com/NikaShum93/player/raw/refs/heads/main/sg_177319.mp3"
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/64233afb55129a0017751c8e/bcc6082a-cdfe-4959-ab85-67a61af27aca.png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(17,218,232,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#ffffff",
+      "borderColor": "#23e73a",
+      "textColor": "#23e73a",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "The first action is taken. Let's move on to the next.",
+  "feedbackImage": "https://img.genially.com/64233afb55129a0017751c8e/bcc6082a-cdfe-4959-ab85-67a61af27aca.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 3,
+  "tasks": [
+    {
+      "question": "If they (serve) those weird gray meatballs again today, I (order) delivery.",
+      "correct": [
+        "serve, will order"
+      ],
+      "wrong": [
+        "served, would order",
+        "will serve, order"
+      ]
+    },
+    {
+      "question": "If school lunches (be) actually edible, half of the local cafes (go) bankrupt.",
+      "correct": [
+        "were, would go"
+      ],
+      "wrong": [
+        "are, will go",
+        "will be, would go"
+      ]
+    },
+    {
+      "question": "If I (not/get) a coffee in the next five minutes, I (bite) someone.",
+      "correct": [
+        "don't get, will bite"
+      ],
+      "wrong": [
+        "didn't get, would bite",
+        "won't get, will bite"
+      ]
+    },
+    {
+      "question": "If I (have) a superpower, I (teleport) straight to a burger joint during math class.",
+      "correct": [
+        "had, would teleport"
+      ],
+      "wrong": [
+        "have, will teleport",
+        "would have, teleported"
+      ]
+    },
+    {
+      "question": "If the line for the microwave (be) too long, my pasta (remain) cold and sad.",
+      "correct": [
+        "is, will remain"
+      ],
+      "wrong": [
+        "was, would remain",
+        "will be, will remain"
+      ]
+    },
+    {
+      "question": "If vending machines (dispense) free snacks, my motivation to go to school (increase) by 1000%.",
+      "correct": [
+        "dispensed, would increase"
+      ],
+      "wrong": [
+        "dispense, will increase",
+        "would dispense, increased"
+      ]
+    },
+    {
+      "question": "If we (sneak) out to the bakery now, the teacher (definitely/notice) we are missing.",
+      "correct": [
+        "sneak, will definitely notice"
+      ],
+      "wrong": [
+        "sneaked, would definitely notice",
+        "will sneak, will definitely notice"
+      ]
+    },
+    {
+      "question": "If the cafeteria lady (smile) at me, I (probably/faint) from shock.",
+      "correct": [
+        "smiled, would probably faint"
+      ],
+      "wrong": [
+        "smiles, will probably faint",
+        "would smile, fainted"
+      ]
+    },
+    {
+      "question": "If you (pay) for my bubble tea today, I (let) you copy my physics homework.",
+      "correct": [
+        "pay, will let"
+      ],
+      "wrong": [
+        "paid, would let",
+        "will pay, will let"
+      ]
+    },
+    {
+      "question": "If hunger (be) an Olympic sport, I (win) a gold medal right now.",
+      "correct": [
+        "were, would win"
+      ],
+      "wrong": [
+        "is, will win",
+        "will be, would win"
+      ]
+    }
+  ]
+}
