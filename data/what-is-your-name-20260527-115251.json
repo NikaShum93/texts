@@ -1,0 +1,93 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Roboto",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 114,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/bvVdwfVK/kko.png",
+    "bubbleSize": 114,
+    "task": {
+      "bgColor": "rgba(77,88,255,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#0d0c0c",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#481ce9",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "What is your name?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "How old are you?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Where are you from?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What is your favorite food?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do you have any pets?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What color do you like?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What do you do in your free time?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What time do you usually get up?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do you like music or movies more?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What is your favorite day of the week?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
