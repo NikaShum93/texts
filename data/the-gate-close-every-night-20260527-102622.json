@@ -1,0 +1,127 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 142,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/10ebb8c8-a3c0-4c31-99a5-35f9015684d3.png",
+    "bubbleSize": 142,
+    "task": {
+      "bgColor": "rgba(255,216,77,0.85)",
+      "borderColor": "#ff004c",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#ffd84d",
+      "borderColor": "#ff284c",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "You are a star!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "The gate ___ (close) every night.",
+      "correct": [
+        "is closed"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The bikes ___ (use) by the boys.",
+      "correct": [
+        "are used"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Eleven ___ (hide) in Mike’s house.",
+      "correct": [
+        "is hidden"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The lights ___ (watch) by Joyce.",
+      "correct": [
+        "are watched"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The messages ___ (send) through the wall.",
+      "correct": [
+        "are sent"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The lab ___ (guard) by soldiers.",
+      "correct": [
+        "is guarded"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The monsters ___ (see) by everyone.",
+      "correct": [
+        "are feared"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The waffles ___ (eat) by Eleven.",
+      "correct": [
+        "are eaten"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The radios ___ (repair) by Dustin.",
+      "correct": [
+        "are repaired"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The town ___ (protect) by Hopper.",
+      "correct": [
+        "is protected"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The code ___ (translate) by Robin.",
+      "correct": [
+        "is translated"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The doors ___ (lock) at night.",
+      "correct": [
+        "are locked"
+      ],
+      "wrong": []
+    }
+  ]
+}
