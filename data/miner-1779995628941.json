@@ -1,0 +1,128 @@
+{
+  "ui": {
+    "title": "Auf den Spuren von Hänsel und Gretel",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/63a7016fe7745e0013a04f69/46a55fd9-83c3-4516-b73f-3f434da8cea3.png",
+    "win": "Gut geschafft!",
+    "start": "Start",
+    "again": "Noch einmal",
+    "btnSize": 4.5,
+    "btnY": 76,
+    "btnAnim": "none"
+  },
+  "visual": {
+    "bgTransparent": false,
+    "hero": "hero.png",
+    "hook": "hook.png",
+    "targets": [
+      "https://img.genially.com/63a7016fe7745e0013a04f69/75a02ee3-c49d-42a8-9cd9-d2d238f43616.png",
+      "https://img.genially.com/63a7016fe7745e0013a04f69/ca277527-c9f8-4f0e-9873-8da8b8196b66.png",
+      "https://img.genially.com/63a7016fe7745e0013a04f69/7e30df08-d26a-4040-bb19-477869fc43cf.png",
+      "https://img.genially.com/63a7016fe7745e0013a04f69/0c569f10-d5d0-49b3-9eb8-67809e41f3a6.png",
+      "https://img.genially.com/63a7016fe7745e0013a04f69/a9b676b8-5de7-447a-83c1-5ca864d0563d.png",
+      "https://img.genially.com/63a7016fe7745e0013a04f69/0b8ff71e-3854-4813-8b00-f4a35eab2e3c.png"
+    ],
+    "targetSize": 90,
+    "ropeColor": "#7f8c8d",
+    "heroSize": 150,
+    "heroX": 0,
+    "hookSize": 60,
+    "hookOffsetY": 0,
+    "fontFamily": "Montserrat",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#00ffcc",
+    "qBorder": "both",
+    "qTextGlow": true,
+    "qSize": 4.5,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#00ffcc",
+    "tBorder": "solid",
+    "tTextGlow": false,
+    "tSize": 22,
+    "hudColor": "#ffffff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#00ffcc",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#e74c3c",
+    "btnGlow": "#c0392b",
+    "btnBorder": "both",
+    "btnTextGlow": false
+  },
+  "gameplay": {
+    "hookSpeed": 10,
+    "swingSpeed": 0.035,
+    "targetSpeed": 1
+  },
+  "tasks": [
+    {
+      "q": "Das Brot ______ 2 Euro.",
+      "correct": [
+        "kostet"
+      ],
+      "wrong": [
+        "kosten",
+        "habe",
+        "bin"
+      ]
+    },
+    {
+      "q": "Ich ______ einen Apfel.",
+      "correct": [
+        "habe"
+      ],
+      "wrong": [
+        "hat",
+        "bin",
+        "kostet"
+      ]
+    },
+    {
+      "q": "Wir ______ die Milch. (покупаем)",
+      "correct": [
+        "kaufen"
+      ],
+      "wrong": [
+        "kauft",
+        "verkaufen",
+        "sein"
+      ]
+    },
+    {
+      "q": "Der Käse ______ aus Frankreich.",
+      "correct": [
+        "ist"
+      ],
+      "wrong": [
+        "bin",
+        "hat",
+        "kostet"
+      ]
+    },
+    {
+      "q": "Die Frau ______ das Auto. (продаёт)",
+      "correct": [
+        "verkauft"
+      ],
+      "wrong": [
+        "verkaufen",
+        "kauft",
+        "habe"
+      ]
+    },
+    {
+      "q": "Die Getränke ______ teuer.",
+      "correct": [
+        "sind"
+      ],
+      "wrong": [
+        "ist",
+        "habe",
+        "kosten"
+      ]
+    }
+  ]
+}
