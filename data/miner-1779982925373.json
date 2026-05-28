@@ -1,0 +1,104 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/5d2635451ffc290f837b9eaa/087da5bc-cfcc-4988-bc98-44df6baecf91.png",
+    "win": "You are not hungry!",
+    "start": "START",
+    "again": "Catch more burgers",
+    "btnSize": 5,
+    "btnY": 80,
+    "btnAnim": "pulse"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://img.genially.com/5d2635451ffc290f837b9eaa/9f5b5ef7-74c4-438b-a693-606e9107cf32.png",
+    "hook": "hook.png",
+    "targets": [
+      "https://img.genially.com/5d2635451ffc290f837b9eaa/61fd0e92-0a7f-40eb-af4f-d4af1585a38d.png",
+      "https://img.genially.com/5d2635451ffc290f837b9eaa/f4d3f970-f824-4b39-ae32-eaae0b5c0cd6.png",
+      "https://img.genially.com/5d2635451ffc290f837b9eaa/56b432b2-7425-469b-9ad7-98482e6f3b79.png",
+      "https://img.genially.com/5d2635451ffc290f837b9eaa/d3665453-a20c-4a3a-92cc-21edcc441745.png"
+    ],
+    "targetSize": 61,
+    "ropeColor": "#7f8c8d",
+    "heroSize": 99,
+    "heroX": 45,
+    "hookSize": 60,
+    "hookOffsetY": 0,
+    "fontFamily": "Montserrat",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#00ffcc",
+    "qBorder": "both",
+    "qTextGlow": true,
+    "qSize": 2,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#00ffcc",
+    "tBorder": "solid",
+    "tTextGlow": false,
+    "tSize": 10,
+    "hudColor": "#ffffff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#00ffcc",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#e74c3c",
+    "btnGlow": "#c0392b",
+    "btnBorder": "both",
+    "btnTextGlow": false
+  },
+  "gameplay": {
+    "hookSpeed": 10,
+    "swingSpeed": 0.035,
+    "targetSpeed": 1
+  },
+  "tasks": [
+    {
+      "q": "Какая столица у Италии?",
+      "correct": [
+        "Рим"
+      ],
+      "wrong": [
+        "Милан",
+        "Венеция",
+        "Неаполь"
+      ]
+    },
+    {
+      "q": "Назовите столицу Японии.",
+      "correct": [
+        "Токио"
+      ],
+      "wrong": [
+        "Киото",
+        "Осака",
+        "Сеул"
+      ]
+    },
+    {
+      "q": "Какой город является столицей Бразилии?",
+      "correct": [
+        "Бразилиа"
+      ],
+      "wrong": [
+        "Рио-де-Жанейро",
+        "Сан-Паулу",
+        "Буэнос-Айрес"
+      ]
+    },
+    {
+      "q": "Столица Австралии — это...",
+      "correct": [
+        "Канберра"
+      ],
+      "wrong": [
+        "Сидней",
+        "Мельбурн",
+        "Веллингтон"
+      ]
+    }
+  ]
+}
