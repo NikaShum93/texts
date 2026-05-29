@@ -1,0 +1,60 @@
+{
+  "language": "ru",
+  "font": "Montserrat",
+  "fontSize": 40,
+  "textColor": "#570000",
+  "speed": 1,
+  "style": {
+    "shape": "rounded",
+    "pad": 102,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://img.genially.com/6481eb99bc84c200190782f3/5fff6e7e-df86-4371-bfe2-aa2e85c36f79.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 180
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Нулевое окончание",
+    "btnText": ""
+  },
+  "direction": "up",
+  "finalFeedback": "Здорово! 🍓",
+  "levels": [
+    {
+      "target": "все слова с нулевым окончанием",
+      "correct": [
+        "соловей",
+        "(у) берёз",
+        "птенчик",
+        "ворон",
+        "(с) крыш",
+        "лещ",
+        "(у) коров",
+        "иней",
+        "(много) луж",
+        "(много) туч"
+      ],
+      "wrong": [
+        "(за) столом",
+        "(у) петуха",
+        "(для) котов",
+        "(с) пилой",
+        "(с) лапшой",
+        "(у) ужину",
+        "слоны",
+        "тетради"
+      ],
+      "timer": 60
+    }
+  ]
+}
