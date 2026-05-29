@@ -1,0 +1,95 @@
+{
+  "language": "ru",
+  "font": "Montserrat",
+  "fontSize": 25,
+  "textColor": "#3f0303",
+  "speed": 2,
+  "questionFont": "Montserrat",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 99,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/6481eb99bc84c200190782f3/98b2fb4a-5c46-42f3-b1e9-b0b15ee30550.png",
+    "bgImages": [
+      "https://img.genially.com/6481eb99bc84c200190782f3/98b2fb4a-5c46-42f3-b1e9-b0b15ee30550.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 180
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Однокоренные слова",
+    "btnText": ""
+  },
+  "direction": "random",
+  "finalFeedback": "Супер!🍓",
+  "globalTimer": 60,
+  "levels": [
+    {
+      "target": "Кликни только однокоренные слова к слову САД.",
+      "correct": [
+        "садовник",
+        "посадил"
+      ],
+      "wrong": [
+        "сады",
+        "(в) саду"
+      ]
+    },
+    {
+      "target": "Кликни только однокоренные слова к слову РЕКА.",
+      "correct": [
+        "речной",
+        "речушка"
+      ],
+      "wrong": [
+        "реки",
+        "(с) рекой"
+      ]
+    },
+    {
+      "target": "Кликни только однокоренные слова к слову МОРОЗНЫЙ.",
+      "correct": [
+        "мороз",
+        "заморозил",
+        "изморозь"
+      ],
+      "wrong": [
+        "морозные",
+        "морозных"
+      ]
+    },
+    {
+      "target": "Кликни только однокоренные слова к слову ПРИЕХАЛ.",
+      "correct": [
+        "ехал",
+        "езда",
+        "поеду"
+      ],
+      "wrong": [
+        "приехали",
+        "приехала"
+      ]
+    },
+    {
+      "target": "Кликни только однокоренные слова к слову СМОТРЮ.",
+      "correct": [
+        "просмотр",
+        "посмотрим",
+        "присмотрел"
+      ],
+      "wrong": [
+        "смотришь",
+        "смотрят"
+      ]
+    }
+  ]
+}
