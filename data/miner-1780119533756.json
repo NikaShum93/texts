@@ -1,0 +1,104 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/69c9036bef5358000820d1fb/fc633c42-c7d4-4198-9d50-b5ed71aab36c.png",
+    "win": "Теперь ты не голоден!",
+    "start": "СТАРТ",
+    "again": "Поймать еще бургеров",
+    "btnSize": 5,
+    "btnY": 80,
+    "btnAnim": "pulse"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://img.genially.com/69c9036bef5358000820d1fb/c4e8ba96-a799-4e2f-b4ad-d2a740a8a969.png",
+    "hook": "hook.png",
+    "targets": [
+      "https://img.genially.com/69c9036bef5358000820d1fb/a7a2ddc6-e60d-4d19-b5f7-0ff937c2b654.png",
+      "https://img.genially.com/69c9036bef5358000820d1fb/78f7cee2-ed42-4b8b-8fb7-81e64629c205.png",
+      "https://img.genially.com/69c9036bef5358000820d1fb/a1ac53c9-6aad-43bc-a6be-683386342cc6.png",
+      "https://img.genially.com/69c9036bef5358000820d1fb/11c5dc7c-ce9a-451b-9f61-69550c930d6c.png"
+    ],
+    "targetSize": 80,
+    "ropeColor": "#7f8c8d",
+    "heroSize": 111,
+    "heroX": 67,
+    "hookSize": 57,
+    "hookOffsetY": -11,
+    "fontFamily": "Montserrat",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#00ffcc",
+    "qBorder": "both",
+    "qTextGlow": true,
+    "qSize": 4,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#00ffcc",
+    "tBorder": "solid",
+    "tTextGlow": false,
+    "tSize": 16,
+    "hudColor": "#ffffff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#00ffcc",
+    "hudBorder": "none",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#e74c3c",
+    "btnGlow": "#c0392b",
+    "btnBorder": "both",
+    "btnTextGlow": false
+  },
+  "gameplay": {
+    "hookSpeed": 10,
+    "swingSpeed": 0.035,
+    "targetSpeed": 0.9
+  },
+  "tasks": [
+    {
+      "q": "Мальчик-который-выжил, носит круглые очки и имеет шрам в виде молнии",
+      "correct": [
+        "Гарри Поттер"
+      ],
+      "wrong": [
+        "Рон Уизли",
+        "Невилл Долгопупс",
+        "Драко Малфой"
+      ]
+    },
+    {
+      "q": "Самая умная волшебница, всегда знает ответы на вопросы и любит читать книги",
+      "correct": [
+        "Гермиона Грейнджер"
+      ],
+      "wrong": [
+        "Джинни Уизли",
+        "Луна Лавгуд",
+        "Лаванда Браун"
+      ]
+    },
+    {
+      "q": "Рыжий лучший друг Гарри, любит играть в волшебные шахматы",
+      "correct": [
+        "Рон Уизли"
+      ],
+      "wrong": [
+        "Фред Уизли",
+        "Джордж Уизли",
+        "Чарли Уизли"
+      ]
+    },
+    {
+      "q": "Директор Хогвартса, самый мудрый и добрый волшебник с длинной бородой",
+      "correct": [
+        "Альбус Дамблдор"
+      ],
+      "wrong": [
+        "Минерва Макгонагалл",
+        "Северус Снейп",
+        "Рубеус Хагрид"
+      ]
+    }
+  ]
+}
