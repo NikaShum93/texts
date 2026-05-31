@@ -1,0 +1,145 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 36,
+  "textColor": "#fff700",
+  "speed": 5,
+  "questionFont": "PT Sans",
+  "questionFontSize": 36,
+  "style": {
+    "shape": "rounded",
+    "pad": 61,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/68e8baf3a1432a001f894ae7/6eeb826e-f835-4740-b2bd-ebd3d1dad50e.png",
+    "bgImages": [
+      "https://img.genially.com/68e8baf3a1432a001f894ae7/6eeb826e-f835-4740-b2bd-ebd3d1dad50e.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 250
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Выбери правильное написание",
+    "btnText": ""
+  },
+  "direction": "random",
+  "finalFeedback": "",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "Выбери правильное написание",
+      "correct": [
+        "врач"
+      ],
+      "wrong": [
+        "врачь"
+      ]
+    },
+    {
+      "target": "Выбери правильное написание",
+      "correct": [
+        "дочь"
+      ],
+      "wrong": [
+        "доч"
+      ]
+    },
+    {
+      "target": "Выбери правильное написание",
+      "correct": [
+        "нож"
+      ],
+      "wrong": [
+        "ножь"
+      ]
+    },
+    {
+      "target": "Выбери правильное написание",
+      "correct": [
+        "рожь"
+      ],
+      "wrong": [
+        "рож"
+      ]
+    },
+    {
+      "target": "Выбери правильное написание",
+      "correct": [
+        "печь"
+      ],
+      "wrong": [
+        "печ"
+      ]
+    },
+    {
+      "target": "Выбери правильное написание",
+      "correct": [
+        "ключ"
+      ],
+      "wrong": [
+        "ключь"
+      ]
+    },
+    {
+      "target": "Выбери правильное написание",
+      "correct": [
+        "мышь"
+      ],
+      "wrong": [
+        "мыш"
+      ]
+    },
+    {
+      "target": "Выбери правильное написание",
+      "correct": [
+        "ковш"
+      ],
+      "wrong": [
+        "ковшь"
+      ]
+    },
+    {
+      "target": "Выбери правильное написание",
+      "correct": [
+        "вещь"
+      ],
+      "wrong": [
+        "вещ"
+      ]
+    },
+    {
+      "target": "Выбери правильное написание",
+      "correct": [
+        "гараж"
+      ],
+      "wrong": [
+        "гаражь"
+      ]
+    },
+    {
+      "target": "Выбери правильное написание",
+      "correct": [
+        "речь"
+      ],
+      "wrong": [
+        "реч"
+      ]
+    },
+    {
+      "target": "Выбери правильное написание",
+      "correct": [
+        "камыш"
+      ],
+      "wrong": [
+        "камышь"
+      ]
+    }
+  ]
+}
