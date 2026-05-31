@@ -1,0 +1,104 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/628e14e6dac8e90018d119b5/60fcc989-473f-4bfa-9b0c-2f52b10a5b4e.png",
+    "win": "Теперь ты не голоден!",
+    "start": "СТАРТ",
+    "again": "Схватить ещё бургеров",
+    "btnSize": 6,
+    "btnY": 80,
+    "btnAnim": "pulse"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://img.genially.com/628e14e6dac8e90018d119b5/d9d5149d-9cf3-49dd-a394-b35e2dbdfaf7.png",
+    "hook": "https://img.genially.com/628e14e6dac8e90018d119b5/b3a72fa8-e200-4908-82ce-c84d2621f0b5.png",
+    "targets": [
+      "https://img.genially.com/628e14e6dac8e90018d119b5/47771f4b-9e01-4f3b-a86e-a8fb8b8647cc.png",
+      "https://img.genially.com/628e14e6dac8e90018d119b5/085ea5b9-b849-401f-a096-52d8dc996076.png",
+      "https://img.genially.com/628e14e6dac8e90018d119b5/dcce3ea0-3efa-46ec-afb4-2cd521e4a0ad.png",
+      "https://img.genially.com/628e14e6dac8e90018d119b5/4cedc4cf-5146-4987-96d8-a89319268054.png"
+    ],
+    "targetSize": 50,
+    "ropeColor": "#7f8c8d",
+    "heroSize": 116,
+    "heroX": 45,
+    "hookSize": 60,
+    "hookOffsetY": -18,
+    "fontFamily": "Montserrat",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#00ffcc",
+    "qBorder": "both",
+    "qTextGlow": true,
+    "qSize": 4,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#00ffcc",
+    "tBorder": "solid",
+    "tTextGlow": false,
+    "tSize": 16,
+    "hudColor": "#ffffff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#00ffcc",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#e74c3c",
+    "btnGlow": "#c0392b",
+    "btnBorder": "both",
+    "btnTextGlow": false
+  },
+  "gameplay": {
+    "hookSpeed": 10,
+    "swingSpeed": 0.035,
+    "targetSpeed": 0.7
+  },
+  "tasks": [
+    {
+      "q": "7+8=",
+      "correct": [
+        "15"
+      ],
+      "wrong": [
+        "14",
+        "13",
+        "16"
+      ]
+    },
+    {
+      "q": "6+6=",
+      "correct": [
+        "12"
+      ],
+      "wrong": [
+        "14",
+        "13",
+        "11"
+      ]
+    },
+    {
+      "q": "5+9=",
+      "correct": [
+        "14"
+      ],
+      "wrong": [
+        "12",
+        "13",
+        "16"
+      ]
+    },
+    {
+      "q": "9+4=",
+      "correct": [
+        "13"
+      ],
+      "wrong": [
+        "14",
+        "12",
+        "11"
+      ]
+    }
+  ]
+}
