@@ -1,0 +1,143 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 124,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/d5d7be4e-4b8e-403f-a1f0-86f510be32cc.png",
+    "bubbleSize": 124,
+    "task": {
+      "bgColor": "rgba(163,216,19,0.7)",
+      "borderColor": "#99ff00",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#a3d814",
+      "borderColor": "#9afa00",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "Amazing!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 3,
+  "tasks": [
+    {
+      "question": "Mike _______ a boy from Hawkins.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "am",
+        "are"
+      ]
+    },
+    {
+      "question": "Eleven _______ a girl with super powers.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "am",
+        "are"
+      ]
+    },
+    {
+      "question": "Dustin and Lucas _______ friends.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "am",
+        "is"
+      ]
+    },
+    {
+      "question": "I _______ a fan of Stranger Things.",
+      "correct": [
+        "am"
+      ],
+      "wrong": [
+        "is",
+        "are"
+      ]
+    },
+    {
+      "question": "Will _______ in the Upside Down.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "am",
+        "are"
+      ]
+    },
+    {
+      "question": "The Demogorgon _______ a monster.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "am",
+        "are"
+      ]
+    },
+    {
+      "question": "Hopper and Joyce _______ at the laboratory.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "am",
+        "is"
+      ]
+    },
+    {
+      "question": "You _______ very brave, Steve.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "am",
+        "is"
+      ]
+    },
+    {
+      "question": "The lights _______ on the wall.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "am",
+        "is"
+      ]
+    },
+    {
+      "question": "My bike _______ red and white.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "am",
+        "are"
+      ]
+    }
+  ]
+}
