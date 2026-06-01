@@ -1,0 +1,118 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://videotourl.com/audio/1780345819166-6878bd2b-bd8b-4031-b19e-a04920ba4bb9.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/62728927e0105b0018763bee/f4fc313a-e254-4824-9c57-591950deea7f.png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#0e0c0c",
+      "fontSize": 30,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#c1c1d7",
+      "borderColor": "#e67e22",
+      "textColor": "#1d1b1b",
+      "fontSize": 30,
+      "neon": true,
+      "imageSize": 390
+    }
+  },
+  "finalFeedback": "🎉 Молодец! Билеты на поезд у тебя!",
+  "feedbackImage": "https://img.genially.com/62728927e0105b0018763bee/f4fc313a-e254-4824-9c57-591950deea7f.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "л_чил",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "б_жала",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "д_мой",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "тор_пился",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "к_тёнок",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "с_стра",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "лё_кий",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ре_кий",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "мя_кий",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "вкус_ный",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ярос_ный",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "прекрас_ный",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "площа_ка",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "поса_ка",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "неизвес_ный",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
