@@ -1,0 +1,115 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/68e25f35e193380014cbdac1/81e22be3-fcaa-4b0a-b80a-c630db83aeb7.png",
+    "win": "Теперь ты не голоден!",
+    "start": "СТАРТ",
+    "again": "Поймать еще бургеров!",
+    "btnSize": 6,
+    "btnY": 77,
+    "btnAnim": "pulse"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://img.genially.com/68e25f35e193380014cbdac1/0901c26b-dafa-49e8-b4a5-938014517451.png",
+    "hook": "https://img.genially.com/68e25f35e193380014cbdac1/7b92792d-a321-40b9-b846-2108581bd08c.png",
+    "targets": [
+      "https://img.genially.com/68e25f35e193380014cbdac1/f9f76a15-9413-4e3a-9db1-36d18f16a116.png",
+      "https://img.genially.com/68e25f35e193380014cbdac1/2553be9a-7f4a-4dad-a6ba-2df651e9aa18.png",
+      "https://img.genially.com/68e25f35e193380014cbdac1/b544d04a-7400-45ab-b4bb-162b5b995b85.png",
+      "https://img.genially.com/68e25f35e193380014cbdac1/a15efec3-289b-4b0f-8e33-83fcda72fd79.png"
+    ],
+    "targetSize": 73,
+    "ropeColor": "#7f8c8d",
+    "heroSize": 121,
+    "heroX": 74,
+    "hookSize": 47,
+    "hookOffsetY": -18,
+    "fontFamily": "Montserrat",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#00ffcc",
+    "qBorder": "both",
+    "qTextGlow": true,
+    "qSize": 4,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#00ffcc",
+    "tBorder": "solid",
+    "tTextGlow": false,
+    "tSize": 19,
+    "hudColor": "#ffffff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#00ffcc",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#e74c3c",
+    "btnGlow": "#c0392b",
+    "btnBorder": "both",
+    "btnTextGlow": false
+  },
+  "gameplay": {
+    "hookSpeed": 10,
+    "swingSpeed": 0.035,
+    "targetSpeed": 1
+  },
+  "tasks": [
+    {
+      "q": "We use it to write in the copybook.",
+      "correct": [
+        "a pen"
+      ],
+      "wrong": [
+        "a ruler",
+        "a pencil",
+        "a rubber"
+      ]
+    },
+    {
+      "q": "We use it to clean the paper.",
+      "correct": [
+        "a rubber"
+      ],
+      "wrong": [
+        "a pencil",
+        "a ruler",
+        "a pencil case"
+      ]
+    },
+    {
+      "q": "We use it to measure the lines.",
+      "correct": [
+        "a ruler"
+      ],
+      "wrong": [
+        "a rubber",
+        "a pen",
+        "a book"
+      ]
+    },
+    {
+      "q": "We use it to keep pens and rulers in it.",
+      "correct": [
+        "a pencil case"
+      ],
+      "wrong": [
+        "a bag",
+        "a backpack",
+        "a box"
+      ]
+    },
+    {
+      "q": "We use it to carry things (books, pencil case) in it.",
+      "correct": [
+        "a backpack"
+      ],
+      "wrong": [
+        "a box",
+        "a pencil case",
+        "a ruler"
+      ]
+    }
+  ]
+}
