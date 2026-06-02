@@ -1,0 +1,133 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 126,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://ai-image.genially.com/69280f6b271efa024129946b/6a05e8f7c2c30abfe8c6ba57/6a05ea1a79383836c3b8188c.png",
+    "bubbleSize": 126,
+    "task": {
+      "bgColor": "rgba(126,12,187,0.85)",
+      "borderColor": "#ffd500",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#7e27bb",
+      "borderColor": "#ffd501",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "Amazing!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 2,
+  "tasks": [
+    {
+      "question": "Eleven ___ a nosebleed when she uses powers.",
+      "correct": [
+        "has got"
+      ],
+      "wrong": [
+        "have got"
+      ]
+    },
+    {
+      "question": "I ___ a bad feeling about this.",
+      "correct": [
+        "have got"
+      ],
+      "wrong": [
+        "has got"
+      ]
+    },
+    {
+      "question": "The boys ___ a plan.",
+      "correct": [
+        "have got"
+      ],
+      "wrong": [
+        "has got"
+      ]
+    },
+    {
+      "question": "Dustin’s cat ___ no teeth.",
+      "correct": [
+        "has got"
+      ],
+      "wrong": [
+        "have got"
+      ]
+    },
+    {
+      "question": "We ____ a map.",
+      "correct": [
+        "have got"
+      ],
+      "wrong": [
+        "has got"
+      ]
+    },
+    {
+      "question": "You ____ a cool jacket, Steve.",
+      "correct": [
+        "have got"
+      ],
+      "wrong": [
+        "has got"
+      ]
+    },
+    {
+      "question": "The Upside Down ____ many monsters.",
+      "correct": [
+        "has got"
+      ],
+      "wrong": [
+        "have got"
+      ]
+    },
+    {
+      "question": "Max and El ____ new friends.",
+      "correct": [
+        "have got"
+      ],
+      "wrong": [
+        "has got"
+      ]
+    },
+    {
+      "question": "That thing ____ a long tongue.",
+      "correct": [
+        "has got"
+      ],
+      "wrong": [
+        "have got"
+      ]
+    },
+    {
+      "question": "I ___ your back, Mike.",
+      "correct": [
+        "have got"
+      ],
+      "wrong": [
+        "has got"
+      ]
+    }
+  ]
+}
