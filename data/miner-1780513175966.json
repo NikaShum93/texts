@@ -1,0 +1,170 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/689a0eeba4633f001f61ec0d/0728b172-7be9-44e0-910c-652ad1f6208c.png",
+    "win": "Full now, aren't you?",
+    "start": "PLAY",
+    "again": "one more time",
+    "btnSize": 9,
+    "btnY": 69,
+    "btnAnim": "pulse"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://img.genially.com/689a0eeba4633f001f61ec0d/7fe69e9f-6795-4601-98c1-e918a892f005.png",
+    "hook": "hook.png",
+    "targets": [
+      "https://img.genially.com/689a0eeba4633f001f61ec0d/6e82f73b-1f3c-4b2f-ae63-d06bc2f7c330.png",
+      "https://img.genially.com/689a0eeba4633f001f61ec0d/c4841fde-2752-406b-aace-d522a775d10c.png",
+      "https://img.genially.com/689a0eeba4633f001f61ec0d/ffc7b515-04f4-467b-82c7-4e205e1ff0a5.png",
+      "https://img.genially.com/689a0eeba4633f001f61ec0d/48cbaf8e-7d28-475c-8f46-f03209a40ff3.png"
+    ],
+    "targetSize": 53,
+    "ropeColor": "#7f8c8d",
+    "heroSize": 63,
+    "heroX": 29,
+    "hookSize": 37,
+    "hookOffsetY": -18,
+    "fontFamily": "Comic Neue",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#ff0000",
+    "qBorder": "both",
+    "qTextGlow": true,
+    "qSize": 2.5,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#ff1900",
+    "tBorder": "both",
+    "tTextGlow": true,
+    "tSize": 10,
+    "hudColor": "#ffffff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#ff2600",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#d52d08",
+    "btnGlow": "#c0392b",
+    "btnBorder": "both",
+    "btnTextGlow": true
+  },
+  "gameplay": {
+    "hookSpeed": 10,
+    "swingSpeed": 0.035,
+    "targetSpeed": 0.7
+  },
+  "tasks": [
+    {
+      "q": "What is the most popular fast food item worldwide?",
+      "correct": [
+        "Burger"
+      ],
+      "wrong": [
+        "Pizza",
+        "Sushi",
+        "Salad"
+      ]
+    },
+    {
+      "q": "Which fast food chain has the golden arches logo?",
+      "correct": [
+        "McDonald's"
+      ],
+      "wrong": [
+        "Burger King",
+        "KFC",
+        "Subway"
+      ]
+    },
+    {
+      "q": "What do you call thin fried potatoes in the USA?",
+      "correct": [
+        "French fries"
+      ],
+      "wrong": [
+        "Potato chips",
+        "Crisps",
+        "Wedges"
+      ]
+    },
+    {
+      "q": "Which drink is typically served with ice and bubbles?",
+      "correct": [
+        "Soda"
+      ],
+      "wrong": [
+        "Water",
+        "Juice",
+        "Tea"
+      ]
+    },
+    {
+      "q": "What is a hot dog made of?",
+      "correct": [
+        "Sausage"
+      ],
+      "wrong": [
+        "Chicken",
+        "Beef steak",
+        "Fish"
+      ]
+    },
+    {
+      "q": "Which fast food is known for fried chicken?",
+      "correct": [
+        "KFC"
+      ],
+      "wrong": [
+        "Domino's",
+        "Taco Bell",
+        "Wendy's"
+      ]
+    },
+    {
+      "q": "What do you call a meal with burger, fries and drink?",
+      "correct": [
+        "Combo"
+      ],
+      "wrong": [
+        "Buffet",
+        "Snack",
+        "Appetizer"
+      ]
+    },
+    {
+      "q": "Which sauce is yellow and goes with hot dogs?",
+      "correct": [
+        "Mustard"
+      ],
+      "wrong": [
+        "Ketchup",
+        "Mayo",
+        "BBQ sauce"
+      ]
+    },
+    {
+      "q": "What is a milkshake made with?",
+      "correct": [
+        "Ice cream"
+      ],
+      "wrong": [
+        "Yogurt",
+        "Butter",
+        "Cheese"
+      ]
+    },
+    {
+      "q": "Which fast food serves pizza?",
+      "correct": [
+        "Domino's"
+      ],
+      "wrong": [
+        "McDonald's",
+        "Subway",
+        "Chipotle"
+      ]
+    }
+  ]
+}
