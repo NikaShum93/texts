@@ -1,0 +1,170 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/6173fe3d318a510015c590ae/7211ddb7-645c-44a5-8f5f-632a7be5e8c8.png",
+    "win": "КВИЗ ПРОЙДЕН!",
+    "start": "СТАРТ",
+    "again": "ЕЩЁ РАЗ",
+    "btnSize": 5,
+    "btnY": 80,
+    "btnAnim": "none"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://img.genially.com/6173fe3d318a510015c590ae/ed9304c2-6e9f-4a44-a4ce-c59f5a834886.png",
+    "hook": "https://img.genially.com/6173fe3d318a510015c590ae/1a39477f-a1a1-4579-8981-05709cbc15f7.png",
+    "targets": [
+      "https://img.genially.com/6173fe3d318a510015c590ae/d92833ef-0f45-43e0-be54-fb8a0704dac6.png",
+      "https://img.genially.com/6173fe3d318a510015c590ae/1c6c2e40-c7ae-476d-834b-3b310821927b.png",
+      "https://img.genially.com/6173fe3d318a510015c590ae/fc594630-91cc-4793-aff1-1c4641c9794a.png",
+      "https://img.genially.com/6173fe3d318a510015c590ae/a7cecac0-9b32-4f6a-83be-b06224e9191f.png"
+    ],
+    "targetSize": 53,
+    "ropeColor": "#7f8c8d",
+    "heroSize": 72,
+    "heroX": 0,
+    "hookSize": 30,
+    "hookOffsetY": 0,
+    "fontFamily": "Montserrat",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#00ffcc",
+    "qBorder": "both",
+    "qTextGlow": true,
+    "qSize": 2.5,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#00ffcc",
+    "tBorder": "solid",
+    "tTextGlow": false,
+    "tSize": 12,
+    "hudColor": "#ffffff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#00ffcc",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#e74c3c",
+    "btnGlow": "#c0392b",
+    "btnBorder": "both",
+    "btnTextGlow": false
+  },
+  "gameplay": {
+    "hookSpeed": 8,
+    "swingSpeed": 0.035,
+    "targetSpeed": 1
+  },
+  "tasks": [
+    {
+      "q": "He ___ to school every day.",
+      "correct": [
+        "goes"
+      ],
+      "wrong": [
+        "go",
+        "going",
+        "go"
+      ]
+    },
+    {
+      "q": "They ___ football on Sundays.",
+      "correct": [
+        "play"
+      ],
+      "wrong": [
+        "plays",
+        "played",
+        "playing"
+      ]
+    },
+    {
+      "q": "She ___ coffee in the morning.",
+      "correct": [
+        "drinks"
+      ],
+      "wrong": [
+        "drink",
+        "drinking",
+        "drank"
+      ]
+    },
+    {
+      "q": "We ___ English at school.",
+      "correct": [
+        "study"
+      ],
+      "wrong": [
+        "studies",
+        "studying",
+        "studied"
+      ]
+    },
+    {
+      "q": "My father ___ TV in the evening.",
+      "correct": [
+        "watches"
+      ],
+      "wrong": [
+        "watch",
+        "watching",
+        "watched"
+      ]
+    },
+    {
+      "q": "I ___ my homework after dinner.",
+      "correct": [
+        "do"
+      ],
+      "wrong": [
+        "does",
+        "doing",
+        "did"
+      ]
+    },
+    {
+      "q": "The cat ___ milk.",
+      "correct": [
+        "likes"
+      ],
+      "wrong": [
+        "like",
+        "liking",
+        "liked"
+      ]
+    },
+    {
+      "q": "You ___ very fast.",
+      "correct": [
+        "run"
+      ],
+      "wrong": [
+        "runs",
+        "running",
+        "ran"
+      ]
+    },
+    {
+      "q": "Anna ___ in London.",
+      "correct": [
+        "lives"
+      ],
+      "wrong": [
+        "live",
+        "living",
+        "lived"
+      ]
+    },
+    {
+      "q": "Tom and Jerry ___ cartoons.",
+      "correct": [
+        "love"
+      ],
+      "wrong": [
+        "loves",
+        "loving",
+        "loved"
+      ]
+    }
+  ]
+}
