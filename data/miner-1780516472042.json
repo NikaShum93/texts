@@ -1,0 +1,115 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/6609b14ef670a8001fd7cf05/04f1394d-91bc-4de4-8c83-364b7e4c8f5a.png",
+    "win": "КВИЗ ПРОЙДЕН!",
+    "start": "СТАРТ",
+    "again": "ЕЩЁ РАЗ",
+    "btnSize": 5,
+    "btnY": 80,
+    "btnAnim": "pulse"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://img.genially.com/6609b14ef670a8001fd7cf05/ef60b536-26aa-4144-bdb3-651c0f60d3ba.png",
+    "hook": "https://img.genially.com/6609b14ef670a8001fd7cf05/9aa2c782-3d28-4be2-82b0-6ab73777ccee.png",
+    "targets": [
+      "https://img.genially.com/6609b14ef670a8001fd7cf05/613a39da-e15a-4e3b-8af3-4206af20b03b.png",
+      "https://img.genially.com/6609b14ef670a8001fd7cf05/8a263f35-7d67-41c7-b9c7-6744baef8bb5.png",
+      "https://img.genially.com/6609b14ef670a8001fd7cf05/c5d62dd9-6bd5-4617-be7e-5f4e7570a3ac.png",
+      "https://img.genially.com/6609b14ef670a8001fd7cf05/613a39da-e15a-4e3b-8af3-4206af20b03b.png"
+    ],
+    "targetSize": 60,
+    "ropeColor": "#7f8c8d",
+    "heroSize": 67,
+    "heroX": 0,
+    "hookSize": 60,
+    "hookOffsetY": 0,
+    "fontFamily": "Montserrat",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#00ffcc",
+    "qBorder": "both",
+    "qTextGlow": true,
+    "qSize": 4.5,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#00ffcc",
+    "tBorder": "solid",
+    "tTextGlow": true,
+    "tSize": 22,
+    "hudColor": "#ffffff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#00ffcc",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#e74c3c",
+    "btnGlow": "#c0392b",
+    "btnBorder": "both",
+    "btnTextGlow": true
+  },
+  "gameplay": {
+    "hookSpeed": 10,
+    "swingSpeed": 0.035,
+    "targetSpeed": 2.2
+  },
+  "tasks": [
+    {
+      "q": "м.2 + б.2 = ?",
+      "correct": [
+        "м.3"
+      ],
+      "wrong": [
+        "б.3",
+        "ч.4",
+        "б.2"
+      ]
+    },
+    {
+      "q": "ч.5 - б.2 = ?",
+      "correct": [
+        "ч.4"
+      ],
+      "wrong": [
+        "б.3",
+        "ч.3",
+        "ум.4"
+      ]
+    },
+    {
+      "q": "ч.5 + м.2 = ?",
+      "correct": [
+        "м.6"
+      ],
+      "wrong": [
+        "б.6",
+        "м.7",
+        "ув.4"
+      ]
+    },
+    {
+      "q": "б.2 + б.2 = ?",
+      "correct": [
+        "б.3"
+      ],
+      "wrong": [
+        "м.3",
+        "ув.2",
+        "ч.4"
+      ]
+    },
+    {
+      "q": "б.3 + м.3 - б.2 = ?",
+      "correct": [
+        "ч.4"
+      ],
+      "wrong": [
+        "ч.5",
+        "м.6",
+        "б.6"
+      ]
+    }
+  ]
+}
