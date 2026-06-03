@@ -1,0 +1,263 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Roboto",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": false,
+  "bubbleSize": 64,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/6573f8946d6d76001fe95399/a142fae0-109d-4c9e-bebc-eee9775a182a.png",
+    "bubbleSize": 64,
+    "task": {
+      "bgColor": "rgba(73,126,76,0.45)",
+      "borderColor": "#dff27d",
+      "textColor": "#fbfaf9",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#62a85d",
+      "borderColor": "#cafb41",
+      "textColor": "#effb41",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 3,
+  "tasks": [
+    {
+      "question": "______ the fire (in the stove)",
+      "correct": [
+        "make"
+      ],
+      "wrong": [
+        "do",
+        "go"
+      ]
+    },
+    {
+      "question": "______ the laundry",
+      "correct": [
+        "do"
+      ],
+      "wrong": [
+        "make",
+        "go"
+      ]
+    },
+    {
+      "question": "______ for wood (in the forest)",
+      "correct": [
+        "go"
+      ],
+      "wrong": [
+        "do",
+        "make"
+      ]
+    },
+    {
+      "question": "______ a potion",
+      "correct": [
+        "make"
+      ],
+      "wrong": [
+        "do",
+        "go"
+      ]
+    },
+    {
+      "question": "______ the gardening",
+      "correct": [
+        "do"
+      ],
+      "wrong": [
+        "make",
+        "go"
+      ]
+    },
+    {
+      "question": "______ the bed",
+      "correct": [
+        "make"
+      ],
+      "wrong": [
+        "do",
+        "go"
+      ]
+    },
+    {
+      "question": "______ to the well (for water)",
+      "correct": [
+        "go"
+      ],
+      "wrong": [
+        "do",
+        "make"
+      ]
+    },
+    {
+      "question": "______ cleaning",
+      "correct": [
+        "do"
+      ],
+      "wrong": [
+        "make",
+        "go"
+      ]
+    },
+    {
+      "question": "______ a list",
+      "correct": [
+        "make"
+      ],
+      "wrong": [
+        "do",
+        "go"
+      ]
+    },
+    {
+      "question": "______ shopping",
+      "correct": [
+        "go"
+      ],
+      "wrong": [
+        "do",
+        "make"
+      ]
+    },
+    {
+      "question": "______ dinner",
+      "correct": [
+        "make"
+      ],
+      "wrong": [
+        "do",
+        "go"
+      ]
+    },
+    {
+      "question": "______ the ironing",
+      "correct": [
+        "do"
+      ],
+      "wrong": [
+        "make",
+        "go"
+      ]
+    },
+    {
+      "question": "______ outside (to check the territory)",
+      "correct": [
+        "go"
+      ],
+      "wrong": [
+        "do",
+        "make"
+      ]
+    },
+    {
+      "question": "______ breakfast",
+      "correct": [
+        "make"
+      ],
+      "wrong": [
+        "do",
+        "go"
+      ]
+    },
+    {
+      "question": "______ for herbs (in the forest)",
+      "correct": [
+        "go"
+      ],
+      "wrong": [
+        "do",
+        "make"
+      ]
+    },
+    {
+      "question": "______ the washing up",
+      "correct": [
+        "do"
+      ],
+      "wrong": [
+        "make",
+        "go"
+      ]
+    },
+    {
+      "question": "______ tea",
+      "correct": [
+        "make"
+      ],
+      "wrong": [
+        "do",
+        "go"
+      ]
+    },
+    {
+      "question": "______ dusting",
+      "correct": [
+        "do"
+      ],
+      "wrong": [
+        "make",
+        "go"
+      ]
+    },
+    {
+      "question": "______ the cooking",
+      "correct": [
+        "do"
+      ],
+      "wrong": [
+        "make",
+        "go"
+      ]
+    },
+    {
+      "question": "______ lunch",
+      "correct": [
+        "make"
+      ],
+      "wrong": [
+        "do",
+        "go"
+      ]
+    },
+    {
+      "question": "______ the chores",
+      "correct": [
+        "do"
+      ],
+      "wrong": [
+        "make",
+        "go"
+      ]
+    },
+    {
+      "question": "______ the washing",
+      "correct": [
+        "do"
+      ],
+      "wrong": [
+        "make",
+        "go"
+      ]
+    }
+  ]
+}
