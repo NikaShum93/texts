@@ -1,0 +1,133 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Indie Flower",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/628e14e6dac8e90018d119b5/ef0554cf-0533-440e-8167-2ae93c57a5c0.png",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(78,29,31,0.55)",
+      "borderColor": "#0f0119",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "she / like / Art.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "you / wear / a hoodie / today?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "he / not / usually / play / board games.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "they / study / English / now.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "your friend / have got / curly hair?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I / not / like / PE.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "she / wear / jeans / today.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "they / like / History?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "he / not / friendly.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "you / usually / listen to music / after school?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "my sister / have got / fair hair.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "we / not / do / Maths / at the moment.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "she / hate / Geography?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "they / wear / trainers / every day.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "he / draw / now?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I / good at / English.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "your classmates / have / Science / on Mondays?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "she / not / usually / wear / dresses.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
