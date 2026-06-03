@@ -1,0 +1,90 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/6415deea4a66bf0018aeb3b3/988496f9-4fdd-484d-ad67-328e662f1a4b.png",
+    "win": "YOU WON!",
+    "start": "START",
+    "again": "RESTART",
+    "btnSize": 7,
+    "btnY": 78,
+    "btnAnim": "glitch"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://img.genially.com/6415deea4a66bf0018aeb3b3/2fde0792-d00a-4f26-82e3-0264a0900791.png",
+    "hook": "hook.png",
+    "targets": [
+      "https://img.genially.com/6415deea4a66bf0018aeb3b3/cd634831-a201-4d35-840d-59f739cd82b9.png",
+      "https://img.genially.com/6415deea4a66bf0018aeb3b3/ed0dfc81-3068-4475-9628-12da098c42dc.png",
+      "https://img.genially.com/6415deea4a66bf0018aeb3b3/88ab17fd-b0eb-48dd-bc69-4036b5786985.png",
+      "https://img.genially.com/6415deea4a66bf0018aeb3b3/d5ca791d-c9d0-4e03-9b97-28249395bad0.png"
+    ],
+    "targetSize": 52,
+    "ropeColor": "#7f8c8d",
+    "heroSize": 158,
+    "heroX": 23,
+    "hookSize": 60,
+    "hookOffsetY": -10,
+    "fontFamily": "Montserrat",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#ff00ea",
+    "qBorder": "both",
+    "qTextGlow": true,
+    "qSize": 3,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#ff00c8",
+    "tBorder": "solid",
+    "tTextGlow": false,
+    "tSize": 22,
+    "hudColor": "#ffffff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#ff00ea",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#e74c3c",
+    "btnGlow": "#c0392b",
+    "btnBorder": "both",
+    "btnTextGlow": false
+  },
+  "gameplay": {
+    "hookSpeed": 10,
+    "swingSpeed": 0.035,
+    "targetSpeed": 1
+  },
+  "tasks": [
+    {
+      "q": "big - bigger - ...",
+      "correct": [
+        "the biggest"
+      ],
+      "wrong": [
+        "most biggest",
+        "most big"
+      ]
+    },
+    {
+      "q": "good - ... - the best",
+      "correct": [
+        "better"
+      ],
+      "wrong": [
+        "gooder",
+        "the better"
+      ]
+    },
+    {
+      "q": "handsome - more handsome - ...",
+      "correct": [
+        "the most handsome"
+      ],
+      "wrong": [
+        "handsomest",
+        "most handsome"
+      ]
+    }
+  ]
+}
