@@ -1,0 +1,170 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/6217b551bc0f7d0012399c62/b9f83743-96d3-4ba9-9ab8-bdad88bc694a.png",
+    "win": "Now you are full!",
+    "start": "Start",
+    "again": "Catch some more!",
+    "btnSize": 5,
+    "btnY": 80,
+    "btnAnim": "pulse"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://img.genially.com/6217b551bc0f7d0012399c62/388780aa-65af-4edf-8efe-d0b3e0c41dc5.png",
+    "hook": "hook.png",
+    "targets": [
+      "https://img.genially.com/6217b551bc0f7d0012399c62/c2d568df-5e8e-4574-b78c-b9e1d4983492.png",
+      "https://img.genially.com/6217b551bc0f7d0012399c62/af3dd2eb-896c-4296-be50-0b7c06daf1e4.png",
+      "https://img.genially.com/6217b551bc0f7d0012399c62/b42c4a1b-4d50-4066-90e9-e69bd2528e61.png",
+      "https://img.genially.com/6217b551bc0f7d0012399c62/0d8c09be-2f6d-4040-bb64-4d502211bb14.png"
+    ],
+    "targetSize": 41,
+    "ropeColor": "#7f8c8d",
+    "heroSize": 92,
+    "heroX": -36,
+    "hookSize": 42,
+    "hookOffsetY": -6,
+    "fontFamily": "Comic Neue",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#00ffcc",
+    "qBorder": "both",
+    "qTextGlow": true,
+    "qSize": 2.5,
+    "tColor": "#111212",
+    "tBg": "#59e91c",
+    "tGlow": "#43eab2",
+    "tBorder": "both",
+    "tTextGlow": true,
+    "tSize": 15,
+    "hudColor": "#f4ec10",
+    "hudBg": "#9e788e",
+    "hudGlow": "#e1f54d",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#cceb2d",
+    "btnBg": "#e74c3c",
+    "btnGlow": "#bf2b2b",
+    "btnBorder": "both",
+    "btnTextGlow": true
+  },
+  "gameplay": {
+    "hookSpeed": 6,
+    "swingSpeed": 0.035,
+    "targetSpeed": 0.6
+  },
+  "tasks": [
+    {
+      "q": "What season comes after winter?",
+      "correct": [
+        "spring"
+      ],
+      "wrong": [
+        "summer",
+        "autumn",
+        "winter"
+      ]
+    },
+    {
+      "q": "What season comes before summer?",
+      "correct": [
+        "spring"
+      ],
+      "wrong": [
+        "summer",
+        "autumn",
+        "winter"
+      ]
+    },
+    {
+      "q": "What month comes after January?",
+      "correct": [
+        "February"
+      ],
+      "wrong": [
+        "March",
+        "April",
+        "June"
+      ]
+    },
+    {
+      "q": "What month comes before December?",
+      "correct": [
+        "November"
+      ],
+      "wrong": [
+        "October",
+        "September",
+        "August"
+      ]
+    },
+    {
+      "q": "In what  season is July?",
+      "correct": [
+        "summer"
+      ],
+      "wrong": [
+        "winter",
+        "spring",
+        "autumn"
+      ]
+    },
+    {
+      "q": "In what  season is October?",
+      "correct": [
+        "autumn"
+      ],
+      "wrong": [
+        "winter",
+        "spring",
+        "summer"
+      ]
+    },
+    {
+      "q": "What month comes after April?",
+      "correct": [
+        "May"
+      ],
+      "wrong": [
+        "June",
+        "July",
+        "August"
+      ]
+    },
+    {
+      "q": "What month comes before March?",
+      "correct": [
+        "February"
+      ],
+      "wrong": [
+        "January",
+        "April",
+        "May"
+      ]
+    },
+    {
+      "q": "What is the first month of the year?",
+      "correct": [
+        "January"
+      ],
+      "wrong": [
+        "March",
+        "July",
+        "December"
+      ]
+    },
+    {
+      "q": "What is the last month of the year?",
+      "correct": [
+        "December"
+      ],
+      "wrong": [
+        "January",
+        "June",
+        "October"
+      ]
+    }
+  ]
+}
