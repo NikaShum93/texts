@@ -1,0 +1,104 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/69d2494e9c444e000713ba51/1d4391b9-4e79-4571-a014-f6337b24d0be.png",
+    "win": "Теперь ты не голоден!",
+    "start": "START",
+    "again": "Поймать ещё бургеров!",
+    "btnSize": 7.5,
+    "btnY": 80,
+    "btnAnim": "pulse"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://img.genially.com/69d2494e9c444e000713ba51/d756e8d7-9fb6-4c9e-85ae-7e0b9bdd2d78.png",
+    "hook": "hook.png",
+    "targets": [
+      "https://img.genially.com/69d2494e9c444e000713ba51/d5b73a29-0f43-4913-aa05-307771fd433f.png",
+      "https://img.genially.com/69d2494e9c444e000713ba51/cb7fc361-32ae-4f9d-8aa3-3a07a8aaed3d.png",
+      "https://img.genially.com/69d2494e9c444e000713ba51/b6897e57-deb4-465d-a11d-ed894f2b3ad3.png",
+      "https://img.genially.com/69d2494e9c444e000713ba51/78e33c4a-02cd-4684-8e57-ce6e4bc02f6a.png"
+    ],
+    "targetSize": 53,
+    "ropeColor": "#7f8c8d",
+    "heroSize": 98,
+    "heroX": 39,
+    "hookSize": 45,
+    "hookOffsetY": -11,
+    "fontFamily": "Montserrat",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#00ffcc",
+    "qBorder": "both",
+    "qTextGlow": true,
+    "qSize": 4.5,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#00ffcc",
+    "tBorder": "solid",
+    "tTextGlow": false,
+    "tSize": 14,
+    "hudColor": "#ffffff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#00ffcc",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#e74c3c",
+    "btnGlow": "#c0392b",
+    "btnBorder": "both",
+    "btnTextGlow": false
+  },
+  "gameplay": {
+    "hookSpeed": 20,
+    "swingSpeed": 0.035,
+    "targetSpeed": 1.3
+  },
+  "tasks": [
+    {
+      "q": "One mouse – two …",
+      "correct": [
+        "mice"
+      ],
+      "wrong": [
+        "mouses",
+        "mices",
+        "mousies"
+      ]
+    },
+    {
+      "q": "One child – two …",
+      "correct": [
+        "children"
+      ],
+      "wrong": [
+        "childs",
+        "childes",
+        "childrens"
+      ]
+    },
+    {
+      "q": "One foot – two …",
+      "correct": [
+        "feet"
+      ],
+      "wrong": [
+        "foots",
+        "feets",
+        "footes"
+      ]
+    },
+    {
+      "q": "One person – two …",
+      "correct": [
+        "people"
+      ],
+      "wrong": [
+        "persons",
+        "peoples",
+        "persones"
+      ]
+    }
+  ]
+}
