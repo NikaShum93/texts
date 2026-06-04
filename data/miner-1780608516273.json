@@ -1,0 +1,100 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/66c62490416fe3001f5bf51c/daf32b31-5bac-4d4e-8e76-f9ca44311fcb.png",
+    "win": "Теперь ты не голоден",
+    "start": "СТАРТ ",
+    "again": "Поймай еще бургеров",
+    "btnSize": 5,
+    "btnY": 80,
+    "btnAnim": "pulse"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://img.genially.com/66c62490416fe3001f5bf51c/d0d80abc-f641-4ed0-a724-614dce207161.png",
+    "hook": "hook.png",
+    "targets": [
+      "https://img.genially.com/66c62490416fe3001f5bf51c/e308ebaf-9706-4693-b16e-6ece118898a1.png",
+      "https://img.genially.com/66c62490416fe3001f5bf51c/10096978-13b5-49c7-9bdd-2385ceedb8b3.png",
+      "https://img.genially.com/66c62490416fe3001f5bf51c/ba4c88e9-7116-40f4-a8a5-739849c1f68c.png",
+      "https://img.genially.com/66c62490416fe3001f5bf51c/1d8e9e21-477f-4031-95dd-cadd9bd74697.png"
+    ],
+    "targetSize": 67,
+    "ropeColor": "#7f8c8d",
+    "heroSize": 84,
+    "heroX": 26,
+    "hookSize": 20,
+    "hookOffsetY": -12,
+    "fontFamily": "Montserrat",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#00ffcc",
+    "qBorder": "both",
+    "qTextGlow": true,
+    "qSize": 2.5,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#00ffcc",
+    "tBorder": "solid",
+    "tTextGlow": false,
+    "tSize": 12,
+    "hudColor": "#ffffff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#00ffcc",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#e74c3c",
+    "btnGlow": "#c0392b",
+    "btnBorder": "both",
+    "btnTextGlow": true
+  },
+  "gameplay": {
+    "hookSpeed": 11,
+    "swingSpeed": 0.035,
+    "targetSpeed": 0.8
+  },
+  "tasks": [
+    {
+      "q": "What is the capital of England",
+      "correct": [
+        "London"
+      ],
+      "wrong": [
+        "Washington",
+        "Belfast"
+      ]
+    },
+    {
+      "q": "What is the capital of Scotland?",
+      "correct": [
+        "Edinburg"
+      ],
+      "wrong": [
+        "Oxford",
+        "London"
+      ]
+    },
+    {
+      "q": "What is the capital of Wales?",
+      "correct": [
+        "Cardiff"
+      ],
+      "wrong": [
+        "Paris",
+        "Cardiff"
+      ]
+    },
+    {
+      "q": "What is the capital of Northern Ireland?",
+      "correct": [
+        "Belfast"
+      ],
+      "wrong": [
+        "New York",
+        "Edinburg"
+      ]
+    }
+  ]
+}
