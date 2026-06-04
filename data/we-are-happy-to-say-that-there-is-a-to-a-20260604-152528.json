@@ -1,0 +1,131 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/9fn4TfCg/emotions-farm-vocabulary.gif",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "We are happy to say that there is a _____ to Apple Farm for all the children in Class 2S.",
+      "correct": [
+        "trip"
+      ],
+      "wrong": [
+        "ride",
+        "bike"
+      ]
+    },
+    {
+      "question": "The trip is on Wednesday. On this trip, the children _____ life and have fun in the open air.",
+      "correct": [
+        "learn about farm"
+      ],
+      "wrong": [
+        "learn about the zoo",
+        "teach about farm"
+      ]
+    },
+    {
+      "question": "There are lots of animals on the farm. In the morning, the children can _____ and the ducks.",
+      "correct": [
+        "feed the hens"
+      ],
+      "wrong": [
+        "feed the lunchboxes",
+        "drink some coke"
+      ]
+    },
+    {
+      "question": "They can also ____ the cows, horses and goats.",
+      "correct": [
+        "see"
+      ],
+      "wrong": [
+        "ride",
+        "jump"
+      ]
+    },
+    {
+      "question": "The farmer, Mr James, is very friendly. He ______ the children about life on the farm and about where food comes from.",
+      "correct": [
+        "teaches"
+      ],
+      "wrong": [
+        "shouts",
+        "drinks"
+      ]
+    },
+    {
+      "question": "The children can also ____ in his big tractor.",
+      "correct": [
+        "ride"
+      ],
+      "wrong": [
+        "fly",
+        "bake"
+      ]
+    },
+    {
+      "question": "We are travelling by ____ bus.",
+      "correct": [
+        "school"
+      ],
+      "wrong": [
+        "train",
+        "car"
+      ]
+    },
+    {
+      "question": "The ____ goes at 9 o’clock, so please don’t be late.",
+      "correct": [
+        "coach"
+      ],
+      "wrong": [
+        "bicycle"
+      ]
+    },
+    {
+      "question": "Also bring _____, as the farm can be muddy!",
+      "correct": [
+        "boots"
+      ],
+      "wrong": [
+        "dresses"
+      ]
+    }
+  ]
+}
