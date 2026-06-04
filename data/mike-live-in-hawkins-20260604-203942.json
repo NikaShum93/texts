@@ -1,0 +1,151 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/uGxbuXX7HnkAAAAi/heart-pink.gif",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(255,77,216,0.85)",
+      "borderColor": "#ffebf2",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#ff4dd8",
+      "borderColor": "#ffebf2",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "You are a star!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 2,
+  "tasks": [
+    {
+      "question": "Mike (live) in Hawkins.",
+      "correct": [
+        "lives"
+      ],
+      "wrong": [
+        "live"
+      ]
+    },
+    {
+      "question": "Eleven (like) waffles.",
+      "correct": [
+        "likes"
+      ],
+      "wrong": [
+        "like"
+      ]
+    },
+    {
+      "question": "Dustin (have) a funny cap.",
+      "correct": [
+        "has"
+      ],
+      "wrong": [
+        "have"
+      ]
+    },
+    {
+      "question": "Lucas (play) with his friends.",
+      "correct": [
+        "plays"
+      ],
+      "wrong": [
+        "play"
+      ]
+    },
+    {
+      "question": "Max (ride) her skateboard.",
+      "correct": [
+        "rides"
+      ],
+      "wrong": [
+        "ride"
+      ]
+    },
+    {
+      "question": "Will (draw) strange pictures.",
+      "correct": [
+        "draws"
+      ],
+      "wrong": [
+        "draw"
+      ]
+    },
+    {
+      "question": "Joyce (work) in a shop.",
+      "correct": [
+        "works"
+      ],
+      "wrong": [
+        "work"
+      ]
+    },
+    {
+      "question": "Hopper (protect) the children.",
+      "correct": [
+        "protects"
+      ],
+      "wrong": [
+        "protect"
+      ]
+    },
+    {
+      "question": "Steve (drive) his car.",
+      "correct": [
+        "drives"
+      ],
+      "wrong": [
+        "drive"
+      ]
+    },
+    {
+      "question": "Nancy (study) at school.",
+      "correct": [
+        "studies"
+      ],
+      "wrong": [
+        "study"
+      ]
+    },
+    {
+      "question": "Mike and Dustin (play) Dungeons & Dragons together.",
+      "correct": [
+        "play"
+      ],
+      "wrong": [
+        "plays"
+      ]
+    },
+    {
+      "question": "Eleven and Max (like) adventure stories.",
+      "correct": [
+        "like"
+      ],
+      "wrong": [
+        "likes"
+      ]
+    }
+  ]
+}
