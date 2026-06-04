@@ -1,0 +1,104 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/65101a813df2e6002b29b735/a181b865-3a5f-4342-8ef4-c2dc76f9252c.png",
+    "win": "КВИЗ ПРОЙДЕН!",
+    "start": "СТАРТ",
+    "again": "ЕЩЁ РАЗ",
+    "btnSize": 5,
+    "btnY": 80,
+    "btnAnim": "pulse"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://img.genially.com/65101a813df2e6002b29b735/25921397-9096-4398-81e5-cc128754febe.png",
+    "hook": "hook.png",
+    "targets": [
+      "https://img.genially.com/65101a813df2e6002b29b735/e55db6c0-371b-46f0-beb2-67458d200f6b.png",
+      "https://img.genially.com/65101a813df2e6002b29b735/f42c437c-21ce-40cc-9f46-497046eae584.png",
+      "https://img.genially.com/65101a813df2e6002b29b735/2b886c28-1a22-4eac-b78d-9cb8c9244e89.png",
+      "https://img.genially.com/65101a813df2e6002b29b735/b25edd67-adb6-4667-8e3b-902a538b6ff8.png"
+    ],
+    "targetSize": 64,
+    "ropeColor": "#7f8c8d",
+    "heroSize": 105,
+    "heroX": 0,
+    "hookSize": 48,
+    "hookOffsetY": 0,
+    "fontFamily": "Montserrat",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#00ffcc",
+    "qBorder": "both",
+    "qTextGlow": true,
+    "qSize": 4.5,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#00ffcc",
+    "tBorder": "solid",
+    "tTextGlow": false,
+    "tSize": 22,
+    "hudColor": "#ffffff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#00ffcc",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#e74c3c",
+    "btnGlow": "#c0392b",
+    "btnBorder": "both",
+    "btnTextGlow": false
+  },
+  "gameplay": {
+    "hookSpeed": 10,
+    "swingSpeed": 0.035,
+    "targetSpeed": 1
+  },
+  "tasks": [
+    {
+      "q": "НАЙДИ ИЕРОГЛИФ shāfā?",
+      "correct": [
+        "沙发"
+      ],
+      "wrong": [
+        "椅子",
+        "床",
+        "桌子"
+      ]
+    },
+    {
+      "q": "НАЙДИ ИЕРОГЛИФ yǐzi?",
+      "correct": [
+        "椅子"
+      ],
+      "wrong": [
+        "床",
+        "沙发",
+        "桌子"
+      ]
+    },
+    {
+      "q": "НАЙДИ ИЕРОГЛИФ chuáng?",
+      "correct": [
+        "床"
+      ],
+      "wrong": [
+        "桌子",
+        "椅子",
+        "沙发"
+      ]
+    },
+    {
+      "q": "НАЙДИ ИЕРОГЛИФ zhuōzi?",
+      "correct": [
+        "桌子"
+      ],
+      "wrong": [
+        "沙发",
+        "椅子",
+        "床"
+      ]
+    }
+  ]
+}
