@@ -1,0 +1,105 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/638d963e119e430013630f1c/cfb229ef-3249-49af-9f4d-c0edd769309e.png",
+    "win": "You are a winner!",
+    "start": "Start",
+    "again": "Try again",
+    "btnSize": 8.5,
+    "btnY": 72,
+    "btnAnim": "pulse"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://img.genially.com/638d963e119e430013630f1c/c1b00ee2-4676-431d-b0d2-0ffc919e39b8.png",
+    "hook": "hook.png",
+    "targets": [
+      "https://img.genially.com/638d963e119e430013630f1c/ee1bf605-8b29-4860-9452-33e04bc1e02f.png",
+      "https://img.genially.com/638d963e119e430013630f1c/4a1acfdb-e6d7-4b88-a36a-58d5d2b9e792.png",
+      "https://img.genially.com/638d963e119e430013630f1c/8ef60a56-959b-41cc-a2a3-fa0971d319ec.png",
+      "https://img.genially.com/638d963e119e430013630f1c/822dde2f-118b-4a65-8dba-448ca4e1c71e.png",
+      "https://img.genially.com/638d963e119e430013630f1c/8ef60a56-959b-41cc-a2a3-fa0971d319ec.png"
+    ],
+    "targetSize": 71,
+    "ropeColor": "#7f8c8d",
+    "heroSize": 94,
+    "heroX": -5,
+    "hookSize": 73,
+    "hookOffsetY": -21,
+    "fontFamily": "Nunito",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#00ffcc",
+    "qBorder": "both",
+    "qTextGlow": true,
+    "qSize": 3,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#00ffcc",
+    "tBorder": "solid",
+    "tTextGlow": false,
+    "tSize": 18,
+    "hudColor": "#ffffff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#00ffcc",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#e74c3c",
+    "btnGlow": "#c0392b",
+    "btnBorder": "both",
+    "btnTextGlow": false
+  },
+  "gameplay": {
+    "hookSpeed": 9,
+    "swingSpeed": 0.035,
+    "targetSpeed": 1
+  },
+  "tasks": [
+    {
+      "q": "My house is ___ (big) than yours.",
+      "correct": [
+        "bigger"
+      ],
+      "wrong": [
+        "biggest",
+        "big",
+        "the most big"
+      ]
+    },
+    {
+      "q": "This is the ___ (interesting) book.",
+      "correct": [
+        "most interesting"
+      ],
+      "wrong": [
+        "interestinger",
+        "interesting",
+        "the more interesting"
+      ]
+    },
+    {
+      "q": "Today is ___ (hot) than yesterday.",
+      "correct": [
+        "hotter"
+      ],
+      "wrong": [
+        "hottest",
+        "hot",
+        "hoter"
+      ]
+    },
+    {
+      "q": "Mount Everest is the ___ (high) mountain in the world.",
+      "correct": [
+        "highest"
+      ],
+      "wrong": [
+        "higher",
+        "more high",
+        "high"
+      ]
+    }
+  ]
+}
