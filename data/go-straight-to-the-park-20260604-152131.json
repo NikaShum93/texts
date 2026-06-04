@@ -1,0 +1,93 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Rubik",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": true,
+  "bubbleSize": 144,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/d3HScXCH/iy.png",
+    "bubbleSize": 144,
+    "task": {
+      "bgColor": "rgba(255,240,77,1)",
+      "borderColor": "#ffd500",
+      "textColor": "#030202",
+      "fontSize": 36,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#fbe23c",
+      "textColor": "#ffffff",
+      "fontSize": 36,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Go straight to the park.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Turn left at the school.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Turn right at the bank.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Walk to the supermarket.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Go past the post office.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Cross the street near the library.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Walk straight to the café.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Turn left at the cinema.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Go to the bus stop.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Turn right at the hospital.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
