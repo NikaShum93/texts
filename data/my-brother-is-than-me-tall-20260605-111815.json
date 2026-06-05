@@ -1,0 +1,287 @@
+{
+  "language": "en",
+  "font": "Poppins",
+  "fontSize": 36,
+  "textColor": "#050505",
+  "speed": 5,
+  "questionFont": "Roboto",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 40,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/NFW2HTPk/hig.png",
+    "bgImages": [
+      "https://i.postimg.cc/NFW2HTPk/hig.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 210
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "BAUBLES",
+    "btnText": "START"
+  },
+  "direction": "random",
+  "finalFeedback": "Great Job!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "My brother is ______ than me. (tall)",
+      "correct": [
+        "aller"
+      ],
+      "wrong": [
+        "more tall",
+        "tallest"
+      ]
+    },
+    {
+      "target": "This is the ______ book I have ever read. (interesting)",
+      "correct": [
+        "most interesting"
+      ],
+      "wrong": [
+        "interestinger",
+        "more interesting"
+      ]
+    },
+    {
+      "target": "Today is ______ than yesterday. (cold)",
+      "correct": [
+        "colder"
+      ],
+      "wrong": [
+        "more cold",
+        "coldest"
+      ]
+    },
+    {
+      "target": "Mount Everest is the ______ mountain in the world. (high)",
+      "correct": [
+        "highest"
+      ],
+      "wrong": [
+        "more high",
+        "higher"
+      ]
+    },
+    {
+      "target": "Sarah is ______ at maths than Tom. (good)",
+      "correct": [
+        "better"
+      ],
+      "wrong": [
+        "gooder",
+        "best"
+      ]
+    },
+    {
+      "target": "That was the ______ movie of the year. (exciting)",
+      "correct": [
+        "most exciting"
+      ],
+      "wrong": [
+        "excitingest",
+        "more exciting"
+      ]
+    },
+    {
+      "target": "A cheetah is ______ than a lion. (fast)",
+      "correct": [
+        "faster"
+      ],
+      "wrong": [
+        "more fast",
+        "fastest"
+      ]
+    },
+    {
+      "target": "This exercise is the ______ in the workbook. (easy)",
+      "correct": [
+        "easiest"
+      ],
+      "wrong": [
+        "more easy",
+        "easier"
+      ]
+    },
+    {
+      "target": "My new phone is ______ than my old one. (expensive)",
+      "correct": [
+        "more expensive"
+      ],
+      "wrong": [
+        "expensiver",
+        "most expensive"
+      ]
+    },
+    {
+      "target": "She is the ______ student in our class. (hard-working)",
+      "correct": [
+        "most hard-working"
+      ],
+      "wrong": [
+        "hard-workingest",
+        "more hard-working"
+      ]
+    },
+    {
+      "target": "Winter is ______ than autumn in Sweden. (snowy)",
+      "correct": [
+        "snowier"
+      ],
+      "wrong": [
+        "more snowy",
+        "snowiest"
+      ]
+    },
+    {
+      "target": "This is the ______ cake I've ever tasted. (delicious)",
+      "correct": [
+        "most delicious"
+      ],
+      "wrong": [
+        "deliciousest",
+        "more delicious"
+      ]
+    },
+    {
+      "target": "Your room is ______ than mine. (clean)",
+      "correct": [
+        "cleaner"
+      ],
+      "wrong": [
+        "more clean",
+        "cleanest"
+      ]
+    },
+    {
+      "target": "Who is the ______ player on the team? (strong)",
+      "correct": [
+        "strongest"
+      ],
+      "wrong": [
+        "more strong",
+        "stronger"
+      ]
+    },
+    {
+      "target": "The blue whale is the ______ animal on Earth. (large)",
+      "correct": [
+        "largest"
+      ],
+      "wrong": [
+        "more large",
+        "larger"
+      ]
+    },
+    {
+      "target": "Traveling by train is often ______ than traveling by bus. (comfortable)",
+      "correct": [
+        "more comfortable"
+      ],
+      "wrong": [
+        "comfortabler",
+        "most comfortable"
+      ]
+    },
+    {
+      "target": "This test was ______ than the previous one. (difficult)",
+      "correct": [
+        "more difficult"
+      ],
+      "wrong": [
+        "difficulter",
+        "most difficult"
+      ]
+    },
+    {
+      "target": "It was the ______ day of my life. (happy)",
+      "correct": [
+        "happiest"
+      ],
+      "wrong": [
+        "more happy",
+        "happier"
+      ]
+    },
+    {
+      "target": "My sister is ______ than I am at drawing. (creative)",
+      "correct": [
+        "more creative"
+      ],
+      "wrong": [
+        "creativer",
+        "most creative"
+      ]
+    },
+    {
+      "target": "That restaurant serves the ______ food in town. (good)",
+      "correct": [
+        "best"
+      ],
+      "wrong": [
+        "goodest",
+        "better"
+      ]
+    },
+    {
+      "target": "A bicycle is ______ than a car. (cheap)",
+      "correct": [
+        "cheaper"
+      ],
+      "wrong": [
+        "more cheap",
+        "cheapest"
+      ]
+    },
+    {
+      "target": "This road is the ______ way to the city center. (short)",
+      "correct": [
+        "shortest"
+      ],
+      "wrong": [
+        "more short",
+        "shorter"
+      ]
+    },
+    {
+      "target": "The weather today is ______ than last week. (bad)",
+      "correct": [
+        "worse"
+      ],
+      "wrong": [
+        "badder",
+        "worst"
+      ]
+    },
+    {
+      "target": "He is the ______ person I know. (friendly)",
+      "correct": [
+        "friendliest"
+      ],
+      "wrong": [
+        "more friendly",
+        "friendlier"
+      ]
+    },
+    {
+      "target": "English is ______ for me than physics. (easy",
+      "correct": [
+        "easier"
+      ],
+      "wrong": [
+        "more easy",
+        "easiest"
+      ]
+    }
+  ]
+}
