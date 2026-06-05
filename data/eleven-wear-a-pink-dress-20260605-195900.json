@@ -1,0 +1,113 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 106,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/3d9f7699-4f8a-4d04-84ef-8163626168e4.png",
+    "bubbleSize": 106,
+    "task": {
+      "bgColor": "rgba(35,101,16,0.8)",
+      "borderColor": "#fbff00",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#236510",
+      "borderColor": "#fbfb01",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Eleven (wear) a pink dress.",
+      "correct": [
+        "is wearing"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Mike and Will (sleep).",
+      "correct": [
+        "are sleeping"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The demogorgon (eat) a pizza.",
+      "correct": [
+        "is eating"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Hopper (sit) at his desk.",
+      "correct": [
+        "is sitting"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Max (play) with dolls.",
+      "correct": [
+        "is playing"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The kids (watch) a comedy show.",
+      "correct": [
+        "are watching"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Lucas (drink) orange juice.",
+      "correct": [
+        "is drinking"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Eleven (cry) right now.",
+      "correct": [
+        "is crying"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Dustin (wear) his cap.",
+      "correct": [
+        "is wearing"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Joyce and Jonathan (sing) a song.",
+      "correct": [
+        "are singing"
+      ],
+      "wrong": []
+    }
+  ]
+}
