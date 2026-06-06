@@ -1,0 +1,113 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 124,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/zT8glSsSga4AAAAi/waffle.gif",
+    "bubbleSize": 124,
+    "task": {
+      "bgColor": "rgba(242,170,13,0.75)",
+      "borderColor": "#ffd500",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#f2aa0d",
+      "borderColor": "#ffd501",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "Excellent!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Eleven (use) her powers to find Will.",
+      "correct": [
+        "used"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Mike (call) Lucas on his walkie-talkie.",
+      "correct": [
+        "called"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The monster (attack) the laboratory guards.",
+      "correct": [
+        "attacked"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Joyce (remove) the Christmas lights from the wall.",
+      "correct": [
+        "removed"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Hopper (search) for Will in the forest.",
+      "correct": [
+        "searched"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The boys (watch) a movie at Mike’s house.",
+      "correct": [
+        "watched"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Dustin (discover) a baby Demogorgon in his house.",
+      "correct": [
+        "discovered"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Nancy (study) at the library with Barb.",
+      "correct": [
+        "studied"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The police (arrive) late at the school.",
+      "correct": [
+        "arrived"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Eleven (escape) from the laboratory.",
+      "correct": [
+        "escaped"
+      ],
+      "wrong": []
+    }
+  ]
+}
