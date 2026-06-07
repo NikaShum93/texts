@@ -1,0 +1,170 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/66cd5624215e660015d8e79e/0d14c724-a773-49e5-bdce-f2aaee7c09f7.png",
+    "win": "Well done!",
+    "start": "Start",
+    "again": "Replay",
+    "btnSize": 5,
+    "btnY": 80,
+    "btnAnim": "pulse"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://img.genially.com/66cd5624215e660015d8e79e/1c24e202-ae2d-49bc-b02b-84cfcc178f76.png",
+    "hook": "hook.png",
+    "targets": [
+      "https://img.genially.com/66cd5624215e660015d8e79e/0d984317-9f1b-4c5c-bc10-6e9688ebb40a.png",
+      "https://img.genially.com/66cd5624215e660015d8e79e/ddef2a7b-aafd-443a-b557-27c5b6cb06ab.png",
+      "https://img.genially.com/66cd5624215e660015d8e79e/9dafdaa2-fdcd-45ad-af75-e0c1b92d6ed8.png",
+      "https://img.genially.com/66cd5624215e660015d8e79e/e081cf6d-2579-4ffb-b72f-9b5b41fd1347.png"
+    ],
+    "targetSize": 64,
+    "ropeColor": "#7f8c8d",
+    "heroSize": 114,
+    "heroX": 3,
+    "hookSize": 60,
+    "hookOffsetY": 0,
+    "fontFamily": "Montserrat",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#00ffcc",
+    "qBorder": "both",
+    "qTextGlow": true,
+    "qSize": 4.5,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#00ffcc",
+    "tBorder": "solid",
+    "tTextGlow": false,
+    "tSize": 22,
+    "hudColor": "#ffffff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#00ffcc",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#e74c3c",
+    "btnGlow": "#c0392b",
+    "btnBorder": "both",
+    "btnTextGlow": false
+  },
+  "gameplay": {
+    "hookSpeed": 10,
+    "swingSpeed": 0.035,
+    "targetSpeed": 1
+  },
+  "tasks": [
+    {
+      "q": "A cheetah is _____ than a lion. (fast)",
+      "correct": [
+        "faster"
+      ],
+      "wrong": [
+        "fast",
+        "fastest",
+        "more fast"
+      ]
+    },
+    {
+      "q": "Mount Everest is the _____ mountain in the world. (high)",
+      "correct": [
+        "highest"
+      ],
+      "wrong": [
+        "higher",
+        "high",
+        "most high"
+      ]
+    },
+    {
+      "q": "My sister is _____ than me. (young)",
+      "correct": [
+        "younger"
+      ],
+      "wrong": [
+        "youngest",
+        "more young",
+        "young"
+      ]
+    },
+    {
+      "q": "This is the _____ film I've ever seen. (funny)",
+      "correct": [
+        "funniest"
+      ],
+      "wrong": [
+        "funny",
+        "funnier",
+        "most funny"
+      ]
+    },
+    {
+      "q": "A bike is _____ than a car. (slow)",
+      "correct": [
+        "slower"
+      ],
+      "wrong": [
+        "slowest",
+        "more slow",
+        "slow"
+      ]
+    },
+    {
+      "q": "Elephants are the _____ land animals. (big)",
+      "correct": [
+        "biggest"
+      ],
+      "wrong": [
+        "bigger",
+        "biggestest",
+        "most big"
+      ]
+    },
+    {
+      "q": "Today is _____ than yesterday. (hot)",
+      "correct": [
+        "hotter"
+      ],
+      "wrong": [
+        "hottest",
+        "hot",
+        "more hot"
+      ]
+    },
+    {
+      "q": "Math is the _____ subject for Tom. (difficult)",
+      "correct": [
+        "most difficult"
+      ],
+      "wrong": [
+        "difficultest",
+        "difficult",
+        "more difficult"
+      ]
+    },
+    {
+      "q": "My bag is _____ than yours. (heavy)",
+      "correct": [
+        "heavier"
+      ],
+      "wrong": [
+        "heavy",
+        "heaviest",
+        "more heavy"
+      ]
+    },
+    {
+      "q": "That was the _____ day of my life. (good)",
+      "correct": [
+        "best"
+      ],
+      "wrong": [
+        "good",
+        "better",
+        "goodest"
+      ]
+    }
+  ]
+}
