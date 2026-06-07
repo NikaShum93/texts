@@ -1,0 +1,104 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/61eea3bc60c4a5001987f5d2/e0eb162d-8406-4b48-8f1c-0866e6e2b3fa.png",
+    "win": "Теперь ты не голоден!",
+    "start": "Start",
+    "again": "Play AGAIN",
+    "btnSize": 5,
+    "btnY": 80,
+    "btnAnim": "pulse"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://img.genially.com/61eea3bc60c4a5001987f5d2/a4113549-eae5-48a8-ab0f-eaf9c292fe05.png",
+    "hook": "https://img.genially.com/61eea3bc60c4a5001987f5d2/9efcb36b-0d87-42e2-bfd5-124b5670a0a9.png",
+    "targets": [
+      "https://img.genially.com/61eea3bc60c4a5001987f5d2/1f5bfc61-8253-4a8e-bbe2-e55128ba672d.png",
+      "https://img.genially.com/61eea3bc60c4a5001987f5d2/4aca8992-1353-409d-a6c2-8938976773dd.png",
+      "https://img.genially.com/61eea3bc60c4a5001987f5d2/1260d883-a989-4ccd-be15-1880646c2a31.png",
+      "https://img.genially.com/61eea3bc60c4a5001987f5d2/3b67186b-e889-4880-9dc1-c45337f544ed.png"
+    ],
+    "targetSize": 75,
+    "ropeColor": "#7f8c8d",
+    "heroSize": 125,
+    "heroX": 51,
+    "hookSize": 48,
+    "hookOffsetY": -26,
+    "fontFamily": "Montserrat",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#00ffcc",
+    "qBorder": "both",
+    "qTextGlow": true,
+    "qSize": 3,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#00ffcc",
+    "tBorder": "solid",
+    "tTextGlow": false,
+    "tSize": 15,
+    "hudColor": "#ffffff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#00ffcc",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#e74c3c",
+    "btnGlow": "#c0392b",
+    "btnBorder": "both",
+    "btnTextGlow": false
+  },
+  "gameplay": {
+    "hookSpeed": 10,
+    "swingSpeed": 0.035,
+    "targetSpeed": 0.9
+  },
+  "tasks": [
+    {
+      "q": "What is the capital of France?",
+      "correct": [
+        "Paris"
+      ],
+      "wrong": [
+        "London",
+        "Berlin",
+        "Madrid"
+      ]
+    },
+    {
+      "q": "What is the capital of Japan?",
+      "correct": [
+        "Tokyo"
+      ],
+      "wrong": [
+        "Kyoto",
+        "Seoul",
+        "Beijing"
+      ]
+    },
+    {
+      "q": "What is the capital of Italy?",
+      "correct": [
+        "Rome"
+      ],
+      "wrong": [
+        "Milan",
+        "Barcelona",
+        "Athens"
+      ]
+    },
+    {
+      "q": "What is the capital of Canada?",
+      "correct": [
+        "Ottawa"
+      ],
+      "wrong": [
+        "Toronto",
+        "Vancouver",
+        "Montreal"
+      ]
+    }
+  ]
+}
