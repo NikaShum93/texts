@@ -1,0 +1,170 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/688c580f45eb5200151d81b3/7836e55d-31aa-4dd2-8aac-edb0dd3fd177.png",
+    "win": "Wow!You did it!",
+    "start": "START",
+    "again": "TRY AGAIN!",
+    "btnSize": 6,
+    "btnY": 75,
+    "btnAnim": "pulse"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://img.genially.com/688c580f45eb5200151d81b3/206c21ce-a3d5-45b0-b31d-4ead120a9bd4.png",
+    "hook": "hook.png",
+    "targets": [
+      "https://img.genially.com/688c580f45eb5200151d81b3/84302a76-a224-4ddb-8edb-08d4951f1e2c.png",
+      "https://img.genially.com/688c580f45eb5200151d81b3/4c129d00-3c06-40a7-b477-046d02f43be1.png",
+      "https://img.genially.com/688c580f45eb5200151d81b3/1ee6de3d-0361-49ab-bc5b-2355f6d2f143.png",
+      "https://img.genially.com/688c580f45eb5200151d81b3/01b554c3-8fa3-4a50-85f5-6b930ccdf4f5.png"
+    ],
+    "targetSize": 67,
+    "ropeColor": "#7f8c8d",
+    "heroSize": 104,
+    "heroX": 25,
+    "hookSize": 49,
+    "hookOffsetY": 0,
+    "fontFamily": "Montserrat",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#00ffcc",
+    "qBorder": "both",
+    "qTextGlow": true,
+    "qSize": 3,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#00ffcc",
+    "tBorder": "solid",
+    "tTextGlow": false,
+    "tSize": 10,
+    "hudColor": "#ffffff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#00ffcc",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#e74c3c",
+    "btnGlow": "#c0392b",
+    "btnBorder": "both",
+    "btnTextGlow": false
+  },
+  "gameplay": {
+    "hookSpeed": 10,
+    "swingSpeed": 0.035,
+    "targetSpeed": 1
+  },
+  "tasks": [
+    {
+      "q": "She ______ do her homework every day.",
+      "correct": [
+        "has to"
+      ],
+      "wrong": [
+        "have to",
+        "don't have to",
+        "haven't to"
+      ]
+    },
+    {
+      "q": "I ______ get up early on Mondays.",
+      "correct": [
+        "have to"
+      ],
+      "wrong": [
+        "has to",
+        "doesn't have to",
+        "hasn't to"
+      ]
+    },
+    {
+      "q": "He ______ wash the dishes after dinner.",
+      "correct": [
+        "has to"
+      ],
+      "wrong": [
+        "have to",
+        "don't have to",
+        "haven't to"
+      ]
+    },
+    {
+      "q": "They ______ wear uniforms at school.",
+      "correct": [
+        "have to"
+      ],
+      "wrong": [
+        "has to",
+        "doesn't have to",
+        "hasn't to"
+      ]
+    },
+    {
+      "q": "Anna ______ feed the dog in the evening.",
+      "correct": [
+        "has to"
+      ],
+      "wrong": [
+        "have to",
+        "don't have to",
+        "hasn't to"
+      ]
+    },
+    {
+      "q": "We ______ tidy our room before guests come.",
+      "correct": [
+        "have to"
+      ],
+      "wrong": [
+        "has to",
+        "doesn't have to",
+        "haven't to"
+      ]
+    },
+    {
+      "q": "My brother ______ go to bed at ten.",
+      "correct": [
+        "has to"
+      ],
+      "wrong": [
+        "have to",
+        "don't have to",
+        "hasn't to"
+      ]
+    },
+    {
+      "q": "You ______ bring your books to class.",
+      "correct": [
+        "have to"
+      ],
+      "wrong": [
+        "has to",
+        "doesn't have to",
+        "haven't to"
+      ]
+    },
+    {
+      "q": "Tom and Sam ______ finish this project today.",
+      "correct": [
+        "have to"
+      ],
+      "wrong": [
+        "has to",
+        "doesn't have to",
+        "haven't to"
+      ]
+    },
+    {
+      "q": "My father ______ work on Saturdays.",
+      "correct": [
+        "has to"
+      ],
+      "wrong": [
+        "have to",
+        "don't have to",
+        "haven't to"
+      ]
+    }
+  ]
+}
