@@ -1,0 +1,174 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/65a66a0db3c06500207bb5f3/ea0209b8-5538-46c8-9b3d-860d292ecf0c.png",
+    "win": "Отлично, ты собрал всё необходимое для зелья!",
+    "start": "СТАРТ",
+    "again": "ЕЩЁ РАЗ",
+    "btnSize": 3,
+    "btnY": 73,
+    "btnAnim": "pulse"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://img.genially.com/65a66a0db3c06500207bb5f3/5d57eb97-7618-4dd4-9245-a42187357932.png",
+    "hook": "https://ai-image.genially.com/65a66a3448e2b6001400e1d7/69d6ad80b60dec6fd1687c45/6a26a744cedc14444d580305.png",
+    "targets": [
+      "https://img.genially.com/65a66a0db3c06500207bb5f3/cdb56aad-2eb1-4a43-8da5-8f5290cc4502.png",
+      "https://img.genially.com/65a66a0db3c06500207bb5f3/b0e81432-3038-4dd6-b753-0744c143ecdc.png",
+      "https://img.genially.com/65a66a0db3c06500207bb5f3/be34ff66-8e3c-4448-a70d-f553bfab90a6.png",
+      "https://img.genially.com/65a66a0db3c06500207bb5f3/73cbf582-5a82-46f6-ae2a-a1812aef0a9b.png",
+      "https://img.genially.com/65a66a0db3c06500207bb5f3/41586def-4c1c-4fd1-9fdd-cb25308161bb.png",
+      "https://img.genially.com/65a66a0db3c06500207bb5f3/a65614e6-9b87-4eb7-a7a2-5fc0d9e74c92.png",
+      "https://img.genially.com/65a66a0db3c06500207bb5f3/44e52528-2d83-4f99-afd4-905d14a4d837.png",
+      "https://img.genially.com/65a66a0db3c06500207bb5f3/e09da97d-838c-4b4a-a013-59f9a244c3b1.png"
+    ],
+    "targetSize": 70,
+    "ropeColor": "#7f8c8d",
+    "heroSize": 125,
+    "heroX": -54,
+    "hookSize": 60,
+    "hookOffsetY": -23,
+    "fontFamily": "Comic Neue",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#00ffcc",
+    "qBorder": "both",
+    "qTextGlow": true,
+    "qSize": 3,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#00ffcc",
+    "tBorder": "solid",
+    "tTextGlow": false,
+    "tSize": 12,
+    "hudColor": "#ffffff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#00ffcc",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#e74c3c",
+    "btnGlow": "#c0392b",
+    "btnBorder": "both",
+    "btnTextGlow": false
+  },
+  "gameplay": {
+    "hookSpeed": 10,
+    "swingSpeed": 0.035,
+    "targetSpeed": 1
+  },
+  "tasks": [
+    {
+      "q": "72 ÷ 4 = ?",
+      "correct": [
+        "18"
+      ],
+      "wrong": [
+        "16",
+        "17",
+        "19"
+      ]
+    },
+    {
+      "q": "96 ÷ 3 = ?",
+      "correct": [
+        "32"
+      ],
+      "wrong": [
+        "22",
+        "31",
+        "33"
+      ]
+    },
+    {
+      "q": "84 ÷ 7 = ?",
+      "correct": [
+        "12"
+      ],
+      "wrong": [
+        "11",
+        "13",
+        "14"
+      ]
+    },
+    {
+      "q": "65 ÷ 5 = ?",
+      "correct": [
+        "13"
+      ],
+      "wrong": [
+        "11",
+        "12",
+        "15"
+      ]
+    },
+    {
+      "q": "78 ÷ 6 = ?",
+      "correct": [
+        "13"
+      ],
+      "wrong": [
+        "12",
+        "14",
+        "16"
+      ]
+    },
+    {
+      "q": "52 ÷ 4 = ?",
+      "correct": [
+        "13"
+      ],
+      "wrong": [
+        "12",
+        "14",
+        "15"
+      ]
+    },
+    {
+      "q": "91 ÷ 7 = ?",
+      "correct": [
+        "13"
+      ],
+      "wrong": [
+        "11",
+        "12",
+        "14"
+      ]
+    },
+    {
+      "q": "80 ÷ 5 = ?",
+      "correct": [
+        "16"
+      ],
+      "wrong": [
+        "14",
+        "15",
+        "18"
+      ]
+    },
+    {
+      "q": "96 ÷ 6 = ?",
+      "correct": [
+        "16"
+      ],
+      "wrong": [
+        "14",
+        "15",
+        "18"
+      ]
+    },
+    {
+      "q": "75 ÷ 3 = ?",
+      "correct": [
+        "25"
+      ],
+      "wrong": [
+        "15",
+        "23",
+        "24"
+      ]
+    }
+  ]
+}
