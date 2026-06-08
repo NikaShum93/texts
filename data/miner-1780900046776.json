@@ -1,0 +1,126 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/69f8e7733ca7e600073c4ae1/cf9eeaad-5020-4a80-8b08-ecd06c6d75c3.png",
+    "win": "You don't feel hangry any more!",
+    "start": "Catch",
+    "again": "I could do with more burgers",
+    "btnSize": 5,
+    "btnY": 80,
+    "btnAnim": "pulse"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://img.genially.com/69f8e7733ca7e600073c4ae1/cda76fa9-95ed-4bb4-a5d1-421cde494331.png",
+    "hook": "hook.png",
+    "targets": [
+      "https://img.genially.com/69f8e7733ca7e600073c4ae1/4ca152ad-81f3-4438-ac83-d92b7c4bedc4.png",
+      "https://img.genially.com/69f8e7733ca7e600073c4ae1/cb175465-1cfb-4948-93a0-174c41c39a03.png",
+      "https://img.genially.com/69f8e7733ca7e600073c4ae1/18e3a183-38da-4fe0-aefd-397123b599b0.png",
+      "https://img.genially.com/69f8e7733ca7e600073c4ae1/ae511c46-80b2-4d80-88d9-2b13fa864036.png"
+    ],
+    "targetSize": 69,
+    "ropeColor": "#7f8c8d",
+    "heroSize": 87,
+    "heroX": -32,
+    "hookSize": 43,
+    "hookOffsetY": -16,
+    "fontFamily": "Nunito",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#00ffcc",
+    "qBorder": "glow",
+    "qTextGlow": true,
+    "qSize": 2,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#00ffcc",
+    "tBorder": "glow",
+    "tTextGlow": true,
+    "tSize": 10,
+    "hudColor": "#ffffff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#00ffcc",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#e74c3c",
+    "btnGlow": "#c0392b",
+    "btnBorder": "both",
+    "btnTextGlow": false
+  },
+  "gameplay": {
+    "hookSpeed": 9,
+    "swingSpeed": 0.035,
+    "targetSpeed": 1.5
+  },
+  "tasks": [
+    {
+      "q": "Write the past form of: go",
+      "correct": [
+        "Went"
+      ],
+      "wrong": [
+        "Goed",
+        "Gone",
+        "Goes"
+      ]
+    },
+    {
+      "q": "Write the past form of: eat",
+      "correct": [
+        "Ate"
+      ],
+      "wrong": [
+        "Eated",
+        "Eat",
+        "Eaten"
+      ]
+    },
+    {
+      "q": "Write the past form of: drink",
+      "correct": [
+        "Drank"
+      ],
+      "wrong": [
+        "Drinked",
+        "Drunk",
+        "Drinks"
+      ]
+    },
+    {
+      "q": "Write the past form of: have",
+      "correct": [
+        "Had"
+      ],
+      "wrong": [
+        "Haved",
+        "Has",
+        "Haveed"
+      ]
+    },
+    {
+      "q": "Write the past form of: see",
+      "correct": [
+        "Saw"
+      ],
+      "wrong": [
+        "Seed",
+        "Seen",
+        "Sees"
+      ]
+    },
+    {
+      "q": "Write the past form of: buy",
+      "correct": [
+        "Bought"
+      ],
+      "wrong": [
+        "Buyed",
+        "Boughten",
+        "Bring"
+      ]
+    }
+  ]
+}
