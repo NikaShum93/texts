@@ -1,0 +1,104 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/63adb564b610f40019a72cbb/7b3a954c-50d1-4934-995e-cd66f1ff7ab8.png",
+    "win": "Теперь ты не голоден!",
+    "start": "СТАРТ",
+    "again": "Поймать еще бургеров",
+    "btnSize": 5,
+    "btnY": 72,
+    "btnAnim": "pulse"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://img.genially.com/63adb564b610f40019a72cbb/81651a01-7460-4cdb-8b7d-77545a738cd1.png",
+    "hook": "https://img.genially.com/63adb564b610f40019a72cbb/1d4b73c3-41a0-472f-831a-67ca63838bd5.png",
+    "targets": [
+      "https://img.genially.com/63adb564b610f40019a72cbb/4036c26d-0143-4e50-b767-6f3cf062549c.png",
+      "https://img.genially.com/63adb564b610f40019a72cbb/4f4899c7-820e-4572-9d8e-6772b524650a.png",
+      "https://img.genially.com/63adb564b610f40019a72cbb/bfb05383-2e6c-4750-bb89-43a765a16287.png",
+      "https://img.genially.com/63adb564b610f40019a72cbb/7f687d70-f3f5-4ac3-8f5b-5ec3caaef313.png"
+    ],
+    "targetSize": 61,
+    "ropeColor": "#7f8c8d",
+    "heroSize": 87,
+    "heroX": 0,
+    "hookSize": 60,
+    "hookOffsetY": 0,
+    "fontFamily": "Montserrat",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#00ffcc",
+    "qBorder": "both",
+    "qTextGlow": true,
+    "qSize": 3,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#00ffcc",
+    "tBorder": "solid",
+    "tTextGlow": false,
+    "tSize": 14,
+    "hudColor": "#ffffff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#00ffcc",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#e74c3c",
+    "btnGlow": "#c0392b",
+    "btnBorder": "both",
+    "btnTextGlow": false
+  },
+  "gameplay": {
+    "hookSpeed": 8,
+    "swingSpeed": 0.035,
+    "targetSpeed": 0.8
+  },
+  "tasks": [
+    {
+      "q": "What do you wear on your head in winter?",
+      "correct": [
+        "a cap"
+      ],
+      "wrong": [
+        "trainers",
+        "a T‑shirt",
+        "boots"
+      ]
+    },
+    {
+      "q": "What size means “extra large”?",
+      "correct": [
+        "XL"
+      ],
+      "wrong": [
+        "S",
+        "M",
+        "L"
+      ]
+    },
+    {
+      "q": "What do you say when you need more time?",
+      "correct": [
+        "Hang on!"
+      ],
+      "wrong": [
+        "Are you sure?",
+        "Here you are.",
+        "Over there."
+      ]
+    },
+    {
+      "q": "Which clothes are usually dirty after playing football?",
+      "correct": [
+        "jeans"
+      ],
+      "wrong": [
+        "a suit",
+        "a clean shirt",
+        "a cap"
+      ]
+    }
+  ]
+}
