@@ -1,0 +1,104 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/61388616136015001885317d/5cbd6e39-cca4-458a-8243-09d298b34e83.png",
+    "win": "Теперь ты не голоден!",
+    "start": "СТАРТ",
+    "again": "Поймать еще бургеров!",
+    "btnSize": 5,
+    "btnY": 80,
+    "btnAnim": "pulse"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://img.genially.com/61388616136015001885317d/b66bd8a7-a1c3-45a2-acc6-d7961f9cc6f4.png",
+    "hook": "hook.png",
+    "targets": [
+      "https://img.genially.com/61388616136015001885317d/8486a112-a07e-4728-98d0-cc63cce6656c.png",
+      "https://img.genially.com/61388616136015001885317d/30e3ffe2-3198-4d33-80c3-4e7d041680f9.png",
+      "https://img.genially.com/61388616136015001885317d/e74342ea-4a99-4c77-82af-822c3af934e4.png",
+      "https://img.genially.com/61388616136015001885317d/ca467963-d0ff-441a-895e-7eec07edc3d5.png"
+    ],
+    "targetSize": 90,
+    "ropeColor": "#7f8c8d",
+    "heroSize": 68,
+    "heroX": 0,
+    "hookSize": 60,
+    "hookOffsetY": 0,
+    "fontFamily": "Montserrat",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#00ffcc",
+    "qBorder": "both",
+    "qTextGlow": true,
+    "qSize": 4.5,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#00ffcc",
+    "tBorder": "solid",
+    "tTextGlow": false,
+    "tSize": 22,
+    "hudColor": "#ffffff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#00ffcc",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#e74c3c",
+    "btnGlow": "#c0392b",
+    "btnBorder": "both",
+    "btnTextGlow": false
+  },
+  "gameplay": {
+    "hookSpeed": 10,
+    "swingSpeed": 0.035,
+    "targetSpeed": 1
+  },
+  "tasks": [
+    {
+      "q": "I ___ a student.",
+      "correct": [
+        "am"
+      ],
+      "wrong": [
+        "is",
+        "are",
+        "was"
+      ]
+    },
+    {
+      "q": "She ___ from London.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "am",
+        "are",
+        "were"
+      ]
+    },
+    {
+      "q": "They ___ at home now.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "is",
+        "am",
+        "was"
+      ]
+    },
+    {
+      "q": "He ___ a doctor.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "am",
+        "are",
+        "were"
+      ]
+    }
+  ]
+}
