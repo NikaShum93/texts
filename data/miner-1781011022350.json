@@ -1,0 +1,104 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/66dd6828d35ab100159cc212/902bb417-af8c-4c99-9257-7782c97089bc.png",
+    "win": "Теперь ты не голоден!",
+    "start": "НАЧАТЬ",
+    "again": "Поймать ещё бургеров",
+    "btnSize": 9.5,
+    "btnY": 76,
+    "btnAnim": "pulse"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://img.genially.com/66dd6828d35ab100159cc212/bc4915b2-4f50-414b-bfcb-498ab2869192.png",
+    "hook": "hook.png",
+    "targets": [
+      "https://img.genially.com/66dd6828d35ab100159cc212/563451e1-0f7b-4b46-b28f-7ffc561fd725.png",
+      "https://img.genially.com/66dd6828d35ab100159cc212/c1129899-6eec-4cc1-b966-68b401ce062f.png",
+      "https://img.genially.com/66dd6828d35ab100159cc212/14f6a3dd-5797-473d-86f4-66acdaeac1f5.png",
+      "https://img.genially.com/66dd6828d35ab100159cc212/8a92cc57-290e-4cb0-98ab-4242690d6cae.png"
+    ],
+    "targetSize": 41,
+    "ropeColor": "#7f8c8d",
+    "heroSize": 60,
+    "heroX": 28,
+    "hookSize": 33,
+    "hookOffsetY": -17,
+    "fontFamily": "Nunito",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#00ffcc",
+    "qBorder": "both",
+    "qTextGlow": true,
+    "qSize": 2.5,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#00ffcc",
+    "tBorder": "solid",
+    "tTextGlow": false,
+    "tSize": 13,
+    "hudColor": "#ffffff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#00ffcc",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#e74c3c",
+    "btnGlow": "#c0392b",
+    "btnBorder": "both",
+    "btnTextGlow": false
+  },
+  "gameplay": {
+    "hookSpeed": 10,
+    "swingSpeed": 0.035,
+    "targetSpeed": 1
+  },
+  "tasks": [
+    {
+      "q": "Чему равна сумма углов четырёхугольника?",
+      "correct": [
+        "360°"
+      ],
+      "wrong": [
+        "180°",
+        "270°",
+        "540°"
+      ]
+    },
+    {
+      "q": "Как называется четырёхугольник, у которого только две стороны параллельны?",
+      "correct": [
+        "Трапеция"
+      ],
+      "wrong": [
+        "Параллелограмм",
+        "Ромб",
+        "Прямоугольник"
+      ]
+    },
+    {
+      "q": "Как называется параллелограмм, у которого все стороны равны и все углы прямые?",
+      "correct": [
+        "Квадрат"
+      ],
+      "wrong": [
+        "Ромб",
+        "Прямоугольник",
+        "Трапеция"
+      ]
+    },
+    {
+      "q": "Сколько диагоналей можно провести из одной вершины четырёхугольника?",
+      "correct": [
+        "1"
+      ],
+      "wrong": [
+        "2",
+        "3",
+        "4"
+      ]
+    }
+  ]
+}
