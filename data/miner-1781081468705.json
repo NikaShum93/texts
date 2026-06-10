@@ -1,0 +1,93 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/64da58787fae4900130ba6e4/db255d3d-aeb4-4cbe-86e9-af78c09c68d4.png",
+    "win": "Теперь ты не голоден!",
+    "start": "СТАРТ",
+    "again": "Поймай ещё бургеров!",
+    "btnSize": 5.5,
+    "btnY": 80,
+    "btnAnim": "pulse"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://img.genially.com/64da58787fae4900130ba6e4/f5402351-dbe8-42ca-8a18-9193531004d8.png",
+    "hook": "hook.png",
+    "targets": [
+      "https://img.genially.com/64da58787fae4900130ba6e4/1c5f3dd0-9a7a-43a9-9cbb-427ce79c04ef.png",
+      "https://img.genially.com/64da58787fae4900130ba6e4/fc4b6aba-f726-43c7-ad48-2d2e2175394c.png",
+      "https://img.genially.com/64da58787fae4900130ba6e4/60c36f47-7a78-46c5-abaf-35ef964dd360.png",
+      "https://img.genially.com/64da58787fae4900130ba6e4/432cecbf-442f-4b55-8a21-911f15e8a178.png"
+    ],
+    "targetSize": 72,
+    "ropeColor": "#7f8c8d",
+    "heroSize": 75,
+    "heroX": 23,
+    "hookSize": 60,
+    "hookOffsetY": -33,
+    "fontFamily": "Montserrat",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#00ffcc",
+    "qBorder": "glow",
+    "qTextGlow": true,
+    "qSize": 3,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#00ffcc",
+    "tBorder": "solid",
+    "tTextGlow": false,
+    "tSize": 12,
+    "hudColor": "#ffffff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#00ffcc",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#e74c3c",
+    "btnGlow": "#c0392b",
+    "btnBorder": "both",
+    "btnTextGlow": false
+  },
+  "gameplay": {
+    "hookSpeed": 10,
+    "swingSpeed": 0.035,
+    "targetSpeed": 1
+  },
+  "tasks": [
+    {
+      "q": "2+2=",
+      "correct": [
+        "4"
+      ],
+      "wrong": [
+        "3",
+        "2",
+        "4"
+      ]
+    },
+    {
+      "q": "3+5=",
+      "correct": [
+        "8"
+      ],
+      "wrong": [
+        "4",
+        "9",
+        "10"
+      ]
+    },
+    {
+      "q": "7+10=",
+      "correct": [
+        "17"
+      ],
+      "wrong": [
+        "16",
+        "10",
+        "18"
+      ]
+    }
+  ]
+}
