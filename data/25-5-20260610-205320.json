@@ -1,0 +1,64 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 134,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/64233afb55129a0017751c8e/d3277a2b-d6c0-49e9-bb93-4ab65ce18cc4.gif",
+    "bubbleSize": 134,
+    "task": {
+      "bgColor": "rgba(211,237,253,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#141414",
+      "fontSize": 28,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 28,
+      "neon": true,
+      "imageSize": 380
+    }
+  },
+  "finalFeedback": "🎉 Молодец!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "25:5",
+      "correct": [
+        "5"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "35:5",
+      "correct": [
+        "7"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "45:5",
+      "correct": [
+        "9"
+      ],
+      "wrong": []
+    }
+  ]
+}
