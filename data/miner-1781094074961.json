@@ -1,0 +1,280 @@
+{
+  "ui": {
+    "title": "Catch the burger!",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/637bbf60c1a94e0019f0ea28/75f2b184-f144-4901-9462-702aaddb1f07.png",
+    "win": "Great job!",
+    "start": "Let's begin!",
+    "again": "Once more",
+    "btnSize": 8.5,
+    "btnY": 66,
+    "btnAnim": "glitch"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://img.genially.com/637bbf60c1a94e0019f0ea28/84f423e2-dc42-4670-8787-57691ec9c17e.png",
+    "hook": "hook.png",
+    "targets": [
+      "https://img.genially.com/637bbf60c1a94e0019f0ea28/cd31c13e-36f9-4bde-bc44-088d2aeac3e4.png",
+      "https://img.genially.com/637bbf60c1a94e0019f0ea28/27add91d-b78e-40a3-a39a-b3b91ffd9086.png",
+      "https://img.genially.com/637bbf60c1a94e0019f0ea28/5b4f11ed-aa2f-42f8-b2d8-5be21e00a0f1.png",
+      "https://img.genially.com/637bbf60c1a94e0019f0ea28/06ca0036-67dd-4f60-9e44-7888982856ee.png"
+    ],
+    "targetSize": 46,
+    "ropeColor": "#7f8c8d",
+    "heroSize": 85,
+    "heroX": 42,
+    "hookSize": 31,
+    "hookOffsetY": -5,
+    "fontFamily": "Nunito",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#00ffcc",
+    "qBorder": "both",
+    "qTextGlow": true,
+    "qSize": 3,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#00ffcc",
+    "tBorder": "solid",
+    "tTextGlow": false,
+    "tSize": 13,
+    "hudColor": "#ffffff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#00ffcc",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#e74c3c",
+    "btnGlow": "#c0392b",
+    "btnBorder": "both",
+    "btnTextGlow": false
+  },
+  "gameplay": {
+    "hookSpeed": 10,
+    "swingSpeed": 0.035,
+    "targetSpeed": 1
+  },
+  "tasks": [
+    {
+      "q": "There ... a flower on the table.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are",
+        "am",
+        "be"
+      ]
+    },
+    {
+      "q": "There ... many books on the shelf.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "is",
+        "am",
+        "be"
+      ]
+    },
+    {
+      "q": "My name ... Tom.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are",
+        "am",
+        "be"
+      ]
+    },
+    {
+      "q": "... is fine, thank you.",
+      "correct": [
+        "She"
+      ],
+      "wrong": [
+        "He",
+        "It",
+        "They"
+      ]
+    },
+    {
+      "q": "Can I have a doll, please? - ...",
+      "correct": [
+        "Here you are"
+      ],
+      "wrong": [
+        "Go away",
+        "Good night",
+        "I give up"
+      ]
+    },
+    {
+      "q": "A bird can ...",
+      "correct": [
+        "fly"
+      ],
+      "wrong": [
+        "swim",
+        "toboggan",
+        "drive"
+      ]
+    },
+    {
+      "q": "This bear is ...",
+      "correct": [
+        "red"
+      ],
+      "wrong": [
+        "blue",
+        "green",
+        "black"
+      ]
+    },
+    {
+      "q": "I can see three ...",
+      "correct": [
+        "mice"
+      ],
+      "wrong": [
+        "mouses",
+        "mouse",
+        "mices"
+      ]
+    },
+    {
+      "q": "In the morning I ... my face.",
+      "correct": [
+        "wash"
+      ],
+      "wrong": [
+        "swim",
+        "fly",
+        "ski"
+      ]
+    },
+    {
+      "q": "There are four ... in a year.",
+      "correct": [
+        "seasons"
+      ],
+      "wrong": [
+        "season",
+        "seasonses",
+        "day"
+      ]
+    },
+    {
+      "q": "An elephant is ... than a cat.",
+      "correct": [
+        "bigger"
+      ],
+      "wrong": [
+        "more big",
+        "biggest",
+        "big"
+      ]
+    },
+    {
+      "q": "My English lesson starts ... 9 o'clock.",
+      "correct": [
+        "at"
+      ],
+      "wrong": [
+        "in",
+        "on",
+        "to"
+      ]
+    },
+    {
+      "q": "Yesterday I ... to the park with my friends.",
+      "correct": [
+        "went"
+      ],
+      "wrong": [
+        "goed",
+        "go",
+        "gone"
+      ]
+    },
+    {
+      "q": "Look! The dog ... in the garden right now.",
+      "correct": [
+        "is running"
+      ],
+      "wrong": [
+        "runs",
+        "run",
+        "are running"
+      ]
+    },
+    {
+      "q": "Mount Everest is the ... mountain in the world.",
+      "correct": [
+        "highest"
+      ],
+      "wrong": [
+        "higher",
+        "most high",
+        "high"
+      ]
+    },
+    {
+      "q": "This weekend I ... visit my grandparents.",
+      "correct": [
+        "am going to"
+      ],
+      "wrong": [
+        "going to",
+        "will to",
+        "am go to"
+      ]
+    },
+    {
+      "q": "You ... see a doctor if you feel ill.",
+      "correct": [
+        "should"
+      ],
+      "wrong": [
+        "shoulds",
+        "musts",
+        "can to"
+      ]
+    },
+    {
+      "q": "... you watch the film last night?",
+      "correct": [
+        "Did"
+      ],
+      "wrong": [
+        "Do",
+        "Does",
+        "Was"
+      ]
+    },
+    {
+      "q": "I have already ... my homework.",
+      "correct": [
+        "finished"
+      ],
+      "wrong": [
+        "finish",
+        "finishing",
+        "finishes"
+      ]
+    },
+    {
+      "q": "I think reading books is ... than video games.",
+      "correct": [
+        "more useful"
+      ],
+      "wrong": [
+        "usefuller",
+        "most useful",
+        "useful"
+      ]
+    }
+  ]
+}
