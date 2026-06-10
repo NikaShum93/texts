@@ -1,0 +1,171 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/68d660378c12ac00140d2bbb/ed00319e-441e-435e-863c-df3b060f9800.png",
+    "win": "NOW YOU ARE NOT HUNGRY",
+    "start": "START",
+    "again": "EAT SOME MORE BURGERS",
+    "btnSize": 5,
+    "btnY": 80,
+    "btnAnim": "pulse"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://img.genially.com/68d660378c12ac00140d2bbb/9f5d7800-6a6c-4aa4-b9e6-08b88beaa7ce.png",
+    "hook": "https://img.genially.com/68d660378c12ac00140d2bbb/49d7909f-8f68-43ab-8f78-d5f4a53d6be7.png",
+    "targets": [
+      "https://img.genially.com/68d660378c12ac00140d2bbb/02cc6842-4776-4c22-874b-dac0d303d11f.png",
+      "https://img.genially.com/68d660378c12ac00140d2bbb/8e2ac916-c58d-4161-b20a-dd32ae926f9c.png",
+      "https://img.genially.com/68d660378c12ac00140d2bbb/c94d173b-0e4b-474a-b20f-073b1b4c9807.png",
+      "https://img.genially.com/68d660378c12ac00140d2bbb/548b936d-7217-448e-96aa-2f63071c531a.png"
+    ],
+    "targetSize": 56,
+    "ropeColor": "#7f8c8d",
+    "heroSize": 76,
+    "heroX": -14,
+    "hookSize": 32,
+    "hookOffsetY": 5,
+    "fontFamily": "Montserrat",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#00ffcc",
+    "qBorder": "both",
+    "qTextGlow": true,
+    "qSize": 2,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#00ffcc",
+    "tBorder": "solid",
+    "tTextGlow": false,
+    "tSize": 20,
+    "hudColor": "#ffffff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#00ffcc",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#e74c3c",
+    "btnGlow": "#c0392b",
+    "btnBorder": "both",
+    "btnTextGlow": false
+  },
+  "gameplay": {
+    "hookSpeed": 10,
+    "swingSpeed": 0.035,
+    "targetSpeed": 0.6
+  },
+  "tasks": [
+    {
+      "q": "How ___ apples do you need for the pie?",
+      "correct": [
+        "many"
+      ],
+      "wrong": [
+        "much",
+        "some",
+        "any"
+      ]
+    },
+    {
+      "q": "There isn't ___ sugar in the tea.",
+      "correct": [
+        "much"
+      ],
+      "wrong": [
+        "many",
+        "some",
+        "any"
+      ]
+    },
+    {
+      "q": "Do you have ___ brothers or sisters?",
+      "correct": [
+        "any"
+      ],
+      "wrong": [
+        "some",
+        "much",
+        "many"
+      ]
+    },
+    {
+      "q": "She has ___ friends at school.",
+      "correct": [
+        "a lot of"
+      ],
+      "wrong": [
+        "much",
+        "any",
+        "some"
+      ]
+    },
+    {
+      "q": "I don't have ___ time to finish this project.",
+      "correct": [
+        "much"
+      ],
+      "wrong": [
+        "many",
+        "some",
+        "any"
+      ]
+    },
+    {
+      "q": "Would you like ___ cake with your coffee?",
+      "correct": [
+        "some"
+      ],
+      "wrong": [
+        "any",
+        "much",
+        "many"
+      ]
+    },
+    {
+      "q": "There are ___ cars on the road today.",
+      "correct": [
+        "many",
+        "a lot of"
+      ],
+      "wrong": [
+        "much",
+        "some",
+        "any"
+      ]
+    },
+    {
+      "q": "We don't need ___ milk, we have enough.",
+      "correct": [
+        "much"
+      ],
+      "wrong": [
+        "many",
+        "some",
+        "any"
+      ]
+    },
+    {
+      "q": "How ___ water is in the bottle?",
+      "correct": [
+        "much"
+      ],
+      "wrong": [
+        "many",
+        "some",
+        "any"
+      ]
+    },
+    {
+      "q": "Can I have ___ water, please?",
+      "correct": [
+        "some"
+      ],
+      "wrong": [
+        "any",
+        "much",
+        "many"
+      ]
+    }
+  ]
+}
