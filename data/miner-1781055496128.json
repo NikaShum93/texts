@@ -1,0 +1,104 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/6182dc9a4de9160018a8a4cf/2b93d53a-9268-4b52-a182-b7b987670c3a.png",
+    "win": "GREAT JOB!",
+    "start": "START",
+    "again": "TRY AGAIN",
+    "btnSize": 5,
+    "btnY": 80,
+    "btnAnim": "pulse"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://img.genially.com/6182dc9a4de9160018a8a4cf/31e8ca2b-5324-49ba-9d2e-e733b5eb65a9.png",
+    "hook": "https://img.genially.com/6182dc9a4de9160018a8a4cf/966844d1-95ed-4548-891e-f92588c33c10.png",
+    "targets": [
+      "https://img.genially.com/6182dc9a4de9160018a8a4cf/0d801470-e03c-4624-af30-437a78a72204.png",
+      "https://img.genially.com/6182dc9a4de9160018a8a4cf/7591186e-079f-4306-a3a3-aece533e1279.png",
+      "https://img.genially.com/6182dc9a4de9160018a8a4cf/e197e52b-5aec-4c0a-9687-00444f696f0a.png",
+      "https://img.genially.com/6182dc9a4de9160018a8a4cf/092cd562-e791-4ee0-9c92-408ee887851d.png"
+    ],
+    "targetSize": 40,
+    "ropeColor": "#7f8c8d",
+    "heroSize": 40,
+    "heroX": 0,
+    "hookSize": 28,
+    "hookOffsetY": 0,
+    "fontFamily": "Fredoka One",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#00ffcc",
+    "qBorder": "both",
+    "qTextGlow": true,
+    "qSize": 4.5,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#00ffcc",
+    "tBorder": "solid",
+    "tTextGlow": false,
+    "tSize": 22,
+    "hudColor": "#ffffff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#00ffcc",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#e74c3c",
+    "btnGlow": "#c0392b",
+    "btnBorder": "both",
+    "btnTextGlow": false
+  },
+  "gameplay": {
+    "hookSpeed": 10,
+    "swingSpeed": 0.035,
+    "targetSpeed": 1
+  },
+  "tasks": [
+    {
+      "q": "What's my aunt's name?",
+      "correct": [
+        "Nancy"
+      ],
+      "wrong": [
+        "Daisy",
+        "Polly",
+        "Sally"
+      ]
+    },
+    {
+      "q": "What hair does she have?",
+      "correct": [
+        "Curly"
+      ],
+      "wrong": [
+        "Straight",
+        "Black",
+        "Red"
+      ]
+    },
+    {
+      "q": "What colour eyes does she have?",
+      "correct": [
+        "Blue"
+      ],
+      "wrong": [
+        "Green",
+        "Brown",
+        "Big"
+      ]
+    },
+    {
+      "q": "What does she grow?",
+      "correct": [
+        "Plants"
+      ],
+      "wrong": [
+        "Dog",
+        "Fish",
+        "Tree"
+      ]
+    }
+  ]
+}
