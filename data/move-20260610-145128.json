@@ -1,0 +1,92 @@
+{
+  "lang": "en",
+  "font": "Nunito",
+  "bg": "",
+  "char": "https://media.tenor.com/7PyjPoFb_ZUAAAAi/halloween-happy-halloween.gif",
+  "item": "https://media.tenor.com/5jGPR7PgBeAAAAAi/star-sparkle.gif",
+  "ui": {
+    "border": "#ffd900",
+    "bg": "#4b0082",
+    "text": "#ffffff",
+    "glow": "#ff00ff"
+  },
+  "fb": {
+    "text": "YOU DID IT!",
+    "pass": ""
+  },
+  "sounds": {},
+  "tasks": [
+    {
+      "type": "quiz",
+      "q": "I don't have a car. I wish I ___ a car.",
+      "a": "had",
+      "opt": "have, had, would have"
+    },
+    {
+      "type": "type",
+      "q": "If only I ___ (study) harder for the exam yesterday!",
+      "a": "had studied",
+      "opt": ""
+    },
+    {
+      "type": "word_order",
+      "q": "Order the words: you / making / I / stop / wish / would / that / noise.",
+      "a": "I wish you would stop making that noise.",
+      "opt": ""
+    },
+    {
+      "type": "type",
+      "q": "I am not tall. I wish I ___ taller.",
+      "a": "were",
+      "opt": ""
+    },
+    {
+      "type": "quiz",
+      "q": "If only we ___ the map! We are lost now.",
+      "a": "had taken",
+      "opt": "took, have taken, had taken"
+    },
+    {
+      "type": "type",
+      "q": "I wish it ___ (stop) raining! I want to go for a walk.",
+      "a": "would stop",
+      "opt": ""
+    },
+    {
+      "type": "word_order",
+      "q": "Order the words: only / knew / the / answer / If / I.",
+      "a": "If only I knew the answer.",
+      "opt": ""
+    },
+    {
+      "type": "type",
+      "q": "I ate too much cake. I wish I ___ eaten so much. (1 word)",
+      "a": "hadn't",
+      "opt": ""
+    },
+    {
+      "type": "quiz",
+      "q": "I wish my neighbors ___ play loud music at night.",
+      "a": "wouldn't",
+      "opt": "didn't, wouldn't, hadn't"
+    },
+    {
+      "type": "type",
+      "q": "I can't swim. I wish I ___ swim.",
+      "a": "could",
+      "opt": ""
+    },
+    {
+      "type": "sentence_order",
+      "q": "Order: I wish I could retake it. / I failed my test. / If only I had prepared better.",
+      "a": "I failed my test. If only I had prepared better. I wish I could retake it.",
+      "opt": ""
+    },
+    {
+      "type": "type",
+      "q": "I have to work tomorrow. I wish I ___ have to work.",
+      "a": "didn't",
+      "opt": ""
+    }
+  ]
+}
