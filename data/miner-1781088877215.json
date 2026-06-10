@@ -1,0 +1,148 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/665091682edfbf00141800cd/febf03eb-704b-4155-a0c3-3ac0567359f8.png",
+    "win": "Теперь ты не голоден!",
+    "start": "НАЧАТЬ",
+    "again": "Поймать еще бургеров",
+    "btnSize": 5,
+    "btnY": 80,
+    "btnAnim": "pulse"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://img.genially.com/665091682edfbf00141800cd/fe541234-07c4-4083-8f84-a1d515d3a1cd.png",
+    "hook": "hook.png",
+    "targets": [
+      "https://img.genially.com/665091682edfbf00141800cd/5a7adbb5-012c-4e1e-b49f-57d638afe576.png",
+      "https://img.genially.com/665091682edfbf00141800cd/2baa932a-28de-4b06-8ffd-04b29f57b352.png",
+      "https://img.genially.com/665091682edfbf00141800cd/a4a62cb2-eb59-41b4-9b58-7e6b8a7d306a.png",
+      "https://img.genially.com/665091682edfbf00141800cd/1b314ad6-4860-4ec0-a228-9a185e41cfad.png"
+    ],
+    "targetSize": 67,
+    "ropeColor": "#7f8c8d",
+    "heroSize": 69,
+    "heroX": 30,
+    "hookSize": 48,
+    "hookOffsetY": -5,
+    "fontFamily": "Montserrat",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#00ffcc",
+    "qBorder": "both",
+    "qTextGlow": true,
+    "qSize": 2.5,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#00ffcc",
+    "tBorder": "both",
+    "tTextGlow": false,
+    "tSize": 13,
+    "hudColor": "#ffffff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#00ffcc",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#e74c3c",
+    "btnGlow": "#c0392b",
+    "btnBorder": "both",
+    "btnTextGlow": false
+  },
+  "gameplay": {
+    "hookSpeed": 10,
+    "swingSpeed": 0.035,
+    "targetSpeed": 1
+  },
+  "tasks": [
+    {
+      "q": "0,5 + 0,3 = ?",
+      "correct": [
+        "$0.8$"
+      ],
+      "wrong": [
+        "$0.2$",
+        "$0.53$",
+        "$0.08$"
+      ]
+    },
+    {
+      "q": "1,7 − 0,9 = ?",
+      "correct": [
+        "$0.8$"
+      ],
+      "wrong": [
+        "$0.2$",
+        "$1.2$",
+        "$0.6$"
+      ]
+    },
+    {
+      "q": "0,4 × 0,6 = ?",
+      "correct": [
+        "$0.24$"
+      ],
+      "wrong": [
+        "$2.4$",
+        "$0.12$",
+        "$0.36$"
+      ]
+    },
+    {
+      "q": "2,4 ÷ 0,6 = ?",
+      "correct": [
+        "$4$"
+      ],
+      "wrong": [
+        "$0.4$",
+        "$1.44$",
+        "$6$"
+      ]
+    },
+    {
+      "q": "2,05 + 1,35 = ?",
+      "correct": [
+        "$3.4$"
+      ],
+      "wrong": [
+        "$3.35$",
+        "$4.40$",
+        "$3.05$"
+      ]
+    },
+    {
+      "q": "5,3 − 2,7 = ?",
+      "correct": [
+        "$2.6$"
+      ],
+      "wrong": [
+        "$2.4$",
+        "$3.0$",
+        "$2.8$"
+      ]
+    },
+    {
+      "q": "0,7 × 0,9 = ?",
+      "correct": [
+        "$0.63$"
+      ],
+      "wrong": [
+        "$6.3$",
+        "$0.063$",
+        "$63$"
+      ]
+    },
+    {
+      "q": "7,2 ÷ 0,8 = ?",
+      "correct": [
+        "$9$"
+      ],
+      "wrong": [
+        "$0.9$",
+        "$8",
+        "$10$"
+      ]
+    }
+  ]
+}
