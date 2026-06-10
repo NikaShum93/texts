@@ -1,0 +1,92 @@
+{
+  "lang": "en",
+  "font": "Russo One",
+  "bg": "",
+  "char": "https://media.tenor.com/7PyjPoFb_ZUAAAAi/halloween-happy-halloween.gif",
+  "item": "https://media.tenor.com/5jGPR7PgBeAAAAAi/star-sparkle.gif",
+  "ui": {
+    "border": "#ffd700",
+    "bg": "#4b0082",
+    "text": "#ffffff",
+    "glow": "#ff00ff"
+  },
+  "fb": {
+    "text": "YOU DID IT!",
+    "pass": ""
+  },
+  "sounds": {},
+  "tasks": [
+    {
+      "type": "quiz",
+      "q": "I don't have a car. I wish I ___ a car.",
+      "a": "had",
+      "opt": "have, had, would have"
+    },
+    {
+      "type": "blanks",
+      "q": "Раскрой скобки (Past Perfect)",
+      "a": "If only I [had studied] harder for the exam yesterday!",
+      "opt": ""
+    },
+    {
+      "type": "word_order",
+      "q": "Расставь слова по порядку",
+      "a": "I wish you would stop making that noise.",
+      "opt": ""
+    },
+    {
+      "type": "type",
+      "q": "I am not tall. I wish I ___ taller.",
+      "a": "were",
+      "opt": ""
+    },
+    {
+      "type": "quiz",
+      "q": "If only we ___ the map! We are lost now.",
+      "a": "had taken",
+      "opt": "took, have taken, had taken"
+    },
+    {
+      "type": "blanks",
+      "q": "Раскрой скобки (выражение недовольства)",
+      "a": "I wish it [would stop] raining! I want to go for a walk.",
+      "opt": ""
+    },
+    {
+      "type": "word_order",
+      "q": "Расставь слова по порядку",
+      "a": "If only I knew the answer to this question.",
+      "opt": ""
+    },
+    {
+      "type": "type",
+      "q": "I ate too much cake. I wish I ___ eaten so much. (введи одно слово)",
+      "a": "hadn't",
+      "opt": ""
+    },
+    {
+      "type": "quiz",
+      "q": "I wish my neighbors ___ play loud music at night.",
+      "a": "wouldn't",
+      "opt": "didn't, wouldn't, hadn't"
+    },
+    {
+      "type": "blanks",
+      "q": "Вставь нужный модальный глагол",
+      "a": "I can't swim. I wish I [could] swim.",
+      "opt": ""
+    },
+    {
+      "type": "sentence_order",
+      "q": "Выстрой предложения в логичном порядке",
+      "a": "I failed my math test yesterday. If only I had prepared better. I wish I could retake it tomorrow.",
+      "opt": ""
+    },
+    {
+      "type": "type",
+      "q": "I have to work tomorrow. I wish I ___ have to work.",
+      "a": "didn't",
+      "opt": ""
+    }
+  ]
+}
