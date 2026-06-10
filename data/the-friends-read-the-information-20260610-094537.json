@@ -1,0 +1,127 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/824b726d-7f27-4bc1-9b28-884526101ed4.png",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(234,196,6,0.8)",
+      "borderColor": "#ff0066",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#eac406",
+      "borderColor": "#ff2a66",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "The friends __________ (read) the information.",
+      "correct": [
+        "have read"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Eleven __________ (find) a new friend.",
+      "correct": [
+        "has found"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Mike __________ (meet) Eleven.",
+      "correct": [
+        "has met"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Will __________ (go) to the Upside Down.",
+      "correct": [
+        "has gone"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Dustin __________ (see) something strange.",
+      "correct": [
+        "has seen"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Nancy __________ (take) pictures.",
+      "correct": [
+        "has taken"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Hopper __________ (find) clues.",
+      "correct": [
+        "has found"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Steve __________ (help) the group.",
+      "correct": [
+        "has helped"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Lucas __________ (call) his friends.",
+      "correct": [
+        "has called"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Jonathan __________ (look for) Will.",
+      "correct": [
+        "has looked for"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The boys __________ (ride) their bikes.",
+      "correct": [
+        "have ridden"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "They __________ (visit) the laboratory.",
+      "correct": [
+        "have visited"
+      ],
+      "wrong": []
+    }
+  ]
+}
