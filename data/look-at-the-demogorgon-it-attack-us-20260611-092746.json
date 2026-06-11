@@ -1,0 +1,93 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 120,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/ece33714-5639-477c-8c29-be5382440848.png",
+    "bubbleSize": 120,
+    "task": {
+      "bgColor": "rgba(80,142,242,0.8)",
+      "borderColor": "#fbff00",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#508ef2",
+      "borderColor": "#fbfb01",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Look at the Demogorgon! It __________ (attack) us!",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I don’t understand this map. I think I __________ (call) Mike for help.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Eleven has a nosebleed. She __________ (use) her powers again.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "A: The lights are flickering. B: Don’t worry, I __________ (check) the basement.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Joyce believes Will is talking through the wall. She __________ (put) the Christmas lights.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The boys found a strange girl in the woods. They __________ (hide) her in Mike’s basement.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Oh no, the phone is dead! We __________ (not / call) the police.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "It’s so dark in the Upside Down. Dustin __________ (turn on) his flashlight.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "A: I have a plan to find Will. B: Great! I __________ (help) you.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Hopper sees the egg in the tunnel. He knows he __________ (go) deeper.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
