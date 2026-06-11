@@ -1,0 +1,108 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/5e219a126685986f1c35b272/5027759f-41cb-43ec-96ac-6367b345dbf8.png",
+    "win": "Теперь ты не голоден",
+    "start": "СТАРТ",
+    "again": "Поймай еще бургеров",
+    "btnSize": 5,
+    "btnY": 77,
+    "btnAnim": "pulse"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://img.genially.com/5e219a126685986f1c35b272/8ebcd83f-d68d-4eea-88c2-47be706cd610.png",
+    "hook": "hook.png",
+    "targets": [
+      "https://img.genially.com/5e219a126685986f1c35b272/98030334-b4b6-46b3-9f4e-4e04333aee5e.png",
+      "https://img.genially.com/5e219a126685986f1c35b272/bd61697b-689c-4da1-b587-903f0f87268e.png",
+      "https://img.genially.com/5e219a126685986f1c35b272/0b5a1683-8515-4a26-90f1-9b069165fa2b.png",
+      "https://img.genially.com/5e219a126685986f1c35b272/48d5e04d-e0da-4f51-b918-6b00af5efc69.png"
+    ],
+    "targetSize": 59,
+    "ropeColor": "#7f8c8d",
+    "heroSize": 80,
+    "heroX": 20,
+    "hookSize": 46,
+    "hookOffsetY": -48,
+    "fontFamily": "Montserrat",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#5a5e5d",
+    "qBorder": "none",
+    "qTextGlow": true,
+    "qSize": 2.5,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#00ffcc",
+    "tBorder": "solid",
+    "tTextGlow": false,
+    "tSize": 13,
+    "hudColor": "#ffffff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#b5c0bd",
+    "hudBorder": "none",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#c1bebe",
+    "btnGlow": "#a19c9b",
+    "btnBorder": "none",
+    "btnTextGlow": false
+  },
+  "gameplay": {
+    "hookSpeed": 10,
+    "swingSpeed": 0.035,
+    "targetSpeed": 1
+  },
+  "tasks": [
+    {
+      "q": "Столица Германии?",
+      "correct": [
+        "Берлин"
+      ],
+      "wrong": [
+        "Мюнхен",
+        "Гамбург",
+        "Франкфурт",
+        "Кёльн"
+      ]
+    },
+    {
+      "q": "Столица Италии?",
+      "correct": [
+        "Рим"
+      ],
+      "wrong": [
+        "Милан",
+        "Неаполь",
+        "Турин",
+        "Венеция"
+      ]
+    },
+    {
+      "q": "Столица Испании?",
+      "correct": [
+        "Мадрид"
+      ],
+      "wrong": [
+        "Барселона",
+        "Валенсия",
+        "Севилья",
+        "Бильбао"
+      ]
+    },
+    {
+      "q": "Столица Великобритании?",
+      "correct": [
+        "Лондон"
+      ],
+      "wrong": [
+        "Манчестер",
+        "Ливерпуль",
+        "Бирмингем",
+        "Эдинбург"
+      ]
+    }
+  ]
+}
