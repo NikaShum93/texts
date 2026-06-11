@@ -1,0 +1,312 @@
+{
+  "language": "ru",
+  "font": "Russo One",
+  "bg": "https://img.genially.com/66f3a31bcd1a12001568ab85/7906fbd6-895c-4f8c-b045-0c609f52eba8.jpeg",
+  "sounds": {
+    "correct": "",
+    "wrong": "",
+    "win": ""
+  },
+  "style": {
+    "animHover": "glow",
+    "animClick": "float",
+    "effMatch": "confetti",
+    "effMismatch": "lightning",
+    "effMismatchEmoji": "💩",
+    "glowColor": "#91cd00",
+    "matchedOpacity": 0.6,
+    "left": {
+      "bgColor": "#000000",
+      "bgOpacity": 0,
+      "borderColor": "#ffffff",
+      "borderWidth": 0,
+      "textColor": "#f16643"
+    },
+    "right": {
+      "bgColor": "#000000",
+      "bgOpacity": 0,
+      "borderColor": "#ffffff",
+      "borderWidth": 0,
+      "textColor": "#393786"
+    },
+    "tooltip": {
+      "bg": "#222222",
+      "color": "#e85455",
+      "glow": "#aeec00",
+      "radius": 8
+    },
+    "line": {
+      "color": "#f693ee",
+      "thickness": 2,
+      "style": "sparkle",
+      "emoji": "🟢"
+    },
+    "dot": {
+      "color": "#00ffcc",
+      "size": 30,
+      "style": "star"
+    }
+  },
+  "feedback": {
+    "mode": "image",
+    "text": "",
+    "font": "Nunito",
+    "fontSize": 28,
+    "textColor": "#3d0e63",
+    "bgColor": "#77e0e1",
+    "borderColor": "#00ffcc",
+    "borderWidth": 0,
+    "radius": 20,
+    "glowColor": "#a2dc00",
+    "anim": "zoomIn",
+    "img": "https://img.genially.com/66f3a31bcd1a12001568ab85/39b5ce25-a237-45c6-9c85-1a6d5dee68ed.png",
+    "imgX": 159,
+    "imgY": 35,
+    "imgW": 917,
+    "imgH": 653,
+    "txtX": 508,
+    "txtY": 589,
+    "txtW": 238,
+    "txtH": 103
+  },
+  "items": [
+    {
+      "id": "L0",
+      "side": "left",
+      "pairIndex": 0,
+      "text": "",
+      "img": "https://img.genially.com/66f3a31bcd1a12001568ab85/a02db869-39fe-4a74-83f4-07b21134ce2c.png",
+      "x": 493,
+      "y": 364,
+      "w": 151,
+      "h": 118,
+      "rot": 0,
+      "fontSize": 18,
+      "tooltip": {
+        "text": "go",
+        "img": ""
+      }
+    },
+    {
+      "id": "R0",
+      "side": "right",
+      "pairIndex": 0,
+      "text": "",
+      "img": "https://img.genially.com/66f3a31bcd1a12001568ab85/eafd7214-d5dd-48cb-940d-5bb527bf055f.png",
+      "x": 894,
+      "y": 187,
+      "w": 176,
+      "h": 162,
+      "rot": 0,
+      "fontSize": 18,
+      "tooltip": {
+        "text": "went",
+        "img": ""
+      }
+    },
+    {
+      "id": "L1",
+      "side": "left",
+      "pairIndex": 1,
+      "text": "",
+      "img": "https://img.genially.com/66f3a31bcd1a12001568ab85/db3431b5-129c-4036-878f-d772df3dd222.png",
+      "x": 0,
+      "y": 125,
+      "w": 150,
+      "h": 120,
+      "rot": 0,
+      "fontSize": 18,
+      "tooltip": {
+        "text": "see",
+        "img": ""
+      }
+    },
+    {
+      "id": "R1",
+      "side": "right",
+      "pairIndex": 1,
+      "text": "",
+      "img": "https://img.genially.com/66f3a31bcd1a12001568ab85/ea723a71-a04c-4441-9c03-f861a0b2d562.png",
+      "x": 581,
+      "y": 69,
+      "w": 155,
+      "h": 136,
+      "rot": 0,
+      "fontSize": 18,
+      "tooltip": {
+        "text": "saw",
+        "img": ""
+      }
+    },
+    {
+      "id": "L2",
+      "side": "left",
+      "pairIndex": 2,
+      "text": "",
+      "img": "https://img.genially.com/66f3a31bcd1a12001568ab85/d08f2e36-c541-4cd1-93c7-337ca7d81cea.png",
+      "x": 350,
+      "y": 78,
+      "w": 149,
+      "h": 119,
+      "rot": 0,
+      "fontSize": 18,
+      "tooltip": {
+        "text": "make",
+        "img": ""
+      }
+    },
+    {
+      "id": "R2",
+      "side": "right",
+      "pairIndex": 2,
+      "text": "",
+      "img": "https://img.genially.com/66f3a31bcd1a12001568ab85/7a58e701-7474-4757-be52-4af8cb7e245b.png",
+      "x": 901,
+      "y": 26,
+      "w": 156,
+      "h": 137,
+      "rot": 0,
+      "fontSize": 18,
+      "tooltip": {
+        "text": "made",
+        "img": ""
+      }
+    },
+    {
+      "id": "L3",
+      "side": "left",
+      "pairIndex": 3,
+      "text": "",
+      "img": "https://img.genially.com/66f3a31bcd1a12001568ab85/8122789a-4971-42dd-bd12-310a02462615.png",
+      "x": -3,
+      "y": 584,
+      "w": 149,
+      "h": 120,
+      "rot": 0,
+      "fontSize": 18,
+      "tooltip": {
+        "text": "take",
+        "img": ""
+      }
+    },
+    {
+      "id": "R3",
+      "side": "right",
+      "pairIndex": 3,
+      "text": "",
+      "img": "https://img.genially.com/66f3a31bcd1a12001568ab85/44580129-02f4-4781-b338-a8485e315e1e.png",
+      "x": 1127,
+      "y": 354,
+      "w": 159,
+      "h": 139,
+      "rot": 0,
+      "fontSize": 18,
+      "tooltip": {
+        "text": "took",
+        "img": ""
+      }
+    },
+    {
+      "id": "L4",
+      "side": "left",
+      "pairIndex": 4,
+      "text": "",
+      "img": "https://img.genially.com/66f3a31bcd1a12001568ab85/a3709580-eb17-4219-8668-b2438dc4e613.png",
+      "x": 119,
+      "y": 272,
+      "w": 148,
+      "h": 120,
+      "rot": 0,
+      "fontSize": 18,
+      "tooltip": {
+        "text": "come",
+        "img": ""
+      }
+    },
+    {
+      "id": "R4",
+      "side": "right",
+      "pairIndex": 4,
+      "text": "",
+      "img": "https://img.genially.com/66f3a31bcd1a12001568ab85/dbac4625-0087-45c1-83c8-a8823f00317e.png",
+      "x": 1141,
+      "y": 134,
+      "w": 158,
+      "h": 140,
+      "rot": 0,
+      "fontSize": 18,
+      "tooltip": {
+        "text": "came",
+        "img": ""
+      }
+    },
+    {
+      "id": "L5",
+      "side": "left",
+      "pairIndex": 5,
+      "text": "",
+      "img": "https://img.genially.com/66f3a31bcd1a12001568ab85/30c4e51e-5001-4301-bc90-0e9b09f754fc.png",
+      "x": 138,
+      "y": 418,
+      "w": 151,
+      "h": 119,
+      "rot": 0,
+      "fontSize": 18,
+      "tooltip": {
+        "text": "eat",
+        "img": ""
+      }
+    },
+    {
+      "id": "R5",
+      "side": "right",
+      "pairIndex": 5,
+      "text": "",
+      "img": "https://img.genially.com/66f3a31bcd1a12001568ab85/ef272b5e-e975-4609-b55b-07ab9fb4a246.png",
+      "x": 828,
+      "y": 560,
+      "w": 160,
+      "h": 139,
+      "rot": 0,
+      "fontSize": 18,
+      "tooltip": {
+        "text": "ate",
+        "img": ""
+      }
+    },
+    {
+      "id": "L6",
+      "side": "left",
+      "pairIndex": 6,
+      "text": "",
+      "img": "https://img.genially.com/66f3a31bcd1a12001568ab85/1b0fb816-762f-4381-b5a2-7a06950e6fa3.png",
+      "x": 311,
+      "y": 334,
+      "w": 151,
+      "h": 121,
+      "rot": -14,
+      "fontSize": 18,
+      "tooltip": {
+        "text": "drink",
+        "img": ""
+      }
+    },
+    {
+      "id": "R6",
+      "side": "right",
+      "pairIndex": 6,
+      "text": "",
+      "img": "https://img.genially.com/66f3a31bcd1a12001568ab85/51b068eb-f539-44fe-a88a-f33cfc344b67.png",
+      "x": 745,
+      "y": 356,
+      "w": 161,
+      "h": 140,
+      "rot": 12,
+      "fontSize": 18,
+      "tooltip": {
+        "text": "drank",
+        "img": ""
+      }
+    }
+  ]
+}
