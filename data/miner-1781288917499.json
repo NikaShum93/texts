@@ -1,0 +1,93 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/58358678ba1aa65728750052/16743219-cbff-4ce6-8432-1e0585222ae3.png",
+    "win": "Yummy!",
+    "start": "Start",
+    "again": "replay",
+    "btnSize": 5.5,
+    "btnY": 75,
+    "btnAnim": "none"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://img.genially.com/58358678ba1aa65728750052/e22dd5dd-ff59-49af-b522-d074866c1b5c.png",
+    "hook": "https://img.genially.com/58358678ba1aa65728750052/3f4df08f-0fb6-4f11-82b9-9165e109a11e.png",
+    "targets": [
+      "https://img.genially.com/58358678ba1aa65728750052/efca848a-b6ae-40f3-a85d-fce24dd50dcc.png",
+      "https://img.genially.com/58358678ba1aa65728750052/a57bb6d0-f1a6-4b2f-ba9d-fce8e8b6136f.png",
+      "https://img.genially.com/58358678ba1aa65728750052/1a4b71b7-e529-41a4-a8ba-11eef25d5e5e.png",
+      "https://img.genially.com/58358678ba1aa65728750052/54581d72-fab7-4a7f-a399-39f990d0c2e3.png"
+    ],
+    "targetSize": 56,
+    "ropeColor": "#7f8c8d",
+    "heroSize": 74,
+    "heroX": -21,
+    "hookSize": 48,
+    "hookOffsetY": -7,
+    "fontFamily": "Nunito",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#1c1c1c",
+    "qBorder": "both",
+    "qTextGlow": true,
+    "qSize": 3,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#00ffcc",
+    "tBorder": "solid",
+    "tTextGlow": false,
+    "tSize": 13,
+    "hudColor": "#ffffff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#00ffcc",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#e74c3c",
+    "btnGlow": "#c0392b",
+    "btnBorder": "both",
+    "btnTextGlow": true
+  },
+  "gameplay": {
+    "hookSpeed": 10,
+    "swingSpeed": 0.035,
+    "targetSpeed": 0.4
+  },
+  "tasks": [
+    {
+      "q": "she",
+      "correct": [
+        "girl"
+      ],
+      "wrong": [
+        "boy",
+        "man",
+        "father"
+      ]
+    },
+    {
+      "q": "he",
+      "correct": [
+        "boy"
+      ],
+      "wrong": [
+        "girl",
+        "woman",
+        "mother"
+      ]
+    },
+    {
+      "q": "they",
+      "correct": [
+        "my family"
+      ],
+      "wrong": [
+        "boy",
+        "girl",
+        "dad"
+      ]
+    }
+  ]
+}
