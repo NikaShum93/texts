@@ -1,0 +1,133 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/03d7b673-7812-464f-af10-a7d2346a75ec.png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(255,207,77,0.8)",
+      "borderColor": "#99e12d",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#ffcf4d",
+      "borderColor": "#99e12d",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 2,
+  "tasks": [
+    {
+      "question": "___ actor",
+      "correct": [
+        "an"
+      ],
+      "wrong": [
+        "a"
+      ]
+    },
+    {
+      "question": "___ nurse",
+      "correct": [
+        "a"
+      ],
+      "wrong": [
+        "an"
+      ]
+    },
+    {
+      "question": "___ egg",
+      "correct": [
+        "an"
+      ],
+      "wrong": [
+        "a"
+      ]
+    },
+    {
+      "question": "___ teacher",
+      "correct": [
+        "a"
+      ],
+      "wrong": [
+        "an"
+      ]
+    },
+    {
+      "question": "___ elephant",
+      "correct": [
+        "an"
+      ],
+      "wrong": [
+        "a"
+      ]
+    },
+    {
+      "question": "___ pilot",
+      "correct": [
+        "a"
+      ],
+      "wrong": [
+        "an"
+      ]
+    },
+    {
+      "question": "___ orange",
+      "correct": [
+        "an"
+      ],
+      "wrong": [
+        "a"
+      ]
+    },
+    {
+      "question": "___ dog",
+      "correct": [
+        "a"
+      ],
+      "wrong": [
+        "an"
+      ]
+    },
+    {
+      "question": "___ ice cream",
+      "correct": [
+        "an"
+      ],
+      "wrong": [
+        "a"
+      ]
+    },
+    {
+      "question": "___ student",
+      "correct": [
+        "a"
+      ],
+      "wrong": [
+        "an"
+      ]
+    }
+  ]
+}
