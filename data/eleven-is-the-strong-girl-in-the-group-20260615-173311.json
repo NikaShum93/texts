@@ -1,0 +1,133 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 120,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/1eddbb21-2c84-457f-a3cc-93fb911bc282.png",
+    "bubbleSize": 120,
+    "task": {
+      "bgColor": "rgba(255,129,26,0.85)",
+      "borderColor": "#ffca0a",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#ff811a",
+      "borderColor": "#ffca09",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 2,
+  "tasks": [
+    {
+      "question": "Eleven is the ___ (strong) girl in the group.",
+      "correct": [
+        "strongest"
+      ],
+      "wrong": [
+        "most strong"
+      ]
+    },
+    {
+      "question": "Dustin is the ___ (funny) boy.",
+      "correct": [
+        "funniest"
+      ],
+      "wrong": [
+        "most funny"
+      ]
+    },
+    {
+      "question": "Hopper is the ___ (brave) adult.",
+      "correct": [
+        "bravest"
+      ],
+      "wrong": [
+        "most brave"
+      ]
+    },
+    {
+      "question": "Vecna is the ___ (dangerous) villain.",
+      "correct": [
+        "most dangerous"
+      ],
+      "wrong": [
+        "dangerousest"
+      ]
+    },
+    {
+      "question": "Mike is the ___ (good) friend.",
+      "correct": [
+        "best"
+      ],
+      "wrong": [
+        "goodest"
+      ]
+    },
+    {
+      "question": "The Upside Down is the ___ (scary) place.",
+      "correct": [
+        "scariest"
+      ],
+      "wrong": [
+        "most scary"
+      ]
+    },
+    {
+      "question": "Lucas is the ___ (fast) runner.",
+      "correct": [
+        "fastest"
+      ],
+      "wrong": [
+        "most fast"
+      ]
+    },
+    {
+      "question": "Joyce is the ___ (worried) parent.",
+      "correct": [
+        "most worried"
+      ],
+      "wrong": [
+        "worriedest"
+      ]
+    },
+    {
+      "question": "Will is the ___ (unlucky) boy.",
+      "correct": [
+        "unluckiest"
+      ],
+      "wrong": [
+        "most unlucky"
+      ]
+    },
+    {
+      "question": "Max is the ___ (popular) girl at school.",
+      "correct": [
+        "most popular"
+      ],
+      "wrong": [
+        "popularest"
+      ]
+    }
+  ]
+}
