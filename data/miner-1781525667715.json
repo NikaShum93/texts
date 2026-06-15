@@ -1,0 +1,170 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/69280f411dd3350008276459/42048647-64d0-4fbf-9328-5ccc9373da3c.png",
+    "win": "Great job!",
+    "start": "Start",
+    "again": "Try again",
+    "btnSize": 3.5,
+    "btnY": 61,
+    "btnAnim": "pulse"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://img.genially.com/69280f411dd3350008276459/99545417-d4e2-4e21-a04d-0bbde0db5b2a.png",
+    "hook": "https://img.genially.com/69280f411dd3350008276459/55677418-e2b1-45e4-a8cc-35b47a42f86e.png",
+    "targets": [
+      "https://img.genially.com/69280f411dd3350008276459/772924db-2c4d-4933-8c0e-864fd7dc21fc.png",
+      "https://img.genially.com/69280f411dd3350008276459/6955c5d4-1a28-4577-aeab-a58515b0853d.png",
+      "https://img.genially.com/69280f411dd3350008276459/6313ad41-8e91-4da3-a75b-c5be79aae538.png",
+      "https://img.genially.com/69280f411dd3350008276459/55a76863-faa4-42ad-ad00-d8c13882966b.png"
+    ],
+    "targetSize": 90,
+    "ropeColor": "#7f8c8d",
+    "heroSize": 150,
+    "heroX": 0,
+    "hookSize": 60,
+    "hookOffsetY": 0,
+    "fontFamily": "Comic Neue",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#00ffcc",
+    "qBorder": "both",
+    "qTextGlow": true,
+    "qSize": 4.5,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#00ffcc",
+    "tBorder": "solid",
+    "tTextGlow": true,
+    "tSize": 22,
+    "hudColor": "#ffffff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#00ffcc",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#e74c3c",
+    "btnGlow": "#c0392b",
+    "btnBorder": "both",
+    "btnTextGlow": true
+  },
+  "gameplay": {
+    "hookSpeed": 10,
+    "swingSpeed": 0.035,
+    "targetSpeed": 1
+  },
+  "tasks": [
+    {
+      "q": "The Demogorgon is ______ than a bat.",
+      "correct": [
+        "scarier"
+      ],
+      "wrong": [
+        "the scarier",
+        "more scary",
+        "more scarier"
+      ]
+    },
+    {
+      "q": "Lucas is ______ than Dustin.",
+      "correct": [
+        "taller"
+      ],
+      "wrong": [
+        "tall",
+        "more tall",
+        "more taller"
+      ]
+    },
+    {
+      "q": "Hopper’s car is ______ than Joyce’s car.",
+      "correct": [
+        "older"
+      ],
+      "wrong": [
+        "elder",
+        "more old",
+        "more older"
+      ]
+    },
+    {
+      "q": "Will’s hair is ______ than Mike’s hair.",
+      "correct": [
+        "shorter"
+      ],
+      "wrong": [
+        "short",
+        "more short",
+        "more shorter"
+      ]
+    },
+    {
+      "q": "The Mind Flayer is ______  than the Demogorgon.",
+      "correct": [
+        "bigger"
+      ],
+      "wrong": [
+        "biger",
+        "more big",
+        "more biger"
+      ]
+    },
+    {
+      "q": "Max is ______ on her skateboard than Lucas.",
+      "correct": [
+        "faster"
+      ],
+      "wrong": [
+        "fast",
+        "fastest",
+        "more fast"
+      ]
+    },
+    {
+      "q": "Dustin’s cat is ______  than a normal cat.",
+      "correct": [
+        "fatter"
+      ],
+      "wrong": [
+        "fater",
+        "more fat",
+        "fat"
+      ]
+    },
+    {
+      "q": "The Upside Down is ______ than Hawkins.",
+      "correct": [
+        "darker"
+      ],
+      "wrong": [
+        "dark",
+        "more dark",
+        "the dark"
+      ]
+    },
+    {
+      "q": "Eleven’s nose is ______ than Mike’s nose.",
+      "correct": [
+        "smaller"
+      ],
+      "wrong": [
+        "small",
+        "more small",
+        "more smaller"
+      ]
+    },
+    {
+      "q": "The monster’s teeth are ______ than a knife.",
+      "correct": [
+        "sharper"
+      ],
+      "wrong": [
+        "sharp",
+        "more sharp",
+        "more sharper"
+      ]
+    }
+  ]
+}
