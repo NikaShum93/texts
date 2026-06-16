@@ -1,0 +1,118 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Roboto",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": false,
+  "bubbleSize": 100,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/687fbb7ea3b7ac001485e6a1/e52e0b67-118f-421c-b1bb-16268292f102.png",
+    "bubbleSize": 100,
+    "task": {
+      "bgColor": "rgba(234,185,110,1)",
+      "borderColor": "#c49676",
+      "textColor": "#ffffff",
+      "fontSize": 20,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#eab96e",
+      "textColor": "#ffffff",
+      "fontSize": 20,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://media.tenor.com/MMTiXsOEbScAAAAi/finger-gun-judy-hopps.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 2,
+  "tasks": [
+    {
+      "question": "I play football on Saturday.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She is a teacher.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "He is a firefighter.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They ride bikes in the park.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My mom is a cook.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I don't like dancing.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "He doesn't play the guitar.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We don't watch TV in class.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "A builder doesn't work in a hospital.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They don't read books at night.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do you play games?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Does she read books?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Is he a police officer?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do they swim in the pool?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Does your dad drive a bus?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
