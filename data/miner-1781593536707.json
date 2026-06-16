@@ -1,0 +1,112 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/680724f1bd4959001f2b2a58/150888a6-6156-4688-9ccd-cb279a821bac.png",
+    "win": "Теперь ты не голоден!",
+    "start": "СТАРТ",
+    "again": "ЕЩЁ РАЗ",
+    "btnSize": 5,
+    "btnY": 80,
+    "btnAnim": "pulse"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://img.genially.com/680724f1bd4959001f2b2a58/71467e05-aee8-4b0b-bef8-b2edea5d6060.png",
+    "hook": "hook.png",
+    "targets": [
+      "https://img.genially.com/680724f1bd4959001f2b2a58/3a3e1753-8b3d-4037-b1c9-6fc1d57a3c86.png",
+      "https://img.genially.com/680724f1bd4959001f2b2a58/60d2cce9-3987-46b4-b885-8b8b685c76c0.png",
+      "https://img.genially.com/680724f1bd4959001f2b2a58/228cd5cc-7ebd-4af5-abf0-471e761e3217.png",
+      "https://img.genially.com/680724f1bd4959001f2b2a58/9598c8a9-c058-47ae-80c9-9e15a790200d.png"
+    ],
+    "targetSize": 72,
+    "ropeColor": "#7f8c8d",
+    "heroSize": 73,
+    "heroX": 56,
+    "hookSize": 60,
+    "hookOffsetY": 0,
+    "fontFamily": "Montserrat",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#00ffcc",
+    "qBorder": "both",
+    "qTextGlow": true,
+    "qSize": 2,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#00ffcc",
+    "tBorder": "solid",
+    "tTextGlow": false,
+    "tSize": 14,
+    "hudColor": "#ffffff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#00ffcc",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#e74c3c",
+    "btnGlow": "#c0392b",
+    "btnBorder": "both",
+    "btnTextGlow": false
+  },
+  "gameplay": {
+    "hookSpeed": 10,
+    "swingSpeed": 0.035,
+    "targetSpeed": 1
+  },
+  "tasks": [
+    {
+      "q": "Поймай только имена существительные",
+      "correct": [
+        "Стол",
+        "лес",
+        "книга"
+      ],
+      "wrong": [
+        "бежит",
+        "красивый",
+        "они"
+      ]
+    },
+    {
+      "q": "Поймай только глаголы",
+      "correct": [
+        "бежит",
+        "читает",
+        "рисует"
+      ],
+      "wrong": [
+        "стол",
+        "зелёный",
+        "мы"
+      ]
+    },
+    {
+      "q": "Поймай только имена прилагательные",
+      "correct": [
+        "красивый",
+        "высокий",
+        "сладкий"
+      ],
+      "wrong": [
+        "книга",
+        "читает",
+        "я"
+      ]
+    },
+    {
+      "q": "Поймай только местоимения",
+      "correct": [
+        "я",
+        "мы",
+        "они"
+      ],
+      "wrong": [
+        "лес",
+        "высокий",
+        "рисует"
+      ]
+    }
+  ]
+}
