@@ -1,0 +1,159 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/69280f411dd3350008276459/b3a869ed-df72-4c4b-baa4-73cb3aecae06.png",
+    "win": "Great job!",
+    "start": "Start",
+    "again": "Try again?",
+    "btnSize": 5,
+    "btnY": 54,
+    "btnAnim": "pulse"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://img.genially.com/69280f411dd3350008276459/c7c35559-1281-498d-863c-2059691c2028.png",
+    "hook": "https://img.genially.com/69280f411dd3350008276459/e02a460d-5436-4cb5-8128-1218e33b977e.png",
+    "targets": [
+      "https://img.genially.com/69280f411dd3350008276459/d14210e8-20fc-493d-83e1-b4dcaf13fc7c.png",
+      "https://img.genially.com/69280f411dd3350008276459/afb8760c-73b2-48cf-8863-988c2dfb8598.png",
+      "https://img.genially.com/69280f411dd3350008276459/54bd5d2a-4a5c-4079-a03e-56a28d4ddf3b.png",
+      "https://img.genially.com/69280f411dd3350008276459/7c367bf9-6b9e-4a37-8977-0b25a16ea5d6.png"
+    ],
+    "targetSize": 90,
+    "ropeColor": "#7f8c8d",
+    "heroSize": 150,
+    "heroX": 0,
+    "hookSize": 60,
+    "hookOffsetY": 0,
+    "fontFamily": "Comic Neue",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#00ffcc",
+    "qBorder": "both",
+    "qTextGlow": true,
+    "qSize": 4.5,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#00ffcc",
+    "tBorder": "solid",
+    "tTextGlow": false,
+    "tSize": 22,
+    "hudColor": "#ffffff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#00ffcc",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#e74c3c",
+    "btnGlow": "#c0392b",
+    "btnBorder": "both",
+    "btnTextGlow": false
+  },
+  "gameplay": {
+    "hookSpeed": 10,
+    "swingSpeed": 0.035,
+    "targetSpeed": 1
+  },
+  "tasks": [
+    {
+      "q": "My brother is ___ doctor.",
+      "correct": [
+        "a"
+      ],
+      "wrong": [
+        "an",
+        "the",
+        "-"
+      ]
+    },
+    {
+      "q": "I ate ___ apple for breakfast.",
+      "correct": [
+        "an"
+      ],
+      "wrong": [
+        "a",
+        "the",
+        "-"
+      ]
+    },
+    {
+      "q": "___ sun is shining today.",
+      "correct": [
+        "the"
+      ],
+      "wrong": [
+        "a",
+        "an",
+        "-"
+      ]
+    },
+    {
+      "q": "We live in ___ small house.",
+      "correct": [
+        "a"
+      ],
+      "wrong": [
+        "an",
+        "the",
+        "-"
+      ]
+    },
+    {
+      "q": "Sarah is from ___ Canada.",
+      "correct": [
+        "-"
+      ],
+      "wrong": [
+        "a",
+        "an",
+        "the"
+      ]
+    },
+    {
+      "q": "Tom wants to be ___ actor.",
+      "correct": [
+        "an"
+      ],
+      "wrong": [
+        "a",
+        "the",
+        "-"
+      ]
+    },
+    {
+      "q": "I need ___ umbrella.",
+      "correct": [
+        "an"
+      ],
+      "wrong": [
+        "a",
+        "the",
+        "-"
+      ]
+    },
+    {
+      "q": "They visited ___ British Museum in London.",
+      "correct": [
+        "the"
+      ],
+      "wrong": [
+        "a",
+        "an",
+        "-"
+      ]
+    },
+    {
+      "q": "Emma speaks ___ English very well.",
+      "correct": [
+        "-"
+      ],
+      "wrong": [
+        "a",
+        "an",
+        "the"
+      ]
+    }
+  ]
+}
