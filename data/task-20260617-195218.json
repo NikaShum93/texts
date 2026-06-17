@@ -1,0 +1,173 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 144,
+  "sounds": {
+    "pop": "https://www.image2url.com/r2/default/audio/1781714697357-384535c8-4303-4a02-b0c4-167e0cb99a9a.mp3",
+    "open": "https://www.image2url.com/r2/default/audio/1781714664301-d8801136-d7f1-4c44-b0ce-52500f98b4fd.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/62728927e0105b0018763bee/f4fc313a-e254-4824-9c57-591950deea7f.png",
+    "bubbleSize": 144,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 600
+    }
+  },
+  "finalFeedback": "Молодец! Мы можем ехать дальше.",
+  "feedbackImage": "https://img.genially.com/62728927e0105b0018763bee/f4fc313a-e254-4824-9c57-591950deea7f.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "пол_жить",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "сл_гаемое",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "предл_гал",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "р_стение",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "выр_с",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Р_стов",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "отр_сль",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ц_рк",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ц_ган",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ц_ркуль",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "акац_я",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ц_плёнок",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "танц_",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ш_л",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ш_пот",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ш_рох",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ш_в",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ра_стелить",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ра_бить",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "во_стание",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "во_двигнуть",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "соб_рает",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ст_лить",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ст_реть",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ст_рать",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "сд_рать",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
