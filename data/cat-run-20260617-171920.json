@@ -1,0 +1,165 @@
+{
+  "lang": "ru",
+  "mode": "choice",
+  "math": false,
+  "transparentBg": false,
+  "randomQuestions": true,
+  "ui": {
+    "title": "CAT RUN",
+    "start": "PLAY",
+    "again": "AGAIN",
+    "gameover": "GAME OVER",
+    "scoreLabel": "Score: ",
+    "fontSize": 9
+  },
+  "gameplay": {
+    "winQuestions": 10,
+    "diffBaseSpawnMs": 9500,
+    "diffBaseMoveSpeed": 3.7,
+    "diffMedMult": 0.88,
+    "diffHardMult": 0.76
+  },
+  "assets": {
+    "hero": "🐈",
+    "mirrorHero": true,
+    "heroBobbing": true,
+    "obstacles": {
+      "ground": [
+        "🌲",
+        "🌵"
+      ],
+      "good": [
+        "🌽",
+        "🍎"
+      ],
+      "bad": []
+    }
+  },
+  "sounds": {
+    "mus": "https://raw.githubusercontent.com/kgbgamelab/audioplayer/main/Baa%20Dash.mp3",
+    "ding": "https://assets.mixkit.co/active_storage/sfx/2000/2000-preview.mp3",
+    "buzz": "https://assets.mixkit.co/active_storage/sfx/257/257-preview.mp3",
+    "coin": "https://assets.mixkit.co/active_storage/sfx/2019/2019-preview.mp3",
+    "crash": "https://assets.mixkit.co/active_storage/sfx/2042/2042-preview.mp3",
+    "win": "https://assets.mixkit.co/active_storage/sfx/2018/2018-preview.mp3"
+  },
+  "tasks": [
+    {
+      "question": "My sister ____ a cat.",
+      "correct": [
+        "has"
+      ],
+      "wrong": [
+        "have"
+      ]
+    },
+    {
+      "question": "I _____ a new bike.",
+      "correct": [
+        "have"
+      ],
+      "wrong": [
+        "has"
+      ]
+    },
+    {
+      "question": "My friends ____ cats.",
+      "correct": [
+        "have"
+      ],
+      "wrong": [
+        "has"
+      ]
+    },
+    {
+      "question": "Tom ______ a parrot.",
+      "correct": [
+        "has"
+      ],
+      "wrong": [
+        "have"
+      ]
+    },
+    {
+      "question": "We ____ interesting books.",
+      "correct": [
+        "have"
+      ],
+      "wrong": [
+        "has"
+      ]
+    },
+    {
+      "question": "They ______ balls.",
+      "correct": [
+        "have"
+      ],
+      "wrong": [
+        "has"
+      ]
+    },
+    {
+      "question": "My mother _____ a new dress.",
+      "correct": [
+        "has"
+      ],
+      "wrong": [
+        "have"
+      ]
+    },
+    {
+      "question": "My father _____ a red car.",
+      "correct": [
+        "has"
+      ],
+      "wrong": [
+        "have"
+      ]
+    },
+    {
+      "question": "My grandparents ____ a big garden.",
+      "correct": [
+        "have"
+      ],
+      "wrong": [
+        "has"
+      ]
+    },
+    {
+      "question": "I _____ a white dog.",
+      "correct": [
+        "have"
+      ],
+      "wrong": [
+        "has"
+      ]
+    },
+    {
+      "question": "My sister _____ a lot of pencils.",
+      "correct": [
+        "has"
+      ],
+      "wrong": [
+        "have"
+      ]
+    },
+    {
+      "question": "Peter ____ 3 robots.",
+      "correct": [
+        "has"
+      ],
+      "wrong": [
+        "have"
+      ]
+    },
+    {
+      "question": "Leo and Lola _____ green T-shirts.",
+      "correct": [
+        "have"
+      ],
+      "wrong": [
+        "has"
+      ]
+    }
+  ]
+}
