@@ -1,0 +1,98 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://github.com/ekelareva666-blip/sounds/raw/refs/heads/main/quiet-crunch-of-chips.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/61882814ce54aa001880ecea/01e91aab-20bf-4aa0-a7ec-b022a6a96f38.gif",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(255,255,255,1)",
+      "borderColor": "#ff9500",
+      "textColor": "#f58f00",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://img.genially.com/61882814ce54aa001880ecea/27e230ba-1e07-4f05-849c-dce1413b90ac.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "3 face parts",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "3 body parts",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "5 family words",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "3 winter clothes",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "3 summer clothes",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "5 furniture words",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "4 rooms",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "3 types of a house",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "5 adjectives",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "3 hair words",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "3 character words",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
