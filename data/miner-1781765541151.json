@@ -1,0 +1,170 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/69280f411dd3350008276459/82ed2fc7-3e59-413a-85cc-323bafb70508.png",
+    "win": "You are a star!",
+    "start": "Start",
+    "again": "Play again?",
+    "btnSize": 4.5,
+    "btnY": 64,
+    "btnAnim": "pulse"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://img.genially.com/69280f411dd3350008276459/108e0d9a-8d52-4829-bc67-646c04094e98.png",
+    "hook": "https://img.genially.com/69280f411dd3350008276459/f8ffe0a5-4d79-4bdb-958c-d9885013d45d.png",
+    "targets": [
+      "https://img.genially.com/69280f411dd3350008276459/66050cbf-96e8-4a0a-8109-7757d78f4d7f.png",
+      "https://img.genially.com/69280f411dd3350008276459/94eca763-e41f-4dab-86a6-84069a925ce1.png",
+      "https://img.genially.com/69280f411dd3350008276459/f031a057-53a2-4c25-bcc4-e90f3668bbd9.png",
+      "https://img.genially.com/69280f411dd3350008276459/570037e8-909b-4d3d-aa86-3e0f5269ab50.png"
+    ],
+    "targetSize": 90,
+    "ropeColor": "#fef039",
+    "heroSize": 150,
+    "heroX": 0,
+    "hookSize": 60,
+    "hookOffsetY": 0,
+    "fontFamily": "Fredoka One",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#fcf239",
+    "qBorder": "both",
+    "qTextGlow": true,
+    "qSize": 4.5,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#fbed35",
+    "tBorder": "solid",
+    "tTextGlow": true,
+    "tSize": 22,
+    "hudColor": "#ffffff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#fbed35",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#ca2b3b",
+    "btnGlow": "#ff1900",
+    "btnBorder": "both",
+    "btnTextGlow": true
+  },
+  "gameplay": {
+    "hookSpeed": 10,
+    "swingSpeed": 0.035,
+    "targetSpeed": 1
+  },
+  "tasks": [
+    {
+      "q": "I usually wake up ___ 7:00 a.m.",
+      "correct": [
+        "at"
+      ],
+      "wrong": [
+        "in",
+        "on",
+        "-"
+      ]
+    },
+    {
+      "q": "My birthday is ___ May.",
+      "correct": [
+        "in"
+      ],
+      "wrong": [
+        "at",
+        "on",
+        "-"
+      ]
+    },
+    {
+      "q": "We have English class ___ Monday.",
+      "correct": [
+        "on"
+      ],
+      "wrong": [
+        "in",
+        "at",
+        "-"
+      ]
+    },
+    {
+      "q": "They arrived ___ midnight.",
+      "correct": [
+        "at"
+      ],
+      "wrong": [
+        "in",
+        "on",
+        "-"
+      ]
+    },
+    {
+      "q": "The school closes ___ summer.",
+      "correct": [
+        "in"
+      ],
+      "wrong": [
+        "at",
+        "on",
+        "-"
+      ]
+    },
+    {
+      "q": "She was born ___ 2012.",
+      "correct": [
+        "in"
+      ],
+      "wrong": [
+        "at",
+        "on",
+        "-"
+      ]
+    },
+    {
+      "q": "The meeting is ___ Friday afternoon.",
+      "correct": [
+        "on"
+      ],
+      "wrong": [
+        "in",
+        "at",
+        "-"
+      ]
+    },
+    {
+      "q": "We always visit our grandparents ___ Christmas Day.",
+      "correct": [
+        "on"
+      ],
+      "wrong": [
+        "in",
+        "at",
+        "-"
+      ]
+    },
+    {
+      "q": "I like studying ___ the evening.",
+      "correct": [
+        "in"
+      ],
+      "wrong": [
+        "at",
+        "on",
+        "-"
+      ]
+    },
+    {
+      "q": "The train leaves ___ 6:30.",
+      "correct": [
+        "at"
+      ],
+      "wrong": [
+        "in",
+        "on",
+        "-"
+      ]
+    }
+  ]
+}
