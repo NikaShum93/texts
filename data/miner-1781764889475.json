@@ -1,0 +1,170 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/69280f411dd3350008276459/82ed2fc7-3e59-413a-85cc-323bafb70508.png",
+    "win": "You are a star!",
+    "start": "Start",
+    "again": "Play again?",
+    "btnSize": 4.5,
+    "btnY": 64,
+    "btnAnim": "pulse"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://img.genially.com/69280f411dd3350008276459/108e0d9a-8d52-4829-bc67-646c04094e98.png",
+    "hook": "https://img.genially.com/69280f411dd3350008276459/b9ad655a-c08a-40d9-9784-30d72984fe12.png",
+    "targets": [
+      "https://img.genially.com/69280f411dd3350008276459/83cb4c2c-2122-4826-8804-6a240f8d898c.png",
+      "https://img.genially.com/69280f411dd3350008276459/052c7fe7-1fd2-4d95-8457-d6efd535e87c.png",
+      "https://img.genially.com/69280f411dd3350008276459/54aa21ae-5d7c-46a1-87d0-888a1c0094ed.png",
+      "https://img.genially.com/69280f411dd3350008276459/5e24dffc-365f-4cbf-9e55-6b0c1be24229.png"
+    ],
+    "targetSize": 90,
+    "ropeColor": "#fef039",
+    "heroSize": 150,
+    "heroX": 0,
+    "hookSize": 60,
+    "hookOffsetY": 0,
+    "fontFamily": "Fredoka One",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#fcf239",
+    "qBorder": "both",
+    "qTextGlow": true,
+    "qSize": 4.5,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#fbed35",
+    "tBorder": "solid",
+    "tTextGlow": true,
+    "tSize": 22,
+    "hudColor": "#ffffff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#fbed35",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#ca2b3b",
+    "btnGlow": "#ff1900",
+    "btnBorder": "both",
+    "btnTextGlow": true
+  },
+  "gameplay": {
+    "hookSpeed": 10,
+    "swingSpeed": 0.035,
+    "targetSpeed": 1
+  },
+  "tasks": [
+    {
+      "q": "The cat is sleeping ___ the sofa.",
+      "correct": [
+        "on"
+      ],
+      "wrong": [
+        "in",
+        "at",
+        "between"
+      ]
+    },
+    {
+      "q": "The school is ___ the bank and the library.",
+      "correct": [
+        "between"
+      ],
+      "wrong": [
+        "opposite",
+        "next to",
+        "behind"
+      ]
+    },
+    {
+      "q": "Please put the milk ___ the fridge.",
+      "correct": [
+        "in"
+      ],
+      "wrong": [
+        "on",
+        "at",
+        "under"
+      ]
+    },
+    {
+      "q": "My best friend sits ___ me in class.",
+      "correct": [
+        "next to"
+      ],
+      "wrong": [
+        "on",
+        "at",
+        "between"
+      ]
+    },
+    {
+      "q": "The poster is ___ the wall.",
+      "correct": [
+        "on"
+      ],
+      "wrong": [
+        "in",
+        "at",
+        "between"
+      ]
+    },
+    {
+      "q": "There is a small garden ___ our house.",
+      "correct": [
+        "in front of"
+      ],
+      "wrong": [
+        "under",
+        "between",
+        "on"
+      ]
+    },
+    {
+      "q": "I usually wait for the bus ___ the bus stop.",
+      "correct": [
+        "at"
+      ],
+      "wrong": [
+        "on",
+        "in",
+        "under"
+      ]
+    },
+    {
+      "q": "The shoes are ___ the bed, so I can't see them.",
+      "correct": [
+        "under"
+      ],
+      "wrong": [
+        "on",
+        "at",
+        "next to"
+      ]
+    },
+    {
+      "q": "The cinema is ___ the supermarket – they are on opposite sides of the street.",
+      "correct": [
+        "opposite"
+      ],
+      "wrong": [
+        "between",
+        "next to",
+        "behind"
+      ]
+    },
+    {
+      "q": "There is a rug ___ the floor.",
+      "correct": [
+        "on"
+      ],
+      "wrong": [
+        "in",
+        "at",
+        "between"
+      ]
+    }
+  ]
+}
