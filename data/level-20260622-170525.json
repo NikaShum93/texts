@@ -1,0 +1,52 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 0,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 0,
+    "imgBox": 140
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "ЛЕТО",
+    "btnText": ""
+  },
+  "direction": "down",
+  "finalFeedback": "Отличная работа!",
+  "levels": [
+    {
+      "target": "Летние предметы",
+      "correct": [
+        "https://static.klipy.com/ii/4bbcf901ea0d5dec489bd8c608d7f1fd/0f/a9/axZwcxCkCJZ7.gif",
+        "https://static.klipy.com/ii/a5166a66b33e26d783bf95ac62ea3cdb/4e/35/aSqUBbOa.gif",
+        "https://static.klipy.com/ii/4bbcf901ea0d5dec489bd8c608d7f1fd/6f/9b/waMRUkPoQghJc.gif",
+        "https://static.klipy.com/ii/c98c4a4935d23b95805f0befee091d8a/cc/bb/9vGQNqYX.gif",
+        "https://static.klipy.com/ii/a5166a66b33e26d783bf95ac62ea3cdb/5b/99/OIlHnjgz.gif",
+        "https://static.klipy.com/ii/ffd4ac143e6335ac68951b787d3c1902/d7/cf/6utN6sYj.gif",
+        "https://static.klipy.com/ii/4bbcf901ea0d5dec489bd8c608d7f1fd/35/e4/DdHbSw737oF8jY7rT.gif",
+        "https://static.klipy.com/ii/c98c4a4935d23b95805f0befee091d8a/a6/09/Wv7GdEd6.gif",
+        "https://static.klipy.com/ii/4bbcf901ea0d5dec489bd8c608d7f1fd/5c/53/tpvILZSJfAIrNkTaK2W.gif"
+      ],
+      "wrong": [
+        "https://static.klipy.com/ii/c98c4a4935d23b95805f0befee091d8a/28/cb/QeLaEXUO.gif",
+        "https://static.klipy.com/ii/4bbcf901ea0d5dec489bd8c608d7f1fd/2d/7c/bA0sALgAUMeVjPaYg4h.gif",
+        "https://static.klipy.com/ii/4bbcf901ea0d5dec489bd8c608d7f1fd/cd/8e/odfHXPuXtAThY3MEpuH.gif"
+      ],
+      "timer": 45
+    }
+  ]
+}
