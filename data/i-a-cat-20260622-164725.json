@@ -1,0 +1,143 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 88,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/nLGQxPtR/'.png",
+    "bubbleSize": 88,
+    "task": {
+      "bgColor": "rgba(48,197,85,1)",
+      "borderColor": "#00ff4c",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#23e730",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "I _____ a cat.",
+      "correct": [
+        "have got"
+      ],
+      "wrong": [
+        "is",
+        "has got"
+      ]
+    },
+    {
+      "question": "She _____ my friend.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are",
+        "has got"
+      ]
+    },
+    {
+      "question": "We _____ two bikes.",
+      "correct": [
+        "have got"
+      ],
+      "wrong": [
+        "is",
+        "has got"
+      ]
+    },
+    {
+      "question": "They _____ happy today.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "is",
+        "have got"
+      ]
+    },
+    {
+      "question": "He _____ a new phone.",
+      "correct": [
+        "has got"
+      ],
+      "wrong": [
+        "is",
+        "have got"
+      ]
+    },
+    {
+      "question": "You _____ very tall.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "is",
+        "have got"
+      ]
+    },
+    {
+      "question": "My brother _____ blue eyes.",
+      "correct": [
+        "has got"
+      ],
+      "wrong": [
+        "is",
+        "have got"
+      ]
+    },
+    {
+      "question": "The books _____ on the table.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "is",
+        "have got"
+      ]
+    },
+    {
+      "question": "I _____ a big family.",
+      "correct": [
+        "have got"
+      ],
+      "wrong": [
+        "is",
+        "has got"
+      ]
+    },
+    {
+      "question": "The dog _____ hungry.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are",
+        "has got"
+      ]
+    }
+  ]
+}
