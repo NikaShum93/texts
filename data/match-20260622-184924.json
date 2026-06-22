@@ -1,0 +1,429 @@
+{
+  "language": "en",
+  "font": "Orbitron",
+  "bg": "",
+  "sounds": {
+    "correct": "https://nikashum93.github.io/match/correct.mp3",
+    "wrong": "https://nikashum93.github.io/match/wrong.mp3",
+    "win": "https://nikashum93.github.io/match/win.mp3"
+  },
+  "style": {
+    "animHover": "glitch",
+    "animClick": "glow",
+    "effMatch": "fireworks",
+    "effMismatch": "shake",
+    "effMismatchEmoji": "💩",
+    "glowColor": "#77ff2e",
+    "idle": {
+      "target": "right",
+      "anim": "none",
+      "glowEnabled": true,
+      "glow": "#dceae7",
+      "sparksEnabled": true,
+      "sparks": "#11ff00"
+    },
+    "matchedOpacity": 1,
+    "left": {
+      "bgColor": "#000000",
+      "bgOpacity": 0.65,
+      "borderColor": "#ffffff",
+      "borderWidth": 2,
+      "textColor": "#ffffff"
+    },
+    "right": {
+      "bgColor": "#000000",
+      "bgOpacity": 0,
+      "borderColor": "#ffffff",
+      "borderWidth": 0,
+      "textColor": "#ffffff"
+    },
+    "tooltip": {
+      "bg": "#000000",
+      "color": "#ffffff",
+      "glow": "#4dff58",
+      "radius": 8
+    },
+    "line": {
+      "enabled": true,
+      "color": "#d1ffd4",
+      "thickness": 1,
+      "style": "rope",
+      "emoji": "🟢"
+    },
+    "dot": {
+      "color": "#eaffdb",
+      "size": 10,
+      "style": "glow"
+    }
+  },
+  "feedback": {
+    "mode": "text",
+    "sparks": true,
+    "transparentBg": true,
+    "fbTextGlow": true,
+    "imgGlow": false,
+    "text": "You Passed",
+    "font": "Orbitron",
+    "fontSize": 38,
+    "textColor": "#ffffff",
+    "bgColor": "#0a0a0f",
+    "borderColor": "#62ff42",
+    "borderWidth": 2,
+    "radius": 16,
+    "glowColor": "#62ff42",
+    "shadow": "#000000",
+    "blur": 0,
+    "anim": "popUp",
+    "img": "",
+    "imgX": -360,
+    "imgY": 43,
+    "imgW": 320,
+    "imgH": 240,
+    "txtX": 431,
+    "txtY": 628,
+    "txtW": 399,
+    "txtH": 70
+  },
+  "items": [
+    {
+      "id": "L0",
+      "side": "left",
+      "pairIndex": 0,
+      "text": "",
+      "img": "",
+      "x": 479,
+      "y": 116,
+      "w": 60,
+      "h": 41,
+      "rot": 0,
+      "fontSize": 18,
+      "tooltip": {
+        "text": "1",
+        "img": ""
+      }
+    },
+    {
+      "id": "R0",
+      "side": "right",
+      "pairIndex": 0,
+      "text": "Brain",
+      "img": "",
+      "x": 98,
+      "y": 246,
+      "w": 144,
+      "h": 53,
+      "rot": 0,
+      "fontSize": 18,
+      "tooltip": {
+        "text": "",
+        "img": ""
+      }
+    },
+    {
+      "id": "L1",
+      "side": "left",
+      "pairIndex": 1,
+      "text": "",
+      "img": "",
+      "x": 492,
+      "y": 302,
+      "w": 60,
+      "h": 33,
+      "rot": 0,
+      "fontSize": 18,
+      "tooltip": {
+        "text": "2",
+        "img": ""
+      }
+    },
+    {
+      "id": "R1",
+      "side": "right",
+      "pairIndex": 1,
+      "text": "Lungs",
+      "img": "",
+      "x": 627,
+      "y": 73,
+      "w": 146,
+      "h": 61,
+      "rot": 0,
+      "fontSize": 18,
+      "tooltip": {
+        "text": "",
+        "img": ""
+      }
+    },
+    {
+      "id": "L2",
+      "side": "left",
+      "pairIndex": 2,
+      "text": "",
+      "img": "",
+      "x": 543,
+      "y": 261,
+      "w": 60,
+      "h": 41,
+      "rot": 0,
+      "fontSize": 18,
+      "tooltip": {
+        "text": "3",
+        "img": ""
+      }
+    },
+    {
+      "id": "R2",
+      "side": "right",
+      "pairIndex": 2,
+      "text": "Heart",
+      "img": "",
+      "x": 290,
+      "y": 45,
+      "w": 146,
+      "h": 54,
+      "rot": 0,
+      "fontSize": 18,
+      "tooltip": {
+        "text": "",
+        "img": ""
+      }
+    },
+    {
+      "id": "L3",
+      "side": "left",
+      "pairIndex": 3,
+      "text": "",
+      "img": "",
+      "x": 580,
+      "y": 309,
+      "w": 60,
+      "h": 48,
+      "rot": 0,
+      "fontSize": 18,
+      "tooltip": {
+        "text": "4",
+        "img": ""
+      }
+    },
+    {
+      "id": "R3",
+      "side": "right",
+      "pairIndex": 3,
+      "text": "Liver",
+      "img": "",
+      "x": 235,
+      "y": 379,
+      "w": 141,
+      "h": 60,
+      "rot": 0,
+      "fontSize": 18,
+      "tooltip": {
+        "text": "",
+        "img": ""
+      }
+    },
+    {
+      "id": "L4",
+      "side": "left",
+      "pairIndex": 4,
+      "text": "",
+      "img": "",
+      "x": 639,
+      "y": 254,
+      "w": 60,
+      "h": 46,
+      "rot": 0,
+      "fontSize": 15,
+      "tooltip": {
+        "text": "5",
+        "img": ""
+      }
+    },
+    {
+      "id": "R4",
+      "side": "right",
+      "pairIndex": 4,
+      "text": "Stomach",
+      "img": "",
+      "x": 402,
+      "y": 467,
+      "w": 145,
+      "h": 60,
+      "rot": 0,
+      "fontSize": 18,
+      "tooltip": {
+        "text": "",
+        "img": ""
+      }
+    },
+    {
+      "id": "L5",
+      "side": "left",
+      "pairIndex": 5,
+      "text": "",
+      "img": "",
+      "x": 674,
+      "y": 259,
+      "w": 60,
+      "h": 48,
+      "rot": 0,
+      "fontSize": 18,
+      "tooltip": {
+        "text": "6",
+        "img": ""
+      }
+    },
+    {
+      "id": "R5",
+      "side": "right",
+      "pairIndex": 5,
+      "text": "Pancreas",
+      "img": "",
+      "x": 870,
+      "y": 167,
+      "w": 154,
+      "h": 64,
+      "rot": 0,
+      "fontSize": 18,
+      "tooltip": {
+        "text": "",
+        "img": ""
+      }
+    },
+    {
+      "id": "L6",
+      "side": "left",
+      "pairIndex": 6,
+      "text": "",
+      "img": "",
+      "x": 625,
+      "y": 368,
+      "w": 60,
+      "h": 47,
+      "rot": 0,
+      "fontSize": 18,
+      "tooltip": {
+        "text": "7",
+        "img": ""
+      }
+    },
+    {
+      "id": "R6",
+      "side": "right",
+      "pairIndex": 6,
+      "text": "Kidneys",
+      "img": "",
+      "x": 66,
+      "y": 106,
+      "w": 149,
+      "h": 57,
+      "rot": 0,
+      "fontSize": 18,
+      "tooltip": {
+        "text": "",
+        "img": ""
+      }
+    },
+    {
+      "id": "L7",
+      "side": "left",
+      "pairIndex": 7,
+      "text": "",
+      "img": "",
+      "x": 756,
+      "y": 326,
+      "w": 60,
+      "h": 49,
+      "rot": 0,
+      "fontSize": 18,
+      "tooltip": {
+        "text": "8",
+        "img": ""
+      }
+    },
+    {
+      "id": "R7",
+      "side": "right",
+      "pairIndex": 7,
+      "text": "Small intestine",
+      "img": "",
+      "x": 834,
+      "y": 443,
+      "w": 166,
+      "h": 79,
+      "rot": 0,
+      "fontSize": 18,
+      "tooltip": {
+        "text": "",
+        "img": ""
+      }
+    },
+    {
+      "id": "L8",
+      "side": "left",
+      "pairIndex": 8,
+      "text": "",
+      "img": "",
+      "x": 688,
+      "y": 312,
+      "w": 60,
+      "h": 49,
+      "rot": 0,
+      "fontSize": 18,
+      "tooltip": {
+        "text": "9",
+        "img": ""
+      }
+    },
+    {
+      "id": "R8",
+      "side": "right",
+      "pairIndex": 8,
+      "text": "Large intestine",
+      "img": "",
+      "x": 982,
+      "y": 279,
+      "w": 171,
+      "h": 68,
+      "rot": 0,
+      "fontSize": 18,
+      "tooltip": {
+        "text": "",
+        "img": ""
+      }
+    },
+    {
+      "id": "L9",
+      "side": "left",
+      "pairIndex": 9,
+      "text": "",
+      "img": "",
+      "x": 827,
+      "y": 353,
+      "w": 60,
+      "h": 52,
+      "rot": 0,
+      "fontSize": 18,
+      "tooltip": {
+        "text": "10",
+        "img": ""
+      }
+    },
+    {
+      "id": "R9",
+      "side": "right",
+      "pairIndex": 9,
+      "text": "Bladder",
+      "img": "",
+      "x": 593,
+      "y": 519,
+      "w": 135,
+      "h": 61,
+      "rot": 0,
+      "fontSize": 18,
+      "tooltip": {
+        "text": "",
+        "img": ""
+      }
+    }
+  ]
+}
