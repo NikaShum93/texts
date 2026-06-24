@@ -1,0 +1,50 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 22,
+  "textColor": "#ffffff",
+  "speed": 4,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 0,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 0,
+    "imgBox": 190
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Russian symbols",
+    "btnText": "START"
+  },
+  "direction": "down",
+  "finalFeedback": "WOW!",
+  "levels": [
+    {
+      "target": "Russian symbols",
+      "correct": [
+        "https://img.genially.com/637bb87ab2e4e40012fe8d4a/b79330db-fdaf-4d74-ae4c-41790a3a35db.png",
+        "https://img.genially.com/637bb87ab2e4e40012fe8d4a/10eb89d5-6ed3-44c3-82e6-2da08992dff8.png",
+        "https://img.genially.com/637bb87ab2e4e40012fe8d4a/ff1b04b9-5301-4b40-ad5b-64fe49f201af.png",
+        "https://img.genially.com/637bb87ab2e4e40012fe8d4a/9115d652-4235-4476-8c78-c651fc842621.png",
+        "https://img.genially.com/637bb87ab2e4e40012fe8d4a/35b5d899-56d2-401b-8f9e-52448c3dcd0e.png",
+        "https://img.genially.com/637bb87ab2e4e40012fe8d4a/99321130-5296-4857-b281-c10fb9340185.png",
+        "https://img.genially.com/637bb87ab2e4e40012fe8d4a/bcaabc6a-ce1d-4471-9bbd-707424954ab7.png"
+      ],
+      "wrong": [
+        "https://img.genially.com/637bb87ab2e4e40012fe8d4a/3b04c6bf-1f39-4c75-805a-9919904f54f0.png",
+        "https://img.genially.com/637bb87ab2e4e40012fe8d4a/569e732f-6e32-449b-b1ea-401a2544d1a4.png",
+        "https://img.genially.com/637bb87ab2e4e40012fe8d4a/78317747-d49e-495e-b499-d6dd3f74fe86.png"
+      ],
+      "timer": 30
+    }
+  ]
+}
