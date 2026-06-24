@@ -1,0 +1,133 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Patrick Hand",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 102,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/zDt6mTSg/t.png",
+    "bubbleSize": 102,
+    "task": {
+      "bgColor": "rgba(225,63,9,1)",
+      "borderColor": "#ff7b00",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 350
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 3,
+  "tasks": [
+    {
+      "question": "Russia is",
+      "correct": [
+        "a country"
+      ],
+      "wrong": [
+        "a city",
+        "a river"
+      ]
+    },
+    {
+      "question": "The capital of Russia is",
+      "correct": [
+        "Moscow"
+      ],
+      "wrong": [
+        "Kazan",
+        "Omsk"
+      ]
+    },
+    {
+      "question": "People in Russia speak",
+      "correct": [
+        "Russian"
+      ],
+      "wrong": [
+        "English",
+        "Spanish"
+      ]
+    },
+    {
+      "question": "Birch is",
+      "correct": [
+        "a tree"
+      ],
+      "wrong": [
+        "a river",
+        "an animal"
+      ]
+    },
+    {
+      "question": "Borscht is",
+      "correct": [
+        "a soup"
+      ],
+      "wrong": [
+        "a city",
+        "a doll"
+      ]
+    },
+    {
+      "question": "Matryoshka is",
+      "correct": [
+        "a toy doll"
+      ],
+      "wrong": [
+        "a soldier",
+        "a ball"
+      ]
+    },
+    {
+      "question": "Lake Baikal is very",
+      "correct": [
+        "cold and deep"
+      ],
+      "wrong": [
+        "hot",
+        "small"
+      ]
+    },
+    {
+      "question": "Bears live in",
+      "correct": [
+        "forests"
+      ],
+      "wrong": [
+        "deserts",
+        "lakes"
+      ]
+    },
+    {
+      "question": "A flag has",
+      "correct": [
+        "3 colours"
+      ],
+      "wrong": [
+        "1 colour",
+        "2 colours"
+      ]
+    }
+  ]
+}
