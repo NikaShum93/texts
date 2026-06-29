@@ -1,0 +1,100 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Patrick Hand",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 136,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/637bb87ab2e4e40012fe8d4a/2468f8d7-f560-428a-9fbe-2a3009a279bf.png",
+    "bubbleSize": 136,
+    "task": {
+      "bgColor": "rgba(255,5,5,1)",
+      "borderColor": "#1e00ff",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#1036f4",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 350
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 3,
+  "tasks": [
+    {
+      "question": "IRCHB",
+      "correct": [
+        "BIRCH"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "USSIRA",
+      "correct": [
+        "RUSSIA"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "OSMCOW",
+      "correct": [
+        "MOSCOW"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "ORSHTB",
+      "correct": [
+        "BORSCHT"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "BLALAKAI",
+      "correct": [
+        "BALALAIKA"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "AMOVARS",
+      "correct": [
+        "SAMOVAR"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
