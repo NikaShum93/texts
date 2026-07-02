@@ -1,0 +1,98 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 112,
+  "sounds": {
+    "pop": "https://github.com/polyaalina/zvuky/raw/refs/heads/main/3eed6e48c3dcf7a.mp3",
+    "open": "https://github.com/polyaalina/aero/raw/refs/heads/main/airport-bell.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://static.klipy.com/ii/40e5f3c9157feea5d28a6b4ad3880d85/1b/52/6wlPySnt.gif",
+    "bubbleSize": 112,
+    "task": {
+      "bgColor": "rgba(255,215,0,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#0c0303",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#d2c74b",
+      "textColor": "#ffd700",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 440
+    }
+  },
+  "finalFeedback": "🎉 Very Well Done!",
+  "feedbackImage": "https://static.klipy.com/ii/c98c4a4935d23b95805f0befee091d8a/18/66/6gjZduXA.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Сумма смежных углов равна...",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Вертикальные углы...",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Две пересекающиеся прямые называются перпендикулярными, если они образуют...",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Верно ли, что смежные углы всегда равны?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Верно ли, что если угол острый, то смежный с ним угол тупой?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Верно ли, что если два угла смежные, то один из них больше другого?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Верно ли, что если угол прямой, то смежный и вертикальный с ним углы тоже прямые?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Верно ли, что если углы равны, то они вертикальные?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Верно ли, что у каждого треугольника три угла?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Верно ли, что у любого треугольника три стороны?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Верно ли, что у треугольника четыре вершины?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
