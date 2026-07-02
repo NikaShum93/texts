@@ -1,0 +1,143 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Baloo 2",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/628e14e6dac8e90018d119b5/df903bbc-f91e-4b54-9e28-56124f269ae3.png",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "If I have time after school, I",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "If you mix red and blue,",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "If it rains tomorrow, we",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "If I were a professional football player, I",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "If people don’t drink enough water, they",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "If I won a million dollars, I",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "If you heat ice, it",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "If I see my friend today, I",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "If I were you, I",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "If the team trains harder, they",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "If I don’t do my homework, my teacher",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "If I lived in Spain, I",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "If you press this button, the machine",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "If I feel tired tonight, I",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "If she studies more, she",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "If I were invisible, I",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "If you don’t eat breakfast, you",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "If the sun is shining, we",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "If I had more free time, I",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "If he doesn’t hurry, he",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
