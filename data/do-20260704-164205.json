@@ -1,0 +1,143 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Roboto",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 90,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/687fbb7ea3b7ac001485e6a1/bbd780a2-0424-4a2b-b7ca-198255f1faab.png",
+    "bubbleSize": 90,
+    "task": {
+      "bgColor": "rgba(136,103,87,1)",
+      "borderColor": "#654839",
+      "textColor": "#ffffff",
+      "fontSize": 26,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#603924",
+      "borderColor": "#dfb29a",
+      "textColor": "#ffffff",
+      "fontSize": 26,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "do",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "be",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "go",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "swim",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "eat",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "drink",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "write",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "read",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "sleep",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "sit",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "run",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "cook",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "watch",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "dance",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "wash",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "walk",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "look",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "jump",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "kick",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "listen",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
