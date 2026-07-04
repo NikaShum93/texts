@@ -1,0 +1,120 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 90,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/64233afb55129a0017751c8e/10547ae5-865e-4c0d-b700-20ea72aff067.png",
+    "bubbleSize": 90,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 40,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 40,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "УРА!!!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "12 : 6",
+      "correct": [
+        "2"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "18 : 3",
+      "correct": [
+        "6"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "24 : 6",
+      "correct": [
+        "4"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "30 : 5",
+      "correct": [
+        "6"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "36 : 6",
+      "correct": [
+        "6"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "42 : 7",
+      "correct": [
+        "6"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "48 : 6",
+      "correct": [
+        "8"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "54 : 9",
+      "correct": [
+        "6"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "60 : 6",
+      "correct": [
+        "10"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "24 : 8",
+      "correct": [
+        "3"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "25 : 5",
+      "correct": [
+        "5"
+      ],
+      "wrong": []
+    }
+  ]
+}
