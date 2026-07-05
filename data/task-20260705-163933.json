@@ -1,0 +1,168 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://static.klipy.com/ii/40e5f3c9157feea5d28a6b4ad3880d85/1b/52/6wlPySnt.gif",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://static.klipy.com/ii/c98c4a4935d23b95805f0befee091d8a/18/66/6gjZduXA.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "ма-ши-на",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ко-ро-ва",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "со-ба-ка",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "мо-ло-ко",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ра-бо-та",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "га-зе-та",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ко-роб-ка",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "лам-по-чка",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ло-шад-ка",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "де-воч-ка",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "де-душ-ка",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ба-буш-ка",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ку-ри-ца",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "бе-лоч-ка",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ли-сич-ка",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ко-тё-нок",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "са-мо-лёт",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "па-ро-ход",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ав-то-бус",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "мо-то-цикл",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "кро-ко-дил",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ди-но-завр",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ко-ляс-ка",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "та-рел-ка",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ка-пус-та",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
