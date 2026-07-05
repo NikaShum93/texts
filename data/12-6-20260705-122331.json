@@ -1,0 +1,106 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 90,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/68506cfe69e4630015477fe1/828202b8-2a3e-47fe-bab6-e9e89bd996d7.png",
+    "bubbleSize": 90,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 30,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 30,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "Ура! Поздравляю!",
+  "feedbackImage": "https://img.genially.com/6638d375756d4e001f0716c8/b77089e1-f551-43ee-9b43-0c2b98a067c6.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Симка собрала 12 батареек и разложила их поровну в 6 коробочек. Сколько батареек оказалось в каждой коробочке?",
+      "correct": [
+        "2"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Нолик нашёл 18 винтиков и разложил их в 6 одинаковых пакетиков. Сколько винтиков в каждом пакетике?",
+      "correct": [
+        "3"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Мася испекла 24 печенья и разложила их на 4 тарелки поровну. Сколько печений на каждой тарелке?",
+      "correct": [
+        "6"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Файер подготовил 30 деталей и разложил их в 5 ящиков поровну. Сколько деталей в каждом ящике?",
+      "correct": [
+        "6"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Верта собрала 36 проводов и разделила их между 6 фиксиками поровну. Сколько проводов получил каждый?",
+      "correct": [
+        "6"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Папус проверил 42 прибора за несколько дней. Каждый день он проверял по 6 приборов. Сколько дней работал Папус?",
+      "correct": [
+        "7"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Дедус приготовил 48 гаек и разложил их по 6 штук в каждый набор. Сколько наборов получилось?",
+      "correct": [
+        "8"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Шпуля сделала 54 бусинки и нанизывала по 9 бусинок на каждый браслет. Сколько браслетов получилось?",
+      "correct": [
+        "6"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Симка и Нолик собрали 30 лампочек и разложили их в 6 коробок поровну. Сколько лампочек оказалось в каждой коробке?",
+      "correct": [
+        "5"
+      ],
+      "wrong": []
+    }
+  ]
+}
