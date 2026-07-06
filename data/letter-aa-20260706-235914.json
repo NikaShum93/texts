@@ -1,0 +1,90 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 40,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.yapx.ru/d7JUK.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 260
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "I am hungry! Я голодна!",
+    "btnText": "Начать!"
+  },
+  "direction": "down",
+  "finalFeedback": "Спасибо! Было вкусно!  Thank you! It was delicious!",
+  "levels": [
+    {
+      "target": "Letter Aa",
+      "correct": [
+        "a",
+        "A",
+        "a",
+        "A",
+        "a",
+        "A",
+        "a",
+        "A",
+        "a",
+        "A",
+        "a",
+        "A",
+        "a",
+        "A",
+        "a",
+        "A",
+        "a",
+        "A",
+        "a",
+        "A",
+        "a",
+        "A",
+        "a",
+        "A"
+      ],
+      "wrong": [
+        "b",
+        "B",
+        "c",
+        "C",
+        "D",
+        "d",
+        "F",
+        "f",
+        "G",
+        "g",
+        "Q",
+        "q",
+        "W",
+        "w",
+        "E",
+        "e",
+        "T",
+        "t",
+        "H",
+        "k",
+        "n",
+        "x",
+        "o",
+        "l"
+      ],
+      "timer": 30
+    }
+  ]
+}
