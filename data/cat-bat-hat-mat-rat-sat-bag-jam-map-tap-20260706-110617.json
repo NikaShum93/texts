@@ -1,0 +1,93 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Comfortaa",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 130,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://static.klipy.com/ii/4bbcf901ea0d5dec489bd8c608d7f1fd/e8/93/zAFW7JQpNfWwqQhjI.gif",
+    "bubbleSize": 130,
+    "task": {
+      "bgColor": "rgba(255,249,77,1)",
+      "borderColor": "#ffdd00",
+      "textColor": "#080808",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#d6f82a",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "cat, bat, hat, mat, rat, sat, bag, jam, map, tap",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "can, fan, man, pan, van, cap, ham, lap, pad, wag",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "bed, red, fed, pen, hen, ten, leg, web, jet, net",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "pet, wet, get, met, bell, sell, tell, beg, den, men",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "big, dig, fig, pig, pin, fin, win, sit, hit, lip",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "kit, bit, fit, six, mix, fix, rim, lid, dip, rip",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "dog, log, fog, hot, pot, cot, mop, top, box, fox",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "hop, pop, rock, sock, doll, nod, job, rod, mom, cob",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "sun, fun, run, bun, cup, pup, bug, rug, mud, bus",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "nut, cut, hut, gum, jug, duck, luck, tub, bud, mud",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
