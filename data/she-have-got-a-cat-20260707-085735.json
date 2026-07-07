@@ -1,0 +1,83 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 116,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/RhLXdNgL/2.png",
+    "bubbleSize": 116,
+    "task": {
+      "bgColor": "rgba(67,133,120,0.85)",
+      "borderColor": "#48dab9",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#438578",
+      "borderColor": "#48dab9",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "Awesome!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "She have got a cat.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We has got a new teacher.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "He have not got a watch.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Have she got a sister?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They has got a big garden.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I has got a cold.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Has you got a minute?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My brother have got a wife.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
