@@ -1,0 +1,83 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/8cmt4jZ4/3.png",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(125,33,31,0.85)",
+      "borderColor": "#d43c2b",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#7d211f",
+      "borderColor": "#d43c2b",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "he / a car?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "they / any children?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "your phone / a camera?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "we / enough food?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "she / a dictionary?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "the students / their books?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I / your pen?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "your parents / a new house?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
