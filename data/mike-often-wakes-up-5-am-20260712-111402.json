@@ -1,0 +1,133 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 122,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/c63d8ef7-e900-4011-9a7c-cc637fad257a.png",
+    "bubbleSize": 122,
+    "task": {
+      "bgColor": "rgba(255,181,77,0.85)",
+      "borderColor": "#ff7300",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#ffb54d",
+      "borderColor": "#ff7300",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 3,
+  "tasks": [
+    {
+      "question": "Mike often wakes up ____ 5 am.",
+      "correct": [
+        "at"
+      ],
+      "wrong": [
+        "in",
+        "on"
+      ]
+    },
+    {
+      "question": "Ghosts visit this old house ___ midnight.",
+      "correct": [
+        "at"
+      ],
+      "wrong": [
+        "in",
+        "on"
+      ]
+    },
+    {
+      "question": "I sleep longer ___ Saturdays.",
+      "correct": [
+        "on"
+      ],
+      "wrong": [
+        "in",
+        "at"
+      ]
+    },
+    {
+      "question": "Victory Day in Russia is ___ 9th May.",
+      "correct": [
+        "on"
+      ],
+      "wrong": [
+        "in",
+        "at"
+      ]
+    },
+    {
+      "question": "What do you usually do ___ the weekend?",
+      "correct": [
+        "at"
+      ],
+      "wrong": [
+        "in",
+        "on"
+      ]
+    },
+    {
+      "question": "She goes to a doctor ___ Tuesdays.",
+      "correct": [
+        "on"
+      ],
+      "wrong": [
+        "in",
+        "at"
+      ]
+    },
+    {
+      "question": "Sue works a lot ___ weekdays.",
+      "correct": [
+        "on"
+      ],
+      "wrong": [
+        "in",
+        "at"
+      ]
+    },
+    {
+      "question": "Hurry up! The film starts ___ 10 minutes.",
+      "correct": [
+        "in"
+      ],
+      "wrong": [
+        "on",
+        "at"
+      ]
+    },
+    {
+      "question": "Matt was born ___ March.",
+      "correct": [
+        "in"
+      ],
+      "wrong": [
+        "on",
+        "at"
+      ]
+    }
+  ]
+}
