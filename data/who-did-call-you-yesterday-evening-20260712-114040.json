@@ -1,0 +1,93 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 122,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/c63d8ef7-e900-4011-9a7c-cc637fad257a.png",
+    "bubbleSize": 122,
+    "task": {
+      "bgColor": "rgba(255,181,77,0.85)",
+      "borderColor": "#ff7300",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#ffb54d",
+      "borderColor": "#ff7300",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 3,
+  "tasks": [
+    {
+      "question": "Who did call you yesterday evening?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What did she bought at the shopping mall?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Where you did go on your last holiday?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "When did they arrived at the hotel?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Who did write this amazing song?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What did happened to your mobile phone?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Why did he took my pen without asking?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "How did she feeled after the long journey?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Where did your friends went for lunch?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Who did tell you about the surprise party?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
