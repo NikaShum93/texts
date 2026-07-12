@@ -1,0 +1,113 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 132,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/03b53a29-5c95-4760-b8f3-9423fbd1156c.png",
+    "bubbleSize": 132,
+    "task": {
+      "bgColor": "rgba(219,6,141,0.85)",
+      "borderColor": "#ff85d2",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#db298d",
+      "borderColor": "#ff85d2",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "A cat is (small) than a dog.",
+      "correct": [
+        "smaller"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "My house is (big) than your house.",
+      "correct": [
+        "bigger"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "A car is (fast) than a bike.",
+      "correct": [
+        "faster"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Today is (hot) than yesterday.",
+      "correct": [
+        "hotter"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "This book is (easy) than that one.",
+      "correct": [
+        "easier"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Elephants are (heavy) than horses.",
+      "correct": [
+        "heavier"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "My hair is (long) than my sister's hair.",
+      "correct": [
+        "longer"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "A lion is (strong) than a person.",
+      "correct": [
+        "stronger"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The film is (good) than the book.",
+      "correct": [
+        "better"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The weather today is (bad) than the weather yesterday.",
+      "correct": [
+        "worse"
+      ],
+      "wrong": []
+    }
+  ]
+}
