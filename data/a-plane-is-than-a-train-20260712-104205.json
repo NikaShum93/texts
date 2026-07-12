@@ -1,0 +1,133 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 132,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/72529b24-47d1-477d-88b8-02de25fabaad.png",
+    "bubbleSize": 132,
+    "task": {
+      "bgColor": "rgba(255,164,36,0.85)",
+      "borderColor": "#ff9785",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#ffa424",
+      "borderColor": "#ff9785",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 2,
+  "tasks": [
+    {
+      "question": "A plane is ______ than a train.",
+      "correct": [
+        "faster"
+      ],
+      "wrong": [
+        "more fast"
+      ]
+    },
+    {
+      "question": "Winter is ______ than summer.",
+      "correct": [
+        "colder"
+      ],
+      "wrong": [
+        "cold"
+      ]
+    },
+    {
+      "question": "My brother is ______ than me.",
+      "correct": [
+        "taller"
+      ],
+      "wrong": [
+        "tallest"
+      ]
+    },
+    {
+      "question": "This test is ______ than the last one.",
+      "correct": [
+        "easier"
+      ],
+      "wrong": [
+        "easiest"
+      ]
+    },
+    {
+      "question": "Apples are ______ than oranges.",
+      "correct": [
+        "sweeter"
+      ],
+      "wrong": [
+        "more sweeter"
+      ]
+    },
+    {
+      "question": "The sun is ______ than the moon.",
+      "correct": [
+        "bigger"
+      ],
+      "wrong": [
+        "more big"
+      ]
+    },
+    {
+      "question": "Walking is ______ than running.",
+      "correct": [
+        "slower"
+      ],
+      "wrong": [
+        "slowest"
+      ]
+    },
+    {
+      "question": "The first exercise is ______ than the second exercise.",
+      "correct": [
+        "shorter"
+      ],
+      "wrong": [
+        "shortest"
+      ]
+    },
+    {
+      "question": "A diamond is ______ than a stone.",
+      "correct": [
+        "harder"
+      ],
+      "wrong": [
+        "more harder"
+      ]
+    },
+    {
+      "question": "I am ______ than my father.",
+      "correct": [
+        "younger"
+      ],
+      "wrong": [
+        "more young"
+      ]
+    }
+  ]
+}
