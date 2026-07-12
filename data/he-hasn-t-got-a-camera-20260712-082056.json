@@ -1,0 +1,93 @@
+{
+  "language": "es",
+  "lang": "es",
+  "font": "Poppins",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": true,
+  "bubbleSize": 130,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/6b2a4cb7-001c-4fc1-bbbf-beb1e5446ff1.png",
+    "bubbleSize": 130,
+    "task": {
+      "bgColor": "rgba(79,172,254,0.85)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#4facfe",
+      "borderColor": "#02f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 2,
+  "tasks": [
+    {
+      "question": "He hasn't got a camera.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Have they got two dogs?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We haven't got a big garden.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Has she got a new watch?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I haven't got a ruler.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She has got a kite.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Has Tom got a bike?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They haven't got a cat.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Have you got a pencil?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We haven't got any balloons.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
