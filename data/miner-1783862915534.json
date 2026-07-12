@@ -1,0 +1,192 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/65ca81292d14b0001ebfb2fe/4fa676c9-63d7-49f1-a7d5-ca379372adca.png",
+    "win": "Now you are not hungry!",
+    "start": "CATCH BURGERS",
+    "again": "Catch more burgers!",
+    "btnSize": 5,
+    "btnY": 79,
+    "btnAnim": "pulse"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://img.genially.com/65ca81292d14b0001ebfb2fe/e28f27ec-f54e-456f-871c-35441f8ef5c5.png",
+    "hook": "hook.png",
+    "targets": [
+      "https://img.genially.com/65ca81292d14b0001ebfb2fe/9412f9a4-9cad-46cf-820c-22caf7703080.png",
+      "https://img.genially.com/65ca81292d14b0001ebfb2fe/9cd9fd5d-cef1-47cd-897e-14a4f5fbaa79.png",
+      "https://img.genially.com/65ca81292d14b0001ebfb2fe/ed3c0db8-3456-469a-a895-03472aa16c5b.png",
+      "https://img.genially.com/65ca81292d14b0001ebfb2fe/e02d7752-7120-4e1d-9276-0629bebb2764.png"
+    ],
+    "targetSize": 61,
+    "ropeColor": "#7f8c8d",
+    "heroSize": 96,
+    "heroX": 30,
+    "hookSize": 39,
+    "hookOffsetY": 0,
+    "fontFamily": "Nunito",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#00ffcc",
+    "qBorder": "both",
+    "qTextGlow": true,
+    "qSize": 3,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#00ffcc",
+    "tBorder": "solid",
+    "tTextGlow": true,
+    "tSize": 13,
+    "hudColor": "#ffffff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#00ffcc",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#e74c3c",
+    "btnGlow": "#c0392b",
+    "btnBorder": "both",
+    "btnTextGlow": true
+  },
+  "gameplay": {
+    "hookSpeed": 10,
+    "swingSpeed": 0.035,
+    "targetSpeed": 1
+  },
+  "tasks": [
+    {
+      "q": "I think people ________ (travel) to Mars on holiday one day.",
+      "correct": [
+        "will travel"
+      ],
+      "wrong": [
+        "are going to travel",
+        "travel",
+        "are travelling"
+      ]
+    },
+    {
+      "q": "Oh, it's raining! I ________ (take) a taxi to the airport.",
+      "correct": [
+        "'ll take"
+      ],
+      "wrong": [
+        "am taking",
+        "take",
+        "am going to take"
+      ]
+    },
+    {
+      "q": "Look at those dark clouds! It ________ (rain) soon.",
+      "correct": [
+        "is going to rain"
+      ],
+      "wrong": [
+        "will rain",
+        "rains",
+        "is raining"
+      ]
+    },
+    {
+      "q": "We ________ (fly) to Japan next spring. We've already bought the tickets.",
+      "correct": [
+        "are flying"
+      ],
+      "wrong": [
+        "will fly",
+        "are going to fly",
+        "fly"
+      ]
+    },
+    {
+      "q": "Our train ________ (leave) at 8:45 tomorrow morning.",
+      "correct": [
+        "leaves"
+      ],
+      "wrong": [
+        "will leave",
+        "is leaving",
+        "leave"
+      ]
+    },
+    {
+      "q": "This time next week we ________ (visit) the Eiffel Tower, so don't call us!",
+      "correct": [
+        "will be visiting"
+      ],
+      "wrong": [
+        "will visit",
+        "are visiting",
+        "visit"
+      ]
+    },
+    {
+      "q": "By the end of this year, they ________ (visit) 15 different countries.",
+      "correct": [
+        "will have visited"
+      ],
+      "wrong": [
+        "have visited",
+        "will visit",
+        "will have been visiting"
+      ]
+    },
+    {
+      "q": "By next July, Sarah ________ (travel) around South America for six months.",
+      "correct": [
+        "will have been travelling"
+      ],
+      "wrong": [
+        "will travel",
+        "has been travelling",
+        "travels"
+      ]
+    },
+    {
+      "q": "I can't carry this suitcase. – Don't worry, I ________ (help) you.",
+      "correct": [
+        "'ll help"
+      ],
+      "wrong": [
+        "am helping",
+        "help",
+        "am going to help"
+      ]
+    },
+    {
+      "q": "The plane ________ (land) at 6:20 according to the schedule.",
+      "correct": [
+        "lands"
+      ],
+      "wrong": [
+        "will land",
+        "is landing",
+        "land"
+      ]
+    },
+    {
+      "q": "They've saved enough money. They ________ (go) on a world cruise next year.",
+      "correct": [
+        "are going to go"
+      ],
+      "wrong": [
+        "will go",
+        "go",
+        "are going"
+      ]
+    },
+    {
+      "q": "I'm sure you ________ (love) your trip to New Zealand.",
+      "correct": [
+        "will love"
+      ],
+      "wrong": [
+        "are going to love",
+        "love",
+        "are loving"
+      ]
+    }
+  ]
+}
