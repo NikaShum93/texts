@@ -1,0 +1,89 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 40,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.yapx.ru/d8yAZ.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 240
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Поймай шарик!",
+    "btnText": "Начать!"
+  },
+  "direction": "up",
+  "finalFeedback": "Ты - молодец!",
+  "levels": [
+    {
+      "target": "Letter Cc",
+      "correct": [
+        "c",
+        "C",
+        "c",
+        "C",
+        "c",
+        "C",
+        "C",
+        "c",
+        "C",
+        "c",
+        "C",
+        "c",
+        "C",
+        "c",
+        "C",
+        "c",
+        "C",
+        "c",
+        "C",
+        "c",
+        "C",
+        "c",
+        "C"
+      ],
+      "wrong": [
+        "a",
+        "A",
+        "F",
+        "f",
+        "D",
+        "d",
+        "F",
+        "f",
+        "G",
+        "g",
+        "Q",
+        "q",
+        "W",
+        "w",
+        "E",
+        "e",
+        "T",
+        "t",
+        "H",
+        "k",
+        "n",
+        "x",
+        "o",
+        "l"
+      ],
+      "timer": 30
+    }
+  ]
+}
