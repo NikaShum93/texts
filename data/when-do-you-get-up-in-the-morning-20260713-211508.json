@@ -1,0 +1,73 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/x1kMX27p/Bez-nazvania-(1280-x-960-piks-)-(1).png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "When do you get up in the morning?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What do you have for breakfast?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Where is your mummy now?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What are you doing now?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What is your mummy doing now?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What is your hobby?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
