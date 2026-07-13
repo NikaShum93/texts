@@ -1,0 +1,83 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Montserrat",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": true,
+  "bubbleSize": 72,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://github.com/dumushi435-byte/-/raw/refs/heads/main/uraa.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://static.klipy.com/ii/a5166a66b33e26d783bf95ac62ea3cdb/d3/02/ABvUAAwe.gif",
+    "bubbleSize": 72,
+    "task": {
+      "bgColor": "rgba(79,172,254,0.8)",
+      "borderColor": "#fff700",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#a3a3c7",
+      "borderColor": "#4e4cb8",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 270
+    }
+  },
+  "finalFeedback": "🎉 Молодец!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "У Ромы шар",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "У нас рос мак",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Мышка рыла норку",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "У Насти кукла",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Саша стоит около дома",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Маша налила коту молоко",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Мама пилит дерево",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Мама варит суп",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
