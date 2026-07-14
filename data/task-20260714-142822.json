@@ -1,0 +1,133 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/62728927e0105b0018763bee/0be9b48d-83a6-4b54-988d-0a04703dfba0.png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 480
+    }
+  },
+  "finalFeedback": "Отлично! Все билеты у нас! Можем ехать дальше.",
+  "feedbackImage": "https://img.genially.com/62728927e0105b0018763bee/0be9b48d-83a6-4b54-988d-0a04703dfba0.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "смеёт_ся",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "смеят_ся",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "бреет_ся",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "брит_ся",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Ш_пот",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ш_рох",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ч_рный",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ключ_к",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "замоч_к",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "задач_й",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "врач_м",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "птиц_й",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ц_рк",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ц_плёнок",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "акац_я",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Жёс_кий",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "чудес_ный",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "звёз_ный",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
