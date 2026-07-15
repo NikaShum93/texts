@@ -1,0 +1,155 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Roboto",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 94,
+  "sounds": {
+    "pop": "https://archive.org/download/apple-pay-sound/apple-pay-sound.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://static.klipy.com/ii/a5166a66b33e26d783bf95ac62ea3cdb/19/6c/f0GEeOw0.gif",
+    "bubbleSize": 94,
+    "task": {
+      "bgColor": "rgba(60,67,73,0.9)",
+      "borderColor": "#8af9ff",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#37373f",
+      "borderColor": "#f0903d",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 530
+    }
+  },
+  "finalFeedback": "Great! let's run tho the magical Oak Tree!!!",
+  "feedbackImage": "",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "______ (follow) the glowing dream butterflies, the children found the entrance to the Moon Forest.",
+      "correct": [
+        "Following"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "______ (carry) a lantern, the old wizard led the heroes through the dark cave.",
+      "correct": [
+        "Carrying"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "______ (trap) inside enchanted bottles, the dreams waited to be set free.",
+      "correct": [
+        "Trapped"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "______ (cross) the Lava Lake, the children finally reached the Cloud Mill.",
+      "correct": [
+        "Having crossed"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "______ (hide) behind the ancient Dream Tree, the fairy watched the Queen's guards.",
+      "correct": [
+        "Hiding"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "______ (hold) the magic fireflies carefully, the girl entered the Queen's Castle.",
+      "correct": [
+        "Holding"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "______ (cover) in dead leaves, the Dream Tree looked lifeless.",
+      "correct": [
+        "Covered"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "______ (hear) a strange whisper, the boy stopped walking.",
+      "correct": [
+        "Having heard"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "______ (search) every room of the castle, the children finally found the Throne Hall.",
+      "correct": [
+        "Having searched"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "______ (surround) by dark magic, the throne room felt cold and silent.",
+      "correct": [
+        "Surrounded"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "______ (look) up at the glowing moon, the children smiled with hope.",
+      "correct": [
+        "Looking"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "______ (protect) by powerful spells, the Dream Tree could only be restored with Dream Dust.",
+      "correct": [
+        "Protected"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "______ (save) at last, the Kingdom of Moonlight was filled with happiness once again.",
+      "correct": [
+        "Saved"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "______ (collect) enough dream fireflies, the children continued their journey to the Cloud Mill.",
+      "correct": [
+        "Having collected"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "______ (sprinkle) the Dream Dust around the ancient tree, the children watched its silver leaves begin to grow.",
+      "correct": [
+        "Having sprinkled"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "______ (break) the curse, the heroes released thousands of dreams into the sky.",
+      "correct": [
+        "Having broken"
+      ],
+      "wrong": []
+    }
+  ]
+}
