@@ -1,0 +1,208 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Roboto",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 88,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://static.klipy.com/ii/4bbcf901ea0d5dec489bd8c608d7f1fd/dd/46/TrEhSY5B9Oc11dnNTG5.gif",
+    "bubbleSize": 88,
+    "task": {
+      "bgColor": "rgba(229,156,31,1)",
+      "borderColor": "#fff700",
+      "textColor": "#0a0a0a",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "She ____ to school every day.",
+      "correct": [
+        "goes"
+      ],
+      "wrong": [
+        "go",
+        "going",
+        "is go"
+      ]
+    },
+    {
+      "question": "They ____ TV yesterday evening.",
+      "correct": [
+        "watched"
+      ],
+      "wrong": [
+        "watch",
+        "watching",
+        "has watched"
+      ]
+    },
+    {
+      "question": "I ____ never been to London.",
+      "correct": [
+        "have"
+      ],
+      "wrong": [
+        "has",
+        "is",
+        "had"
+      ]
+    },
+    {
+      "question": "We ____ playing football now.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "is",
+        "were",
+        "be"
+      ]
+    },
+    {
+      "question": "He ____ going to visit his grandparents this weekend.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are",
+        "was",
+        "will"
+      ]
+    },
+    {
+      "question": "There ____ a lot of students in the classroom.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "is",
+        "am",
+        "be"
+      ]
+    },
+    {
+      "question": "My sister ____ coffee every morning.",
+      "correct": [
+        "drinks"
+      ],
+      "wrong": [
+        "drink",
+        "drinking",
+        "drank"
+      ]
+    },
+    {
+      "question": "If it ____ tomorrow, we will stay at home.",
+      "correct": [
+        "rains"
+      ],
+      "wrong": [
+        "rain",
+        "will rain",
+        "raining"
+      ]
+    },
+    {
+      "question": "You ____ wear a uniform at our school.",
+      "correct": [
+        "must"
+      ],
+      "wrong": [
+        "mustn't",
+        "can",
+        "shouldn't"
+      ]
+    },
+    {
+      "question": "How often ____ you play computer games?",
+      "correct": [
+        "do"
+      ],
+      "wrong": [
+        "does",
+        "is",
+        "are"
+      ]
+    },
+    {
+      "question": "I ____ my homework before dinner yesterday.",
+      "correct": [
+        "did"
+      ],
+      "wrong": [
+        "do",
+        "have done",
+        "am doing"
+      ]
+    },
+    {
+      "question": "She can ____ very well.",
+      "correct": [
+        "sing"
+      ],
+      "wrong": [
+        "sings",
+        "to sing",
+        "singing"
+      ]
+    },
+    {
+      "question": "Look! The baby ____.",
+      "correct": [
+        "is crying"
+      ],
+      "wrong": [
+        "cry",
+        "are crying",
+        "crying"
+      ]
+    },
+    {
+      "question": "They ____ in this town since 2018.",
+      "correct": [
+        "have lived"
+      ],
+      "wrong": [
+        "live",
+        "lived",
+        "are living"
+      ]
+    },
+    {
+      "question": "What ____ your brother doing now?",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "does",
+        "do",
+        "are"
+      ]
+    }
+  ]
+}
