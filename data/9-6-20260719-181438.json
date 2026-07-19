@@ -1,0 +1,169 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 96,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/6638d375756d4e001f0716c8/c03fdc86-aafb-4e2c-832f-87d94b2e38e9.png",
+    "bubbleSize": 96,
+    "task": {
+      "bgColor": "rgba(249,11,11,1)",
+      "borderColor": "#660000",
+      "textColor": "#ffffff",
+      "fontSize": 40,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#eb24d0",
+      "borderColor": "#4323e7",
+      "textColor": "#ffffff",
+      "fontSize": 40,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Всё собрано! Ура!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "9 × 6",
+      "correct": [
+        "54"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "4 × 9",
+      "correct": [
+        "36"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "9 × 9",
+      "correct": [
+        "81"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "7 × 9",
+      "correct": [
+        "63"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "9 × 3",
+      "correct": [
+        "27"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "2 × 9",
+      "correct": [
+        "18"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "9 × 5",
+      "correct": [
+        "45"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "1 × 9",
+      "correct": [
+        "9"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "9 × 7",
+      "correct": [
+        "63"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "10 × 9",
+      "correct": [
+        "90"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "9 × 4",
+      "correct": [
+        "36"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "8 × 9",
+      "correct": [
+        "72"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "9 × 2",
+      "correct": [
+        "18"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "5 × 9",
+      "correct": [
+        "45"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "9 × 10",
+      "correct": [
+        "90"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "3 × 9",
+      "correct": [
+        "27"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "9 × 8",
+      "correct": [
+        "72"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "6 × 9",
+      "correct": [
+        "54"
+      ],
+      "wrong": []
+    }
+  ]
+}
