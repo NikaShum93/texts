@@ -1,0 +1,204 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Indie Flower",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://ai-image.genially.com/655f3c711194b600111ac37d/6a5d87e7e902cf9118293a8e/6a5db59db71d451543c20880.png",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(245,226,102,1)",
+      "borderColor": "#a1540c",
+      "textColor": "#874108",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#b36fd8",
+      "borderColor": "#ccb100",
+      "textColor": "#eed63a",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "The lesson starts ___ 8:30.",
+      "correct": [
+        "at"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We play football ___ the afternoon.",
+      "correct": [
+        "in"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "My birthday is ___ 14 May.",
+      "correct": [
+        "on"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "See you ___ two hours.",
+      "correct": [
+        "in"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We don’t have school ___ the weekend. (BrE)",
+      "correct": [
+        "at"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "She goes to bed ___ night.",
+      "correct": [
+        "at"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Our trip is ___ July.",
+      "correct": [
+        "in"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The party is ___ Friday evening.",
+      "correct": [
+        "on"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The film starts ___ noon.",
+      "correct": [
+        "at"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "He was born ___ 2012.",
+      "correct": [
+        "in"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Let’s meet ___ Monday.",
+      "correct": [
+        "on"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The test is on 3 September ___ 9 a.m.",
+      "correct": [
+        "at"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "My family has a big dinner ___ Christmas Day.",
+      "correct": [
+        "on"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The club meets ___ Fridays.",
+      "correct": [
+        "on"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The next lesson starts ___ noon.",
+      "correct": [
+        "at"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "My cousin’s birthday is ___ July.",
+      "correct": [
+        "in"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Our team trains ___ Tuesday afternoon.",
+      "correct": [
+        "on"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The competition is ___ spring.",
+      "correct": [
+        "in"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The lesson starts ___ 9:05.",
+      "correct": [
+        "at"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I go cycling ___ the morning in summer.",
+      "correct": [
+        "in"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Her flight lands ___ 6 p.m.",
+      "correct": [
+        "at"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We have tests ___ the first week of June.",
+      "correct": [
+        "in"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The shop opens late ___ Sundays.",
+      "correct": [
+        "on"
+      ],
+      "wrong": []
+    }
+  ]
+}
