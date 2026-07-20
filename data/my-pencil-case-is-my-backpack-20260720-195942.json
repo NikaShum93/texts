@@ -1,0 +1,218 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Indie Flower",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://ai-image.genially.com/655f3c711194b600111ac37d/6a5df2ae477e688effc06f61/6a5e1abaf8faa5bfc3990753.png",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(245,226,102,1)",
+      "borderColor": "#a1540c",
+      "textColor": "#874108",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#b36fd8",
+      "borderColor": "#ccb100",
+      "textColor": "#eed63a",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "My pencil case is ___ my backpack.",
+      "correct": [
+        "in"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The bag is ___ the floor.",
+      "correct": [
+        "on"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Mr. Lee is waiting ___ the door.",
+      "correct": [
+        "at"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We have lunch ___ the cafeteria.",
+      "correct": [
+        "in"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The school is ___ 25 King Street.",
+      "correct": [
+        "at"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The posters are ___ the wall.",
+      "correct": [
+        "on"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I live ___ London.",
+      "correct": [
+        "in"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The cat is sleeping ___ the sofa.",
+      "correct": [
+        "on"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Our class is ___ the science lab.",
+      "correct": [
+        "in"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The scoreboard is ___ the gym wall.",
+      "correct": [
+        "on"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Dad is ___ work now.",
+      "correct": [
+        "at"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Put your phone ___ the table, please.",
+      "correct": [
+        "on"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I left my keys ___ my pocket.",
+      "correct": [
+        "in"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The picture is ___ the top of the page.",
+      "correct": [
+        "at"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "My grandparents live ___ the countryside.",
+      "correct": [
+        "in"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The train is ___ platform 3.",
+      "correct": [
+        "at"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The sandwich is ___ the fridge.",
+      "correct": [
+        "in"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "There’s a scratch ___ the screen.",
+      "correct": [
+        "on"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We waited ___ the end of the line.",
+      "correct": [
+        "at"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I saw Mia ___ the concert last night.",
+      "correct": [
+        "at"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "My little brother is ___ bed.",
+      "correct": [
+        "in"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The math classroom is ___ the second floor.",
+      "correct": [
+        "on"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "She posted the photo ___ the school website.",
+      "correct": [
+        "on"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The coins are ___ my wallet.",
+      "correct": [
+        "in"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Our table is ___ the back of the classroom.",
+      "correct": [
+        "at"
+      ],
+      "wrong": []
+    }
+  ]
+}
