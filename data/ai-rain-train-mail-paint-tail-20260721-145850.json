@@ -1,0 +1,143 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Roboto",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 118,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/pLFBQF5H/body-(2).png",
+    "bubbleSize": 118,
+    "task": {
+      "bgColor": "rgba(36,41,194,1)",
+      "borderColor": "#fff700",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#3a23e7",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "ai — rain, train, mail, paint, tail",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ay — day, play, stay, gray, tray",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ee — see, tree, green, sleep, feet",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ea — eat, read, sea, team, clean",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "oa — boat, coat, road, soap, goat",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "oe — toe, hoe, foe, woe, doe",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "oo — moon, food, room, school, spoon",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "oo — book, look, cook, foot, good",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ou — out, house, mouse, cloud, found",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ow — cow, how, now, brown, town",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ow — snow, show, grow, blow, window",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "oi — coin, join, boil, point, voice",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "oy — boy, toy, enjoy, joy, oyster",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "au — author, August, autumn, cause, pause",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "aw — saw, draw, claw, straw, paw",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ue — blue, glue, true, clue, rescue",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ew — new, few, grew, chew, stew",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ie — pie, tie, lie, die, field",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "igh — night, light, right, high, fight",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "eigh — eight, weight, neighbor, freight, sleigh",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
