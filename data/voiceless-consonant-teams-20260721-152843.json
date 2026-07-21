@@ -1,0 +1,89 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 33,
+  "textColor": "#0d0c0c",
+  "speed": 3,
+  "style": {
+    "shape": "rounded",
+    "pad": 36,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/mDkDWQsv/vbvn.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 170
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Reading time",
+    "btnText": "START"
+  },
+  "direction": "down",
+  "finalFeedback": "Good job!",
+  "levels": [
+    {
+      "target": "Voiceless consonant teams",
+      "correct": [
+        "ship",
+        "think",
+        "what",
+        "when",
+        "phone",
+        "chair",
+        "elephant",
+        "white",
+        "shell",
+        "watch",
+        "phone",
+        "three",
+        "thumb",
+        "bath",
+        "chicken"
+      ],
+      "wrong": [
+        "this",
+        "knit",
+        "king",
+        "wrong"
+      ],
+      "timer": 30
+    },
+    {
+      "target": "Voiced consonant teams",
+      "correct": [
+        "that",
+        "mother",
+        "bring",
+        "knife",
+        "ghost",
+        "spaghetti",
+        "sing",
+        "knee",
+        "those",
+        "knock",
+        "song",
+        "long",
+        "that",
+        "wrap",
+        "write",
+        "this"
+      ],
+      "wrong": [
+        "dolphin",
+        "thank",
+        "wash",
+        "wheel"
+      ],
+      "timer": 30
+    }
+  ]
+}
