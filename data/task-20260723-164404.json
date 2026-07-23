@@ -1,0 +1,155 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 126,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://static.klipy.com/ii/40e5f3c9157feea5d28a6b4ad3880d85/5a/9d/OFLrxyOK.gif",
+    "bubbleSize": 126,
+    "task": {
+      "bgColor": "rgba(223,58,58,0.45)",
+      "borderColor": "#e09e9e",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e22828",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Отлично!",
+  "feedbackImage": "https://static.klipy.com/ii/40e5f3c9157feea5d28a6b4ad3880d85/5a/9d/OFLrxyOK.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Г…ра",
+      "correct": [
+        "о"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Гл…за",
+      "correct": [
+        "а"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Гр…бы",
+      "correct": [
+        "и"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Цв…ты",
+      "correct": [
+        "е"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "П…терка",
+      "correct": [
+        "я"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Б…бры",
+      "correct": [
+        "о"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Ч…сло",
+      "correct": [
+        "и"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Ч…рвяк",
+      "correct": [
+        "е"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Хв…сты",
+      "correct": [
+        "о"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Сл…ды",
+      "correct": [
+        "е"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Св…ча",
+      "correct": [
+        "е"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Б…льшой",
+      "correct": [
+        "о"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "М…сной",
+      "correct": [
+        "я"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Д…жди",
+      "correct": [
+        "о"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Ч…сы",
+      "correct": [
+        "а"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Сп…шит",
+      "correct": [
+        "е"
+      ],
+      "wrong": []
+    }
+  ]
+}
