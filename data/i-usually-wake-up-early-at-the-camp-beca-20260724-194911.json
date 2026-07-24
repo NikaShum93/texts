@@ -1,0 +1,103 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Baloo 2",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": true,
+  "bubbleSize": 72,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/6370eab9b3a7e3001249010b/12fd6cfd-ba71-4565-81e1-c720c08f94f1.png",
+    "bubbleSize": 72,
+    "task": {
+      "bgColor": "rgba(247,115,161,1)",
+      "borderColor": "#ecd436",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "I usually wake up early at the camp because the morning bell is very loud.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Slavya always helps the other children with their chores in the garden.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Lena and Ulyana are currently collecting firewood near the forest.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I am looking for my lost pioneer tie before the morning lineup starts.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Yesterday, I saw a strange deer standing at the edge of the camp.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We built a small hut out of branches near the lake last week.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "While I was swimming in the lake, I suddenly heard a strange noise.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Alisa was playing the guitar when the meteorologist, Semyon, arrived.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I have already asked the counsellor about the old pioneer's badge.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The children have just found a new path that goes deep into the forest.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I will definitely visit the 'Pioneer' clubhouse again tonight.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Next weekend, we will have a big bonfire for the entire camp.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
