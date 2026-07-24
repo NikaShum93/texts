@@ -1,0 +1,103 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Baloo 2",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": true,
+  "bubbleSize": 78,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/6370eab9b3a7e3001249010b/12fd6cfd-ba71-4565-81e1-c720c08f94f1.png",
+    "bubbleSize": 78,
+    "task": {
+      "bgColor": "rgba(247,115,161,1)",
+      "borderColor": "#ecd436",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "I get up at seven o'clock in the camp.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Slavya likes flowers and green trees.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I am eating breakfast in the dining hall now.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The children are playing near the old house today",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Yesterday, I went to the lake with my friends.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We saw a big deer in the forest last night.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I was reading a book when the bell rang.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Ulyana was singing when I came into the room.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I have already cleaned my room this morning.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Miku has just drawn a picture of the camp.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We will have a bonfire on Saturday evening.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I will swim in the lake tomorrow.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
