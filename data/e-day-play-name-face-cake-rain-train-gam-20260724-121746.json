@@ -1,0 +1,83 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Open Sans",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 112,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/L4ccsD57/animals.png",
+    "bubbleSize": 112,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 36,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#0fefff",
+      "textColor": "#ffffff",
+      "fontSize": 36,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "/eɪ/: day, play, name, face, cake, rain, train, game, table, late",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "/aɪ/: my, bike, five, time, like, smile, night, fly, white, sky",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "/ɔɪ/: boy, toy, coin, point, join, voice, noise, enjoy, choice, oil",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "/aʊ/: house, mouse, now, how, town, brown, mouth, cloud, shout, flower",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "/əʊ/: go, home, phone, boat, road, nose, coat, window, snow, open",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "/ɪə/: ear, here, near, fear, clear, year, beard, idea, serious, career",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "/eə/: hair, chair, bear, pear, care, fair, wear, share, square, parent",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "/ʊə/: pure, cure, sure, tourist, rural, jury, during, curious, secure, maturity",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
