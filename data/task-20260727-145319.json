@@ -1,0 +1,123 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 142,
+  "sounds": {
+    "pop": "https://www.image2url.com/r2/default/audio/1785152159708-c8f0d3e1-c79f-481f-84c1-54ed1fe5fdbb.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/62728927e0105b0018763bee/fbe9a940-2f9c-43ef-a25f-d14caa52fe6a.png",
+    "bubbleSize": 142,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 600
+    }
+  },
+  "finalFeedback": "Молодец! Все билеты у тебя!",
+  "feedbackImage": "https://img.genially.com/62728927e0105b0018763bee/fbe9a940-2f9c-43ef-a25f-d14caa52fe6a.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "маш_на",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ч_до",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ш_на",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ч_йка",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ч_до",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "щ_ка",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "руч_ка",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ноч_ной",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "доч_ка",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ден_",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "пен_",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "сем_я",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "друз_я",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "_осква",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "_аша",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "_арсик",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
