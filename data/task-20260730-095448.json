@@ -1,0 +1,133 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 132,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/62728927e0105b0018763bee/75d754ef-fc05-4f66-83e5-e96c8ba3c93e.png",
+    "bubbleSize": 132,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 550
+    }
+  },
+  "finalFeedback": "Молодец! Все билеты у тебя. Можно ехать дальше.",
+  "feedbackImage": "https://img.genially.com/62728927e0105b0018763bee/75d754ef-fc05-4f66-83e5-e96c8ba3c93e.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "маш_на",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ш_на",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ч_йка",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ч_ща",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ч_до",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "щ_ка",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ру_ка",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "но_ной",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "кон_",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ден_",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "сем_я",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "бел_ё",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "М_сква",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "_аша",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "_арсик",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "к_р_ндаш",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "в_рона",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "уч_ник",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
