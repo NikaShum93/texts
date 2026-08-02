@@ -1,0 +1,113 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Baloo 2",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 96,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.giphy.com/media/BPvLYetv28UVFBHCO2/giphy.gif",
+    "bubbleSize": 96,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Ты молодец!",
+  "feedbackImage": "https://media.giphy.com/media/RJbsLlIfp1vjRjgcS8/giphy.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "На поляне распустились цв__ты.",
+      "correct": [
+        "е"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Ребята соб__рались у школьного входа.",
+      "correct": [
+        "и"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Путешественники прил__гли отдохнуть под деревом.",
+      "correct": [
+        "е"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "На улице быстро пот__мнело.",
+      "correct": [
+        "е"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Учитель объ__снил новую тему.",
+      "correct": [
+        "я"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Вдалеке видн__лись вершины гор.",
+      "correct": [
+        "е"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Мы зам__тили следы лесных животных.",
+      "correct": [
+        "е"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Птицы ул__тели в тёплые края.",
+      "correct": [
+        "е"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Рыбаки расст__вили сети на берегу.",
+      "correct": [
+        "а"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "На уроке мы разб__рали сложное предложение.",
+      "correct": [
+        "и"
+      ],
+      "wrong": []
+    }
+  ]
+}
