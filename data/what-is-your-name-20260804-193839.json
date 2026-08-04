@@ -1,0 +1,68 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Baloo 2",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 86,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/6370eab9b3a7e3001249010b/b282fd7d-36e3-44a4-a84e-006f949577b9.png",
+    "bubbleSize": 86,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "What is your name?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "How old are you?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Where are you from?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What do you like to do for fun?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do you like English classes at school?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
