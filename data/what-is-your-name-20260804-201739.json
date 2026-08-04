@@ -1,0 +1,88 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Bangers",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/6370eab9b3a7e3001249010b/00d9e8a2-9919-45de-ad59-052962c718d6.png",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(228,124,68,1)",
+      "borderColor": "#f5de8a",
+      "textColor": "#171cb0",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#f29d26",
+      "borderColor": "#f7e522",
+      "textColor": "#2f1688",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 260
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "What is your name?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "How old are you?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Where are you from?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What is your favorite subsect at school?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do you like English classes at school?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What do you like to do for fun?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do you have a pet? What is its name?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What is your favorite food or dish?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What is your favorite dessert or sweet treat?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
