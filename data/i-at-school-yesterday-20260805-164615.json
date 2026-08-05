@@ -1,0 +1,133 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 124,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/b7ff2461-73df-46af-8463-874ebe4bb20d.png",
+    "bubbleSize": 124,
+    "task": {
+      "bgColor": "rgba(255,77,172,0.8)",
+      "borderColor": "#ff8abd",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#ff4dac",
+      "borderColor": "#ff8abd",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 2,
+  "tasks": [
+    {
+      "question": "I ____ at school yesterday.",
+      "correct": [
+        "was"
+      ],
+      "wrong": [
+        "were"
+      ]
+    },
+    {
+      "question": "She ____ happy at the party.",
+      "correct": [
+        "was"
+      ],
+      "wrong": [
+        "were"
+      ]
+    },
+    {
+      "question": "He ____ in the park after lunch.",
+      "correct": [
+        "was"
+      ],
+      "wrong": [
+        "were"
+      ]
+    },
+    {
+      "question": "The book ____ on the table.",
+      "correct": [
+        "was"
+      ],
+      "wrong": [
+        "were"
+      ]
+    },
+    {
+      "question": "It ____ cold last night.",
+      "correct": [
+        "was"
+      ],
+      "wrong": [
+        "were"
+      ]
+    },
+    {
+      "question": "We ____ at the zoo on Sunday.",
+      "correct": [
+        "were"
+      ],
+      "wrong": [
+        "was"
+      ]
+    },
+    {
+      "question": "They ____ tired after the game.",
+      "correct": [
+        "were"
+      ],
+      "wrong": [
+        "was"
+      ]
+    },
+    {
+      "question": "You ____ very kind to me.",
+      "correct": [
+        "were"
+      ],
+      "wrong": [
+        "was"
+      ]
+    },
+    {
+      "question": "My friends ____ in the library yesterday.",
+      "correct": [
+        "were"
+      ],
+      "wrong": [
+        "was"
+      ]
+    },
+    {
+      "question": "The cats ____ under the bed.",
+      "correct": [
+        "were"
+      ],
+      "wrong": [
+        "was"
+      ]
+    }
+  ]
+}
