@@ -1,0 +1,113 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Poppins",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 98,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://static.klipy.com/ii/4bbcf901ea0d5dec489bd8c608d7f1fd/dd/46/TrEhSY5B9Oc11dnNTG5.gif",
+    "bubbleSize": 98,
+    "task": {
+      "bgColor": "rgba(255,172,77,1)",
+      "borderColor": "#ff1900",
+      "textColor": "#121111",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "I __ (study) English for three years, and I still have a lot to learn.",
+      "correct": [
+        "have been studying"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "By the time we arrived at the cinema, the film __ already __ (start).",
+      "correct": [
+        "had already started"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "She __ (not/finish) her project when the teacher asked to see it.",
+      "correct": [
+        "hadn’t finished"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "While I __ (walk) through the park, I found a wallet on the ground.",
+      "correct": [
+        "was walking"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "This time next week we __ (fly) to Spain.",
+      "correct": [
+        "will be flying"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "If he __ (know) about the meeting, he would have come.",
+      "correct": [
+        "had known"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "They __ (live) in London before they moved to Edinburgh.",
+      "correct": [
+        "had been living (or had lived)"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "He said that he __ (never/see) such a beautiful place before.",
+      "correct": [
+        "had never seen"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We __ (wait) for over an hour before the bus finally arrived.",
+      "correct": [
+        "had been waiting"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "By the end of this year, she __ (work) for the company for ten years.",
+      "correct": [
+        "will have been working"
+      ],
+      "wrong": []
+    }
+  ]
+}
