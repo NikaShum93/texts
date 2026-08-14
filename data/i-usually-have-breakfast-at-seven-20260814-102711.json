@@ -1,0 +1,93 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": true,
+  "bubbleSize": 138,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/9f05e524-65d3-447d-bd01-8ec44ef166c9.png",
+    "bubbleSize": 138,
+    "task": {
+      "bgColor": "rgba(52,159,49,0.85)",
+      "borderColor": "#a8ee71",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#349f31",
+      "borderColor": "#a8ee71",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "I usually have breakfast at seven.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She plays tennis after school.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We often watch films together.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Tom walks to school every day.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My sister likes chocolate very much.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They sometimes visit their grandparents.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "He reads books before bedtime.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I always clean my room.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Sarah helps her mum at home.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We never eat breakfast outside.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
