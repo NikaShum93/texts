@@ -1,0 +1,113 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 112,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/B6H87Fbv/1.png",
+    "bubbleSize": 112,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 400
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "What did you like most about your summer?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What was the weather like?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What did/didn't you like about your summer?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Did you meet new friends or hang out with the old ones?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do you have an interesting story to share?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What is your favourite summer food?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Did you read any books this summer?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What 3 words describe your summer best?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What are your plans for this autumn?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Who did you spend most of your time with?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Did you visit any interesting places?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "If you could repeat one day from your summer, which one would it be?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What are you looking forward to most this school year?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Summer is over. What are you looking forward next to?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
