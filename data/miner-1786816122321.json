@@ -1,0 +1,211 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://img.genially.com/6173fe3d318a510015c590ae/eee14f95-17f2-4e32-a546-e03bca1e59d6.jpeg",
+    "win": "WELL DONE!",
+    "start": "START",
+    "again": "RESTART",
+    "btnSize": 5,
+    "btnY": 80,
+    "btnAnim": "none"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://img.genially.com/6173fe3d318a510015c590ae/da93b2c8-9b32-4c24-a249-fd2f4e951524.png",
+    "hook": "hook.png",
+    "targets": [
+      "https://img.genially.com/6173fe3d318a510015c590ae/c9d260eb-e9ca-48e1-88fe-f13ac6eca3f4.png"
+    ],
+    "targetSize": 40,
+    "ropeColor": "#b688bf",
+    "heroSize": 102,
+    "heroX": 6,
+    "hookSize": 49,
+    "hookOffsetY": -13,
+    "fontFamily": "Comic Neue",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#b786c1",
+    "qBorder": "both",
+    "qTextGlow": true,
+    "qSize": 3.5,
+    "tColor": "#3e0745",
+    "tBg": "#c1d4e6",
+    "tGlow": "#b684bd",
+    "tBorder": "none",
+    "tTextGlow": true,
+    "tSize": 17,
+    "hudColor": "#ffffff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#c983c6",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#d874ca",
+    "btnGlow": "#cf86d0",
+    "btnBorder": "both",
+    "btnTextGlow": false
+  },
+  "gameplay": {
+    "hookSpeed": 2,
+    "swingSpeed": 0.035,
+    "targetSpeed": 0.2
+  },
+  "tasks": [
+    {
+      "q": "have",
+      "correct": [
+        "had"
+      ],
+      "wrong": [
+        "have",
+        "has",
+        "haved"
+      ]
+    },
+    {
+      "q": "do",
+      "correct": [
+        "did"
+      ],
+      "wrong": [
+        "do",
+        "done",
+        "doed"
+      ]
+    },
+    {
+      "q": "go",
+      "correct": [
+        "went"
+      ],
+      "wrong": [
+        "go",
+        "gone",
+        "goed"
+      ]
+    },
+    {
+      "q": "make",
+      "correct": [
+        "made"
+      ],
+      "wrong": [
+        "make",
+        "making",
+        "maked"
+      ]
+    },
+    {
+      "q": "take",
+      "correct": [
+        "took"
+      ],
+      "wrong": [
+        "take",
+        "taken",
+        "taked"
+      ]
+    },
+    {
+      "q": "see",
+      "correct": [
+        "saw"
+      ],
+      "wrong": [
+        "see",
+        "seen",
+        "seed"
+      ]
+    },
+    {
+      "q": "come",
+      "correct": [
+        "came"
+      ],
+      "wrong": [
+        "come",
+        "coming",
+        "comed"
+      ]
+    },
+    {
+      "q": "get",
+      "correct": [
+        "got"
+      ],
+      "wrong": [
+        "get",
+        "gotten",
+        "geted"
+      ]
+    },
+    {
+      "q": "know",
+      "correct": [
+        "knew"
+      ],
+      "wrong": [
+        "know",
+        "known",
+        "knowed"
+      ]
+    },
+    {
+      "q": "say",
+      "correct": [
+        "said"
+      ],
+      "wrong": [
+        "say",
+        "saying",
+        "sayed"
+      ]
+    },
+    {
+      "q": "think",
+      "correct": [
+        "thought"
+      ],
+      "wrong": [
+        "think",
+        "thinking",
+        "thinked"
+      ]
+    },
+    {
+      "q": "eat",
+      "correct": [
+        "ate"
+      ],
+      "wrong": [
+        "eat",
+        "eaten",
+        "eated"
+      ]
+    },
+    {
+      "q": "drink",
+      "correct": [
+        "drank"
+      ],
+      "wrong": [
+        "drink",
+        "drunk",
+        "drinked"
+      ]
+    },
+    {
+      "q": "buy",
+      "correct": [
+        "bought"
+      ],
+      "wrong": [
+        "buy",
+        "buying",
+        "buyed"
+      ]
+    }
+  ]
+}
