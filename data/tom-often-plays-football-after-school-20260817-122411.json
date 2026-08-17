@@ -1,0 +1,93 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": true,
+  "bubbleSize": 90,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://static.klipy.com/ii/4bbcf901ea0d5dec489bd8c608d7f1fd/dd/46/TrEhSY5B9Oc11dnNTG5.gif",
+    "bubbleSize": 90,
+    "task": {
+      "bgColor": "rgba(253,133,53,1)",
+      "borderColor": "#fdff70",
+      "textColor": "#0f0f0f",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Tom often plays football after school.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She is never late for school.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My parents always watch TV in the evening.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We sometimes go to the cinema on Saturdays.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Anna usually has breakfast at 8.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do you often play computer games?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My brother never eats vegetables.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They are always happy at weekends.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Kate sometimes goes to the library after school.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
