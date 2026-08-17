@@ -1,0 +1,208 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 90,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://static.klipy.com/ii/4bbcf901ea0d5dec489bd8c608d7f1fd/dd/46/TrEhSY5B9Oc11dnNTG5.gif",
+    "bubbleSize": 90,
+    "task": {
+      "bgColor": "rgba(253,133,53,1)",
+      "borderColor": "#fdff70",
+      "textColor": "#0f0f0f",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "While I ______ home, I saw an old friend in the street.",
+      "correct": [
+        "was walking"
+      ],
+      "wrong": [
+        "walked",
+        "was walk",
+        "were walking"
+      ]
+    },
+    {
+      "question": "My sister ______ tennis twice a week, but she ______ it at the moment.",
+      "correct": [
+        "plays / is playing"
+      ],
+      "wrong": [
+        "play / plays",
+        "is playing / plays",
+        "played / was playing"
+      ]
+    },
+    {
+      "question": "When we arrived at the cinema, the film ______ already ______.",
+      "correct": [
+        "had / started"
+      ],
+      "wrong": [
+        "has / started",
+        "was / starting",
+        "did / start"
+      ]
+    },
+    {
+      "question": "I think people ______ use more electric cars in the future.",
+      "correct": [
+        "will"
+      ],
+      "wrong": [
+        "is going to",
+        "are",
+        "going to"
+      ]
+    },
+    {
+      "question": "Look at those dark clouds! It ______ rain soon.",
+      "correct": [
+        "is going to"
+      ],
+      "wrong": [
+        "will",
+        "are going",
+        "will be"
+      ]
+    },
+    {
+      "question": "We ______ have a picnic tomorrow because we have already bought the food.",
+      "correct": [
+        "are going to"
+      ],
+      "wrong": [
+        "will",
+        "going to",
+        "were going to"
+      ]
+    },
+    {
+      "question": "This exercise is ______ than the one we did yesterday.",
+      "correct": [
+        "more difficult"
+      ],
+      "wrong": [
+        "difficulter",
+        "most difficult",
+        "more easier"
+      ]
+    },
+    {
+      "question": "That was the ______ meal I have ever had.",
+      "correct": [
+        "best"
+      ],
+      "wrong": [
+        "better",
+        "most good",
+        "goodest"
+      ]
+    },
+    {
+      "question": "My parents usually go on holiday ______ August, but this year they are leaving ______ Friday.",
+      "correct": [
+        "in / on"
+      ],
+      "wrong": [
+        "on / at",
+        "at / in",
+        "from / on"
+      ]
+    },
+    {
+      "question": "What ______ you ______ at 9 p.m. last night?",
+      "correct": [
+        "were / doing"
+      ],
+      "wrong": [
+        "did / do",
+        "was / doing",
+        "are / doing"
+      ]
+    },
+    {
+      "question": "Jack ______ his homework every evening, but yesterday he ______ a computer game instead.",
+      "correct": [
+        "does / played"
+      ],
+      "wrong": [
+        "is doing / played",
+        "do / was playing",
+        "did / plays"
+      ]
+    },
+    {
+      "question": "Sarah is ______ student in our class, but Tom is ______ than her at sports.",
+      "correct": [
+        "the best / better"
+      ],
+      "wrong": [
+        "better / best",
+        "the better / good",
+        "best / more good"
+      ]
+    },
+    {
+      "question": "I’m sure our team ______ win the match tomorrow.",
+      "correct": [
+        "will"
+      ],
+      "wrong": [
+        "is going to",
+        "is",
+        "going"
+      ]
+    },
+    {
+      "question": "They ______ visit London next summer. They have already booked the hotel.",
+      "correct": [
+        "are going to"
+      ],
+      "wrong": [
+        "will going to",
+        "is going to",
+        "are go to"
+      ]
+    },
+    {
+      "question": "When I ______ into the kitchen, my mum ______ dinner.",
+      "correct": [
+        "walked / was cooking"
+      ],
+      "wrong": [
+        "was walking / cooked",
+        "walked / was cooking",
+        "walk / is cooking"
+      ]
+    }
+  ]
+}
