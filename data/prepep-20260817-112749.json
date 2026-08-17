@@ -1,0 +1,183 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://static.klipy.com/ii/4bbcf901ea0d5dec489bd8c608d7f1fd/97/67/hGxlfqwrWJuztIVnT7t.gif",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(77,255,163,1)",
+      "borderColor": "#00ff33",
+      "textColor": "#0d0c0c",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#23e75d",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "prepep → __________",
+      "correct": [
+        "pepper"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "veil o → __________",
+      "correct": [
+        "olive"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "dab er → __________",
+      "correct": [
+        "bread"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "yhone → __________",
+      "correct": [
+        "honey"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "jueic → __________",
+      "correct": [
+        "juice"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "ikml → __________",
+      "correct": [
+        "milk"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "tospotae → __________",
+      "correct": [
+        "potatoes"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "gseg → __________",
+      "correct": [
+        "eggs"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "sehcee → __________",
+      "correct": [
+        "cheese"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "tugohyr → __________",
+      "correct": [
+        "yoghurt"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "aemt → __________",
+      "correct": [
+        "meat"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "lspape → __________",
+      "correct": [
+        "apples"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "grasu → __________",
+      "correct": [
+        "sugar"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "mec ireca → __________",
+      "correct": [
+        "ice cream"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "srtocar → __________",
+      "correct": [
+        "carrots"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "kecnihc → __________",
+      "correct": [
+        "chicken"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "nsaaban → __________",
+      "correct": [
+        "bananas"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "icbsiut → __________",
+      "correct": [
+        "biscuit"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "oetmotsa → _________",
+      "correct": [
+        "tomatoes"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "",
+      "correct": [
+        "onions"
+      ],
+      "wrong": []
+    }
+  ]
+}
