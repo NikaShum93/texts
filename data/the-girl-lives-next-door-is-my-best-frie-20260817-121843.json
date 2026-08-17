@@ -1,0 +1,113 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 90,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://static.klipy.com/ii/4bbcf901ea0d5dec489bd8c608d7f1fd/dd/46/TrEhSY5B9Oc11dnNTG5.gif",
+    "bubbleSize": 90,
+    "task": {
+      "bgColor": "rgba(253,133,53,1)",
+      "borderColor": "#fdff70",
+      "textColor": "#0f0f0f",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "The girl ______ lives next door is my best friend.",
+      "correct": [
+        "who"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "This is the book ______ I bought yesterday.",
+      "correct": [
+        "which"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I know a boy ______ can speak five languages.",
+      "correct": [
+        "who"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "That is the dog ______ has a very long tail.",
+      "correct": [
+        "that"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "She is the teacher ______ teaches us English.",
+      "correct": [
+        "who"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I have a friend ______ father is a famous football player.",
+      "correct": [
+        "whose"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "This is the phone ______ my brother gave me.",
+      "correct": [
+        "which"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The man ______ works at the bakery is very friendly.",
+      "correct": [
+        "who"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I like films ______ have happy endings.",
+      "correct": [
+        "that"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "That is the girl ______ cat is very cute.",
+      "correct": [
+        "whose"
+      ],
+      "wrong": []
+    }
+  ]
+}
