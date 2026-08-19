@@ -1,0 +1,113 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": true,
+  "bubbleSize": 138,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/93a2bdea-33ce-4fad-b548-05f45f7c7f08.png",
+    "bubbleSize": 138,
+    "task": {
+      "bgColor": "rgba(173,75,228,0.85)",
+      "borderColor": "#65c638",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#ad4be4",
+      "borderColor": "#65c638",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "I have got a forest map",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "You have got a secret key",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "He has got a blue hat",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She has got a pink sweater",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We have got a secret plan",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They have got a small boat",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I have got a flashlight",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "You have got a strange picture",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "He has got old books",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She has got a big house",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We have got strange photos",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They have got a new mystery",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "It has got four big legs",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We have got many questions",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
