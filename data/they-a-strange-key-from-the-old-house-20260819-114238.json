@@ -1,0 +1,113 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 138,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/53ae3546-edde-461f-8eca-679304829e69.png",
+    "bubbleSize": 138,
+    "task": {
+      "bgColor": "rgba(94,52,22,0.85)",
+      "borderColor": "#d25819",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#5e3416",
+      "borderColor": "#d35818",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "They __________ a strange key from the old house.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Mabel __________ a colourful sweater.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Stan __________ a strange gift shop.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They __________ a small boat near the lake.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Soos __________ a big smile.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Pacifica __________ a beautiful room with a big bed.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Wendy __________ red hair.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The Mystery Shack __________ many strange rooms.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The twins __________ a secret plan.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Grunkle Stan __________ a black suit and a red tie.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "You __________ a strange picture on your wall.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Mabel __________ many funny ideas.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Pacifica __________ a nice dress for the party.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We __________ a plan to help Dipper and Mabel.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
