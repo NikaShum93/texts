@@ -1,0 +1,103 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": true,
+  "bubbleSize": 138,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/d5324662-d60d-477d-907d-670032b65f91.png",
+    "bubbleSize": 138,
+    "task": {
+      "bgColor": "rgba(179,47,94,0.85)",
+      "borderColor": "#d55c4c",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#b83061",
+      "borderColor": "#d75d4d",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "I am a good student",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She is my best friend",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "He is a football player",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We are happy today",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They are at school",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "You are very kind",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My mum is a teacher",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My dad is a doctor",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The dog is very cute",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The cats are in the garden",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "It is a beautiful day",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I am at home",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
