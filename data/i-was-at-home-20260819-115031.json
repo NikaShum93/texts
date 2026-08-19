@@ -1,0 +1,103 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": true,
+  "bubbleSize": 138,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/8c0ffb0e-1e60-473c-8fd2-acfbc3c55c61.png",
+    "bubbleSize": 138,
+    "task": {
+      "bgColor": "rgba(177,50,51,0.85)",
+      "borderColor": "#ffffff",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#a62e30",
+      "borderColor": "#ffffff",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "I was at home",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She was very happy",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "He was at school yesterday",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We were good friends",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They were at the park",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "You were very tired",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My mum was at work",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The pizza was delicious",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My sister was in London",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The weather was very cold",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The children were very happy",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We were at the zoo",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
