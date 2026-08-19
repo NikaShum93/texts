@@ -1,0 +1,103 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 138,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/c930141d-0f8e-4569-a5cd-893683d003ae.png",
+    "bubbleSize": 138,
+    "task": {
+      "bgColor": "rgba(182,137,35,0.85)",
+      "borderColor": "#462e12",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#b58723",
+      "borderColor": "#482f12",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Coraline __________ a curious girl.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She __________ in a strange house.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The house __________ very old.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Coraline’s parents __________ busy.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The Other Mother __________ very mysterious.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Her eyes __________ like black buttons.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The Other Father __________ a musician.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The garden __________ beautiful.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The neighbours __________ very strange.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Wybie __________ Coraline’s friend.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The cat __________ black.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Coraline and the cat __________ brave.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
