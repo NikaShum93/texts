@@ -1,0 +1,147 @@
+{
+  "language": "en",
+  "font": "Poppins",
+  "fontSize": 23,
+  "textColor": "#97b5c9",
+  "speed": 5,
+  "questionFont": "Poppins",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://i.postimg.cc/15bZs8t6/Default-A-meticulously-crafted-enchanted-candle-glowing-with-a-0-3fd55ca4-ca79-45a8-a2d7-096d22971bc.png",
+    "bgImages": [
+      "https://i.postimg.cc/15bZs8t6/Default-A-meticulously-crafted-enchanted-candle-glowing-with-a-0-3fd55ca4-ca79-45a8-a2d7-096d22971bc.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 170
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "To be",
+    "btnText": "Start"
+  },
+  "direction": "down",
+  "finalFeedback": "Good job! ✨",
+  "globalTimer": 40,
+  "levels": [
+    {
+      "target": "I ___ a student.",
+      "correct": [
+        "am"
+      ],
+      "wrong": [
+        "is",
+        "are",
+        "are"
+      ]
+    },
+    {
+      "target": "She ___ my best friend.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are",
+        "are",
+        "am"
+      ]
+    },
+    {
+      "target": "We ___ at school.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "am",
+        "is",
+        "is"
+      ]
+    },
+    {
+      "target": "They ___ happy today.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "am",
+        "am",
+        "is"
+      ]
+    },
+    {
+      "target": "He ___ ten years old.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "are",
+        "am",
+        "are"
+      ]
+    },
+    {
+      "target": "You ___ very kind.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "is",
+        "am",
+        "is"
+      ]
+    },
+    {
+      "target": "It ___ a small cat.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "am",
+        "are",
+        "are"
+      ]
+    },
+    {
+      "target": "My parents ___ at home.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "is",
+        "is",
+        "is"
+      ]
+    },
+    {
+      "target": "I ___ from Russia.",
+      "correct": [
+        "am"
+      ],
+      "wrong": [
+        "are",
+        "is",
+        "is"
+      ]
+    },
+    {
+      "target": "Tom and Ben ___ brothers.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "is",
+        "am",
+        "is"
+      ]
+    }
+  ]
+}
