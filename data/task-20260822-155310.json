@@ -1,0 +1,106 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Comfortaa",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 98,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://static.klipy.com/ii/4bbcf901ea0d5dec489bd8c608d7f1fd/d0/8a/BOtBVw6liCppN7O.gif",
+    "bubbleSize": 98,
+    "task": {
+      "bgColor": "rgba(138,195,244,1)",
+      "borderColor": "#9ff0f4",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#89c3f4",
+      "borderColor": "#9ff0f4",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 430
+    }
+  },
+  "finalFeedback": "🎉 Ураа! Ты победил!",
+  "feedbackImage": "https://img.genially.com/6705705f687a8f00159a71ec/4a53537b-0b95-4b4e-8d29-80cc82edc179.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "image",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "ехать",
+      "correct": [
+        "поезжай"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "трогать",
+      "correct": [
+        "трогай"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "вылезти",
+      "correct": [
+        "вылези"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "доставать",
+      "correct": [
+        "доставай"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "положить",
+      "correct": [
+        "положи"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "прополоскать",
+      "correct": [
+        "прополощи"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "махать",
+      "correct": [
+        "маши"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "трудиться",
+      "correct": [
+        "трудись"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "лечь",
+      "correct": [
+        "ляг"
+      ],
+      "wrong": []
+    }
+  ]
+}
