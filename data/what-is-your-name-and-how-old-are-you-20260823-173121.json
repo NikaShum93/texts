@@ -1,0 +1,93 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Neucha",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 132,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/64f42904f41c380018d4715e/658e3e11-c759-45be-8af0-8b24b9bda66a.png",
+    "bubbleSize": 132,
+    "task": {
+      "bgColor": "rgba(63,65,17,1)",
+      "borderColor": "#9a9c40",
+      "textColor": "#cf9a50",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#3f4111",
+      "borderColor": "#ccce5f",
+      "textColor": "#cf9a50",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "What is your name, and how old are you?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Where do you live? What is your town or city like?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What do you look like?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "How would you describe your personality?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Who is your best friend, and what do you usually do together?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What do you like doing in your free time?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What is your favourite school subject, and why do you like it?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What kind of music, films, books or games do you enjoy?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What was the most interesting thing you did this summer?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What would you like to do or learn this year?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
