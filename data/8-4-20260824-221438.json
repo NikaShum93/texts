@@ -1,0 +1,148 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 106,
+  "sounds": {
+    "pop": "\"C:\\Users\\user\\Pictures\\КАРТИНКИ\\Джениалле\\ЗВУКИ ДВИЖЕНИЕЕ ПРЕДМЕТА\\Звуки\\Звуки\\буль буль.mp3\"",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/6638d375756d4e001f0716c8/b2e17a04-395b-4314-8aec-38ee61a77eaf.png",
+    "bubbleSize": 106,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 40,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#2bc5e3",
+      "borderColor": "#2623e7",
+      "textColor": "#ffffff",
+      "fontSize": 40,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 ПОБЕДА!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "8 это 4 и ...",
+      "correct": [
+        "4"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "5 это 2 и ...",
+      "correct": [
+        "3"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "9 это 6 и ...",
+      "correct": [
+        "3"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "7 это 3 и ...",
+      "correct": [
+        "4"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "10 это 7 и ...",
+      "correct": [
+        "3"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "6 это 1 и ...",
+      "correct": [
+        "5"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "4 это 2 и ...",
+      "correct": [
+        "2"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "8 это 5 и ...",
+      "correct": [
+        "3"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "9 это 3 и ...",
+      "correct": [
+        "6"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "7 это 6 и ...",
+      "correct": [
+        "1"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "10 это 4 и ...",
+      "correct": [
+        "6"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "5 это 1 и ...",
+      "correct": [
+        "4"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "6 это 4 и ...",
+      "correct": [
+        "2"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "3 это 1 и ...",
+      "correct": [
+        "2"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "10 это 8 и ...",
+      "correct": [
+        "2"
+      ],
+      "wrong": []
+    }
+  ]
+}
