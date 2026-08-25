@@ -1,0 +1,143 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Caveat",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/6173fe3d318a510015c590ae/82a5ad0b-133e-4f3e-b4f7-5dc8a897b0a1.png",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(201,146,94,1)",
+      "borderColor": "#c7a852",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#dd9c40",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://ai-image.genially.com/655f3c711194b600111ac37d/6a8cfa3e3413c8654007b6c3/6a8cffa62157f9fe2c6fabe4.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "I watched a movie last night.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I didn’t watch TV yesterday.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Did you play football after school?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She visited her friend on Saturday.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "He didn’t do his homework.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Did they go to the shopping mall?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We listened to music in the car.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My brother didn’t clean his room.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Did you study for the English test?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They played video games for two hours.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She didn’t like the pizza.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Did he send you a message?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I bought new trainers yesterday.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We didn’t go to school on Sunday.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Did your parents make dinner?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "He got up late this morning.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They didn’t take the bus.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Did she meet her classmates?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We had a great time at the party.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Did you finish your project?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
