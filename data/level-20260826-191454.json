@@ -1,0 +1,72 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 2,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://img.genially.com/65a66a0db3c06500207bb5f3/0b46c43b-9053-4bee-9cb8-fda63fd50584.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 260
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Цветение сакуры",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Отличная работа!",
+  "levels": [
+    {
+      "target": "слоги с буквой О",
+      "correct": [
+        "дом",
+        "сок",
+        "нос",
+        "рот",
+        "кот",
+        "слон",
+        "стол",
+        "мост",
+        "торт",
+        "волк",
+        "гром",
+        "крот",
+        "сон",
+        "ком",
+        "пол"
+      ],
+      "wrong": [
+        "мак",
+        "лак",
+        "сад",
+        "час",
+        "шар",
+        "брат",
+        "шкаф",
+        "март",
+        "так",
+        "банк",
+        "май",
+        "зал",
+        "бар",
+        "глаз",
+        "сам"
+      ],
+      "timer": 300
+    }
+  ]
+}
