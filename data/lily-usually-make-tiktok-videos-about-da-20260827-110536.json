@@ -1,0 +1,103 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 140,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/50df039f-e7c3-4b91-a3c6-78b134d863d4.png",
+    "bubbleSize": 140,
+    "task": {
+      "bgColor": "rgba(0,0,0,0.85)",
+      "borderColor": "#fe2c55",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#24e7e1",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Lily usually ____________ (make) TikTok videos about dancing.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She ____________ (wear) pink and blue hair today.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Right now, Lily ____________ (film) a funny video with her dog Coco.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She often ____________ (post) videos every day.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "At the moment, she ____________ (use) stickers and effects in her video.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Lily usually ____________ (like) listening to music in her free time.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Look! Lily ____________ (dance) in her bedroom studio.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Sometimes, she ____________ (film) videos with her friends.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She ____________ (reply) to comments on TikTok every evening.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Today, Lily ____________ (record) a new cooking video.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Usually, she ____________ (upload) her videos in the evening.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Right now, Lily ____________ (edit) her favourite video.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
