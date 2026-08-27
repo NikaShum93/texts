@@ -1,0 +1,146 @@
+{
+  "lang": "en",
+  "mode": "choice",
+  "math": false,
+  "transparentBg": false,
+  "randomQuestions": true,
+  "ui": {
+    "title": "Adam's cooking pizza",
+    "start": "PLAY",
+    "again": "AGAIN",
+    "gameover": "GAME OVER",
+    "scoreLabel": "Score: ",
+    "fontSize": 8
+  },
+  "gameplay": {
+    "winQuestions": 10,
+    "diffBaseSpawnMs": 9000,
+    "diffBaseMoveSpeed": 5.3,
+    "diffMedMult": 0.88,
+    "diffHardMult": 0.76
+  },
+  "assets": {
+    "hero": "https://gifyu.com/image/bnYFi",
+    "mirrorHero": true,
+    "heroBobbing": true,
+    "obstacles": {
+      "ground": [
+        "🪨",
+        "🪵",
+        "🌵"
+      ],
+      "good": [
+        "🍄‍🟫",
+        "🍍",
+        "🧀",
+        "🥓"
+      ],
+      "bad": [
+        "🦅",
+        "🧱",
+        "🚁",
+        "⛈️"
+      ]
+    }
+  },
+  "sounds": {
+    "mus": "https://raw.githubusercontent.com/kgbgamelab/audioplayer/main/Baa%20Dash.mp3",
+    "ding": "https://assets.mixkit.co/active_storage/sfx/2000/2000-preview.mp3",
+    "buzz": "https://assets.mixkit.co/active_storage/sfx/257/257-preview.mp3",
+    "coin": "https://assets.mixkit.co/active_storage/sfx/2019/2019-preview.mp3",
+    "crash": "https://assets.mixkit.co/active_storage/sfx/2042/2042-preview.mp3",
+    "win": "https://assets.mixkit.co/active_storage/sfx/2018/2018-preview.mp3"
+  },
+  "tasks": [
+    {
+      "question": "My brother is __________ than me. (tall)",
+      "correct": [
+        "taller"
+      ],
+      "wrong": [
+        "more tall",
+        "more taller"
+      ]
+    },
+    {
+      "question": "My new phone is __________ than my old one. (expensive)",
+      "correct": [
+        "more expensive"
+      ],
+      "wrong": [
+        "expensiver",
+        "the most expensive"
+      ]
+    },
+    {
+      "question": "This book is __________ than that one.",
+      "correct": [
+        "better"
+      ],
+      "wrong": [
+        "gooder",
+        "the best"
+      ]
+    },
+    {
+      "question": "Mount Everest is __________ mountain in the world. (high)",
+      "correct": [
+        "the highest"
+      ],
+      "wrong": [
+        "higher",
+        "the most highest"
+      ]
+    },
+    {
+      "question": "This is __________ restaurant in our town. (expensive)",
+      "correct": [
+        "the most expensive"
+      ],
+      "wrong": [
+        "more expensive",
+        "most expensive"
+      ]
+    },
+    {
+      "question": "Sunday is __________ day of the week for me. (relaxing)",
+      "correct": [
+        "the most relaxing"
+      ],
+      "wrong": [
+        "more relaxing",
+        "relaxingest"
+      ]
+    },
+    {
+      "question": "That was __________ film I've ever seen. (funny)",
+      "correct": [
+        "the funniest"
+      ],
+      "wrong": [
+        "the funnyest",
+        "the most funny"
+      ]
+    },
+    {
+      "question": "My little sister is __________ person in our family. (young)",
+      "correct": [
+        "the youngest"
+      ],
+      "wrong": [
+        "younger",
+        "the most young"
+      ]
+    },
+    {
+      "question": "It was the __________ meal I've ever had.",
+      "correct": [
+        "the worst"
+      ],
+      "wrong": [
+        "the baddest",
+        "the worse"
+      ]
+    }
+  ]
+}
