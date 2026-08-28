@@ -1,0 +1,55 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 35,
+  "textColor": "#ffffff",
+  "speed": 2,
+  "style": {
+    "shape": "rounded",
+    "pad": 72,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/MGrvHGC6/Mul'tasnyj-list.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 220
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Буквы",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Отлично!",
+  "levels": [
+    {
+      "target": "Буквы Аа",
+      "correct": [
+        "А",
+        "а",
+        "А",
+        "а",
+        "А"
+      ],
+      "wrong": [
+        "М",
+        "С",
+        "О",
+        "У",
+        "у",
+        "С",
+        "М",
+        "У"
+      ],
+      "timer": 60
+    }
+  ]
+}
