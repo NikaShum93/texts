@@ -1,0 +1,54 @@
+{
+  "language": "ru",
+  "font": "Cormorant",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 5,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/gc73hbJQ/Chat-GPT-Image-28-avg-2026-g-22-20-28.png"
+    ],
+    "bgImage": "",
+    "borderOn": true,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": true,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 150
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Десятки",
+    "btnText": ""
+  },
+  "direction": "down",
+  "finalFeedback": "",
+  "levels": [
+    {
+      "target": "Поймай на все десятки",
+      "correct": [
+        "20,",
+        "30,",
+        "50,",
+        "60,",
+        "80,",
+        "90"
+      ],
+      "wrong": [
+        "2,",
+        "4,",
+        "5,",
+        "7,",
+        "8,",
+        "9"
+      ],
+      "timer": 30
+    }
+  ]
+}
