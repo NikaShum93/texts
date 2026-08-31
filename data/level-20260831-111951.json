@@ -1,0 +1,50 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 38,
+  "textColor": "#ffffff",
+  "speed": 1,
+  "style": {
+    "shape": "rounded",
+    "pad": 76,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://img.genially.com/66163aeabaa20300158fc6a8/7c9cece2-d753-4991-87c6-5e5998b2611b.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 240
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "«Листопад»",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Отлично!",
+  "levels": [
+    {
+      "target": "слоги, которые начинаются с М",
+      "correct": [
+        "МА",
+        "МУ",
+        "МО"
+      ],
+      "wrong": [
+        "СА",
+        "СУ",
+        "СО",
+        "АМ",
+        "УМ"
+      ],
+      "timer": 60
+    }
+  ]
+}
