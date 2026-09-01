@@ -1,0 +1,138 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 126,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/46100e4e-dccd-4d5a-b6b7-773c5eb61e2c.png",
+    "bubbleSize": 126,
+    "task": {
+      "bgColor": "rgba(255,198,77,1)",
+      "borderColor": "#ff9500",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#ffc64d",
+      "borderColor": "#ff9500",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Dracula __________ (talk) to the guests in the hotel.",
+      "correct": [
+        "is talking"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Mavis __________ (fly) around the castle.",
+      "correct": [
+        "is flying"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Johnny __________ (look) for his room.",
+      "correct": [
+        "is looking"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The monsters __________ (dance) at the party.",
+      "correct": [
+        "are dancing"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I __________ (watch) the monsters at the party.",
+      "correct": [
+        "am watching"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Frankenstein __________ (not/eat) dinner with his friends.",
+      "correct": [
+        "isn’t eating",
+        "is not eating"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The mummy __________ (not/walk) around the hotel.",
+      "correct": [
+        "isn’t walking",
+        "is not walking"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Dracula and Mavis __________ (not/listen) to music.",
+      "correct": [
+        "aren’t listening",
+        "are not playing"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The werewolf __________ (play) with the little puppies.",
+      "correct": [
+        "is playing"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I __________ (talk) to Dracula right now.",
+      "correct": [
+        "am talking"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Johnny __________ (take) photos of the monsters.",
+      "correct": [
+        "is taking"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The vampires __________ (not/sing) a song together.",
+      "correct": [
+        "aren’t singing",
+        "are not singing"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Mavis __________ (wear) a beautiful black dress.",
+      "correct": [
+        "is wearing"
+      ],
+      "wrong": []
+    }
+  ]
+}
