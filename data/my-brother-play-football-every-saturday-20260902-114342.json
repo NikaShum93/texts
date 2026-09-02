@@ -1,0 +1,93 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 144,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/d5fe5365-ce4f-492b-bbd3-483606d25084.png",
+    "bubbleSize": 144,
+    "task": {
+      "bgColor": "rgba(207,77,255,0.85)",
+      "borderColor": "#f185ff",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#cf4dff",
+      "borderColor": "#f185ff",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "My brother ________ (play) football every Saturday.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Look! The children ________ (run) in the garden.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "She usually ________ (drink) tea in the morning.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We ________ (watch) a funny film at the moment.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Tom ________ (go) to school by bus every day.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Listen! Someone ________ (sing) in the next room.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My parents ________ (work) in an office.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I ________ (do) my homework right now.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Sarah often ________ (help) her mother with dinner.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Be quiet! The baby ________ (sleep).",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
