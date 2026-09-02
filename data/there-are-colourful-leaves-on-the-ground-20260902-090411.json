@@ -1,0 +1,108 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 126,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/49df5be2-50b9-4925-af9c-7d7f759d636e.png",
+    "bubbleSize": 126,
+    "task": {
+      "bgColor": "rgba(249,101,21,0.85)",
+      "borderColor": "#ffa30f",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#f96515",
+      "borderColor": "#ffa30e",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "There are __________ colourful leaves on the ground.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I can see __________ birds in the trees.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "There isn’t __________ snow in the park yet.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Do you have __________ warm clothes for autumn?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We need __________ apples to make an apple pie.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "There aren’t __________ flowers in the garden now.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Would you like __________ hot chocolate?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I don’t have __________ boots for rainy days.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "There are __________ pumpkins in the garden.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Are there __________ clouds in the sky?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Let’s buy __________ apples and pears at the market.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We don’t need __________ umbrellas today.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
