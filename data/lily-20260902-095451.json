@@ -1,0 +1,108 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 142,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/5c29ea54-6c64-4fcf-b6bb-a357f1ae9237.png",
+    "bubbleSize": 142,
+    "task": {
+      "bgColor": "rgba(20,152,235,0.85)",
+      "borderColor": "#00afdb",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#1398eb",
+      "borderColor": "#01afdb",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "Well done!",
+  "feedbackImage": "https://img.genially.com/69280f411dd3350008276459/7078f096-6c66-4d0f-8a45-9347db98acf9.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Lily",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Isla",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Ella",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Harper",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Chloe",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Grace",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Charlie",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Luca",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Finn",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Archie",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Jack",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Oscar",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
