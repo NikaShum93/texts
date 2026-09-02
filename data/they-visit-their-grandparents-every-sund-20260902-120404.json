@@ -1,0 +1,93 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 144,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://static.klipy.com/ii/c98c4a4935d23b95805f0befee091d8a/7a/12/GPXLfUj8.gif",
+    "bubbleSize": 144,
+    "task": {
+      "bgColor": "rgba(248,147,32,0.85)",
+      "borderColor": "#ffd885",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#f89320",
+      "borderColor": "#ffd884",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "They ________ (visit) their grandparents every Sunday.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Look! The dog ________ (chase) the cat.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Jack ________ (not like) vegetables.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We ________ (have) lunch at the moment.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My sister always ________ (wear) jeans to school.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Why ________ you ________ (laugh) now?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Peter ________ (read) books before bed every night.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The students ________ (write) a test right now.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Anna sometimes ________ (cook) dinner for her family.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Look! It ________ (snow) outside.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
