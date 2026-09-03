@@ -1,0 +1,143 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 110,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/d4a7efd8-b4fb-4055-95c9-b4f2a06f1c4b.png",
+    "bubbleSize": 110,
+    "task": {
+      "bgColor": "rgba(248,200,27,0.85)",
+      "borderColor": "#ff9500",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://img.genially.com/69280f411dd3350008276459/829db20b-9fb9-4b7a-a5a2-d9c8fd28c28e.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 3,
+  "tasks": [
+    {
+      "question": "My favourite sport (be) football.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "am",
+        "are"
+      ]
+    },
+    {
+      "question": "My favourite colour (be) blue.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "am",
+        "are"
+      ]
+    },
+    {
+      "question": "My best friend (be) Anna.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "am",
+        "are"
+      ]
+    },
+    {
+      "question": "We (be) students.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "am",
+        "is"
+      ]
+    },
+    {
+      "question": "I (be) 10 years old.",
+      "correct": [
+        "am"
+      ],
+      "wrong": [
+        "is",
+        "are"
+      ]
+    },
+    {
+      "question": "My favourite animal (be) a cat.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "am",
+        "are"
+      ]
+    },
+    {
+      "question": "Tom and Ben (be) brothers.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "am",
+        "is"
+      ]
+    },
+    {
+      "question": "My favourite food (be) pizza.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "am",
+        "are"
+      ]
+    },
+    {
+      "question": "She (be) very happy today.",
+      "correct": [
+        "is"
+      ],
+      "wrong": [
+        "am",
+        "are"
+      ]
+    },
+    {
+      "question": "They (be) in the classroom.",
+      "correct": [
+        "are"
+      ],
+      "wrong": [
+        "am",
+        "is"
+      ]
+    }
+  ]
+}
