@@ -1,0 +1,93 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 110,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/19213b49-f385-4bff-a435-f4d6195e237e.png",
+    "bubbleSize": 110,
+    "task": {
+      "bgColor": "rgba(27,134,248,0.85)",
+      "borderColor": "#00eeff",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#1b86f8",
+      "borderColor": "#01eeff",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://img.genially.com/69280f411dd3350008276459/829db20b-9fb9-4b7a-a5a2-d9c8fd28c28e.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 3,
+  "tasks": [
+    {
+      "question": "Mike __________ every morning before class. (study)",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Sulley __________ football with his friends after lectures. (play)",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The students __________ in the university cafeteria. (eat)",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Mike __________ very hard for his exams. (work)",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Sulley __________ in a big university dormitory. (live)",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The teachers __________ the students every day. (help)",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Mike __________ monsters how to scare people. (teach)",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Sulley __________ coffee before his morning class. (drink)",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The students __________ their homework in the library. (do)",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Mike and Sulley __________ to their classes at 9 o'clock. (go)",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
