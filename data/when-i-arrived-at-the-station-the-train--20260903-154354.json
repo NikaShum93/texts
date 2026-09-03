@@ -1,0 +1,93 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 110,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/cc03dd1b-1494-47d9-9d4f-463ef805a010.png",
+    "bubbleSize": 110,
+    "task": {
+      "bgColor": "rgba(255,211,92,0.85)",
+      "borderColor": "#bb6707",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#ffd35c",
+      "borderColor": "#bb6706",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://img.genially.com/69280f411dd3350008276459/829db20b-9fb9-4b7a-a5a2-d9c8fd28c28e.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 3,
+  "tasks": [
+    {
+      "question": "When I arrived at the station, the train __________ already __________ (leave).",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Sarah was tired because she __________ (study) all night.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We couldn’t get into the house because we __________ (forget) the keys.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Tom was angry because his brother __________ (use) his computer for hours.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "By the time the teacher arrived, the students __________ already __________ (finish) the test.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I was hungry because I __________ (not / eat) anything since breakfast.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "When we got to the cinema, the film __________ already __________ (start).",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Her eyes were red because she __________ (cry).",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They __________ (never / see) snow before they moved to Canada.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "He was exhausted because he __________ (run) for two hours.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
