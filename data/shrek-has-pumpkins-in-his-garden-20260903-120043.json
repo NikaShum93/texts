@@ -1,0 +1,93 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 110,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/046606a7-144a-488c-8da1-a08ee7f1c255.png",
+    "bubbleSize": 110,
+    "task": {
+      "bgColor": "rgba(248,200,27,0.85)",
+      "borderColor": "#ff9500",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://img.genially.com/69280f411dd3350008276459/829db20b-9fb9-4b7a-a5a2-d9c8fd28c28e.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 3,
+  "tasks": [
+    {
+      "question": "Shrek has __________ pumpkins in his garden.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "There aren't __________ apples in the kitchen.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Fiona buys __________ warm clothes for autumn.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Have they got __________ mushrooms for dinner?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Donkey finds __________ yellow leaves in the forest.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Shrek hasn't got __________ hot tea.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "There are __________ pumpkins near the house.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Are there __________ acorns under the tree?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Fiona makes __________ pumpkin soup for Shrek.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They don't have __________ umbrellas.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
