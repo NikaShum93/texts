@@ -1,0 +1,93 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 98,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://static.klipy.com/ii/c98c4a4935d23b95805f0befee091d8a/e6/fb/ompe0ITl.gif",
+    "bubbleSize": 98,
+    "task": {
+      "bgColor": "rgba(99,127,87,0.85)",
+      "borderColor": "#c4d9bf",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#637f57",
+      "borderColor": "#c4d9bf",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "Nailed it!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Emma usually __________ (go) to school by bus, but today she __________ (walk).",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My brother __________ (play) football every Saturday.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Look! The dog __________ (run) after the cat.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I __________ (not / understand) this question.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What __________ you __________ (do) right now?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Sarah __________ (work) in a café, but this week she __________ (help) her parents.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We usually __________ (have) dinner at 7 p.m.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Listen! Someone __________ (sing) in the next room.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Tom __________ (not / like) coffee, but he __________ (drink) tea at the moment.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "__________ your sister usually __________ (wear) jeans to school?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
