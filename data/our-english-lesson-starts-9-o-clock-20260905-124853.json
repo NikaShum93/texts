@@ -1,0 +1,148 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Gloria Hallelujah",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 150,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/5e7dfe50a2d3eb0fbde37fb5/0a12d492-1661-48c2-a4c9-fcdcb7cc94ce.png",
+    "bubbleSize": 150,
+    "task": {
+      "bgColor": "rgba(255,179,128,1)",
+      "borderColor": "#ca5c02",
+      "textColor": "#952104",
+      "fontSize": 30,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 30,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Our English lesson starts ... 9 o’clock.",
+      "correct": [
+        "at"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "My birthday is ... September.",
+      "correct": [
+        "in"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We usually visit our grandparents ... Sunday.",
+      "correct": [
+        "on"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I often read books ... the evening.",
+      "correct": [
+        "in"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The children go to bed ... 10 p.m.",
+      "correct": [
+        "at"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We are going to London ... next week.",
+      "correct": [
+        "-"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "My sister was born ... 2012.",
+      "correct": [
+        "in"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I don’t like walking alone ... night.",
+      "correct": [
+        "at"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We have an important test ... Monday morning.",
+      "correct": [
+        "on"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The weather is usually warm ... summer.",
+      "correct": [
+        "in"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Our holiday begins ... 5th September.",
+      "correct": [
+        "on"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I have breakfast ... the morning.",
+      "correct": [
+        "in"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "My parents usually relax ... the weekend.",
+      "correct": [
+        "at"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The train arrives ... noon.",
+      "correct": [
+        "at"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We went to the cinema ... yesterday evening.",
+      "correct": [
+        "-"
+      ],
+      "wrong": []
+    }
+  ]
+}
