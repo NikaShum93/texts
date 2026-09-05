@@ -1,0 +1,183 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://www.image2url.com/r2/default/audio/1788632468392-58348637-71e8-4537-9b92-05d14a4efdcc.mp3",
+    "open": "https://www.image2url.com/r2/default/audio/1788632518392-73203c48-7c20-4faf-a201-d811a6a904e9.mp3",
+    "correct": "https://www.image2url.com/r2/default/audio/1788632468392-58348637-71e8-4537-9b92-05d14a4efdcc.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/BQSb5C9f/Chat-GPT-Image-5-sent-2026-g-20-23-27-(4).png",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(225,140,20,1)",
+      "borderColor": "#5f2607",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "УХ, КАКОЙ ЛИСТОПАД.",
+  "feedbackImage": "https://i.postimg.cc/LswvLXJS/Chat-GPT-Image-5-sent-2026-g-21-11-53.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "БРА",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "БРИ",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "БРУ",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ЗВО",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ЗВА",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ЗВЕ",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ВРА",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ВРУ",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ВРО",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ГДЕ",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ГРЫ",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ГРУ",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ГРА",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ЖМО",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ЖМА",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "КРЫ",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "КРУ",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "КРО",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ПРА",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ПРО",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ПРИ",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ТРА",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ТРУ",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ТРЕ",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ХРУ",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "КРУ",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "КРА",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "КРЕ",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
