@@ -1,0 +1,118 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 124,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://static.klipy.com/ii/c98c4a4935d23b95805f0befee091d8a/e6/fb/ompe0ITl.gif",
+    "bubbleSize": 124,
+    "task": {
+      "bgColor": "rgba(9,116,123,0.8)",
+      "borderColor": "#139da4",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#08747b",
+      "borderColor": "#149da4",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "Nailed it!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "My sister usually __________ (get up) at 7 o’clock, but today she __________ (sleep) late.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Look! The children __________ (play) in the rain.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Ben __________ (work) in a bookshop every Saturday.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I __________ (not / understand) this question.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What __________ you __________ (do) at the moment?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My parents __________ (watch) TV every evening.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We __________ (have) lunch now, so I can’t talk.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Sarah __________ (not / like) horror films.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Why __________ Tom __________ (wear) a coat today? It’s warm!",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My best friend __________ (live) near my school.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Listen! Someone __________ (knock) on the door.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I usually __________ (walk) to school, but this week I __________ (take) the bus.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "__________ your brother __________ (play) computer games every day?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They __________ (study) for their exams this month.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The sun __________ (rise) in the east.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
