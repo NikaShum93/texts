@@ -1,0 +1,168 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": true,
+    "titleImg": "https://i.postimg.cc/wxyBH31m/White-and-Pink-Simple-Mind-Map-Brainstorm-(3).png",
+    "win": "Great job!",
+    "start": "start",
+    "again": "Try again!",
+    "btnSize": 3,
+    "btnY": 64,
+    "btnAnim": "pulse"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://i.postimg.cc/v8j0K2ng/Dizai-n-bez-nazvania.png",
+    "hook": "https://i.postimg.cc/SQ5gP19X/Dizai-n-bez-nazvania-(5).png",
+    "targets": [
+      "https://i.postimg.cc/DZ4xfqkv/Dizai-n-bez-nazvania-(7).png",
+      "https://i.postimg.cc/50Qs9wd0/Dizai-n-bez-nazvania-(8).png"
+    ],
+    "targetSize": 78,
+    "ropeColor": "#086e89",
+    "heroSize": 116,
+    "heroX": 0,
+    "hookSize": 128,
+    "hookOffsetY": 0,
+    "fontFamily": "Comic Neue",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#00fbff",
+    "qBorder": "both",
+    "qTextGlow": true,
+    "qSize": 5.5,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#00bfff",
+    "tBorder": "solid",
+    "tTextGlow": false,
+    "tSize": 25,
+    "hudColor": "#01bfff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#01bfff",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#19252f",
+    "btnBg": "#f5db36",
+    "btnGlow": "#f48a22",
+    "btnBorder": "both",
+    "btnTextGlow": false
+  },
+  "gameplay": {
+    "hookSpeed": 7,
+    "swingSpeed": 0.035,
+    "targetSpeed": 0.7
+  },
+  "tasks": [
+    {
+      "q": "I usually wake up ___ 7 o’clock.",
+      "correct": [
+        "at"
+      ],
+      "wrong": [
+        "in",
+        "on",
+        "since"
+      ]
+    },
+    {
+      "q": "My birthday is ___ October.",
+      "correct": [
+        "in"
+      ],
+      "wrong": [
+        "at",
+        "on",
+        "since"
+      ]
+    },
+    {
+      "q": "We have English lessons ___ Mondays.",
+      "correct": [
+        "on"
+      ],
+      "wrong": [
+        "in",
+        "at",
+        "since"
+      ]
+    },
+    {
+      "q": "She has lived here ___ 2020.",
+      "correct": [
+        "since"
+      ],
+      "wrong": [
+        "in",
+        "on",
+        "at"
+      ]
+    },
+    {
+      "q": "I studied English ___ three years.",
+      "correct": [
+        "for"
+      ],
+      "wrong": [
+        "since",
+        "on",
+        "until"
+      ]
+    },
+    {
+      "q": "We went to Italy ___ the summer holidays.",
+      "correct": [
+        "during"
+      ],
+      "wrong": [
+        "since",
+        "on",
+        "until"
+      ]
+    },
+    {
+      "q": "The shop is open ___ 9 p.m.",
+      "correct": [
+        "until"
+      ],
+      "wrong": [
+        "since",
+        "on",
+        "for"
+      ]
+    },
+    {
+      "q": "Please finish your homework ___ Friday.",
+      "correct": [
+        "by"
+      ],
+      "wrong": [
+        "since",
+        "on",
+        "at"
+      ]
+    },
+    {
+      "q": "I usually go to bed ___ midnight.",
+      "correct": [
+        "at"
+      ],
+      "wrong": [
+        "in",
+        "on",
+        "by"
+      ]
+    },
+    {
+      "q": "My parents got married ___ 2010.",
+      "correct": [
+        "in"
+      ],
+      "wrong": [
+        "since",
+        "on",
+        "at"
+      ]
+    }
+  ]
+}
