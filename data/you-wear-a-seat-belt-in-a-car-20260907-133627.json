@@ -1,0 +1,163 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 150,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/674c691df244bc001518fa67/fdee7801-364a-4d24-af17-08f60fd52e65.png",
+    "bubbleSize": 150,
+    "task": {
+      "bgColor": "rgba(255,216,77,0.85)",
+      "borderColor": "#ffa200",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#ffd84d",
+      "borderColor": "#ffa201",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 3,
+  "tasks": [
+    {
+      "question": "You ___ wear a seat belt in a car.",
+      "correct": [
+        "must"
+      ],
+      "wrong": [
+        "should",
+        "have"
+      ]
+    },
+    {
+      "question": "I ___ get up early tomorrow because I have an exam.",
+      "correct": [
+        "have to"
+      ],
+      "wrong": [
+        "should",
+        "must to"
+      ]
+    },
+    {
+      "question": "You look tired. You ___ go to bed earlier.",
+      "correct": [
+        "should"
+      ],
+      "wrong": [
+        "have to",
+        "must"
+      ]
+    },
+    {
+      "question": "Students ___ be quiet during the exam.",
+      "correct": [
+        "must"
+      ],
+      "wrong": [
+        "should to",
+        "have"
+      ]
+    },
+    {
+      "question": "We ___ buy some food. There is nothing in the fridge.",
+      "correct": [
+        "have to"
+      ],
+      "wrong": [
+        "should to",
+        "must to"
+      ]
+    },
+    {
+      "question": "You ___ drink more water. It is good for you.",
+      "correct": [
+        "should"
+      ],
+      "wrong": [
+        "have to",
+        "must to"
+      ]
+    },
+    {
+      "question": "I ___ finish this work today. My boss needs it tomorrow.",
+      "correct": [
+        "have to"
+      ],
+      "wrong": [
+        "should to",
+        "must to"
+      ]
+    },
+    {
+      "question": "You ___ be careful when you cross the road.",
+      "correct": [
+        "should"
+      ],
+      "wrong": [
+        "have",
+        "must to"
+      ]
+    },
+    {
+      "question": "We ___ show our passports at the airport.She ___ clean her room today because her friends are coming.",
+      "correct": [
+        "must"
+      ],
+      "wrong": [
+        "should to",
+        "have"
+      ]
+    },
+    {
+      "question": "You ___ eat so much fast food. It isn't healthy.",
+      "correct": [
+        "has to"
+      ],
+      "wrong": [
+        "should to",
+        "must to"
+      ]
+    },
+    {
+      "question": "I ___ call my doctor tomorrow. I don't feel well.",
+      "correct": [
+        "shouldn't"
+      ],
+      "wrong": [
+        "don't have",
+        "mustn't to"
+      ]
+    },
+    {
+      "question": "",
+      "correct": [
+        "should"
+      ],
+      "wrong": [
+        "have",
+        "must to"
+      ]
+    }
+  ]
+}
