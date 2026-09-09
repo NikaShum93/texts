@@ -1,0 +1,133 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 136,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/Y0cp7R1Q/Dobavit'-zagolovok-(7).png",
+    "bubbleSize": 136,
+    "task": {
+      "bgColor": "rgba(255,187,0,0.8)",
+      "borderColor": "#ffa200",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#ffbb00",
+      "borderColor": "#ffa201",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "Amazing!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 2,
+  "tasks": [
+    {
+      "question": "How ______ apples do you have?",
+      "correct": [
+        "many"
+      ],
+      "wrong": [
+        "much"
+      ]
+    },
+    {
+      "question": "How ______ milk do you drink?",
+      "correct": [
+        "much"
+      ],
+      "wrong": [
+        "many"
+      ]
+    },
+    {
+      "question": "There are ______ students in my class.",
+      "correct": [
+        "many"
+      ],
+      "wrong": [
+        "much"
+      ]
+    },
+    {
+      "question": "I don't have ______ homework today.",
+      "correct": [
+        "much"
+      ],
+      "wrong": [
+        "many"
+      ]
+    },
+    {
+      "question": "How ______ money do you need?",
+      "correct": [
+        "much"
+      ],
+      "wrong": [
+        "many"
+      ]
+    },
+    {
+      "question": "We have ______ eggs in the fridge.",
+      "correct": [
+        "many"
+      ],
+      "wrong": [
+        "much"
+      ]
+    },
+    {
+      "question": "She doesn't eat ______ bread.",
+      "correct": [
+        "much"
+      ],
+      "wrong": [
+        "many"
+      ]
+    },
+    {
+      "question": "How ______ books are on the table?",
+      "correct": [
+        "many"
+      ],
+      "wrong": [
+        "much"
+      ]
+    },
+    {
+      "question": "There isn't ______ water in the bottle.",
+      "correct": [
+        "much"
+      ],
+      "wrong": [
+        "many"
+      ]
+    },
+    {
+      "question": "How ______ bananas do you want?",
+      "correct": [
+        "many"
+      ],
+      "wrong": [
+        "much"
+      ]
+    }
+  ]
+}
