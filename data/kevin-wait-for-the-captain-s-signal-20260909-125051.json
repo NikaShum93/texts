@@ -1,0 +1,203 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Mountains of Christmas",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 106,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/64233afb55129a0017751c8e/92fcdbc5-44dd-4f46-a03e-3d673b71379f.png",
+    "bubbleSize": 106,
+    "task": {
+      "bgColor": "rgba(183,214,240,1)",
+      "borderColor": "#103556",
+      "textColor": "#103556",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#103556",
+      "borderColor": "#c7f4ff",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "Hunting is over. You can move on.",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Kevin ___ wait for the captain's signal.",
+      "correct": [
+        "has to"
+      ],
+      "wrong": [
+        "mustn't",
+        "doesn't have to"
+      ]
+    },
+    {
+      "question": "Visitors ___ enter the Moonroot archive after sunset.",
+      "correct": [
+        "mustn't"
+      ],
+      "wrong": [
+        "should",
+        "doesn't have to"
+      ]
+    },
+    {
+      "question": "Kevin ___ carry every bag; an elf can help him.",
+      "correct": [
+        "doesn't have to"
+      ],
+      "wrong": [
+        "mustn't",
+        "has to"
+      ]
+    },
+    {
+      "question": "You look exhausted. You ___ rest.",
+      "correct": [
+        "should"
+      ],
+      "wrong": [
+        "mustn't",
+        "doesn't have to"
+      ]
+    },
+    {
+      "question": "Kevin ___ touch the glowing poisonous vines.",
+      "correct": [
+        "mustn't"
+      ],
+      "wrong": [
+        "should",
+        "doesn't have to"
+      ]
+    },
+    {
+      "question": "Every bridge guard ___ wear a Moonroot badge.",
+      "correct": [
+        "has to"
+      ],
+      "wrong": [
+        "shouldn't",
+        "doesn't have to"
+      ]
+    },
+    {
+      "question": "The gate is safe now, so the archers ___ stay all night.",
+      "correct": [
+        "don't have to"
+      ],
+      "wrong": [
+        "mustn't",
+        "have to"
+      ]
+    },
+    {
+      "question": "Kevin ___ panic; the zombies are gone.",
+      "correct": [
+        "shouldn't"
+      ],
+      "wrong": [
+        "has to",
+        "mustn't"
+      ]
+    },
+    {
+      "question": "We ___ protect the ancient tree.",
+      "correct": [
+        "must"
+      ],
+      "wrong": [
+        "don't have to",
+        "shouldn't"
+      ]
+    },
+    {
+      "question": "Kevin ___ check the rope before crossing.",
+      "correct": [
+        "should"
+      ],
+      "wrong": [
+        "mustn't",
+        "doesn't have to"
+      ]
+    },
+    {
+      "question": "The elf captain ___ report to the Council.",
+      "correct": [
+        "has to"
+      ],
+      "wrong": [
+        "shouldn't",
+        "doesn't have to"
+      ]
+    },
+    {
+      "question": "Kevin ___ fight alone; he may ask for help.",
+      "correct": [
+        "doesn't have to"
+      ],
+      "wrong": [
+        "mustn't",
+        "has to"
+      ]
+    },
+    {
+      "question": "All visitors ___ leave their weapons outside.",
+      "correct": [
+        "have to"
+      ],
+      "wrong": [
+        "mustn't",
+        "don't have to"
+      ]
+    },
+    {
+      "question": "You ___ throw litter into the river.",
+      "correct": [
+        "mustn't"
+      ],
+      "wrong": [
+        "shouldn't",
+        "don't have to"
+      ]
+    },
+    {
+      "question": "Kevin ___ apologise for breaking the vase.",
+      "correct": [
+        "should"
+      ],
+      "wrong": [
+        "mustn't",
+        "doesn't have to"
+      ]
+    },
+    {
+      "question": "The Moonroot rune ___ remain inside its glass case.",
+      "correct": [
+        "must"
+      ],
+      "wrong": [
+        "shouldn't",
+        "doesn't have to"
+      ]
+    }
+  ]
+}
