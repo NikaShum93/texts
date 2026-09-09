@@ -1,0 +1,73 @@
+{
+  "language": "en",
+  "font": "Roboto",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 4,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://i.postimg.cc/N09CTdkb/10.png",
+      "https://i.postimg.cc/R06pfgLd/11.png",
+      "https://i.postimg.cc/BvL7DmBD/7.png",
+      "https://i.postimg.cc/0NMXmV0c/8.png",
+      "https://i.postimg.cc/tgZvPBNB/9.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Countable or Uncountable?",
+    "btnText": "Start"
+  },
+  "direction": "down",
+  "finalFeedback": "Great job!",
+  "levels": [
+    {
+      "target": "Countable nouns",
+      "correct": [
+        "apple",
+        "banana",
+        "orange",
+        "egg",
+        "tomato",
+        "potato",
+        "carrot",
+        "sandwich",
+        "burger",
+        "cookie",
+        "sausage",
+        "onion"
+      ],
+      "wrong": [
+        "water",
+        "milk",
+        "juice",
+        "tea",
+        "coffee",
+        "lemonade",
+        "rice",
+        "pasta",
+        "bread",
+        "cheese",
+        "butter",
+        "sugar",
+        "salt",
+        "flour",
+        "honey"
+      ],
+      "timer": 30
+    }
+  ]
+}
