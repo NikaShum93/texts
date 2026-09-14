@@ -1,0 +1,118 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Do you like English?",
+      "correct": [
+        "Yes, I do",
+        "No, I don't."
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We read different stories at ______.",
+      "correct": [
+        "Literature"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We count and do sums at _____.",
+      "correct": [
+        "mathematics"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We sing song and listen to music at _____.",
+      "correct": [
+        "music"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We like _____ pictures.",
+      "correct": [
+        "painting"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We can run and __ sport at PE.",
+      "correct": [
+        "play"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We study computers at ____.",
+      "correct": [
+        "Information Technology"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "What subjects do you have on Monday?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "When do you have Russian language?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "How often do you have Geography?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What is your favourite school subject?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "What do you have in your pencil case?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
