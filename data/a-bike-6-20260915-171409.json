@@ -1,0 +1,106 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 142,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/486b6539-0ab8-4b6f-9286-94362de395e1.png",
+    "bubbleSize": 142,
+    "task": {
+      "bgColor": "rgba(255,218,36,0.95)",
+      "borderColor": "#ffae00",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#ffda23",
+      "borderColor": "#ffae00",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "Great!",
+  "feedbackImage": "https://img.genially.com/69280f411dd3350008276459/44a7dd67-9fa6-42cb-a979-153a7ea30245.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "a bike (6)",
+      "correct": [
+        "six bikes"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "a name (5)",
+      "correct": [
+        "five names"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "a cat (9)",
+      "correct": [
+        "nine cats"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "a plane (4)",
+      "correct": [
+        "four planes"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "a game (3)",
+      "correct": [
+        "three games"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "a camel (7)",
+      "correct": [
+        "seven camels"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "a fox (2)",
+      "correct": [
+        "two foxes"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "a toy (10)",
+      "correct": [
+        "ten toys"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "a box (3)",
+      "correct": [
+        "three boxes"
+      ],
+      "wrong": []
+    }
+  ]
+}
