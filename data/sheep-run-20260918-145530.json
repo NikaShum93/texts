@@ -1,0 +1,336 @@
+{
+  "lang": "ru",
+  "mode": "choice",
+  "math": false,
+  "transparentBg": false,
+  "randomQuestions": true,
+  "ui": {
+    "title": "SHEEP RUN",
+    "start": "PLAY",
+    "again": "AGAIN",
+    "gameover": "GAME OVER",
+    "scoreLabel": "Score: ",
+    "fontSize": 8
+  },
+  "gameplay": {
+    "winQuestions": 10,
+    "diffBaseSpawnMs": 8500,
+    "diffBaseMoveSpeed": 6,
+    "diffMedMult": 0.88,
+    "diffHardMult": 0.76
+  },
+  "assets": {
+    "hero": "🐑",
+    "mirrorHero": false,
+    "heroBobbing": true,
+    "obstacles": {
+      "ground": [
+        "🌲",
+        "🪨",
+        "🪵",
+        "🌵"
+      ],
+      "good": [
+        "🌾",
+        "🌽",
+        "🍀",
+        "🍎"
+      ],
+      "bad": [
+        "🦅",
+        "🧱",
+        "🚁",
+        "⛈️"
+      ]
+    }
+  },
+  "sounds": {
+    "mus": "https://raw.githubusercontent.com/kgbgamelab/audioplayer/main/Baa%20Dash.mp3",
+    "ding": "https://assets.mixkit.co/active_storage/sfx/2000/2000-preview.mp3",
+    "buzz": "https://assets.mixkit.co/active_storage/sfx/257/257-preview.mp3",
+    "coin": "https://assets.mixkit.co/active_storage/sfx/2019/2019-preview.mp3",
+    "crash": "https://assets.mixkit.co/active_storage/sfx/2042/2042-preview.mp3",
+    "win": "https://assets.mixkit.co/active_storage/sfx/2018/2018-preview.mp3"
+  },
+  "tasks": [
+    {
+      "question": "I ___ at home yesterday.",
+      "correct": [
+        "was"
+      ],
+      "wrong": [
+        "were"
+      ]
+    },
+    {
+      "question": "They ___ at school last Monday.",
+      "correct": [
+        "were"
+      ],
+      "wrong": [
+        "was"
+      ]
+    },
+    {
+      "question": "She ___ tired yesterday.",
+      "correct": [
+        "wasn't"
+      ],
+      "wrong": [
+        "weren't"
+      ]
+    },
+    {
+      "question": "We ___ at the cinema last night.",
+      "correct": [
+        "weren't"
+      ],
+      "wrong": [
+        "wasn't"
+      ]
+    },
+    {
+      "question": "___ he at home yesterday?",
+      "correct": [
+        "Was"
+      ],
+      "wrong": [
+        "Were"
+      ]
+    },
+    {
+      "question": "___ you happy last weekend?",
+      "correct": [
+        "Were"
+      ],
+      "wrong": [
+        "Was"
+      ]
+    },
+    {
+      "question": "I ___ swim when I was six.",
+      "correct": [
+        "could"
+      ],
+      "wrong": [
+        "can"
+      ]
+    },
+    {
+      "question": "She ___ ride a bike when she was five.",
+      "correct": [
+        "could"
+      ],
+      "wrong": [
+        "can"
+      ]
+    },
+    {
+      "question": "He ___ swim when he was three.",
+      "correct": [
+        "couldn't"
+      ],
+      "wrong": [
+        "could"
+      ]
+    },
+    {
+      "question": "They ___ play chess when they were four.",
+      "correct": [
+        "couldn't"
+      ],
+      "wrong": [
+        "could"
+      ]
+    },
+    {
+      "question": "___ you read when you were five?",
+      "correct": [
+        "Could"
+      ],
+      "wrong": [
+        "Can"
+      ]
+    },
+    {
+      "question": "___ she dance when she was young?",
+      "correct": [
+        "Could"
+      ],
+      "wrong": [
+        "Can"
+      ]
+    },
+    {
+      "question": "I ___ TV yesterday.",
+      "correct": [
+        "watched"
+      ],
+      "wrong": [
+        "watch"
+      ]
+    },
+    {
+      "question": "She ___ tennis last Sunday.",
+      "correct": [
+        "played"
+      ],
+      "wrong": [
+        "play"
+      ]
+    },
+    {
+      "question": "We ___ our grandparents last weekend.",
+      "correct": [
+        "visited"
+      ],
+      "wrong": [
+        "visit"
+      ]
+    },
+    {
+      "question": "He ___ his room yesterday.",
+      "correct": [
+        "cleaned"
+      ],
+      "wrong": [
+        "clean"
+      ]
+    },
+    {
+      "question": "I ___ football yesterday.",
+      "correct": [
+        "didn't play"
+      ],
+      "wrong": [
+        "didn't played"
+      ]
+    },
+    {
+      "question": "She ___ TV last night.",
+      "correct": [
+        "didn't watch"
+      ],
+      "wrong": [
+        "didn't watched"
+      ]
+    },
+    {
+      "question": "They ___ the window yesterday.",
+      "correct": [
+        "didn't open"
+      ],
+      "wrong": [
+        "didn't opened"
+      ]
+    },
+    {
+      "question": "He ___ his mum last Sunday.",
+      "correct": [
+        "didn't help"
+      ],
+      "wrong": [
+        "didn't helped"
+      ]
+    },
+    {
+      "question": "___ you ___ TV yesterday?",
+      "correct": [
+        "Did / watch"
+      ],
+      "wrong": [
+        "Did / watched"
+      ]
+    },
+    {
+      "question": "___ she ___ tennis last week?",
+      "correct": [
+        "Did / play"
+      ],
+      "wrong": [
+        "Did / played"
+      ]
+    },
+    {
+      "question": "___ they ___ their grandparents?",
+      "correct": [
+        "Did / visit"
+      ],
+      "wrong": [
+        "Did / visited"
+      ]
+    },
+    {
+      "question": "___ he ___ his room?",
+      "correct": [
+        "Did / clean"
+      ],
+      "wrong": [
+        "Did / cleaned"
+      ]
+    },
+    {
+      "question": "She ___ happy yesterday.",
+      "correct": [
+        "was"
+      ],
+      "wrong": [
+        "were"
+      ]
+    },
+    {
+      "question": "We ___ football last Saturday.",
+      "correct": [
+        "played"
+      ],
+      "wrong": [
+        "play"
+      ]
+    },
+    {
+      "question": "He ___ ride a bike when he was four.",
+      "correct": [
+        "could"
+      ],
+      "wrong": [
+        "can"
+      ]
+    },
+    {
+      "question": "They ___ in the park yesterday.",
+      "correct": [
+        "walked"
+      ],
+      "wrong": [
+        "walk"
+      ]
+    },
+    {
+      "question": "___ you at school yesterday?",
+      "correct": [
+        "Were"
+      ],
+      "wrong": [
+        "Was"
+      ]
+    },
+    {
+      "question": "She ___ ___ tennis last weekend.",
+      "correct": [
+        "didn't play"
+      ],
+      "wrong": [
+        "didn't played"
+      ]
+    },
+    {
+      "question": "He ___ swim when he was three.",
+      "correct": [
+        "couldn't"
+      ],
+      "wrong": [
+        "could"
+      ]
+    }
+  ]
+}
