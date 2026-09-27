@@ -1,0 +1,115 @@
+{
+  "ui": {
+    "title": "КРЮКОХВАТ",
+    "hideTitle": false,
+    "titleImg": "https://img.genially.com/64da58787fae4900130ba6e4/35bc235b-705a-4d83-829e-3f07aec90654.png",
+    "win": "КВИЗ ПРОЙДЕН!",
+    "start": "СТАРТ",
+    "again": "ЕЩЁ РАЗ",
+    "btnSize": 5.5,
+    "btnY": 80,
+    "btnAnim": "pulse"
+  },
+  "visual": {
+    "bgTransparent": true,
+    "hero": "https://img.genially.com/64da58787fae4900130ba6e4/f4d9efd0-5ff5-40e2-95bd-1125658c9b32.png",
+    "hook": "hook.png",
+    "targets": [
+      "https://img.genially.com/64da58787fae4900130ba6e4/6449c53c-56cb-4b5d-a637-152dba37b774.png",
+      "https://img.genially.com/64da58787fae4900130ba6e4/e2cace84-1b9e-4be8-9038-36080673af91.png",
+      "https://img.genially.com/64da58787fae4900130ba6e4/b372fe90-a548-46e6-9864-a50edde7c9e5.png",
+      "https://img.genially.com/64da58787fae4900130ba6e4/78c7abed-f095-4bcd-8e4a-f2fd6df23f03.png"
+    ],
+    "targetSize": 74,
+    "ropeColor": "#7f8c8d",
+    "heroSize": 69,
+    "heroX": 0,
+    "hookSize": 32,
+    "hookOffsetY": 15,
+    "fontFamily": "Montserrat",
+    "qColor": "#ffffff",
+    "qBg": "#1a252f",
+    "qGlow": "#5b7671",
+    "qBorder": "both",
+    "qTextGlow": true,
+    "qSize": 4.5,
+    "tColor": "#ffffff",
+    "tBg": "#1a252f",
+    "tGlow": "#00ffcc",
+    "tBorder": "solid",
+    "tTextGlow": false,
+    "tSize": 22,
+    "hudColor": "#ffffff",
+    "hudBg": "#1a252f",
+    "hudGlow": "#00ffcc",
+    "hudBorder": "both",
+    "hudTextGlow": true,
+    "btnColor": "#ffffff",
+    "btnBg": "#e74c3c",
+    "btnGlow": "#c0392b",
+    "btnBorder": "both",
+    "btnTextGlow": false
+  },
+  "gameplay": {
+    "hookSpeed": 2,
+    "swingSpeed": 0.035,
+    "targetSpeed": 0.2
+  },
+  "tasks": [
+    {
+      "q": "480 + 270 = ?",
+      "correct": [
+        "750"
+      ],
+      "wrong": [
+        "740",
+        "760",
+        "770"
+      ]
+    },
+    {
+      "q": "900 − 460 = ?",
+      "correct": [
+        "440"
+      ],
+      "wrong": [
+        "430",
+        "450",
+        "460"
+      ]
+    },
+    {
+      "q": "36 × 4 = ?",
+      "correct": [
+        "144"
+      ],
+      "wrong": [
+        "124",
+        "134",
+        "154"
+      ]
+    },
+    {
+      "q": "144 : 6 = ?",
+      "correct": [
+        "24"
+      ],
+      "wrong": [
+        "22",
+        "26",
+        "28"
+      ]
+    },
+    {
+      "q": "На сколько 620 больше 380?",
+      "correct": [
+        "240"
+      ],
+      "wrong": [
+        "220",
+        "230",
+        "250"
+      ]
+    }
+  ]
+}
