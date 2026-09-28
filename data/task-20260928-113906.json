@@ -1,0 +1,118 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 84,
+  "sounds": {
+    "pop": "https://www.image2url.com/r2/default/audio/1790584728950-4df8d321-5855-449d-b1c5-3aec3de52207.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/62728927e0105b0018763bee/226dcf36-9e82-48ce-9f8c-daca7a523893.png",
+    "bubbleSize": 84,
+    "task": {
+      "bgColor": "rgba(240,111,25,1)",
+      "borderColor": "#612e05",
+      "textColor": "#453a3a",
+      "fontSize": 28,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#ed900c",
+      "borderColor": "#713e04",
+      "textColor": "#6d5050",
+      "fontSize": 28,
+      "neon": true,
+      "imageSize": 500
+    }
+  },
+  "finalFeedback": "Как много листочков ты поймал!",
+  "feedbackImage": "https://img.genially.com/62728927e0105b0018763bee/c6740aca-ace7-40f9-bcfb-096aeb70ade7.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "СТА",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "СТО",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "СПА",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "СКУ",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "КРА",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "КРО",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ГРА",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ГРУ",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ДРА",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ДРУ",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ТРА",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ТРО",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ПЛА",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "ПЛО",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "СНЕ",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
