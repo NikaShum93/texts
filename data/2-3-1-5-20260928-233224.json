@@ -1,0 +1,127 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#518ec8",
+  "speed": 5,
+  "questionFont": "PT Sans",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/6932db4901440d00075fb7f4/3a3271a6-0755-4b43-9d76-5d0894549c0b.png",
+    "bgImages": [
+      "https://img.genially.com/6932db4901440d00075fb7f4/3a3271a6-0755-4b43-9d76-5d0894549c0b.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 0,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Сложение десятичных дробей",
+    "btnText": "Начать"
+  },
+  "direction": "random",
+  "finalFeedback": "Молодец!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "2,3+1,5",
+      "correct": [
+        "3,8"
+      ],
+      "wrong": [
+        "2,8",
+        "38"
+      ]
+    },
+    {
+      "target": "4,07+3,8",
+      "correct": [
+        "7,87"
+      ],
+      "wrong": [
+        "7,77",
+        "8,87"
+      ]
+    },
+    {
+      "target": "0,6+0,29",
+      "correct": [
+        "0,89"
+      ],
+      "wrong": [
+        "0,86",
+        "0,85"
+      ]
+    },
+    {
+      "target": "15,4+2,35",
+      "correct": [
+        "17,75"
+      ],
+      "wrong": [
+        "17,7",
+        "18,4"
+      ]
+    },
+    {
+      "target": "7,003+5,9",
+      "correct": [
+        "12,903"
+      ],
+      "wrong": [
+        "12,93",
+        "12,9"
+      ]
+    },
+    {
+      "target": "1,12+8,7",
+      "correct": [
+        "9,82"
+      ],
+      "wrong": [
+        "9,8",
+        "9,87"
+      ]
+    },
+    {
+      "target": "0,045+0,95",
+      "correct": [
+        "0,995"
+      ],
+      "wrong": [
+        "0,994",
+        "0,94"
+      ]
+    },
+    {
+      "target": "3,25+6,08",
+      "correct": [
+        "9,33"
+      ],
+      "wrong": [
+        "9,38",
+        "9,65"
+      ]
+    },
+    {
+      "target": "9,1+0,073",
+      "correct": [
+        "9,173"
+      ],
+      "wrong": [
+        "9,17",
+        "9,37"
+      ]
+    }
+  ]
+}
