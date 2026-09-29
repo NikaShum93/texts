@@ -1,0 +1,137 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 30,
+  "textColor": "#ffedad",
+  "speed": 5,
+  "questionFont": "PT Sans",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rect",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/6932db4901440d00075fb7f4/67588c28-3e27-461c-8f65-c9f787019ec0.png",
+    "bgImages": [
+      "https://img.genially.com/6932db4901440d00075fb7f4/67588c28-3e27-461c-8f65-c9f787019ec0.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Лови кристаллы",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Ты молодец! Продолжаем",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "Сравни:4,52 и 4,520",
+      "correct": [
+        "="
+      ],
+      "wrong": [
+        ">",
+        "<"
+      ]
+    },
+    {
+      "target": "Сравни:7,09 и 7,9",
+      "correct": [
+        "<"
+      ],
+      "wrong": [
+        "=",
+        ">"
+      ]
+    },
+    {
+      "target": "Сравни:0,3 и 0,299",
+      "correct": [
+        ">"
+      ],
+      "wrong": [
+        "=",
+        "<"
+      ]
+    },
+    {
+      "target": "Сравни:12,5 и 12,48",
+      "correct": [
+        ">"
+      ],
+      "wrong": [
+        "=",
+        "<"
+      ]
+    },
+    {
+      "target": "Сравни:3,075 и 3,1",
+      "correct": [
+        "<"
+      ],
+      "wrong": [
+        "=",
+        ">"
+      ]
+    },
+    {
+      "target": "Сравни:0,6 и 0,599",
+      "correct": [
+        ">"
+      ],
+      "wrong": [
+        "=",
+        "<"
+      ]
+    },
+    {
+      "target": "Сравни:2,07 и 2,1",
+      "correct": [
+        "<"
+      ],
+      "wrong": [
+        "=",
+        ">"
+      ]
+    },
+    {
+      "target": "Сравни:0,7 и 0,69",
+      "correct": [
+        ">"
+      ],
+      "wrong": [
+        "=",
+        "<"
+      ]
+    },
+    {
+      "target": "Сравни:3 и 3,0",
+      "correct": [
+        "="
+      ],
+      "wrong": [
+        ">",
+        "<"
+      ]
+    },
+    {
+      "target": "Сравни:1,16 и 1,1599",
+      "correct": [
+        ">"
+      ],
+      "wrong": [
+        "=",
+        "<"
+      ]
+    }
+  ]
+}
