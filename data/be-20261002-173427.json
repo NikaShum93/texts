@@ -1,0 +1,143 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Bangers",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 120,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/6GZ00a8BB54AAAAi/corn-candy.gif",
+    "bubbleSize": 120,
+    "task": {
+      "bgColor": "rgba(253,168,18,1)",
+      "borderColor": "#f88a24",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://media.tenor.com/1L-bV0A8ogkAAAAi/pumpkin.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "be — ?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "have — ?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "do — ?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "say — ?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "go — ?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "can — ?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "get — ?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "make — ?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "know — ?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "think — ?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "take — ?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "see — ?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "come — ?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "want — ?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "look — ?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "use — ?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "find — ?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "give — ?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "tell — ?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "work — ?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
