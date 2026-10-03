@@ -1,0 +1,49 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "speed": 2,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImages": [
+      "https://img.genially.com/65a66a0db3c06500207bb5f3/a24f8bce-e776-4fb6-9d26-679072c16aac.png"
+    ],
+    "bgImage": "",
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 230
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Игра \"Поймай звук\"",
+    "btnText": "Начать"
+  },
+  "direction": "down",
+  "finalFeedback": "Отличная работа!",
+  "levels": [
+    {
+      "target": "букву У",
+      "correct": [
+        "У"
+      ],
+      "wrong": [
+        "А",
+        "И",
+        "С",
+        "М",
+        "О",
+        "Р"
+      ],
+      "timer": 60
+    }
+  ]
+}
