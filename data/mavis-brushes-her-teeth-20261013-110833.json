@@ -1,0 +1,98 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": true,
+  "bubbleSize": 132,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/b4d0d739-dea3-48f1-8d8b-0f0f1390767f.png",
+    "bubbleSize": 132,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#4facfe",
+      "borderColor": "#02f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Mavis brushes her teeth",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Johnny eats breakfast with monsters",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Johnny plays games after lunch",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Mavis flies around the castle",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Johnny goes to sleep late",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Johnny plays music in his room",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Johnny makes breakfast for Mavis",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Mavis reads books before bedtime.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Johnny explores the hotel every day",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Mavis spends time with Dracula",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Johnny takes photos of monsters",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
