@@ -1,0 +1,208 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Rubik",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 120,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/NwNFXKi--noAAAAi/lantern.gif",
+    "bubbleSize": 120,
+    "task": {
+      "bgColor": "rgba(108,94,133,1)",
+      "borderColor": "#a496bc",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#37376d",
+      "borderColor": "#a496bc",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://media.tenor.com/1L-bV0A8ogkAAAAi/pumpkin.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "This cape belongs to the witch. It is ___ cape.",
+      "correct": [
+        "her"
+      ],
+      "wrong": [
+        "my",
+        "your",
+        "his"
+      ]
+    },
+    {
+      "question": "The skeleton found a hat. It is ___ hat.",
+      "correct": [
+        "his"
+      ],
+      "wrong": [
+        "mine",
+        "their",
+        "our"
+      ]
+    },
+    {
+      "question": "The ghosts waved at ___.",
+      "correct": [
+        "you"
+      ],
+      "wrong": [
+        "your",
+        "his",
+        "mine"
+      ]
+    },
+    {
+      "question": "The vampire took ___ cloak.",
+      "correct": [
+        "his"
+      ],
+      "wrong": [
+        "she",
+        "he",
+        "yours"
+      ]
+    },
+    {
+      "question": "This pumpkin is ___.",
+      "correct": [
+        "mine"
+      ],
+      "wrong": [
+        "your",
+        "her",
+        "they"
+      ]
+    },
+    {
+      "question": "Whose scarf is this? It is ___.",
+      "correct": [
+        "hers"
+      ],
+      "wrong": [
+        "her",
+        "she",
+        "my"
+      ]
+    },
+    {
+      "question": "These candles belong to the kids. They are ___ candles.",
+      "correct": [
+        "their"
+      ],
+      "wrong": [
+        "theirs",
+        "ours",
+        "they"
+      ]
+    },
+    {
+      "question": "This map belongs to you. It is ___ map.",
+      "correct": [
+        "your"
+      ],
+      "wrong": [
+        "yours",
+        "their",
+        "our"
+      ]
+    },
+    {
+      "question": "The lantern glows; it is ___ lantern.",
+      "correct": [
+        "my"
+      ],
+      "wrong": [
+        "me",
+        "mine",
+        "I"
+      ]
+    },
+    {
+      "question": "We bought two masks. The masks are ___.",
+      "correct": [
+        "ours"
+      ],
+      "wrong": [
+        "our",
+        "us",
+        "them"
+      ]
+    },
+    {
+      "question": "The dress on the chair is ___.",
+      "correct": [
+        "hers"
+      ],
+      "wrong": [
+        "her",
+        "she",
+        "it"
+      ]
+    },
+    {
+      "question": "This spellbook is ___.",
+      "correct": [
+        "yours"
+      ],
+      "wrong": [
+        "your",
+        "my",
+        "her"
+      ]
+    },
+    {
+      "question": "The goblin whispered to ___.",
+      "correct": [
+        "me"
+      ],
+      "wrong": [
+        "my",
+        "I",
+        "he"
+      ]
+    },
+    {
+      "question": "The pirate's treasure map is ___.",
+      "correct": [
+        "ours"
+      ],
+      "wrong": [
+        "our",
+        "we",
+        "us"
+      ]
+    },
+    {
+      "question": "The cat wears a hat; it is ___ hat.",
+      "correct": [
+        "its"
+      ],
+      "wrong": [
+        "she",
+        "he",
+        "it"
+      ]
+    }
+  ]
+}
