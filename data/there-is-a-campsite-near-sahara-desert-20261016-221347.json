@@ -1,0 +1,208 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Rubik",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 120,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/SiiqEz1Y4usAAAAi/crysral.gif",
+    "bubbleSize": 120,
+    "task": {
+      "bgColor": "rgba(108,94,133,1)",
+      "borderColor": "#a496bc",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#37376d",
+      "borderColor": "#a496bc",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://media.tenor.com/1L-bV0A8ogkAAAAi/pumpkin.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "There is a campsite near____ Sahara Desert.",
+      "correct": [
+        "the"
+      ],
+      "wrong": [
+        "a",
+        "an",
+        "-"
+      ]
+    },
+    {
+      "question": "The witch is traveling across ____ Pacific Ocean to reach the lunar fair.",
+      "correct": [
+        "the"
+      ],
+      "wrong": [
+        "a",
+        "an",
+        "-"
+      ]
+    },
+    {
+      "question": "They climbed ____ Mount Everest during the dream challenge.",
+      "correct": [
+        "-"
+      ],
+      "wrong": [
+        "a",
+        "an",
+        "the"
+      ]
+    },
+    {
+      "question": "The ghost visited ____ Isle of Wight during the Halloween parade.",
+      "correct": [
+        "the"
+      ],
+      "wrong": [
+        "a",
+        "an",
+        "-"
+      ]
+    },
+    {
+      "question": "The Easter bunny travelled to ____ Easter Island last year.",
+      "correct": [
+        "-"
+      ],
+      "wrong": [
+        "a",
+        "an",
+        "the"
+      ]
+    },
+    {
+      "question": "The elf found the treasure in ____ Amazon rainforest.",
+      "correct": [
+        "the"
+      ],
+      "wrong": [
+        "a",
+        "an",
+        "-"
+      ]
+    },
+    {
+      "question": "They watched ____ Grand Canyon lights flicker.",
+      "correct": [
+        "the"
+      ],
+      "wrong": [
+        "a",
+        "an",
+        "-"
+      ]
+    },
+    {
+      "question": "The vampire studied ____ United States map for the festival.",
+      "correct": [
+        "the"
+      ],
+      "wrong": [
+        "a",
+        "an",
+        "-"
+      ]
+    },
+    {
+      "question": "The traveler traced a route through ____ Himalayas.",
+      "correct": [
+        "the"
+      ],
+      "wrong": [
+        "a",
+        "an",
+        "-"
+      ]
+    },
+    {
+      "question": "This is ____ Halloween snack recipe.",
+      "correct": [
+        "a"
+      ],
+      "wrong": [
+        "an",
+        "the",
+        "-"
+      ]
+    },
+    {
+      "question": "They found ____ treasure chest behind the cave.",
+      "correct": [
+        "a"
+      ],
+      "wrong": [
+        "an",
+        "the",
+        "-"
+      ]
+    },
+    {
+      "question": "The vampire wore ____ cloak to the party.",
+      "correct": [
+        "a"
+      ],
+      "wrong": [
+        "an",
+        "the",
+        "-"
+      ]
+    },
+    {
+      "question": "We saw ____ alien in the window.",
+      "correct": [
+        "an"
+      ],
+      "wrong": [
+        "a",
+        "the",
+        "-"
+      ]
+    },
+    {
+      "question": "I saw ____ ghost near the fence.",
+      "correct": [
+        "a"
+      ],
+      "wrong": [
+        "an",
+        "the",
+        "-"
+      ]
+    },
+    {
+      "question": "There was ____ elf under the tree.",
+      "correct": [
+        "an"
+      ],
+      "wrong": [
+        "a",
+        "the",
+        "-"
+      ]
+    }
+  ]
+}
