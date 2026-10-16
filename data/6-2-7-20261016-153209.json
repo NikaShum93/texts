@@ -1,0 +1,143 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 116,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://static.klipy.com/ii/c98c4a4935d23b95805f0befee091d8a/3b/9e/ppgfEITL.gif",
+    "bubbleSize": 116,
+    "task": {
+      "bgColor": "rgba(62,229,104,3)",
+      "borderColor": "#075f36",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#3ee568",
+      "borderColor": "#075f36",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉Молодец!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "6+2...7",
+      "correct": [
+        ">"
+      ],
+      "wrong": [
+        "<",
+        "="
+      ]
+    },
+    {
+      "question": "3+3..5",
+      "correct": [
+        ">"
+      ],
+      "wrong": [
+        "<",
+        "="
+      ]
+    },
+    {
+      "question": "7-2...4",
+      "correct": [
+        ">"
+      ],
+      "wrong": [
+        "<",
+        "="
+      ]
+    },
+    {
+      "question": "3+2...5",
+      "correct": [
+        "="
+      ],
+      "wrong": [
+        ">",
+        "<"
+      ]
+    },
+    {
+      "question": "7-3...5",
+      "correct": [
+        "<"
+      ],
+      "wrong": [
+        ">",
+        "="
+      ]
+    },
+    {
+      "question": "6+3...9",
+      "correct": [
+        "="
+      ],
+      "wrong": [
+        ">",
+        "<"
+      ]
+    },
+    {
+      "question": "8-4...5",
+      "correct": [
+        "<"
+      ],
+      "wrong": [
+        ">",
+        "="
+      ]
+    },
+    {
+      "question": "6+3...8",
+      "correct": [
+        ">"
+      ],
+      "wrong": [
+        "<",
+        "="
+      ]
+    },
+    {
+      "question": "8-1...7",
+      "correct": [
+        "="
+      ],
+      "wrong": [
+        ">",
+        "<"
+      ]
+    },
+    {
+      "question": "5+4...8",
+      "correct": [
+        ">"
+      ],
+      "wrong": [
+        "<",
+        "="
+      ]
+    }
+  ]
+}
