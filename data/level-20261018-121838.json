@@ -1,0 +1,307 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 24,
+  "textColor": "#184e35",
+  "speed": 1,
+  "questionFont": "PT Sans",
+  "questionFontSize": 26,
+  "style": {
+    "shape": "rounded",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/65a66a0db3c06500207bb5f3/90ac7ba8-c5b1-4c27-89d1-faed1dd6c26a.png",
+    "bgImages": [
+      "https://img.genially.com/65a66a0db3c06500207bb5f3/90ac7ba8-c5b1-4c27-89d1-faed1dd6c26a.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 160
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Найди пару",
+    "btnText": "Начать"
+  },
+  "direction": "random",
+  "finalFeedback": "Отличная работа!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "А",
+      "correct": [
+        "А"
+      ],
+      "wrong": [
+        "У",
+        "О",
+        "М",
+        "С"
+      ]
+    },
+    {
+      "target": "У",
+      "correct": [
+        "У"
+      ],
+      "wrong": [
+        "А",
+        "О",
+        "М",
+        "С"
+      ]
+    },
+    {
+      "target": "О",
+      "correct": [
+        "О"
+      ],
+      "wrong": [
+        "А",
+        "У",
+        "М",
+        "С"
+      ]
+    },
+    {
+      "target": "М",
+      "correct": [
+        "М"
+      ],
+      "wrong": [
+        "А",
+        "У",
+        "О",
+        "С"
+      ]
+    },
+    {
+      "target": "С",
+      "correct": [
+        "С"
+      ],
+      "wrong": [
+        "А",
+        "У",
+        "О",
+        "М"
+      ]
+    },
+    {
+      "target": "АУ",
+      "correct": [
+        "АУ"
+      ],
+      "wrong": [
+        "АО",
+        "УА"
+      ]
+    },
+    {
+      "target": "УА",
+      "correct": [
+        "УА"
+      ],
+      "wrong": [
+        "АО",
+        "АУ"
+      ]
+    },
+    {
+      "target": "АО",
+      "correct": [
+        "АО"
+      ],
+      "wrong": [
+        "ОА",
+        "УА"
+      ]
+    },
+    {
+      "target": "ОА",
+      "correct": [
+        "ОА"
+      ],
+      "wrong": [
+        "АО",
+        "УА"
+      ]
+    },
+    {
+      "target": "УО",
+      "correct": [
+        "УО"
+      ],
+      "wrong": [
+        "ОУ",
+        "УА"
+      ]
+    },
+    {
+      "target": "ОУ",
+      "correct": [
+        "ОУ"
+      ],
+      "wrong": [
+        "АО",
+        "УО"
+      ]
+    },
+    {
+      "target": "МА",
+      "correct": [
+        "МА"
+      ],
+      "wrong": [
+        "АМ",
+        "МУ"
+      ]
+    },
+    {
+      "target": "АМ",
+      "correct": [
+        "АМ"
+      ],
+      "wrong": [
+        "МА",
+        "УМ"
+      ]
+    },
+    {
+      "target": "МО",
+      "correct": [
+        "МО"
+      ],
+      "wrong": [
+        "ОМ",
+        "МА"
+      ]
+    },
+    {
+      "target": "ОМ",
+      "correct": [
+        "ОМ"
+      ],
+      "wrong": [
+        "МО",
+        "МУ"
+      ]
+    },
+    {
+      "target": "МУ",
+      "correct": [
+        "МУ"
+      ],
+      "wrong": [
+        "МО",
+        "МА"
+      ]
+    },
+    {
+      "target": "УМ",
+      "correct": [
+        "УМ"
+      ],
+      "wrong": [
+        "ОМ",
+        "МУ"
+      ]
+    },
+    {
+      "target": "СА",
+      "correct": [
+        "СА"
+      ],
+      "wrong": [
+        "АС",
+        "СУ"
+      ]
+    },
+    {
+      "target": "АС",
+      "correct": [
+        "АС"
+      ],
+      "wrong": [
+        "СА",
+        "СУ"
+      ]
+    },
+    {
+      "target": "СО",
+      "correct": [
+        "СО"
+      ],
+      "wrong": [
+        "ОС",
+        "УС"
+      ]
+    },
+    {
+      "target": "ОС",
+      "correct": [
+        "ОС"
+      ],
+      "wrong": [
+        "СО",
+        "УС"
+      ]
+    },
+    {
+      "target": "СУ",
+      "correct": [
+        "СУ"
+      ],
+      "wrong": [
+        "СО",
+        "УС"
+      ]
+    },
+    {
+      "target": "УС",
+      "correct": [
+        "УС"
+      ],
+      "wrong": [
+        "АС",
+        "СУ"
+      ]
+    },
+    {
+      "target": "МАМА",
+      "correct": [
+        "МАМА"
+      ],
+      "wrong": [
+        "МА",
+        "САМА"
+      ]
+    },
+    {
+      "target": "САМА",
+      "correct": [
+        "САМА"
+      ],
+      "wrong": [
+        "МАСА",
+        "САМ"
+      ]
+    },
+    {
+      "target": "ОСА",
+      "correct": [
+        "ОСА"
+      ],
+      "wrong": [
+        "СОМ",
+        "САМ"
+      ]
+    }
+  ]
+}
