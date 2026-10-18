@@ -1,0 +1,68 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": true,
+  "bubbleSize": 78,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/gV7kT67HaDYAAAAi/bat-paniki.gif",
+    "bubbleSize": 78,
+    "task": {
+      "bgColor": "rgba(0,0,0,1)",
+      "borderColor": "#e32400",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉Let's try another one!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 3,
+  "tasks": [
+    {
+      "question": "His coffee is too cold.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "This outfit is too casual for the date.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The suit isn't festive enough for the date.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The outfit is too boring to impress Ms Luna Moonspell.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The Count looks too tired in this outfit.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
