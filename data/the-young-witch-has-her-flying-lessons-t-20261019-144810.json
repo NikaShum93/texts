@@ -1,0 +1,148 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Rubik",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 120,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/Lm1cRGcjoaYAAAAi/compas.gif",
+    "bubbleSize": 120,
+    "task": {
+      "bgColor": "rgba(108,94,133,1)",
+      "borderColor": "#a496bc",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#37376d",
+      "borderColor": "#a496bc",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://media.tenor.com/1L-bV0A8ogkAAAAi/pumpkin.gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "The young witch has her flying lessons ___ Tuesday mornings (in/on/at/by).",
+      "correct": [
+        "on"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The vampire hates waking up early, so he stays in bed ___ noon (until/on/in/during).",
+      "correct": [
+        "until"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "There is a cozy coffee shop right ___ the haunted library and the post office (among/inside/between/next).",
+      "correct": [
+        "between"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The skeleton accidentally left his biology textbook ___ the bus (in/at/on/by).",
+      "correct": [
+        "on"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The werewolf always gets a haircut ___ the end of the month (in/on/at/to).",
+      "correct": [
+        "at"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The ghost waited for his friends ___ the cinema entrance for twenty minutes (at/on/in/above).",
+      "correct": [
+        "at"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The mummy’s ancient family moved to this town ___ the 19th century (on/at/in/since).",
+      "correct": [
+        "in"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The little goblin hid ___ the sofa because he didn't want to brush his teeth (in/behind/between/at).",
+      "correct": [
+        "behind"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Most bats prefer to sleep ___ the day and work ___ night (in-on/during-at/at-in/on-during).",
+      "correct": [
+        "during-at"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The zombie’s apartment is ___ the third floor of that modern building (in/at/on/over).",
+      "correct": [
+        "on"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Look! A black cat is sitting ___ the roof of the supermarket (in/on/at/into).",
+      "correct": [
+        "on"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The witch’s broomstick was repaired ___ October 15th (in/at/on/from).",
+      "correct": [
+        "on"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We usually go camping in the Witch’s Woods ___ autumn (on/at/in/during).",
+      "correct": [
+        "in"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The vampire hung his favorite mirror ___ the fireplace in the living room (under/above/between/in).",
+      "correct": [
+        "above"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Hurry up! The monster train leaves ___ ten minutes! (at/on/in/for)",
+      "correct": [
+        "in"
+      ],
+      "wrong": []
+    }
+  ]
+}
