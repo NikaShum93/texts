@@ -1,0 +1,193 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 114,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/G2R2rhPk/2.png",
+    "bubbleSize": 114,
+    "task": {
+      "bgColor": "rgba(24,31,37,1)",
+      "borderColor": "#450585",
+      "textColor": "#ffffff",
+      "fontSize": 36,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#2d1466",
+      "textColor": "#ffffff",
+      "fontSize": 36,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "My birthday is ___ May.",
+      "correct": [
+        "in"
+      ],
+      "wrong": [
+        "on",
+        "at"
+      ]
+    },
+    {
+      "question": "We have English lessons ___ Monday.",
+      "correct": [
+        "on"
+      ],
+      "wrong": [
+        "in",
+        "at"
+      ]
+    },
+    {
+      "question": "I usually get up ___ 7 o'clock.",
+      "correct": [
+        "at"
+      ],
+      "wrong": [
+        "in",
+        "on"
+      ]
+    },
+    {
+      "question": "It often snows ___ winter.",
+      "correct": [
+        "in"
+      ],
+      "wrong": [
+        "on",
+        "at"
+      ]
+    },
+    {
+      "question": "She goes to bed ___ night.",
+      "correct": [
+        "at"
+      ],
+      "wrong": [
+        "in",
+        "on"
+      ]
+    },
+    {
+      "question": "We have a big dinner ___ Christmas Day.",
+      "correct": [
+        "on"
+      ],
+      "wrong": [
+        "in",
+        "at"
+      ]
+    },
+    {
+      "question": "My parents got married ___ 2010.",
+      "correct": [
+        "in"
+      ],
+      "wrong": [
+        "on",
+        "at"
+      ]
+    },
+    {
+      "question": "I do my homework ___ the afternoon.",
+      "correct": [
+        "in"
+      ],
+      "wrong": [
+        "on",
+        "at"
+      ]
+    },
+    {
+      "question": "The film starts ___ half past six.",
+      "correct": [
+        "at"
+      ],
+      "wrong": [
+        "in",
+        "on"
+      ]
+    },
+    {
+      "question": "We visit our grandparents ___ Sundays.",
+      "correct": [
+        "on"
+      ],
+      "wrong": [
+        "in",
+        "at"
+      ]
+    },
+    {
+      "question": "Flowers bloom ___ spring.",
+      "correct": [
+        "in"
+      ],
+      "wrong": [
+        "on",
+        "at"
+      ]
+    },
+    {
+      "question": "The party is ___ Friday evening.",
+      "correct": [
+        "on"
+      ],
+      "wrong": [
+        "in",
+        "at"
+      ]
+    },
+    {
+      "question": "He usually has breakfast ___ the morning.",
+      "correct": [
+        "in"
+      ],
+      "wrong": [
+        "on",
+        "at"
+      ]
+    },
+    {
+      "question": "We celebrate New Year ___ midnight.",
+      "correct": [
+        "at"
+      ],
+      "wrong": [
+        "in",
+        "on"
+      ]
+    },
+    {
+      "question": "My sister was born ___ 12 August.",
+      "correct": [
+        "on"
+      ],
+      "wrong": [
+        "in",
+        "at"
+      ]
+    }
+  ]
+}
