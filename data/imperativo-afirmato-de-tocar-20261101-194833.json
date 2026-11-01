@@ -1,0 +1,83 @@
+{
+  "language": "es",
+  "lang": "es",
+  "font": "Poppins",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://static.klipy.com/ii/4184567b4c2af0d810857689fd514076/55/49/c15gCV9otFTqD0h.gif",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉¡genio!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Imperativo afirmato de: tocar",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Imperativo negativo de: cortar",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Imperativo afirmato de: cocinar",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Imperativo negativo de: hervir",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Imperativo afirmato de: añadir",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Imperativo negativo de: ir",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Imperativo afirmato de: hornear",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Imperativo negativo de: mezclar",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
