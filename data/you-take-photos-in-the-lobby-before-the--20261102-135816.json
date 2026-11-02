@@ -1,0 +1,81 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Poppins",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/nrj6bGKr/images-Photoroom.png",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(230,59,122,1)",
+      "borderColor": "#ffb5af",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "You ...  take photos in the lobby before the performance.",
+      "correct": [
+        "should"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "You ... take pictures during the ballet to make interesting content, because there will be a professional photographer.",
+      "correct": [
+        "don't have to",
+        "don't need to",
+        "needn't"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Before taking a photo you ...  ask the theatre staff about a special photo opportunity.",
+      "correct": [
+        "should"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "You ... leave Princess Coco with an approved pet sitter outside the theatre.",
+      "correct": [
+        "have to",
+        "need to"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "You ... interrupt the dancers: it is not a good idea.",
+      "correct": [
+        "shouldn't"
+      ],
+      "wrong": []
+    }
+  ]
+}
