@@ -1,0 +1,97 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Poppins",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://i.postimg.cc/C1hTW0Xy/illustration-graphic-cartoon-of-a-cute-red-lipstick-free-vector-Photoroom.png",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(230,59,122,1)",
+      "borderColor": "#ffb5af",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Find the correct ballet shoes",
+      "correct": [
+        "have to do now"
+      ],
+      "wrong": [
+        "don't have to do now"
+      ]
+    },
+    {
+      "question": "Give each dancer the correct costume",
+      "correct": [
+        "have to do now"
+      ],
+      "wrong": [
+        "don't have to do now"
+      ]
+    },
+    {
+      "question": "Repair a broken costume strap",
+      "correct": [
+        "have to do now"
+      ],
+      "wrong": [
+        "don't have to do now"
+      ]
+    },
+    {
+      "question": "Clean all dressing-room mirrors",
+      "correct": [
+        "don't have to do now"
+      ],
+      "wrong": [
+        "have to do now"
+      ]
+    },
+    {
+      "question": "Organise costume boxes by colour",
+      "correct": [
+        "don't have to do now"
+      ],
+      "wrong": [
+        "have to do now"
+      ]
+    },
+    {
+      "question": "Prepare spare hairpins",
+      "correct": [
+        "sholud do if possible"
+      ],
+      "wrong": [
+        "shouldn't do"
+      ]
+    }
+  ]
+}
