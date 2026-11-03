@@ -1,0 +1,93 @@
+{
+  "language": "ru",
+  "lang": "ru",
+  "font": "Rubik",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://static.klipy.com/ii/c98c4a4935d23b95805f0befee091d8a/b0/21/r9xp1FxT.gif",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(79,172,254,1)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "¡Muy bien!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "¿Puedes cocinar?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "¿Sabes hervir agua para la pasta?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "¿Cuál es tu snack crujiente y salado favorito?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "¿Te gusta la comida picante?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Compras una hamburguesa... ¿la carne es jugosa o seca?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "¿Añades extra queso a tus comidas?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Cuando ayudas en la cocina, ¿prefieres pelar las patatas o cortar la cebolla?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "¿Te gusta la bebida dulce? ¿Qué pasa cuando derramas esa bebida y las manos quedan pegajosas?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "A algunas personas les gusta el café... ¿tú que piensas? ¿Crees es demasiado amargo?",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "¿Te gusta comer el limón o prefieres el chocolate picante?",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
