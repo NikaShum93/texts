@@ -1,0 +1,178 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 112,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/db447e1f-181a-47d5-bacd-e64d51188bb3.png",
+    "bubbleSize": 112,
+    "task": {
+      "bgColor": "rgba(194,58,0,0)",
+      "borderColor": "#ffa200",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#c23a01",
+      "borderColor": "#ffa201",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "Great job!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 2,
+  "tasks": [
+    {
+      "question": "How ______ apples have you got?",
+      "correct": [
+        "many"
+      ],
+      "wrong": [
+        "much"
+      ]
+    },
+    {
+      "question": "How ______ milk do you drink every day?",
+      "correct": [
+        "much"
+      ],
+      "wrong": [
+        "many"
+      ]
+    },
+    {
+      "question": "How ______ bananas are there?",
+      "correct": [
+        "many"
+      ],
+      "wrong": [
+        "much"
+      ]
+    },
+    {
+      "question": "How ______ water is in the bottle?",
+      "correct": [
+        "much"
+      ],
+      "wrong": [
+        "many"
+      ]
+    },
+    {
+      "question": "How ______ books have you got?",
+      "correct": [
+        "many"
+      ],
+      "wrong": [
+        "much"
+      ]
+    },
+    {
+      "question": "How ______ sugar do you need?",
+      "correct": [
+        "much"
+      ],
+      "wrong": [
+        "many"
+      ]
+    },
+    {
+      "question": "How ______ friends have you got?",
+      "correct": [
+        "many"
+      ],
+      "wrong": [
+        "much"
+      ]
+    },
+    {
+      "question": "How ______ cheese is there in the fridge?",
+      "correct": [
+        "much"
+      ],
+      "wrong": [
+        "many"
+      ]
+    },
+    {
+      "question": "How ______ eggs do we need?",
+      "correct": [
+        "many"
+      ],
+      "wrong": [
+        "much"
+      ]
+    },
+    {
+      "question": "How ______ money have you got?",
+      "correct": [
+        "much"
+      ],
+      "wrong": [
+        "many"
+      ]
+    },
+    {
+      "question": "How ______ tomatoes are there?",
+      "correct": [
+        "many"
+      ],
+      "wrong": [
+        "much"
+      ]
+    },
+    {
+      "question": "How ______ juice do you want?",
+      "correct": [
+        "much"
+      ],
+      "wrong": [
+        "many"
+      ]
+    },
+    {
+      "question": "How ______ toys has your brother got?",
+      "correct": [
+        "many"
+      ],
+      "wrong": [
+        "much"
+      ]
+    },
+    {
+      "question": "How ______ bread do we need?",
+      "correct": [
+        "much"
+      ],
+      "wrong": [
+        "many"
+      ]
+    },
+    {
+      "question": "How ______ students are in your class?",
+      "correct": [
+        "many"
+      ],
+      "wrong": [
+        "much"
+      ]
+    }
+  ]
+}
