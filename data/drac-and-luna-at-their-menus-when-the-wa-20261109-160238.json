@@ -1,0 +1,88 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Poppins",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 80,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://media.tenor.com/i6StGTWwVNkAAAAi/ghost-white.gif",
+    "bubbleSize": 80,
+    "task": {
+      "bgColor": "rgba(123,33,159,1)",
+      "borderColor": "#1a0a53",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 2,
+  "tasks": [
+    {
+      "question": "Drac and Luna ...  at their menus when the waiter arrived.",
+      "correct": [
+        "were looking"
+      ],
+      "wrong": [
+        "looked"
+      ]
+    },
+    {
+      "question": "The waiter ... the soup when the ghost appeared.",
+      "correct": [
+        "was carrying"
+      ],
+      "wrong": [
+        "carried"
+      ]
+    },
+    {
+      "question": "The ghost ... where it was going.",
+      "correct": [
+        "wasn't looking"
+      ],
+      "wrong": [
+        "looked"
+      ]
+    },
+    {
+      "question": "The waiter ...  the bowl.",
+      "correct": [
+        "dropped"
+      ],
+      "wrong": [
+        "was dropping"
+      ]
+    },
+    {
+      "question": "While Drac was trying to clean his cape, Luna ... laughing.",
+      "correct": [
+        "started"
+      ],
+      "wrong": [
+        "was starting"
+      ]
+    }
+  ]
+}
