@@ -1,0 +1,113 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 160,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/e2e940a9-555b-4b15-a20e-2470cd4aaa83.png",
+    "bubbleSize": 160,
+    "task": {
+      "bgColor": "rgba(11,162,132,0.85)",
+      "borderColor": "#00ffcc",
+      "textColor": "#ffffff",
+      "fontSize": 27,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#0aa284",
+      "borderColor": "#06fbcc",
+      "textColor": "#ffffff",
+      "fontSize": 27,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "There aren't ______ cucumbers in the fridge.",
+      "correct": [
+        "many"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We haven't got ______ tea.",
+      "correct": [
+        "much"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "How ______ onions do you need?",
+      "correct": [
+        "many"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "There isn't ______ ice cream in the bowl.",
+      "correct": [
+        "much"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Are there ______ peaches in the basket?",
+      "correct": [
+        "many"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I don't drink ______ coffee.",
+      "correct": [
+        "much"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "How ______ bottles of milk are there?",
+      "correct": [
+        "many"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "There isn't ______ honey in the jar.",
+      "correct": [
+        "much"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Have you got ______ potatoes?",
+      "correct": [
+        "many"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We haven't got ______ lemonade.",
+      "correct": [
+        "much"
+      ],
+      "wrong": []
+    }
+  ]
+}
