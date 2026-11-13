@@ -1,0 +1,151 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 146,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/459e6023-967f-4de0-92e7-6366a343d914.png",
+    "bubbleSize": 146,
+    "task": {
+      "bgColor": "rgba(191,26,23,0.85)",
+      "borderColor": "#e62e2d",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#bf1a17",
+      "borderColor": "#e62e2d",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 2,
+  "tasks": [
+    {
+      "question": "_________ a green monster in the city",
+      "correct": [
+        "There is"
+      ],
+      "wrong": [
+        "There are"
+      ]
+    },
+    {
+      "question": "_________ three presents under the tree",
+      "correct": [
+        "There are"
+      ],
+      "wrong": [
+        "There is"
+      ]
+    },
+    {
+      "question": "_________ a big cave on the mountain",
+      "correct": [
+        "There is"
+      ],
+      "wrong": [
+        "There are"
+      ]
+    },
+    {
+      "question": "_________ many lights in the city",
+      "correct": [
+        "There are"
+      ],
+      "wrong": [
+        "There is"
+      ]
+    },
+    {
+      "question": "_________ a little girl near the house",
+      "correct": [
+        "There is"
+      ],
+      "wrong": [
+        "There are"
+      ]
+    },
+    {
+      "question": "_________ two reindeer in the snow",
+      "correct": [
+        "There are"
+      ],
+      "wrong": [
+        "There is"
+      ]
+    },
+    {
+      "question": "_________ a Christmas tree in Cindy's house",
+      "correct": [
+        "There is"
+      ],
+      "wrong": [
+        "There are"
+      ]
+    },
+    {
+      "question": "_________ many colourful balloons in the city",
+      "correct": [
+        "There are"
+      ],
+      "wrong": [
+        "There is"
+      ]
+    },
+    {
+      "question": "_________ a small dog next to him",
+      "correct": [
+        "There is"
+      ],
+      "wrong": [
+        "There are"
+      ]
+    },
+    {
+      "question": "_________ some cookies on the table",
+      "correct": [
+        "There are"
+      ],
+      "wrong": [
+        "There is"
+      ]
+    },
+    {
+      "question": "_________ a big red bag in the sleigh",
+      "correct": [
+        "There is"
+      ],
+      "wrong": [
+        "There are"
+      ]
+    },
+    {
+      "question": "_________ many happy children at Christmas",
+      "correct": [
+        "There are"
+      ],
+      "wrong": [
+        "There is"
+      ]
+    }
+  ]
+}
