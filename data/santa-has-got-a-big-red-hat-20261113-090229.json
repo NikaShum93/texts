@@ -1,0 +1,103 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": true,
+  "bubbleSize": 146,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/ffb49b33-e351-437a-9331-a5a736c0fbe6.png",
+    "bubbleSize": 146,
+    "task": {
+      "bgColor": "rgba(153,197,58,0.85)",
+      "borderColor": "#477c4a",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#99c53a",
+      "borderColor": "#477c4a",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Santa has got a big red hat",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I have got a Christmas tree",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My mum has got a red dress",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We have got many presents",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The snowman has got a carrot nose",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My brother has got a toy car",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The elf has got green shoes",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "They have got new Christmas cards",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Santa has got a big bag",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I have got a small teddy bear",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The Christmas tree has got gold stars",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We have got a happy family",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
