@@ -1,0 +1,124 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 140,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/7533b790-2c22-4c2d-948e-84154ff1116d.png",
+    "bubbleSize": 140,
+    "task": {
+      "bgColor": "rgba(151,75,12,1)",
+      "borderColor": "#d7a028",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#131316",
+      "borderColor": "#e67e22",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 550
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://img.genially.com/69280f411dd3350008276459/e68efd4b-3852-4ebf-9350-d15bb1d446fc.png",
+  "feedbackEnabled": true,
+  "feedbackMode": "image",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 2,
+  "tasks": [
+    {
+      "question": "I ___ the turkey when my aunt arrived.",
+      "correct": [
+        "was preparing"
+      ],
+      "wrong": [
+        "prepared"
+      ]
+    },
+    {
+      "question": "My mother ___ dinner at 5 o'clock.",
+      "correct": [
+        "was cooking"
+      ],
+      "wrong": [
+        "cooked"
+      ]
+    },
+    {
+      "question": "The children ___ in the garden when it started to rain.",
+      "correct": [
+        "were playing"
+      ],
+      "wrong": [
+        "played"
+      ]
+    },
+    {
+      "question": "My dad ___ a plate while he was washing the dishes.",
+      "correct": [
+        "dropped"
+      ],
+      "wrong": [
+        "was dropping"
+      ]
+    },
+    {
+      "question": "What ___ when the guests arrived?",
+      "correct": [
+        "were you doing"
+      ],
+      "wrong": [
+        "did you do"
+      ]
+    },
+    {
+      "question": "We were watching the Thanksgiving parade when the phone ___.",
+      "correct": [
+        "rang"
+      ],
+      "wrong": [
+        "was ringing"
+      ]
+    },
+    {
+      "question": "My cousins ___ when dinner started.",
+      "correct": [
+        "were talking"
+      ],
+      "wrong": [
+        "talked"
+      ]
+    },
+    {
+      "question": "I ___ to buy cranberry sauce yesterday.",
+      "correct": [
+        "forgot"
+      ],
+      "wrong": [
+        "was forgetting"
+      ]
+    },
+    {
+      "question": "It was snowing when we ___ home for Thanksgiving dinner.",
+      "correct": [
+        "left"
+      ],
+      "wrong": [
+        "were leaving"
+      ]
+    }
+  ]
+}
