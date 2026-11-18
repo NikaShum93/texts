@@ -1,0 +1,103 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "text",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 148,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/7b705f8a-0ca0-4eb1-a69c-9aa0f3689a21.png",
+    "bubbleSize": 148,
+    "task": {
+      "bgColor": "rgba(107,143,56,0.85)",
+      "borderColor": "#325439",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#6b8f38",
+      "borderColor": "#325439",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "Dipper has got a blue cap. ______ cap is very special.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Mabel has got a pink sweater. ______ sweater is colourful.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Grunkle Stan has got a mystery shop. ______ shop is called the Mystery Shack.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Wendy has got a red shirt. ______ shirt is very cool.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Soos has got a big backpack. ______ backpack is full of tools.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Waddles is Mabel's pig. ______ nose is pink.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Dipper and Mabel are twins. ______ parents live far away.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Ford has got many books. ______ books are very interesting.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "I love Gravity Falls! ______ favourite character is Mabel.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "We are in the Mystery Shack. ______ adventure is amazing!",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "You have got a Journal. ______ Journal is full of secrets.",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Pacifica and Gideon have got big houses. ______ houses are very beautiful.",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
