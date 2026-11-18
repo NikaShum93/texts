@@ -1,0 +1,151 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 148,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/32e3175b-22fb-4753-b1ca-c57805e12b79.png",
+    "bubbleSize": 148,
+    "task": {
+      "bgColor": "rgba(207,70,77,0.85)",
+      "borderColor": "#f9d8df",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#cf464d",
+      "borderColor": "#f9d8df",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "You ______ throw rubbish on the street.",
+      "correct": [
+        "mustn't"
+      ],
+      "wrong": [
+        "must"
+      ]
+    },
+    {
+      "question": "You ______ brush your teeth every day.",
+      "correct": [
+        "must"
+      ],
+      "wrong": [
+        "mustn't"
+      ]
+    },
+    {
+      "question": "You ______ be kind to other people.",
+      "correct": [
+        "must"
+      ],
+      "wrong": [
+        "mustn't"
+      ]
+    },
+    {
+      "question": "You ______ run across the road.",
+      "correct": [
+        "mustn't"
+      ],
+      "wrong": [
+        "must"
+      ]
+    },
+    {
+      "question": "You ______ wear a seat belt in the car.",
+      "correct": [
+        "must"
+      ],
+      "wrong": [
+        "mustn't"
+      ]
+    },
+    {
+      "question": "You ______ feed animals in the zoo.",
+      "correct": [
+        "mustn't"
+      ],
+      "wrong": [
+        "must"
+      ]
+    },
+    {
+      "question": "You ______ listen to your teacher at school.",
+      "correct": [
+        "must"
+      ],
+      "wrong": [
+        "mustn't"
+      ]
+    },
+    {
+      "question": "You ______ write on the walls.",
+      "correct": [
+        "mustn't"
+      ],
+      "wrong": [
+        "must"
+      ]
+    },
+    {
+      "question": "You ______ wash your hands before eating.",
+      "correct": [
+        "must"
+      ],
+      "wrong": [
+        "mustn't"
+      ]
+    },
+    {
+      "question": "You ______ pick flowers in the park.",
+      "correct": [
+        "mustn't"
+      ],
+      "wrong": [
+        "must"
+      ]
+    },
+    {
+      "question": "You ______ help your parents at home.",
+      "correct": [
+        "must"
+      ],
+      "wrong": [
+        "mustn't"
+      ]
+    },
+    {
+      "question": "You ______ shout in the library.",
+      "correct": [
+        "mustn't"
+      ],
+      "wrong": [
+        "must"
+      ]
+    }
+  ]
+}
