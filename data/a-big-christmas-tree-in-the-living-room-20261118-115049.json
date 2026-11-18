@@ -1,0 +1,151 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "quiz",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 148,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/6b41f7aa-b381-45dc-8b97-ea5b41578177.png",
+    "bubbleSize": 148,
+    "task": {
+      "bgColor": "rgba(107,143,56,0.85)",
+      "borderColor": "#ffe433",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#6b8f38",
+      "borderColor": "#ffe433",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 2,
+  "tasks": [
+    {
+      "question": "__________ a big Christmas tree in the living room.",
+      "correct": [
+        "There is"
+      ],
+      "wrong": [
+        "There are"
+      ]
+    },
+    {
+      "question": "__________ three snowmen in the garden.",
+      "correct": [
+        "There are"
+      ],
+      "wrong": [
+        "There is"
+      ]
+    },
+    {
+      "question": "__________ some presents under the Christmas tree.",
+      "correct": [
+        "There are"
+      ],
+      "wrong": [
+        "There is"
+      ]
+    },
+    {
+      "question": "__________ a star on top of the tree.",
+      "correct": [
+        "There is"
+      ],
+      "wrong": [
+        "There are"
+      ]
+    },
+    {
+      "question": "__________ two reindeer near Santa's house.",
+      "correct": [
+        "There are"
+      ],
+      "wrong": [
+        "There is"
+      ]
+    },
+    {
+      "question": "__________ a lot of snow in the garden.",
+      "correct": [
+        "There is"
+      ],
+      "wrong": [
+        "There are"
+      ]
+    },
+    {
+      "question": "__________ five Christmas stockings on the wall.",
+      "correct": [
+        "There are"
+      ],
+      "wrong": [
+        "There is"
+      ]
+    },
+    {
+      "question": "__________ a snowman in front of the house.",
+      "correct": [
+        "There is"
+      ],
+      "wrong": [
+        "There are"
+      ]
+    },
+    {
+      "question": "__________ some candles on the table.",
+      "correct": [
+        "There are"
+      ],
+      "wrong": [
+        "There is"
+      ]
+    },
+    {
+      "question": "__________ a beautiful Christmas card on the desk.",
+      "correct": [
+        "There is"
+      ],
+      "wrong": [
+        "There are"
+      ]
+    },
+    {
+      "question": "__________ many colourful lights in the street.",
+      "correct": [
+        "There are"
+      ],
+      "wrong": [
+        "There is"
+      ]
+    },
+    {
+      "question": "__________ a big snowflake on the window.",
+      "correct": [
+        "There is"
+      ],
+      "wrong": [
+        "There are"
+      ]
+    }
+  ]
+}
