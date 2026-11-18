@@ -1,0 +1,103 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "order",
+  "orderMode": true,
+  "lockNext": true,
+  "bubbleSize": 148,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/a3353438-3385-47a4-ba72-a3b1189fa4b8.png",
+    "bubbleSize": 148,
+    "task": {
+      "bgColor": "rgba(107,143,56,0.85)",
+      "borderColor": "#325439",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#6b8f38",
+      "borderColor": "#325439",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "🎉 Well Done!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "both",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "It is cold today",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The snow is white",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Santa is happy",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The tree is beautiful",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The presents are under the tree",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The reindeer are fast",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My hat is red",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The children are happy",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The snowman is in the garden",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "The Christmas lights are bright",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "My friends are at home",
+      "correct": [],
+      "wrong": []
+    },
+    {
+      "question": "Winter is my favourite season",
+      "correct": [],
+      "wrong": []
+    }
+  ]
+}
