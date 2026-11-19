@@ -1,0 +1,148 @@
+{
+  "language": "en",
+  "lang": "en",
+  "font": "Inter",
+  "mode": "input",
+  "orderMode": false,
+  "lockNext": true,
+  "bubbleSize": 130,
+  "sounds": {
+    "pop": "https://nikashum93.github.io/utki/pop.mp3",
+    "open": "https://nikashum93.github.io/utki/open.mp3",
+    "correct": "https://nikashum93.github.io/utki/correct.mp3",
+    "wrong": ""
+  },
+  "style": {
+    "bgImage": "https://img.genially.com/69280f411dd3350008276459/89f1c4ee-a907-4f34-a034-6d58f584887b.png",
+    "bubbleSize": 130,
+    "task": {
+      "bgColor": "rgba(79,172,254,0.85)",
+      "borderColor": "#00f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true
+    },
+    "feedback": {
+      "bgColor": "#4facfe",
+      "borderColor": "#02f2fe",
+      "textColor": "#ffffff",
+      "fontSize": 22,
+      "neon": true,
+      "imageSize": 300
+    }
+  },
+  "finalFeedback": "Amazing!",
+  "feedbackImage": "https://i.postimg.cc/prHF0XG1/AI-(4).gif",
+  "feedbackEnabled": true,
+  "feedbackMode": "text",
+  "autoDistractors": false,
+  "quizUseOtherCorrect": false,
+  "quizMaxOptions": 4,
+  "tasks": [
+    {
+      "question": "We __________ (visit) our grandparents on Christmas Day.",
+      "correct": [
+        "visited"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "My little brother __________ (break) a Christmas decoration.",
+      "correct": [
+        "broke"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I __________ (send) Christmas cards to all my friends.",
+      "correct": [
+        "sent"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "They __________ (make) a big snowman in front of their house.",
+      "correct": [
+        "made"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "My family __________ (drive) to the mountains.",
+      "correct": [
+        "drove"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I __________ (put on) my new winter boots yesterday.",
+      "correct": [
+        "put on"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "Our neighbours __________ (have) a big New Year's Eve party.",
+      "correct": [
+        "had"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We __________ (drink) hot chocolate after ice skating.",
+      "correct": [
+        "drank"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "My best friend __________ (give) me a lovely Christmas present.",
+      "correct": [
+        "gave"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "The children __________ (sing) Christmas songs at school.",
+      "correct": [
+        "sang"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "My dad __________ (put) colourful lights on the balcony.",
+      "correct": [
+        "put"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "I __________ (meet) my cousins during the holidays.",
+      "correct": [
+        "met"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "It __________ (be) very cold on New Year's Day.",
+      "correct": [
+        "was"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "We __________ (take) lots of photos at the Christmas market.",
+      "correct": [
+        "took"
+      ],
+      "wrong": []
+    },
+    {
+      "question": "My family __________ (leave) home early to visit our relatives.",
+      "correct": [
+        "left"
+      ],
+      "wrong": []
+    }
+  ]
+}
