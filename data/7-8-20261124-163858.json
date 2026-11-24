@@ -1,0 +1,202 @@
+{
+  "language": "ru",
+  "font": "PT Sans",
+  "fontSize": 60,
+  "textColor": "#000000",
+  "speed": 2,
+  "questionFont": "Rubik",
+  "questionFontSize": 44,
+  "style": {
+    "shape": "rect",
+    "pad": 130,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/team-66163b2584dde6001402fe9b/6b0543689fdd9908609b4494/magnific__background__6630.png",
+    "bgImages": [
+      "https://img.genially.com/team-66163b2584dde6001402fe9b/6b0543689fdd9908609b4494/magnific__background__6630.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 200
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Зимний десант: Таблица умножения и деления",
+    "btnText": "Поймать подарки!"
+  },
+  "direction": "down",
+  "finalFeedback": "Молодец! Все подарки пойманы, а таблица умножения покорена!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "7 × 8",
+      "correct": [
+        "56"
+      ],
+      "wrong": [
+        "54",
+        "48",
+        "64"
+      ]
+    },
+    {
+      "target": "54 : 6",
+      "correct": [
+        "9"
+      ],
+      "wrong": [
+        "8",
+        "7",
+        "6"
+      ]
+    },
+    {
+      "target": "6 х 7",
+      "correct": [
+        "42"
+      ],
+      "wrong": [
+        "48",
+        "36",
+        "49"
+      ]
+    },
+    {
+      "target": "63 : 9",
+      "correct": [
+        "7"
+      ],
+      "wrong": [
+        "6",
+        "8",
+        "9"
+      ]
+    },
+    {
+      "target": "8 х 9",
+      "correct": [
+        "72"
+      ],
+      "wrong": [
+        "64",
+        "81",
+        "63"
+      ]
+    },
+    {
+      "target": "48 : 8",
+      "correct": [
+        "6"
+      ],
+      "wrong": [
+        "7",
+        "8",
+        "4"
+      ]
+    },
+    {
+      "target": "9 х 6",
+      "correct": [
+        "54"
+      ],
+      "wrong": [
+        "56",
+        "45",
+        "63"
+      ]
+    },
+    {
+      "target": "36 : 4",
+      "correct": [
+        "9"
+      ],
+      "wrong": [
+        "8",
+        "7",
+        "6"
+      ]
+    },
+    {
+      "target": "7 х 7",
+      "correct": [
+        "49"
+      ],
+      "wrong": [
+        "42",
+        "56",
+        "48"
+      ]
+    },
+    {
+      "target": "72 : 8",
+      "correct": [
+        "9"
+      ],
+      "wrong": [
+        "8",
+        "7",
+        "6"
+      ]
+    },
+    {
+      "target": "8 х 6",
+      "correct": [
+        "48"
+      ],
+      "wrong": [
+        "42",
+        "54",
+        "56"
+      ]
+    },
+    {
+      "target": "81 : 9",
+      "correct": [
+        "9"
+      ],
+      "wrong": [
+        "8",
+        "7",
+        "6"
+      ]
+    },
+    {
+      "target": "7 х 9",
+      "correct": [
+        "63"
+      ],
+      "wrong": [
+        "56",
+        "72",
+        "64"
+      ]
+    },
+    {
+      "target": "42 : 7",
+      "correct": [
+        "6"
+      ],
+      "wrong": [
+        "7",
+        "8",
+        "9"
+      ]
+    },
+    {
+      "target": "8 х 8",
+      "correct": [
+        "64"
+      ],
+      "wrong": [
+        "56",
+        "72",
+        "48"
+      ]
+    }
+  ]
+}
