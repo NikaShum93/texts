@@ -1,0 +1,202 @@
+{
+  "language": "ru",
+  "font": "Rubik",
+  "fontSize": 80,
+  "textColor": "#000119",
+  "speed": 2,
+  "questionFont": "Rubik",
+  "questionFontSize": 44,
+  "style": {
+    "shape": "rect",
+    "pad": 80,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://img.genially.com/team-66163b2584dde6001402fe9b/6b072b7e00715089ee14ad8e/____Photoroom.png",
+    "bgImages": [
+      "https://img.genially.com/team-66163b2584dde6001402fe9b/6b072b7e00715089ee14ad8e/____Photoroom.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 170
+  },
+  "randomLevels": true,
+  "start": {
+    "title": "Совиная почта: Падежи имён существительных",
+    "btnText": "Поймать письма!"
+  },
+  "direction": "random",
+  "finalFeedback": "Волшебно! Все письма пойманы!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "Взмахнуть ПАЛОЧКОЙ",
+      "correct": [
+        "Т. п."
+      ],
+      "wrong": [
+        "Р. п.",
+        "Д. п.",
+        "П. п."
+      ]
+    },
+    {
+      "target": "Выйти из ЗАМКА",
+      "correct": [
+        "Р. п."
+      ],
+      "wrong": [
+        "Д. п.",
+        "В. п.",
+        "Т. п."
+      ]
+    },
+    {
+      "target": "Подойти к СОВЕ",
+      "correct": [
+        "Д. п."
+      ],
+      "wrong": [
+        "Р. п.",
+        "В. п.",
+        "П. п."
+      ]
+    },
+    {
+      "target": "Увидеть ДРАКОНА",
+      "correct": [
+        "В. п."
+      ],
+      "wrong": [
+        "И. п.",
+        "Р. п.",
+        "Д. п."
+      ]
+    },
+    {
+      "target": "Думать о ЗАКЛИНАНИИ",
+      "correct": [
+        "П. п."
+      ],
+      "wrong": [
+        "В. п.",
+        "Д. п.",
+        "Т. п."
+      ]
+    },
+    {
+      "target": "Сварить ЗЕЛЬЕ",
+      "correct": [
+        "В. п."
+      ],
+      "wrong": [
+        "И. п.",
+        "Р. п.",
+        "Д. п."
+      ]
+    },
+    {
+      "target": "Налить в КОТЁЛ",
+      "correct": [
+        "В. п."
+      ],
+      "wrong": [
+        "Р. п.",
+        "Д. п.",
+        "П. п."
+      ]
+    },
+    {
+      "target": "Любоваться ЗВЁЗДАМИ",
+      "correct": [
+        "Т. п."
+      ],
+      "wrong": [
+        "Р. п.",
+        "Д. п.",
+        "В. п."
+      ]
+    },
+    {
+      "target": "Подарить ДРУГУ",
+      "correct": [
+        "Д. п."
+      ],
+      "wrong": [
+        "Р. п.",
+        "В. п.",
+        "П. п."
+      ]
+    },
+    {
+      "target": "Спрыгнуть с МЕТЛЫ",
+      "correct": [
+        "Р. п."
+      ],
+      "wrong": [
+        "Д. п.",
+        "В. п.",
+        "Т. п."
+      ]
+    },
+    {
+      "target": "Рассказать о ПОЛЁТЕ",
+      "correct": [
+        "П. п."
+      ],
+      "wrong": [
+        "В. п.",
+        "Д. п.",
+        "Р. п."
+      ]
+    },
+    {
+      "target": "Найти в КНИГЕ",
+      "correct": [
+        "П. п."
+      ],
+      "wrong": [
+        "В. п.",
+        "Д. п.",
+        "Т. п."
+      ]
+    },
+    {
+      "target": "Помочь ВОЛШЕБНИКУ",
+      "correct": [
+        "Д. п."
+      ],
+      "wrong": [
+        "Р. п.",
+        "В. п.",
+        "П. п."
+      ]
+    },
+    {
+      "target": "Долететь до БАШНИ",
+      "correct": [
+        "Р. п."
+      ],
+      "wrong": [
+        "Д. п.",
+        "В. п.",
+        "Т. п."
+      ]
+    },
+    {
+      "target": "Гордиться ПОБЕДОЙ",
+      "correct": [
+        "Т. п."
+      ],
+      "wrong": [
+        "Р. п.",
+        "Д. п.",
+        "П. п."
+      ]
+    }
+  ]
+}
