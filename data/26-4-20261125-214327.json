@@ -1,0 +1,202 @@
+{
+  "language": "ru",
+  "font": "Rubik",
+  "fontSize": 50,
+  "textColor": "#000000",
+  "speed": 2,
+  "questionFont": "Rubik",
+  "questionFontSize": 50,
+  "style": {
+    "shape": "rect",
+    "pad": 22,
+    "bgColor": "#1a1a1a",
+    "bgImage": "https://ai-image.genially.com/66163b2584dde6001402fe9b/6b06d30c8082acc391500d9f/6b06dd3b5dcd9627070e94fd.png",
+    "bgImages": [
+      "https://ai-image.genially.com/66163b2584dde6001402fe9b/6b06d30c8082acc391500d9f/6b06dd3b5dcd9627070e94fd.png"
+    ],
+    "borderOn": false,
+    "borderColor": "#ffffff",
+    "borderWidth": 1,
+    "shadow": false,
+    "glow": false,
+    "glowColor": "#00f0ff",
+    "fx3d": false,
+    "opacity": 1,
+    "imgBox": 260
+  },
+  "randomLevels": false,
+  "start": {
+    "title": "Мур-марафон:  Счёт с переходом через десяток",
+    "btnText": "Поймать котиков!"
+  },
+  "direction": "up",
+  "finalFeedback": "Супер! Все пушистики на месте!",
+  "globalTimer": 0,
+  "levels": [
+    {
+      "target": "26 + 4",
+      "correct": [
+        "30"
+      ],
+      "wrong": [
+        "20",
+        "32",
+        "40"
+      ]
+    },
+    {
+      "target": "30 - 7",
+      "correct": [
+        "23"
+      ],
+      "wrong": [
+        "33",
+        "27",
+        "13"
+      ]
+    },
+    {
+      "target": "28 + 5",
+      "correct": [
+        "33"
+      ],
+      "wrong": [
+        "23",
+        "35",
+        "43"
+      ]
+    },
+    {
+      "target": "42 - 6",
+      "correct": [
+        "36"
+      ],
+      "wrong": [
+        "46",
+        "34",
+        "26"
+      ]
+    },
+    {
+      "target": "50 - 4",
+      "correct": [
+        "46"
+      ],
+      "wrong": [
+        "54",
+        "44",
+        "36"
+      ]
+    },
+    {
+      "target": "37 + 3",
+      "correct": [
+        "40"
+      ],
+      "wrong": [
+        "30",
+        "43",
+        "50"
+      ]
+    },
+    {
+      "target": "64 - 8",
+      "correct": [
+        "56"
+      ],
+      "wrong": [
+        "66",
+        "54",
+        "46"
+      ]
+    },
+    {
+      "target": "49 + 6",
+      "correct": [
+        "55"
+      ],
+      "wrong": [
+        "45",
+        "53",
+        "65"
+      ]
+    },
+    {
+      "target": "70 - 9",
+      "correct": [
+        "61"
+      ],
+      "wrong": [
+        "71",
+        "69",
+        "51"
+      ]
+    },
+    {
+      "target": "35 + 8",
+      "correct": [
+        "43"
+      ],
+      "wrong": [
+        "33",
+        "45",
+        "53"
+      ]
+    },
+    {
+      "target": "83 - 5",
+      "correct": [
+        "78"
+      ],
+      "wrong": [
+        "88",
+        "72",
+        "68"
+      ]
+    },
+    {
+      "target": "64 + 6",
+      "correct": [
+        "70"
+      ],
+      "wrong": [
+        "60",
+        "74",
+        "80"
+      ]
+    },
+    {
+      "target": "90 - 3",
+      "correct": [
+        "87"
+      ],
+      "wrong": [
+        "97",
+        "83",
+        "77"
+      ]
+    },
+    {
+      "target": "47 + 9",
+      "correct": [
+        "56"
+      ],
+      "wrong": [
+        "46",
+        "54",
+        "66"
+      ]
+    },
+    {
+      "target": "51 - 4",
+      "correct": [
+        "47"
+      ],
+      "wrong": [
+        "57",
+        "45",
+        "37"
+      ]
+    }
+  ]
+}
